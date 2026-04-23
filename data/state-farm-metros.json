@@ -1,0 +1,12 @@
+[
+  { "city": "Bloomington", "state": "IL", "reservations": 412, "total_spend": 94300, "venues": 8, "members": 1840 },
+  { "city": "Dallas", "state": "TX", "reservations": 387, "total_spend": 78600, "venues": 19, "members": 1620 },
+  { "city": "Phoenix", "state": "AZ", "reservations": 341, "total_spend": 67200, "venues": 14, "members": 1380 },
+  { "city": "Atlanta", "state": "GA", "reservations": 298, "total_spend": 61400, "venues": 22, "members": 1190 },
+  { "city": "Chicago", "state": "IL", "reservations": 276, "total_spend": 58900, "venues": 31, "members": 1050 },
+  { "city": "Austin", "state": "TX", "reservations": 243, "total_spend": 51200, "venues": 17, "members": 940 },
+  { "city": "Denver", "state": "CO", "reservations": 198, "total_spend": 44700, "venues": 13, "members": 810 },
+  { "city": "Charlotte", "state": "NC", "reservations": 167, "total_spend": 38100, "venues": 11, "members": 660 },
+  { "city": "Nashville", "state": "TN", "reservations": 142, "total_spend": 32800, "venues": 9, "members": 580 },
+  { "city": "Tampa", "state": "FL", "reservations": 118, "total_spend": 27400, "venues": 8, "members": 470 }
+]

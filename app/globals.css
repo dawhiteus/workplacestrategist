@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* LiquidSpace Design System v3 tokens */
+  --ls-50: #e6f1f8;
+  --ls-100: #cce3f1;
+  --ls-500: #005b94;
+  --ls-600: #004d7d;
+  --ls-700: #003f66;
+  --ls-800: #00304f;
+
+  --color-interactive: #005b94;
+  --color-interactive-hover: #004d7d;
+  --color-interactive-active: #003f66;
+  --color-interactive-subtle: #e6f1f8;
+  --color-surface-header: #005b94;
+
+  --bg-page: #f8f9fa;
+  --bg-card: #ffffff;
+  --bg-sidebar: #ffffff;
+  --bg-input: #f8f9fa;
+  --bg-muted: #faf9f5;
+
+  --border: #e5e7eb;
+  --border-strong: #d1d5db;
+
+  --text-primary: #374151;
+  --text-muted: #6b7280;
+  --text-disabled: #9ca3af;
+  --text-link: #005b94;
+
+  --success: #28a745;
+  --warning: #ffa500;
+  --danger: #dc3545;
+  --teal: #00b8c4;
+  --purple: #7c3aed;
+
+  --r-xs: 4px;
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 14px;
+  --r-xl: 16px;
+  --r-pill: 9999px;
+
+  --t: 150ms ease;
+  --t-fast: 100ms ease;
+  --t-slow: 250ms ease;
+
+  --sidebar-width: 256px;
+  --right-rail-width: 300px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  background: var(--bg-page);
+  color: var(--text-primary);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 99px; }
+
+/* Leaflet overrides */
+.leaflet-container { background: #e8ecf0 !important; }
+.leaflet-control-attribution {
+  font-size: 9px !important;
+  background: rgba(255,255,255,0.8) !important;
+}
+
+/* ── Print / PDF export ──────────────────────────────────────────────────── */
+.print-only { display: none; }
+
+@media print {
+  @page {
+    size: letter portrait;
+    margin: 0.5in 0.6in 0.5in 0.6in;
+  }
+
+  /* Force colors */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  body { background: white !important; font-size: 11px; }
+
+  /* Show/hide */
+  .no-print   { display: none !important; }
+  .print-only { display: block !important; }
+  aside { display: none !important; }
+
+  /* Shell: let main column fill page */
+  .flex.h-screen.overflow-hidden { height: auto !important; overflow: visible !important; }
+  main { overflow: visible !important; width: 100% !important; }
+
+  /* Remove shadows */
+  [class*="shadow"] { box-shadow: none !important; }
+
+  /* ── Report header ── */
+  .print-header {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+    border-bottom: 2px solid #005b94;
+  }
+  .print-header-logo  { font-size: 17px; font-weight: 700; color: #005b94; line-height: 1.1; }
+  .print-header-sub   { font-size: 9px; color: #6b7280; margin-top: 2px; }
+  .print-header-meta  { text-align: right; font-size: 10px; color: #6b7280; line-height: 1.7; }
+  .print-header-title { font-size: 12px; font-weight: 700; color: #374151; }
+  .print-header-confidential { font-size: 8px; font-weight: 700; color: #dc3545; letter-spacing: 0.06em; margin-top: 2px; }
+
+  /* ── Canvas: no extra padding ── */
+  .print-canvas { padding: 0 !important; }
+
+  /* ── Row 1: scorecard (42%) + demand chart (58%) — side by side ── */
+  .print-row-1 {
+    display: grid !important;
+    grid-template-columns: 42% 1fr !important;
+    gap: 12px !important;
+    margin-bottom: 12px !important;
+    break-inside: avoid;
+  }
+
+  /* ── Row 2: venue/location (58%) + right panels (42%) ── */
+  .print-row-2 {
+    display: grid !important;
+    grid-template-columns: 56% 1fr !important;
+    gap: 12px !important;
+    margin-bottom: 12px !important;
+    /* No break-inside: avoid here — let it flow naturally */
+  }
+  .print-row-2-right {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 12px !important;
+  }
+
+  /* ── Map: hide Leaflet, keep venue list ── */
+  .print-map-hide { display: none !important; }
+
+  /* ── Stress test: hide sliders, show static param grid ── */
+  .print-sliders      { display: none !important; }
+  .print-stress-static { display: grid !important; }
+
+  /* ── Demand chart: taller in print ── */
+  .demand-chart-wrapper { height: 190px !important; }
+
+  /* ── Avoid splitting small atomic cards ── */
+  .print-avoid-break { break-inside: avoid; page-break-inside: avoid; }
+
+  /* ── Charts ── */
+  .recharts-wrapper { break-inside: avoid; }
+}

@@ -1,0 +1,23 @@
+[
+  {"venue_id":"106a1b5d-57a8-4f78-be8c-20022180f34b","venue_name":"Roam Buckhead - Peachtree","latitude":33.8515,"longitude":-84.3600,"reservations":31,"spend":14440.0},
+  {"venue_id":"0ca9b1f3-0ec1-4aee-a60b-981710f98887","venue_name":"Alkaloid Networks","latitude":33.7589,"longitude":-84.3648,"reservations":132,"spend":13510.0},
+  {"venue_id":"80c6479f-9e52-4f55-9d66-350a30d9369c","venue_name":"Roam Galleria","latitude":33.8787,"longitude":-84.4566,"reservations":33,"spend":11150.0},
+  {"venue_id":"7faad3f8-e4de-4a7e-8977-e2bf7da50cf0","venue_name":"Roam Perimeter Center","latitude":33.9196,"longitude":-84.3427,"reservations":64,"spend":8275.0},
+  {"venue_id":"0c4239c7-d618-442c-9a8f-3e6ac4b503bf","venue_name":"Lucid Private Offices | Cumberland - Battery","latitude":33.8968,"longitude":-84.4617,"reservations":24,"spend":3090.0},
+  {"venue_id":"76a9d596-203d-42e0-a964-6592d95580aa","venue_name":"Serendipity Labs - Atlanta Buckhead","latitude":33.8520,"longitude":-84.3676,"reservations":8,"spend":2701.0},
+  {"venue_id":"1150fffc-6013-4f71-97d5-8578f74eb88f","venue_name":"Peachtree Offices at Downtown","latitude":33.7604,"longitude":-84.3875,"reservations":6,"spend":2290.0},
+  {"venue_id":"c5017954-dc24-4f7a-bafc-15cb1f7786aa","venue_name":"HQ | Galleria 400","latitude":33.8864,"longitude":-84.4613,"reservations":22,"spend":2029.31},
+  {"venue_id":"2d2a9a41-ea83-4e56-b8e4-cce6b68a6707","venue_name":"Industrious - Ponce City Market","latitude":33.7725,"longitude":-84.3660,"reservations":13,"spend":1215.0},
+  {"venue_id":"9a16ef1d-67c7-481b-a1b8-6b59617c1eca","venue_name":"Life Time Work - Buckhead","latitude":33.8534,"longitude":-84.3636,"reservations":5,"spend":1135.0},
+  {"venue_id":"4d794409-9b2b-4dac-a643-9b2943c3dcb4","venue_name":"HQ | Atlanta North - Cumberland Riverwood","latitude":33.8779,"longitude":-84.4584,"reservations":3,"spend":677.63},
+  {"venue_id":"c39f2b81-3a3e-411c-9b3b-8ee43c1eb2e8","venue_name":"Regus | City View","latitude":33.8740,"longitude":-84.4587,"reservations":2,"spend":530.40},
+  {"venue_id":"86141186-529d-4139-b9cc-478751abab4d","venue_name":"SPACES | The Battery","latitude":33.8905,"longitude":-84.4698,"reservations":3,"spend":451.0},
+  {"venue_id":"5f29755f-19b1-44d5-b163-375ec7986e43","venue_name":"Lucid Private Offices | Buckhead","latitude":33.8478,"longitude":-84.3658,"reservations":4,"spend":300.0},
+  {"venue_id":"7e851435-89f6-4db5-a552-372b00fd1beb","venue_name":"Peachtree Offices at West Paces Ferry","latitude":33.8570,"longitude":-84.4301,"reservations":1,"spend":225.0},
+  {"venue_id":"5953e896-21df-4a27-96fc-6735f90354ac","venue_name":"Industrious - Old Fourth Ward","latitude":33.7684,"longitude":-84.3630,"reservations":3,"spend":225.0},
+  {"venue_id":"7fa50dbe-f8e8-4aeb-8312-d6f2e5e7883f","venue_name":"Firmspace Atlanta","latitude":33.8475,"longitude":-84.3689,"reservations":2,"spend":138.0},
+  {"venue_id":"04ecbc8d-5eb7-445c-b2a2-59162a7788f2","venue_name":"WeWork | Colony Square","latitude":33.7869,"longitude":-84.3828,"reservations":3,"spend":126.0},
+  {"venue_id":"597918e1-7e7d-4421-8c5e-2656513e7aa8","venue_name":"Roam Buckhead - Piedmont","latitude":33.8468,"longitude":-84.3725,"reservations":2,"spend":120.0},
+  {"venue_id":"7675c398-6613-40e8-9c9c-a1bc1ab73c94","venue_name":"Regus | One Paces West","latitude":33.8663,"longitude":-84.4746,"reservations":1,"spend":69.0},
+  {"venue_id":"44c43433-9ae5-4ea6-82cc-0f7f247041eb","venue_name":"Industrious - Perimeter 7000 Central Pkwy","latitude":33.9272,"longitude":-84.3487,"reservations":1,"spend":50.0}
+]
