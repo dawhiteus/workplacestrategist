@@ -232,7 +232,7 @@ export async function POST(req: NextRequest) {
             }
 
             // Extract insight tags
-            const insightMatches = fullText.matchAll(/<insight>(.*?)<\/insight>/gs)
+            const insightMatches = fullText.matchAll(/<insight>([\s\S]*?)<\/insight>/g)
             for (const match of insightMatches) {
               try {
                 const insight = JSON.parse(match[1])
