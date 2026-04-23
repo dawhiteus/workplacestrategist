@@ -393,31 +393,25 @@ export default function HubLocatorPage() {
             </button>
           )}
 
-          {/* Dynamic cost modeling card — #2 market at break-even hub cost */}
-          {stats && (() => {
-            const m = stats.secondSpendMarket
-            const breakEvenMonthly = Math.round((m.total_spend / 12) / 500) * 500
-            return (
-              <button
-                onClick={() => dispatch({ type: 'canvas', city: m.city, state: m.state, hubCost: breakEvenMonthly })}
-                className="flex items-center gap-3 p-3.5 bg-card rounded-xl border border-border hover:border-ls-300 hover:bg-ls-50 transition-colors text-left group"
-              >
-                <div className="w-7 h-7 rounded-lg bg-ls-50 border border-ls-100 flex items-center justify-center flex-shrink-0 group-hover:bg-ls-100 transition-colors">
-                  <DollarSign size={13} className="text-ls-500" />
-                </div>
-                <div className="flex-1 min-w-0">
-                  <div className="text-[10px] font-semibold text-ls-500 uppercase tracking-wider mb-0.5">Cost Modeling</div>
-                  <div className="text-xs font-medium text-body leading-snug">
-                    Can a {m.city} hub pay for itself?
-                  </div>
-                  <div className="text-[10px] text-subtle mt-0.5">
-                    Break-even at ~{formatCurrency(breakEvenMonthly, true)}/mo · {formatCurrency(m.total_spend, true)}/yr current spend
-                  </div>
-                </div>
-                <span className="text-subtle group-hover:text-ls-500 transition-colors flex-shrink-0 text-sm">→</span>
-              </button>
-            )
-          })()}
+          {/* Budget simulator card */}
+          <button
+            onClick={() => window.dispatchEvent(new CustomEvent('load-budget'))}
+            className="flex items-center gap-3 p-3.5 bg-card rounded-xl border border-border hover:border-ls-300 hover:bg-ls-50 transition-colors text-left group"
+          >
+            <div className="w-7 h-7 rounded-lg bg-ls-50 border border-ls-100 flex items-center justify-center flex-shrink-0 group-hover:bg-ls-100 transition-colors">
+              <DollarSign size={13} className="text-ls-500" />
+            </div>
+            <div className="flex-1 min-w-0">
+              <div className="text-[10px] font-semibold text-ls-500 uppercase tracking-wider mb-0.5">Budget Simulator</div>
+              <div className="text-xs font-medium text-body leading-snug">
+                What hub cost makes each market viable?
+              </div>
+              <div className="text-[10px] text-subtle mt-0.5">
+                Drag a slider · see all {stats?.hubCandidates.length ?? '—'} candidates update live
+              </div>
+            </div>
+            <span className="text-subtle group-hover:text-ls-500 transition-colors flex-shrink-0 text-sm">→</span>
+          </button>
 
           {/* Static analyses */}
           {STATIC_CARDS.map(card => {

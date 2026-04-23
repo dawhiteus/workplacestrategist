@@ -98,13 +98,18 @@ export function Shell({ children }: ShellProps) {
       const { sortBy, minSpend } = (e as CustomEvent).detail
       handleLoadRanking(sortBy, minSpend)
     }
+    function onLoadBudget() {
+      handleLoadBudget()
+    }
     window.addEventListener('load-canvas', onLoadCanvas)
     window.addEventListener('load-compare', onLoadCompare)
     window.addEventListener('load-ranking', onLoadRanking)
+    window.addEventListener('load-budget', onLoadBudget)
     return () => {
       window.removeEventListener('load-canvas', onLoadCanvas)
       window.removeEventListener('load-compare', onLoadCompare)
       window.removeEventListener('load-ranking', onLoadRanking)
+      window.removeEventListener('load-budget', onLoadBudget)
     }
   }, []) // eslint-disable-line
 
@@ -134,6 +139,19 @@ export function Shell({ children }: ShellProps) {
       if (res.ok) {
         const data = await res.json()
         setCanvasData({ tool: 'get_metro_analysis', data })
+      }
+    } catch {}
+    setMetroLoading(false)
+  }
+
+  async function handleLoadBudget() {
+    setMetroLoading(true)
+    setCanvasData(null)
+    try {
+      const res = await fetch('/api/pulse/metros?enterprise=Allstate')
+      if (res.ok) {
+        const { metros } = await res.json()
+        setCanvasData({ tool: 'budget_simulator', data: { metros } })
       }
     } catch {}
     setMetroLoading(false)
@@ -262,6 +280,10 @@ function CanvasRenderer({ canvasData, metroLoading, onBack }: {
 
   if (canvasData.tool === 'portfolio_ranking') {
     return <RankingCanvas data={canvasData.data as Record<string, unknown>} onBack={onBack} />
+  }
+
+  if (canvasData.tool === 'budget_simulator') {
+    return <BudgetSimulatorCanvas data={canvasData.data as Record<string, unknown>} onBack={onBack} />
   }
 
   return null
@@ -460,6 +482,108 @@ function CompareCanvas({ data, onBack }: { data: Record<string, unknown>; onBack
         <MetricRow label="Reservations/yr" values={markets.map(m => m.reservations)} format={fmtN} />
         <MetricRow label="Members" values={markets.map(m => m.members)} format={fmtN} />
         <MetricRow label="Active Venues" values={markets.map(m => m.venues)} format={fmtN} higherBetter={false} />
+      </div>
+    </div>
+  )
+}
+
+function BudgetSimulatorCanvas({ data, onBack }: { data: Record<string, unknown>; onBack: () => void }) {
+  const metros = (data.metros as MetroSummary[]) || []
+  const [hubCost, setHubCost] = useState(8000)
+
+  const UPLIFT = 1.25
+
+  const rows = metros
+    .filter(m => m.total_spend > 0)
+    .map(m => {
+      const effectiveSpend = m.total_spend * UPLIFT
+      const hubAnnualCost = hubCost * 12
+      const netSaving = effectiveSpend - hubAnnualCost
+      const breakEven = effectiveSpend / 12
+      return { ...m, effectiveSpend, netSaving, breakEven, hubAnnualCost }
+    })
+    .sort((a, b) => b.netSaving - a.netSaving)
+
+  const viable = rows.filter(r => r.netSaving > 0).length
+  const borderline = rows.filter(r => r.netSaving <= 0 && r.netSaving > -r.effectiveSpend * 0.25).length
+  const unviable = rows.length - viable - borderline
+
+  const maxSpend = Math.max(...rows.map(r => r.effectiveSpend), 1)
+
+  return (
+    <div className="p-6 max-w-3xl">
+      <button onClick={onBack} className="flex items-center gap-1.5 text-xs text-subtle hover:text-body mb-4 transition-colors">
+        ← Back to portfolio
+      </button>
+      <h2 className="text-lg font-semibold text-body mb-1">Budget Simulator</h2>
+      <p className="text-sm text-subtle mb-5">Drag the slider to see which markets make economic sense at any hub cost. Assumes 25% induced demand uplift.</p>
+
+      {/* Slider card */}
+      <div className="bg-card border border-border rounded-xl p-5 mb-4">
+        <div className="flex items-center justify-between mb-4">
+          <div>
+            <div className="text-[10px] font-semibold text-disabled uppercase tracking-widest mb-0.5">Hub Monthly Cost</div>
+            <div className="text-2xl font-bold text-body tabular-nums">${hubCost.toLocaleString()}<span className="text-sm font-normal text-subtle ml-1">/mo</span></div>
+            <div className="text-xs text-subtle">${(hubCost * 12 / 1000).toFixed(0)}K annually</div>
+          </div>
+          <div className="flex gap-2">
+            <span className="text-xs font-semibold text-success bg-green-50 border border-green-200 px-2.5 py-1 rounded-full">{viable} viable</span>
+            <span className="text-xs font-semibold text-warning bg-orange-50 border border-orange-200 px-2.5 py-1 rounded-full">{borderline} borderline</span>
+            <span className="text-xs font-semibold text-danger bg-red-50 border border-red-200 px-2.5 py-1 rounded-full">{unviable} unviable</span>
+          </div>
+        </div>
+        <input
+          type="range"
+          min={1000}
+          max={20000}
+          step={500}
+          value={hubCost}
+          onChange={e => setHubCost(Number(e.target.value))}
+          className="w-full accent-ls-500"
+        />
+        <div className="flex justify-between text-[10px] text-subtle mt-1">
+          <span>$1K/mo</span>
+          <span>$10K/mo</span>
+          <span>$20K/mo</span>
+        </div>
+      </div>
+
+      {/* Market rows */}
+      <div className="space-y-1.5">
+        {rows.map((m, i) => {
+          const isViable = m.netSaving > 0
+          const isBorderline = !isViable && m.netSaving > -m.effectiveSpend * 0.25
+          const statusColor = isViable
+            ? 'text-success bg-green-50 border-green-200'
+            : isBorderline
+            ? 'text-warning bg-orange-50 border-orange-200'
+            : 'text-danger bg-red-50 border-red-200'
+          const statusLabel = isViable ? 'Viable' : isBorderline ? 'Borderline' : 'Unviable'
+          const savingColor = isViable ? 'text-success' : isBorderline ? 'text-warning' : 'text-danger'
+          const barPct = (m.effectiveSpend / maxSpend) * 100
+          const saving = Math.round(Math.abs(m.netSaving) / 1000)
+          const savingStr = m.netSaving >= 0 ? `+$${saving}K/yr` : `-$${saving}K/yr`
+
+          return (
+            <button
+              key={`${m.city}-${m.state}`}
+              onClick={() => window.dispatchEvent(new CustomEvent('load-canvas', { detail: { city: m.city, state: m.state, hubCost } }))}
+              className="flex items-center gap-3 bg-card rounded-xl border border-border px-4 py-3 w-full text-left hover:border-ls-300 hover:bg-ls-50 transition-colors group"
+            >
+              <div className="w-5 text-xs font-semibold text-subtle text-right flex-shrink-0">{i + 1}</div>
+              <div className="w-36 flex-shrink-0">
+                <div className="text-sm font-medium text-body group-hover:text-ls-600 transition-colors">{m.city}, {m.state}</div>
+                <div className="text-xs text-subtle">${Math.round(m.total_spend / 1000)}K/yr · {m.reservations} bkgs</div>
+              </div>
+              <div className="flex-1 h-1.5 bg-ls-50 rounded-full overflow-hidden">
+                <div className="h-full bg-ls-500 rounded-full transition-all" style={{ width: `${barPct}%` }} />
+              </div>
+              <div className={`w-20 text-right text-sm font-bold tabular-nums flex-shrink-0 ${savingColor}`}>{savingStr}</div>
+              <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full border w-20 text-center flex-shrink-0 ${statusColor}`}>{statusLabel}</span>
+              <span className="text-subtle group-hover:text-ls-500 text-xs transition-colors flex-shrink-0">→</span>
+            </button>
+          )
+        })}
       </div>
     </div>
   )
