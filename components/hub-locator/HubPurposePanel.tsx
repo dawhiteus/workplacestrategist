@@ -106,9 +106,9 @@ export function HubPurposePanel({ hwi, cpi, hubPurpose }: Props) {
           </span>
         </div>
         <div className="flex flex-col items-center justify-center py-7 text-center gap-2">
-          <div className="text-sm text-subtle font-medium">No booking activity in this metro</div>
+          <div className="text-sm text-subtle font-medium">Behavioral data not yet available</div>
           <div className="text-xs text-subtle opacity-70 max-w-md leading-relaxed">
-            HWI and CPI require reservation history to compute. Allstate has no LiquidSpace bookings recorded in this market — behavioral classification is not possible until booking activity begins.
+            HWI and CPI are computed from individual booking records. This market is not yet covered by the behavioral dataset — contact your LiquidSpace analyst to include it in the next data refresh.
           </div>
         </div>
       </div>

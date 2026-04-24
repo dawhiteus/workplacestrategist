@@ -99,6 +99,7 @@ interface WorkTypeSeeded {
 }
 
 const SEEDED_WORK_TYPE: Record<string, WorkTypeSeeded> = {
+  // ── Real values — computed from Allstate Parquet via DuckDB ──────────────
   'new-york-ny': {
     hwi: { score: 10, collaboration_seat_days: 53,  concentration_seat_days: 480 },
     cpi: { score: 25, copresence_event_count: 67,  median_group_size: 2.4, total_venue_days: 272 },
@@ -118,6 +119,190 @@ const SEEDED_WORK_TYPE: Record<string, WorkTypeSeeded> = {
   'columbia-md': {
     hwi: { score: 74, collaboration_seat_days: 82,  concentration_seat_days: 29  },
     cpi: { score: 35, copresence_event_count: 31,  median_group_size: 2.6, total_venue_days: 89  },
+  },
+
+  // ── Synthesized — based on Allstate behavioural patterns, April 2026 ─────
+  // Urban cores: concentration-dominant (HWI low), individual bookings (CPI low) → Distributed WF
+  // Suburban/smaller: more collab-shaped bookings → Latent Collaboration
+  'los-angeles-ca': {
+    hwi: { score: 9,  collaboration_seat_days: 7,   concentration_seat_days: 71  },
+    cpi: { score: 18, copresence_event_count: 11,  median_group_size: 2.0, total_venue_days: 61  },
+  },
+  'columbus-oh': {
+    hwi: { score: 16, collaboration_seat_days: 29,  concentration_seat_days: 152 },
+    cpi: { score: 22, copresence_event_count: 31,  median_group_size: 2.3, total_venue_days: 141 },
+  },
+  'houston-tx': {
+    hwi: { score: 11, collaboration_seat_days: 22,  concentration_seat_days: 178 },
+    cpi: { score: 17, copresence_event_count: 24,  median_group_size: 2.1, total_venue_days: 141 },
+  },
+  'pleasanton-ca': {
+    hwi: { score: 48, collaboration_seat_days: 41,  concentration_seat_days: 44  },
+    cpi: { score: 33, copresence_event_count: 19,  median_group_size: 2.5, total_venue_days: 58  },
+  },
+  'austin-tx': {
+    hwi: { score: 38, collaboration_seat_days: 35,  concentration_seat_days: 57  },
+    cpi: { score: 29, copresence_event_count: 20,  median_group_size: 2.4, total_venue_days: 69  },
+  },
+  'roseville-ca': {
+    hwi: { score: 44, collaboration_seat_days: 39,  concentration_seat_days: 50  },
+    cpi: { score: 30, copresence_event_count: 18,  median_group_size: 2.3, total_venue_days: 60  },
+  },
+  'san-ramon-ca': {
+    hwi: { score: 55, collaboration_seat_days: 51,  concentration_seat_days: 42  },
+    cpi: { score: 36, copresence_event_count: 22,  median_group_size: 2.7, total_venue_days: 61  },
+  },
+  'minneapolis-mn': {
+    hwi: { score: 21, collaboration_seat_days: 22,  concentration_seat_days: 83  },
+    cpi: { score: 27, copresence_event_count: 21,  median_group_size: 2.2, total_venue_days: 78  },
+  },
+  'denver-co': {
+    hwi: { score: 24, collaboration_seat_days: 25,  concentration_seat_days: 79  },
+    cpi: { score: 26, copresence_event_count: 19,  median_group_size: 2.2, total_venue_days: 73  },
+  },
+  'bridgewater-nj': {
+    hwi: { score: 12, collaboration_seat_days: 13,  concentration_seat_days: 95  },
+    cpi: { score: 19, copresence_event_count: 14,  median_group_size: 2.0, total_venue_days: 74  },
+  },
+  'nashville-tn': {
+    hwi: { score: 61, collaboration_seat_days: 13,  concentration_seat_days: 8   },
+    cpi: { score: 38, copresence_event_count: 8,   median_group_size: 3.1, total_venue_days: 21  },
+  },
+  'orlando-fl': {
+    hwi: { score: 33, collaboration_seat_days: 20,  concentration_seat_days: 41  },
+    cpi: { score: 24, copresence_event_count: 11,  median_group_size: 2.1, total_venue_days: 46  },
+  },
+  'philadelphia-pa': {
+    hwi: { score: 14, collaboration_seat_days: 10,  concentration_seat_days: 60  },
+    cpi: { score: 21, copresence_event_count: 11,  median_group_size: 2.0, total_venue_days: 52  },
+  },
+  'richmond-va': {
+    hwi: { score: 69, collaboration_seat_days: 26,  concentration_seat_days: 12  },
+    cpi: { score: 34, copresence_event_count: 9,   median_group_size: 2.6, total_venue_days: 26  },
+  },
+  'washington-dc': {
+    hwi: { score: 19, collaboration_seat_days: 11,  concentration_seat_days: 47  },
+    cpi: { score: 29, copresence_event_count: 13,  median_group_size: 2.3, total_venue_days: 45  },
+  },
+  'bellevue-wa': {
+    hwi: { score: 32, collaboration_seat_days: 19,  concentration_seat_days: 40  },
+    cpi: { score: 31, copresence_event_count: 14,  median_group_size: 2.4, total_venue_days: 45  },
+  },
+  'sandy-ut': {
+    hwi: { score: 46, collaboration_seat_days: 25,  concentration_seat_days: 29  },
+    cpi: { score: 28, copresence_event_count: 11,  median_group_size: 2.2, total_venue_days: 39  },
+  },
+  'chicago-il': {
+    hwi: { score: 7,  collaboration_seat_days: 1,   concentration_seat_days: 13  },
+    cpi: { score: 14, copresence_event_count: 2,   median_group_size: 2.0, total_venue_days: 14  },
+  },
+  'el-segundo-ca': {
+    hwi: { score: 52, collaboration_seat_days: 14,  concentration_seat_days: 13  },
+    cpi: { score: 30, copresence_event_count: 6,   median_group_size: 2.3, total_venue_days: 20  },
+  },
+  'encino-ca': {
+    hwi: { score: 19, collaboration_seat_days: 5,   concentration_seat_days: 21  },
+    cpi: { score: 15, copresence_event_count: 3,   median_group_size: 2.0, total_venue_days: 20  },
+  },
+  'carmel-in': {
+    hwi: { score: 58, collaboration_seat_days: 53,  concentration_seat_days: 38  },
+    cpi: { score: 37, copresence_event_count: 23,  median_group_size: 2.8, total_venue_days: 62  },
+  },
+  'cherry-hill-nj': {
+    hwi: { score: 23, collaboration_seat_days: 7,   concentration_seat_days: 23  },
+    cpi: { score: 20, copresence_event_count: 4,   median_group_size: 2.1, total_venue_days: 20  },
+  },
+  'portland-or': {
+    hwi: { score: 28, collaboration_seat_days: 15,  concentration_seat_days: 38  },
+    cpi: { score: 25, copresence_event_count: 9,   median_group_size: 2.1, total_venue_days: 36  },
+  },
+  'st.-petersburg-fl': {
+    hwi: { score: 41, collaboration_seat_days: 21,  concentration_seat_days: 30  },
+    cpi: { score: 29, copresence_event_count: 11,  median_group_size: 2.3, total_venue_days: 38  },
+  },
+  'irvine-ca': {
+    hwi: { score: 36, collaboration_seat_days: 14,  concentration_seat_days: 25  },
+    cpi: { score: 26, copresence_event_count: 8,   median_group_size: 2.2, total_venue_days: 31  },
+  },
+  'sacramento-ca': {
+    hwi: { score: 31, collaboration_seat_days: 12,  concentration_seat_days: 27  },
+    cpi: { score: 24, copresence_event_count: 7,   median_group_size: 2.1, total_venue_days: 29  },
+  },
+  'san-diego-ca': {
+    hwi: { score: 27, collaboration_seat_days: 8,   concentration_seat_days: 22  },
+    cpi: { score: 23, copresence_event_count: 5,   median_group_size: 2.0, total_venue_days: 22  },
+  },
+  'sioux-falls-sd': {
+    hwi: { score: 65, collaboration_seat_days: 17,  concentration_seat_days: 9   },
+    cpi: { score: 38, copresence_event_count: 7,   median_group_size: 2.6, total_venue_days: 18  },
+  },
+  'reston-va': {
+    hwi: { score: 77, collaboration_seat_days: 23,  concentration_seat_days: 7   },
+    cpi: { score: 40, copresence_event_count: 9,   median_group_size: 2.8, total_venue_days: 22  },
+  },
+  'san-antonio-tx': {
+    hwi: { score: 21, collaboration_seat_days: 3,   concentration_seat_days: 11  },
+    cpi: { score: 14, copresence_event_count: 2,   median_group_size: 2.0, total_venue_days: 14  },
+  },
+  'greenwood-village-co': {
+    hwi: { score: 50, collaboration_seat_days: 15,  concentration_seat_days: 15  },
+    cpi: { score: 33, copresence_event_count: 7,   median_group_size: 2.4, total_venue_days: 21  },
+  },
+  'las-vegas-nv': {
+    hwi: { score: 17, collaboration_seat_days: 5,   concentration_seat_days: 25  },
+    cpi: { score: 20, copresence_event_count: 4,   median_group_size: 2.0, total_venue_days: 20  },
+  },
+  'pasadena-ca': {
+    hwi: { score: 60, collaboration_seat_days: 31,  concentration_seat_days: 21  },
+    cpi: { score: 42, copresence_event_count: 15,  median_group_size: 3.0, total_venue_days: 36  },
+  },
+  'hillsboro-or': {
+    hwi: { score: 68, collaboration_seat_days: 25,  concentration_seat_days: 12  },
+    cpi: { score: 35, copresence_event_count: 10,  median_group_size: 2.6, total_venue_days: 29  },
+  },
+  'arlington-heights-il': {
+    hwi: { score: 22, collaboration_seat_days: 2,   concentration_seat_days: 7   },
+    cpi: { score: 11, copresence_event_count: 1,   median_group_size: 2.0, total_venue_days: 9   },
+  },
+  'saint-charles-mo': {
+    hwi: { score: 55, collaboration_seat_days: 18,  concentration_seat_days: 15  },
+    cpi: { score: 36, copresence_event_count: 9,   median_group_size: 2.6, total_venue_days: 25  },
+  },
+  'fort-lauderdale-fl': {
+    hwi: { score: 29, collaboration_seat_days: 12,  concentration_seat_days: 30  },
+    cpi: { score: 26, copresence_event_count: 8,   median_group_size: 2.2, total_venue_days: 31  },
+  },
+  'seattle-wa': {
+    hwi: { score: 20, collaboration_seat_days: 18,  concentration_seat_days: 72  },
+    cpi: { score: 23, copresence_event_count: 14,  median_group_size: 2.1, total_venue_days: 61  },
+  },
+  'santa-monica-ca': {
+    hwi: { score: 15, collaboration_seat_days: 4,   concentration_seat_days: 23  },
+    cpi: { score: 17, copresence_event_count: 3,   median_group_size: 2.0, total_venue_days: 18  },
+  },
+  'dedham-ma': {
+    hwi: { score: 43, collaboration_seat_days: 3,   concentration_seat_days: 4   },
+    cpi: { score: 29, copresence_event_count: 2,   median_group_size: 2.3, total_venue_days: 7   },
+  },
+  'decatur-ga': {
+    hwi: { score: 27, collaboration_seat_days: 3,   concentration_seat_days: 8   },
+    cpi: { score: 18, copresence_event_count: 2,   median_group_size: 2.0, total_venue_days: 11  },
+  },
+  'detroit-mi': {
+    hwi: { score: 10, collaboration_seat_days: 2,   concentration_seat_days: 18  },
+    cpi: { score: 15, copresence_event_count: 2,   median_group_size: 2.0, total_venue_days: 13  },
+  },
+  'deerfield-il': {
+    hwi: { score: 29, collaboration_seat_days: 2,   concentration_seat_days: 5   },
+    cpi: { score: 14, copresence_event_count: 1,   median_group_size: 2.0, total_venue_days: 7   },
+  },
+  'palo-alto-ca': {
+    hwi: { score: 47, collaboration_seat_days: 7,   concentration_seat_days: 8   },
+    cpi: { score: 33, copresence_event_count: 4,   median_group_size: 2.5, total_venue_days: 12  },
+  },
+  'rocky-hill-ct': {
+    hwi: { score: 38, collaboration_seat_days: 15,  concentration_seat_days: 25  },
+    cpi: { score: 28, copresence_event_count: 8,   median_group_size: 2.3, total_venue_days: 29  },
   },
 }
 
