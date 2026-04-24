@@ -265,7 +265,9 @@ export function buildHVSReasoning(
   const metroLabel = `${metro.city}, ${metro.state}`
 
   const hubAnnualCost = stressParams.hubCostMonthly * 12
-  const upliftedSpend = metro.total_spend * (1 + stressParams.inducedDemandUpliftPct / 100)
+  // Use catchment-adjusted baseline so radius gates both ERI and the economics tile
+  const catchmentBaseline = metro.total_spend * catchmentRatio
+  const upliftedSpend = catchmentBaseline * (1 + stressParams.inducedDemandUpliftPct / 100)
   const netSaving = upliftedSpend - hubAnnualCost
   const paybackMonths = netSaving > 0 ? Math.round((hubAnnualCost / (netSaving / 12))) : 999
 
@@ -331,7 +333,7 @@ export function buildHVSReasoning(
       'Employee sentiment data on hub vs. remote preference',
     ],
     economic_roi: {
-      annual_spend_baseline: parseFloat(metro.total_spend.toFixed(0)),
+      annual_spend_baseline: parseFloat(catchmentBaseline.toFixed(0)),
       hub_annual_cost: hubAnnualCost,
       net_saving: parseFloat(netSaving.toFixed(0)),
       payback_months: paybackMonths,

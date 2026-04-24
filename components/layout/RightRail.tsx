@@ -58,24 +58,45 @@ function deriveInsights(canvasData: CanvasData): Insight[] {
       })
     }
 
-    // 3. Economic ROI
-    const net = hvs.economic_roi.net_saving
-    const baseline = hvs.economic_roi.annual_spend_baseline
+    // 3. Economic ROI — compare baseline (no uplift) vs hub cost to avoid misleading findings
+    const net = hvs.economic_roi.net_saving          // upliftedSpend − hubCost
+    const baseline = hvs.economic_roi.annual_spend_baseline  // actual spend, no uplift
     const hubCost = hvs.economic_roi.hub_annual_cost
-    if (net >= 0) {
+    const eriScore = hvs.eri?.score ?? 0
+    const baselineNet = baseline - hubCost            // true net without any uplift
+
+    if (baselineNet >= 0) {
+      // Positive even on raw bookings — genuinely strong finding
       insights.push({
         id: 'roi',
         type: 'finding',
-        title: `Hub saves $${Math.round(net / 1000)}K/yr`,
-        body: `$${Math.round(baseline / 1000)}K flex spend vs. $${Math.round(hubCost / 1000)}K hub cost — positive ROI.`,
+        title: `Hub saves $${Math.round(baselineNet / 1000)}K/yr`,
+        body: `$${Math.round(baseline / 1000)}K flex spend vs. $${Math.round(hubCost / 1000)}K hub cost — economics are positive on current bookings alone.`,
+      })
+    } else if (net >= 0 && eriScore >= 40) {
+      // Positive only because of induced demand uplift — flag the assumption
+      insights.push({
+        id: 'roi',
+        type: 'action',
+        title: `ROI depends on induced demand uplift`,
+        body: `Baseline spend ($${Math.round(baseline / 1000)}K) is below hub cost ($${Math.round(hubCost / 1000)}K/yr). At the 25% uplift assumption, net saving is $${Math.round(net / 1000)}K/yr. Validate demand uplift before committing.`,
+      })
+    } else if (net >= 0 && eriScore < 40) {
+      // ERI flags weak economics — don't call it a positive finding
+      insights.push({
+        id: 'roi',
+        type: 'alert',
+        title: `Economics rely on unconfirmed uplift (ERI ${eriScore})`,
+        body: `Baseline spend ($${Math.round(baseline / 1000)}K) < hub cost ($${Math.round(hubCost / 1000)}K/yr). ERI of ${eriScore}/100 signals return is too thin to rely on demand uplift alone.`,
       })
     } else {
+      // Clearly uneconomic even with uplift
       const breakeven = Math.round(baseline / 12 / 1000 * 10) / 10
       insights.push({
         id: 'roi',
         type: 'alert',
         title: `Hub costs $${Math.round(Math.abs(net) / 1000)}K more than flex`,
-        body: `Break-even requires hub cost ≤ $${breakeven}K/mo. Try the stress test to find the threshold.`,
+        body: `Break-even requires hub cost ≤ $${breakeven}K/mo, or higher demand volume. Use the stress test to find the threshold.`,
       })
     }
 

@@ -16,6 +16,7 @@ import { ArrowLeft } from 'lucide-react'
 interface Props {
   data: MetroHubAnalysis
   onBack: () => void
+  onDataUpdate?: (data: MetroHubAnalysis) => void
 }
 
 const DEFAULT_STRESS: StressTestParams = {
@@ -24,7 +25,7 @@ const DEFAULT_STRESS: StressTestParams = {
   commuteRadiusMiles: 30,
 }
 
-export function MetroAnalysisCanvas({ data: initialData, onBack }: Props) {
+export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }: Props) {
   const [data, setData] = useState(initialData)
   const [stressParams, setStressParams] = useState<StressTestParams>(DEFAULT_STRESS)
   const [stressLoading, setStressLoading] = useState(false)
@@ -43,7 +44,11 @@ export function MetroAnalysisCanvas({ data: initialData, onBack }: Props) {
         radius: String(p.commuteRadiusMiles),
       })
       const res = await fetch(`/api/pulse/metro/${encodeURIComponent(data.metro.city)}/${encodeURIComponent(data.metro.state)}?${qs}`)
-      if (res.ok) setData(await res.json())
+      if (res.ok) {
+        const newData = await res.json()
+        setData(newData)
+        onDataUpdate?.(newData)
+      }
     } catch {}
     setStressLoading(false)
   }
@@ -119,6 +124,11 @@ export function MetroAnalysisCanvas({ data: initialData, onBack }: Props) {
             params={stressParams}
             onParamsChange={handleStressChange}
             annualSpend={data.metro.total_spend}
+            eriScore={data.hvs.eri?.score}
+            serverNetSaving={data.hvs.economic_roi?.net_saving}
+            serverBaseline={data.hvs.economic_roi?.annual_spend_baseline}
+            venues={data.venues}
+            hubCentroid={data.hvs.recommended_hub_location}
             isLoading={stressLoading}
           />
           <PeerBenchmarkPanel

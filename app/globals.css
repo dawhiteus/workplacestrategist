@@ -77,7 +77,8 @@ html, body {
 }
 
 /* ── Print / PDF export ──────────────────────────────────────────────────── */
-.print-only { display: none; }
+.print-only   { display: none; }
+.print-header { display: none; }
 
 @media print {
   @page {

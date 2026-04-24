@@ -38,10 +38,12 @@ function CustomTooltip({ active, payload, label }: { active?: boolean; payload?:
 export function DemandSignaturePanel({ dailyDemand, metro }: Props) {
   const weekly = aggregateByWeek(dailyDemand)
   const totalBookings = weekly.reduce((s, w) => s + w.bookings, 0)
+  // Avg over all calendar weeks (incl. zero-booking weeks) — true weekly rate
   const avgWeekly = totalBookings / (weekly.length || 1)
   const peakWeek = weekly.reduce((m, w) => w.bookings > m.bookings ? w : m, weekly[0] || { bookings: 0, label: '-' })
   const activeDays = dailyDemand.length
-  const spikeDays = dailyDemand.filter(d => d.bookings > (totalBookings / activeDays) * 2).length
+  // Spike weeks: weeks exceeding 2× avg — same threshold as the chart's orange reference line
+  const spikeWeeks = weekly.filter(w => w.bookings > avgWeekly * 2).length
 
   return (
     <div className="bg-card rounded-xl border border-border shadow-card p-5">
@@ -84,11 +86,11 @@ export function DemandSignaturePanel({ dailyDemand, metro }: Props) {
 
       <div className="flex gap-5 mt-3 pt-3 border-t border-border">
         {[
-          { label: 'Avg Weekly', value: avgWeekly.toFixed(1), unit: 'bookings' },
-          { label: 'Spike Days', value: String(spikeDays), unit: 'days >2× avg' },
-          { label: 'Active Days', value: String(activeDays), unit: 'with bookings' },
+          { label: 'Avg Weekly', value: avgWeekly.toFixed(1), unit: 'bkgs / wk', title: `${totalBookings} bookings across ${weekly.length} active weeks (weeks with ≥1 booking). True annual rate: ${(totalBookings / 52).toFixed(1)} bkgs/wk over 52 weeks.` },
+          { label: 'Spike Weeks', value: String(spikeWeeks), unit: 'wks >2× avg', title: 'Weeks where bookings exceeded twice the weekly average — same as the orange line on the chart' },
+          { label: 'Active Days', value: String(activeDays), unit: 'with bookings', title: 'Calendar days that had at least one booking' },
         ].map(s => (
-          <div key={s.label}>
+          <div key={s.label} title={s.title}>
             <div className="text-xs font-semibold text-subtle uppercase tracking-wider">{s.label}</div>
             <div className="text-base font-bold text-body mt-0.5">{s.value} <span className="text-xs font-normal text-subtle">{s.unit}</span></div>
           </div>

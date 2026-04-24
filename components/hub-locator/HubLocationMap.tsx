@@ -12,8 +12,11 @@ interface HubLocationMapProps {
   metro: string
 }
 
+const HUB_POSITIVE = new Set(['STRONG_BUY', 'BUY'])
+
 export function HubLocationMap({ venues, hvs, metro }: HubLocationMapProps) {
   const hub = hvs.recommended_hub_location
+  const showHub = HUB_POSITIVE.has(hvs.recommendation) && hub?.lat != null
 
   return (
     <div className="bg-card rounded-xl border border-border shadow-card overflow-hidden">
@@ -25,21 +28,23 @@ export function HubLocationMap({ venues, hvs, metro }: HubLocationMapProps) {
           <span className="flex items-center gap-1">
             <span className="w-2 h-2 rounded-full bg-ls-500 inline-block" /> Venues
           </span>
-          <span className="flex items-center gap-1">
-            <span className="w-2 h-2 rounded-full bg-success inline-block" /> Rec. Hub
-          </span>
+          {showHub && (
+            <span className="flex items-center gap-1">
+              <span className="w-2 h-2 rounded-full bg-success inline-block" /> Rec. Hub
+            </span>
+          )}
         </div>
       </div>
 
       {/* Interactive map — hidden in print (Leaflet tiles don't render) */}
       <div className="print-map-hide h-[280px]">
-        <MapWithNoSSR venues={venues} hvs={hvs} />
+        <MapWithNoSSR venues={venues} hvs={hvs} showHub={showHub} />
       </div>
 
       {/* Print-only: hub location summary replaces map */}
       <div className="print-only hidden px-4 py-3 bg-ls-50 border-b border-ls-100">
         <div className="text-xs font-semibold text-ls-600 uppercase tracking-wider mb-1">Recommended Hub Location</div>
-        {hub?.lat != null ? (
+        {showHub && hub?.lat != null ? (
           <div className="text-sm font-medium text-body">
             {hub.lat.toFixed(4)}°N, {Math.abs(hub.lng).toFixed(4)}°W
           </div>

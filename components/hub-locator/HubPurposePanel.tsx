@@ -196,9 +196,12 @@ export function HubPurposePanel({ hwi, cpi, hubPurpose }: Props) {
                 />
                 <div className="absolute top-1/2 -translate-y-1/2 w-px h-2.5 bg-subtle opacity-50" style={{ left: '40%' }} />
               </div>
-              <div className="text-[10px] text-subtle mt-0.5">
-                {copresenceRate ? `1 in ${copresenceRate} days had 2+ employees` : `${cpi.copresence_event_count} co-presence events`}
-              </div>
+              <div className="text-[10px] text-subtle mt-0.5">Threshold: 40</div>
+              {copresenceRate != null && (
+                <div className="text-[10px] text-subtle -mt-0.5">
+                  {`1 in ${copresenceRate} venue-days had 2+ employees`}
+                </div>
+              )}
             </div>
 
             {/* Tile 3: Booking mix — the human-readable evidence behind HWI */}
@@ -237,8 +240,11 @@ export function HubPurposePanel({ hwi, cpi, hubPurpose }: Props) {
                 </div>
               </div>
 
-              <div className="text-[10px] text-subtle mt-0.5 border-t border-border pt-1.5">
-                {totalSeatDays.toLocaleString()} total seat-days
+              <div
+                className="text-[10px] text-subtle mt-0.5 border-t border-border pt-1.5 cursor-help"
+                title="Seat-days weight each booking by party size (e.g. a meeting room booking for 4 people = 4 seat-days). This differs from the raw booking count in Demand Signature."
+              >
+                {totalSeatDays.toLocaleString()} total seat-days ⓘ
               </div>
             </div>
 

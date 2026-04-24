@@ -239,6 +239,7 @@ export function Shell({ children }: ShellProps) {
               canvasData={canvasData}
               metroLoading={metroLoading}
               onBack={() => { setCanvasData(null); setSelectedMetro(null) }}
+              onDataUpdate={(data) => setCanvasData({ tool: 'get_metro_analysis', data })}
             />
           ) : (
             children
@@ -252,10 +253,11 @@ export function Shell({ children }: ShellProps) {
   )
 }
 
-function CanvasRenderer({ canvasData, metroLoading, onBack }: {
+function CanvasRenderer({ canvasData, metroLoading, onBack, onDataUpdate }: {
   canvasData: CanvasData
   metroLoading: boolean
   onBack: () => void
+  onDataUpdate?: (data: MetroHubAnalysis) => void
 }) {
   if (metroLoading) {
     return (
@@ -271,7 +273,7 @@ function CanvasRenderer({ canvasData, metroLoading, onBack }: {
   if (canvasData.tool === 'get_metro_analysis') {
     const d = canvasData.data as MetroHubAnalysis
     if (!d.hvs) return null
-    return <MetroAnalysisCanvas data={d} onBack={onBack} />
+    return <MetroAnalysisCanvas data={d} onBack={onBack} onDataUpdate={onDataUpdate} />
   }
 
   if (canvasData.tool === 'compare_metros') {

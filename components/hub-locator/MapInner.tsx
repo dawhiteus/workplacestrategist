@@ -9,16 +9,17 @@ import 'leaflet/dist/leaflet.css'
 interface MapInnerProps {
   venues: VenueLocation[]
   hvs: HVSReasoningOutput
+  showHub?: boolean
 }
 
-function FitBounds({ venues, hvs }: MapInnerProps) {
+function FitBounds({ venues, hvs, showHub }: MapInnerProps) {
   const map = useMap()
 
   useEffect(() => {
     if (venues.length === 0) return
     const hub = hvs.recommended_hub_location
-    const lats = [...venues.map(v => v.latitude), ...(hub?.lat != null ? [hub.lat] : [])]
-    const lngs = [...venues.map(v => v.longitude), ...(hub?.lng != null ? [hub.lng] : [])]
+    const lats = [...venues.map(v => v.latitude), ...(showHub && hub?.lat != null ? [hub.lat] : [])]
+    const lngs = [...venues.map(v => v.longitude), ...(showHub && hub?.lng != null ? [hub.lng] : [])]
     const sw: [number, number] = [Math.min(...lats) - 0.02, Math.min(...lngs) - 0.02]
     const ne: [number, number] = [Math.max(...lats) + 0.02, Math.max(...lngs) + 0.02]
     map.fitBounds([sw, ne], { padding: [20, 20] })
@@ -27,7 +28,7 @@ function FitBounds({ venues, hvs }: MapInnerProps) {
   return null
 }
 
-export default function MapInner({ venues, hvs }: MapInnerProps) {
+export default function MapInner({ venues, hvs, showHub }: MapInnerProps) {
   const hub = hvs.recommended_hub_location
 
   const center: [number, number] =
@@ -51,7 +52,7 @@ export default function MapInner({ venues, hvs }: MapInnerProps) {
         attribution='&copy; <a href="https://carto.com">CARTO</a>'
       />
 
-      <FitBounds venues={venues} hvs={hvs} />
+      <FitBounds venues={venues} hvs={hvs} showHub={showHub} />
 
       {venues.map(v => {
         const radius = 5 + (v.spend / maxSpend) * 14
@@ -72,7 +73,7 @@ export default function MapInner({ venues, hvs }: MapInnerProps) {
         )
       })}
 
-      {hub?.lat != null && (
+      {showHub && hub?.lat != null && (
         <CircleMarker
           center={[hub.lat, hub.lng]}
           radius={18}
