@@ -92,11 +92,24 @@ export function HubPurposePanel({ hwi, cpi, hubPurpose }: Props) {
   if (!hwi || !cpi || !hubPurpose) {
     return (
       <div className="bg-card rounded-xl border border-border shadow-card p-5">
-        <div className="text-xs font-semibold text-subtle uppercase tracking-wider mb-3">
-          Hub Purpose Classification
+        <div className="flex items-start justify-between mb-3">
+          <div>
+            <div className="text-xs font-semibold text-subtle uppercase tracking-wider">
+              Hub Purpose Classification
+            </div>
+            <div className="text-[11px] text-subtle mt-0.5">
+              Based on Hybrid Worktype Index (HWI) · Co-Presence Index (CPI)
+            </div>
+          </div>
+          <span className="inline-flex items-center px-2.5 py-1 rounded-pill border text-xs font-semibold bg-gray-50 border-gray-200 text-subtle">
+            No Data
+          </span>
         </div>
-        <div className="text-sm text-subtle text-center py-8 italic">
-          Re-run analysis to compute behavioral indices (HWI · CPI)
+        <div className="flex flex-col items-center justify-center py-7 text-center gap-2">
+          <div className="text-sm text-subtle font-medium">No booking activity in this metro</div>
+          <div className="text-xs text-subtle opacity-70 max-w-md leading-relaxed">
+            HWI and CPI require reservation history to compute. Allstate has no LiquidSpace bookings recorded in this market — behavioral classification is not possible until booking activity begins.
+          </div>
         </div>
       </div>
     )
