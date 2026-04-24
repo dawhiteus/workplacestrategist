@@ -516,7 +516,7 @@ function BudgetSimulatorCanvas({ data, onBack }: { data: Record<string, unknown>
         ← Back to portfolio
       </button>
       <h2 className="text-lg font-semibold text-body mb-1">Budget Simulator</h2>
-      <p className="text-sm text-subtle mb-5">Drag the slider to see which markets make economic sense at any hub cost. Assumes 25% induced demand uplift.</p>
+      <p className="text-sm text-subtle mb-5">Drag to see gross spend economics at any hub cost. Assumes 25% induced demand uplift. <span className="font-medium text-warning">Note:</span> full HVS score also factors in demand consistency and geographic concentration — a market can show positive economics but still score red if demand is sparse or dispersed.</p>
 
       {/* Slider card */}
       <div className="bg-card border border-border rounded-xl p-5 mb-4">
@@ -527,9 +527,9 @@ function BudgetSimulatorCanvas({ data, onBack }: { data: Record<string, unknown>
             <div className="text-xs text-subtle">${(hubCost * 12 / 1000).toFixed(0)}K annually</div>
           </div>
           <div className="flex gap-2">
-            <span className="text-xs font-semibold text-success bg-green-50 border border-green-200 px-2.5 py-1 rounded-full">{viable} viable</span>
+            <span className="text-xs font-semibold text-success bg-green-50 border border-green-200 px-2.5 py-1 rounded-full">{viable} economics +</span>
             <span className="text-xs font-semibold text-warning bg-orange-50 border border-orange-200 px-2.5 py-1 rounded-full">{borderline} borderline</span>
-            <span className="text-xs font-semibold text-danger bg-red-50 border border-red-200 px-2.5 py-1 rounded-full">{unviable} unviable</span>
+            <span className="text-xs font-semibold text-danger bg-red-50 border border-red-200 px-2.5 py-1 rounded-full">{unviable} economics −</span>
           </div>
         </div>
         <input
@@ -558,7 +558,7 @@ function BudgetSimulatorCanvas({ data, onBack }: { data: Record<string, unknown>
             : isBorderline
             ? 'text-warning bg-orange-50 border-orange-200'
             : 'text-danger bg-red-50 border-red-200'
-          const statusLabel = isViable ? 'Viable' : isBorderline ? 'Borderline' : 'Unviable'
+          const statusLabel = isViable ? 'Econ +' : isBorderline ? 'Borderline' : 'Econ −'
           const savingColor = isViable ? 'text-success' : isBorderline ? 'text-warning' : 'text-danger'
           const barPct = (m.effectiveSpend / maxSpend) * 100
           const saving = Math.round(Math.abs(m.netSaving) / 1000)
