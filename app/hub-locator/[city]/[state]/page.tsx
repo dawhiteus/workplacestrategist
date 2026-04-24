@@ -124,7 +124,7 @@ export default function MetroPage() {
             annualSpend={data.metro.total_spend}
             isLoading={stressLoading}
           />
-          <PeerBenchmarkPanel peers={data.peers} yourScore={data.hvs.hvs_composite} metro={metroLabel} />
+          <PeerBenchmarkPanel peers={data.peers} yourScore={data.hvs.hvs_composite} metro={metroLabel} hubPurpose={data.hvs.hub_purpose ?? null} />
         </div>
       </div>
 

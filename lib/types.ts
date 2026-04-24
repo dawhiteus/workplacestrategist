@@ -61,6 +61,48 @@ export type RecommendationEnum =
   | 'MONITOR'
   | 'INSUFFICIENT_DATA'
   | 'DO_NOT_PROCEED'
+  | 'ALTERNATIVE_INTERVENTION'
+
+export type HubPurposeEnum =
+  | 'FULL_COLLABORATION'
+  | 'LATENT_COLLABORATION'
+  | 'CULTURAL_ANCHOR'
+  | 'DISTRIBUTED_WORKFORCE'
+
+export interface HWIOutput {
+  score: number
+  collaboration_seat_days: number
+  concentration_seat_days: number
+}
+
+export interface CPIOutput {
+  score: number
+  copresence_event_count: number
+  median_group_size: number
+  total_venue_days: number
+}
+
+export interface MeetingRoom {
+  capacity: number
+  count: number
+}
+
+export interface RecommendedHubConfiguration {
+  total_seats: number
+  private_offices: number
+  dedicated_desks: number
+  hot_desks: number
+  meeting_rooms: MeetingRoom[]
+  phone_booths: number
+  anchor_day_capacity_factor: number
+  configuration_rationale: string
+}
+
+export interface AlternativeIntervention {
+  intervention_type: 'GOVERNED_ON_DEMAND' | 'PREFERRED_OPERATOR_PROGRAM'
+  rationale: string
+  suggested_next_step: string
+}
 
 export interface EconomicROI {
   annual_spend_baseline: number
@@ -88,6 +130,11 @@ export interface HVSReasoningOutput {
   critical_unknowns: string[]
   economic_roi: EconomicROI
   workforce_roi: WorkforceROI
+  hwi: HWIOutput | null
+  cpi: CPIOutput | null
+  hub_purpose: HubPurposeEnum | null
+  recommended_hub_configuration: RecommendedHubConfiguration | null
+  alternative_intervention: AlternativeIntervention | null
 }
 
 export interface StressTestParams {

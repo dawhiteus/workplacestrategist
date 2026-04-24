@@ -1,13 +1,30 @@
 'use client'
 
-import type { PeerBenchmark } from '@/lib/types'
+import type { PeerBenchmark, HubPurposeEnum } from '@/lib/types'
 
-interface Props { peers: PeerBenchmark | null; yourScore: number; metro: string }
+const PURPOSE_LABEL: Record<HubPurposeEnum, { short: string; color: string }> = {
+  FULL_COLLABORATION:   { short: 'Full Collaboration',   color: 'text-success bg-green-50 border-green-200' },
+  LATENT_COLLABORATION: { short: 'Latent Collaboration',  color: 'text-ls-600 bg-ls-50 border-ls-100' },
+  CULTURAL_ANCHOR:      { short: 'Cultural Anchor',       color: 'text-purple-700 bg-purple-50 border-purple-200' },
+  DISTRIBUTED_WORKFORCE:{ short: 'Distributed Workforce', color: 'text-warning bg-orange-50 border-orange-200' },
+}
 
-export function PeerBenchmarkPanel({ peers, yourScore, metro }: Props) {
+interface Props {
+  peers: PeerBenchmark | null
+  yourScore: number
+  metro: string
+  hubPurpose: HubPurposeEnum | null
+}
+
+export function PeerBenchmarkPanel({ peers, yourScore, metro, hubPurpose }: Props) {
   if (!peers) return (
     <div className="bg-card rounded-xl border border-border shadow-card p-4">
       <div className="text-xs font-semibold text-subtle uppercase tracking-wider mb-2">Peer Benchmark</div>
+      {hubPurpose && (
+        <div className={`inline-flex items-center px-2 py-0.5 rounded-pill border text-[10px] font-semibold mb-3 ${PURPOSE_LABEL[hubPurpose].color}`}>
+          {PURPOSE_LABEL[hubPurpose].short}
+        </div>
+      )}
       <div className="text-sm text-subtle text-center py-4">
         Insufficient peer data<br />
         <span className="text-xs opacity-60">Requires ≥5 enterprises in {metro}</span>
@@ -24,10 +41,18 @@ export function PeerBenchmarkPanel({ peers, yourScore, metro }: Props) {
 
   return (
     <div className="bg-card rounded-xl border border-border shadow-card p-4">
-      <div className="flex items-center justify-between mb-3">
+      <div className="flex items-center justify-between mb-2">
         <div className="text-xs font-semibold text-subtle uppercase tracking-wider">Peer Benchmark</div>
         <div className="text-xs text-subtle">n={peers.sample_size} · anonymized</div>
       </div>
+
+      {/* Hub Purpose badge */}
+      {hubPurpose && (
+        <div className={`inline-flex items-center px-2 py-0.5 rounded-pill border text-[10px] font-semibold mb-3 ${PURPOSE_LABEL[hubPurpose].color}`}>
+          {PURPOSE_LABEL[hubPurpose].short}
+        </div>
+      )}
+
       <div className="flex items-end gap-3 mb-4">
         <div className={`text-4xl font-bold ${scoreColor}`}>
           {peers.percentile}<span className="text-lg font-normal text-subtle">th</span>
@@ -36,6 +61,7 @@ export function PeerBenchmarkPanel({ peers, yourScore, metro }: Props) {
           {peers.percentile >= 75 ? 'Top quartile in market' : peers.percentile >= 50 ? 'Above median' : 'Below median'}
         </div>
       </div>
+
       {/* Distribution bar */}
       <div className="relative h-2.5 bg-border rounded-full mb-6">
         {markers.map(m => (
@@ -46,6 +72,7 @@ export function PeerBenchmarkPanel({ peers, yourScore, metro }: Props) {
           </div>
         ))}
       </div>
+
       <div className="grid grid-cols-3 gap-2 pt-2 border-t border-border">
         {[
           { label: 'Your HVS', value: String(yourScore), color: scoreColor },

@@ -1,8 +1,9 @@
 'use client'
 
+import { useState, useEffect } from 'react'
 import type { CanvasData, SessionEntry } from './Shell'
 import type { MetroHubAnalysis, MetroSummary } from '@/lib/types'
-import { Download, TrendingUp, Zap, Clock, BarChart3, AlertTriangle } from 'lucide-react'
+import { Download, TrendingUp, Zap, Clock, BarChart3, AlertTriangle, CheckCircle2 } from 'lucide-react'
 import { cn } from '@/lib/utils'
 
 interface RightRailProps {
@@ -14,9 +15,15 @@ interface RightRailProps {
 
 interface Insight {
   id: string
-  type: 'finding' | 'action' | 'alert'
+  type: 'finding' | 'action' | 'alert' | 'originated'
   title: string
   body: string
+}
+
+interface OriginatedEvent {
+  reqId: string
+  city: string
+  timestamp: string
 }
 
 function deriveInsights(canvasData: CanvasData): Insight[] {
@@ -190,11 +197,13 @@ function downloadsForCanvas(canvasData: CanvasData): DownloadItem[] {
 // ── Subcomponents ─────────────────────────────────────────────────────────────
 
 function InsightCard({ insight }: { insight: Insight }) {
-  const config = {
-    finding: { icon: TrendingUp, color: 'text-ls-600 bg-ls-50 border-ls-100', label: 'Finding' },
-    action: { icon: Zap, color: 'text-warning bg-orange-50 border-orange-100', label: 'Action' },
-    alert: { icon: AlertTriangle, color: 'text-danger bg-red-50 border-red-100', label: 'Alert' },
-  }[insight.type]
+  const configMap = {
+    finding:    { icon: TrendingUp,    color: 'text-ls-600 bg-ls-50 border-ls-100',         label: 'Finding' },
+    action:     { icon: Zap,           color: 'text-warning bg-orange-50 border-orange-100', label: 'Action' },
+    alert:      { icon: AlertTriangle, color: 'text-danger bg-red-50 border-red-100',        label: 'Alert' },
+    originated: { icon: CheckCircle2,  color: 'text-success bg-green-50 border-green-200',   label: 'Originated' },
+  }
+  const config = configMap[insight.type] ?? configMap.finding
   const Icon = config.icon
 
   return (
@@ -220,7 +229,32 @@ function timeAgo(date: Date): string {
 // ── Main component ────────────────────────────────────────────────────────────
 
 export function RightRail({ canvasData, sessionHistory }: RightRailProps) {
-  const insights = canvasData ? deriveInsights(canvasData) : []
+  const [originatedEvents, setOriginatedEvents] = useState<OriginatedEvent[]>([])
+
+  useEffect(() => {
+    function handleOriginated(e: Event) {
+      const detail = (e as CustomEvent<OriginatedEvent>).detail
+      if (detail?.reqId) {
+        setOriginatedEvents(prev => {
+          // Avoid duplicates
+          if (prev.some(o => o.reqId === detail.reqId)) return prev
+          return [detail, ...prev]
+        })
+      }
+    }
+    window.addEventListener('hub-originated', handleOriginated)
+    return () => window.removeEventListener('hub-originated', handleOriginated)
+  }, [])
+
+  const originatedInsights: Insight[] = originatedEvents.map(ev => ({
+    id: `originated-${ev.reqId}`,
+    type: 'originated' as const,
+    title: `${ev.reqId} · Sourcing requirement originated`,
+    body: `${ev.city} hub requirement added to Transaction Manager at ${new Date(ev.timestamp).toLocaleString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}.`,
+  }))
+
+  const derivedInsights = canvasData ? deriveInsights(canvasData) : []
+  const insights = [...originatedInsights, ...derivedInsights]
   const downloads = canvasData ? downloadsForCanvas(canvasData) : []
 
   return (

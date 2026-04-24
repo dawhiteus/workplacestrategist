@@ -1,5 +1,6 @@
 import path from 'path'
 import fs from 'fs'
+import type { HWIOutput, CPIOutput } from './types'
 
 // Seeded JSON data lives alongside the project for demo reliability.
 // If PULSE_DATA_PATH is set and accessible, DuckDB runtime queries are used instead.
@@ -86,4 +87,112 @@ export async function getPeerBenchmarks(
 
 export async function getEnterpriseList(): Promise<string[]> {
   return ['Allstate']
+}
+
+// ── DuckDB / Parquet helpers ─────────────────────────────────────────────────
+
+function queryParquet<T = Record<string, unknown>>(sql: string): Promise<T[]> {
+  return new Promise((resolve, reject) => {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const duckdb = require('duckdb')
+    const db = new duckdb.Database(':memory:')
+    db.all(sql, (err: Error | null, rows: T[]) => {
+      db.close()
+      if (err) reject(err)
+      else resolve(rows || [])
+    })
+  })
+}
+
+/**
+ * Compute HWI (Hybrid Worktype Index) and CPI (Co-Presence Index) from
+ * HourlyDailyReservations Parquet for a given enterprise + metro.
+ * Returns null if PULSE_DATA_PATH is not configured or the query fails.
+ */
+export async function getWorkTypeData(
+  enterprise: string,
+  city: string,
+  state: string
+): Promise<{ hwi: HWIOutput; cpi: CPIOutput } | null> {
+  const parquetDir = process.env.PULSE_DATA_PATH
+  if (!parquetDir) return null
+
+  const parquetPath = `${parquetDir}/HourlyDailyReservations.parquet`
+
+  try {
+    // ── HWI: classify bookings as collaboration-shaped vs concentration-shaped ──
+    // Collaboration: meeting rooms, conference rooms, training, event, team spaces
+    // Concentration: private offices, hot desks, dedicated desks, focus rooms
+    const hwiRows = await queryParquet<{ scenario_type: string; total_booked: number }>(`
+      SELECT
+        CASE
+          WHEN Scenario ILIKE '%meeting%'
+            OR Scenario ILIKE '%conference%'
+            OR Scenario ILIKE '%training%'
+            OR Scenario ILIKE '%event%'
+            OR Scenario ILIKE '%team%'
+            OR Scenario ILIKE '%boardroom%'
+          THEN 'collaboration'
+          ELSE 'concentration'
+        END AS scenario_type,
+        SUM(QuantityBooked) AS total_booked
+      FROM read_parquet('${parquetPath}')
+      WHERE EnterpriseAccount ILIKE '%${enterprise}%'
+        AND City ILIKE '${city}'
+        AND State ILIKE '${state}'
+      GROUP BY scenario_type
+    `)
+
+    const collabSeats = hwiRows.find(r => r.scenario_type === 'collaboration')?.total_booked ?? 0
+    const concSeats = hwiRows.find(r => r.scenario_type === 'concentration')?.total_booked ?? 0
+    const totalSeats = collabSeats + concSeats
+    const hwiScore = totalSeats > 0 ? Math.round((collabSeats / totalSeats) * 100) : 0
+
+    // ── CPI: share of venue-days with ≥2 distinct employees ──
+    const cpiRows = await queryParquet<{
+      venue_days: number
+      copresence_days: number
+      median_group: number
+    }>(`
+      WITH daily_venue AS (
+        SELECT
+          CAST(StartTime AS DATE) AS booking_date,
+          VenueId,
+          COUNT(DISTINCT EnterpriseMemberId) AS member_count
+        FROM read_parquet('${parquetPath}')
+        WHERE EnterpriseAccount ILIKE '%${enterprise}%'
+          AND City ILIKE '${city}'
+          AND State ILIKE '${state}'
+        GROUP BY booking_date, VenueId
+      )
+      SELECT
+        COUNT(*) AS venue_days,
+        COUNT(CASE WHEN member_count >= 2 THEN 1 END) AS copresence_days,
+        MEDIAN(member_count) AS median_group
+      FROM daily_venue
+    `)
+
+    const cpiRow = cpiRows[0]
+    const venueDays = Number(cpiRow?.venue_days ?? 0)
+    const copresenceDays = Number(cpiRow?.copresence_days ?? 0)
+    const medianGroup = Number(cpiRow?.median_group ?? 1)
+    const cpiScore = venueDays > 0 ? Math.round((copresenceDays / venueDays) * 100) : 0
+
+    return {
+      hwi: {
+        score: hwiScore,
+        collaboration_seat_days: Number(collabSeats),
+        concentration_seat_days: Number(concSeats),
+      },
+      cpi: {
+        score: cpiScore,
+        copresence_event_count: copresenceDays,
+        median_group_size: parseFloat(medianGroup.toFixed(1)),
+        total_venue_days: venueDays,
+      },
+    }
+  } catch (err) {
+    console.error('[getWorkTypeData]', err)
+    return null
+  }
 }

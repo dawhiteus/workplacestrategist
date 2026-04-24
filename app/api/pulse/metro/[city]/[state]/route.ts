@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { getMetroVenues, getDailyDemand, getMetroPortfolio, getPeerBenchmarks } from '@/lib/pulse'
+import { getMetroVenues, getDailyDemand, getMetroPortfolio, getPeerBenchmarks, getWorkTypeData } from '@/lib/pulse'
 import { buildHVSReasoning } from '@/lib/hvs'
 import type { StressTestParams, ThresholdAlert } from '@/lib/types'
 import { ragStatus } from '@/lib/utils'
@@ -18,11 +18,12 @@ export async function GET(
   const state = decodeURIComponent(params.state)
 
   try {
-    const [venues, dailyDemand, portfolio, peerRows] = await Promise.all([
+    const [venues, dailyDemand, portfolio, peerRows, workTypeData] = await Promise.all([
       getMetroVenues(enterprise, city, state),
       getDailyDemand(enterprise, city, state, 365),
       getMetroPortfolio(enterprise),
       getPeerBenchmarks(city, state, enterprise),
+      getWorkTypeData(enterprise, city, state),
     ])
 
     const metro = portfolio.find(m => m.city === city && m.state === state)
@@ -36,7 +37,7 @@ export async function GET(
       commuteRadiusMiles: radius,
     }
 
-    const hvs = buildHVSReasoning(metro, venues, dailyDemand, stressParams)
+    const hvs = buildHVSReasoning(metro, venues, dailyDemand, stressParams, workTypeData)
 
     // Peer benchmark — anonymized, requires ≥5 accounts
     let peers = null
