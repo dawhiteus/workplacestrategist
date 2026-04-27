@@ -285,6 +285,7 @@ export function Shell({ children }: ShellProps) {
         <main className="flex-1 overflow-y-auto">
           {canvasData ? (
             <CanvasRenderer
+              key={activeSessionId ?? 'canvas'}
               canvasData={canvasData}
               metroLoading={metroLoading}
               onBack={() => { setCanvasData(null); setSelectedMetro(null) }}
