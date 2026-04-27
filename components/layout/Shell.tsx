@@ -44,6 +44,7 @@ interface ShellProps {
 }
 
 export interface SessionEntry {
+  id: number
   label: string
   timestamp: Date
   canvasData: CanvasData
@@ -59,33 +60,37 @@ export function Shell({ children }: ShellProps) {
   const [selectedMetro, setSelectedMetro] = useState<{ city: string; state: string } | null>(null)
   const [metroLoading, setMetroLoading] = useState(false)
   const [sessionHistory, setSessionHistory] = useState<SessionEntry[]>([])
+  const [activeSessionId, setActiveSessionId] = useState<number | null>(null)
+  const restoringRef = useRef(false)
   const [intakeOpen, setIntakeOpen] = useState(false)
   const [enterprise, setEnterprise] = useState('Allstate')
   const [enterprises, setEnterprises] = useState<string[]>(['Allstate'])
   // Ref so event-listener callbacks (registered once) always read the current enterprise
   const enterpriseRef = useRef('Allstate')
 
-  // Track real session history whenever a canvas loads — skip if restoring an existing entry
+  // Track real session history whenever a canvas loads — skip when restoring
   useEffect(() => {
     if (!canvasData) return
-    setSessionHistory(prev => {
-      // If this exact canvasData object is already in history, don't duplicate it
-      if (prev.some(e => e.canvasData === canvasData)) return prev
-      let label = ''
-      if (canvasData.tool === 'get_metro_analysis') {
-        const d = canvasData.data as MetroHubAnalysis
-        label = `${d.metro?.city}, ${d.metro?.state} — Hub Viability`
-      } else if (canvasData.tool === 'compare_metros') {
-        const comp = (canvasData.data as Record<string, unknown>).comparison as Array<Record<string, unknown>>
-        const names = (comp || []).map(m => m.city).join(', ')
-        label = `Comparison: ${names}`
-      } else if (canvasData.tool === 'portfolio_ranking') {
-        const sortBy = (canvasData.data as Record<string, unknown>).sortBy
-        label = sortBy === 'concentration' ? 'Demand Concentration Ranking' : 'Portfolio Ranking by Spend'
-      }
-      if (!label) return prev
-      return [{ label, timestamp: new Date(), canvasData }, ...prev].slice(0, 8)
-    })
+    if (restoringRef.current) {
+      restoringRef.current = false
+      return
+    }
+    let label = ''
+    if (canvasData.tool === 'get_metro_analysis') {
+      const d = canvasData.data as MetroHubAnalysis
+      label = `${d.metro?.city}, ${d.metro?.state} — Hub Viability`
+    } else if (canvasData.tool === 'compare_metros') {
+      const comp = (canvasData.data as Record<string, unknown>).comparison as Array<Record<string, unknown>>
+      const names = (comp || []).map(m => m.city).join(', ')
+      label = `Comparison: ${names}`
+    } else if (canvasData.tool === 'portfolio_ranking') {
+      const sortBy = (canvasData.data as Record<string, unknown>).sortBy
+      label = sortBy === 'concentration' ? 'Demand Concentration Ranking' : 'Portfolio Ranking by Spend'
+    }
+    if (!label) return
+    const id = Date.now()
+    setActiveSessionId(id)
+    setSessionHistory(prev => [{ id, label, timestamp: new Date(), canvasData }, ...prev].slice(0, 8))
   }, [canvasData])
 
   useEffect(() => {
@@ -273,6 +278,8 @@ export function Shell({ children }: ShellProps) {
             setEnterprise(name)
             setCanvasData(null)
             setSelectedMetro(null)
+            setSessionHistory([])
+            setActiveSessionId(null)
           }}
         />
         <main className="flex-1 overflow-y-auto">
@@ -293,7 +300,12 @@ export function Shell({ children }: ShellProps) {
       <RightRail
         canvasData={canvasData}
         sessionHistory={sessionHistory}
-        onRestoreSession={(entry) => setCanvasData(entry.canvasData)}
+        activeSessionId={activeSessionId}
+        onRestoreSession={(entry) => {
+          restoringRef.current = true
+          setActiveSessionId(entry.id)
+          setCanvasData({ ...entry.canvasData })
+        }}
       />
 
       {intakeOpen && <MarketIntakeModal onClose={() => setIntakeOpen(false)} />}

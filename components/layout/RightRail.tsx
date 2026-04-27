@@ -9,6 +9,7 @@ import { cn } from '@/lib/utils'
 interface RightRailProps {
   canvasData: CanvasData | null
   sessionHistory: SessionEntry[]
+  activeSessionId: number | null
   onRestoreSession: (entry: SessionEntry) => void
 }
 
@@ -250,7 +251,7 @@ function timeAgo(date: Date): string {
 
 // ── Main component ────────────────────────────────────────────────────────────
 
-export function RightRail({ canvasData, sessionHistory, onRestoreSession }: RightRailProps) {
+export function RightRail({ canvasData, sessionHistory, activeSessionId, onRestoreSession }: RightRailProps) {
   const [originatedEvents, setOriginatedEvents] = useState<OriginatedEvent[]>([])
 
   useEffect(() => {
@@ -345,7 +346,7 @@ export function RightRail({ canvasData, sessionHistory, onRestoreSession }: Righ
             <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider mb-2">This Session</div>
             <div className="flex flex-col gap-0.5">
               {sessionHistory.map((s, i) => {
-                const isActive = canvasData === s.canvasData
+                const isActive = s.id === activeSessionId
                 return (
                   <button
                     key={i}
