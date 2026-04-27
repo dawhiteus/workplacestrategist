@@ -74,7 +74,22 @@ async function getMetroAnalysis(enterprise: string, city: string, state: string,
   if (!metro) return { error: `Metro not found: ${city}, ${state}` }
   const stressParams: StressTestParams = { hubCostMonthly: hubCost, inducedDemandUpliftPct: uplift, commuteRadiusMiles: radius }
   const hvs = buildHVSReasoning(metro, venues, dailyDemand, stressParams)
-  return { metro, hvs, venue_count: venues.length, demand_days: dailyDemand.length }
+
+  // Build monthly demand buckets so Claude can answer time-specific questions
+  const monthlyDemand: Record<string, { bookings: number; spend: number }> = {}
+  for (const d of dailyDemand) {
+    const month = d.day.slice(0, 7) // "YYYY-MM"
+    if (!monthlyDemand[month]) monthlyDemand[month] = { bookings: 0, spend: 0 }
+    monthlyDemand[month].bookings += d.bookings
+    monthlyDemand[month].spend += d.spend
+  }
+  const monthlyBreakdown = Object.entries(monthlyDemand)
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([month, v]) => ({ month, bookings: v.bookings, spend: Math.round(v.spend) }))
+
+  const totalBookings = dailyDemand.reduce((s, d) => s + d.bookings, 0)
+
+  return { metro, hvs, venue_count: venues.length, total_bookings: totalBookings, monthly_breakdown: monthlyBreakdown }
 }
 
 async function executeTool(name: string, input: Record<string, unknown>): Promise<string> {
@@ -124,6 +139,11 @@ You have access to live LiquidSpace booking data for Allstate via tool calls. Al
 Current portfolio context (pre-loaded):
 ${portfolioContext}
 
+Data notes:
+- All booking data comes from LiquidSpace reservation records. The \`reservations\` field in portfolio data is the lifetime total — NOT scoped to any specific time window.
+- For time-specific questions ("last month", "Q3", "this year"), always call \`get_metro_analysis\` and use the \`monthly_breakdown\` array it returns to find the relevant period. Never report the lifetime total as if it were a monthly or annual figure.
+- The most recent month in \`monthly_breakdown\` represents the latest available data. Clearly state which month you are referencing.
+
 Guidelines:
 - Be concise and direct. Lead with the key finding, then support with data.
 - When answering hub viability questions, always cite the HVS score, DVI, DCI, and ERI sub-scores.
@@ -133,7 +153,7 @@ Guidelines:
   <insight>{"type":"finding","title":"Short title","body":"1-2 sentence summary"}</insight>
   This gets pinned to the insights panel.
 - Keep responses focused and scannable. Use short paragraphs or bullet points.
-- The user is a senior workplace strategist at Allstate. They want clarity and actionability, not hedging.`
+- The user is a senior workplace strategist. They want clarity and actionability, not hedging.`
 }
 
 export async function POST(req: NextRequest) {
