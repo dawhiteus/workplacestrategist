@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 4,
+    "total_spend": 1104.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Sandy Springs",
+    "state": "GA",
+    "reservations": 8,
+    "total_spend": 470.0,
+    "venues": 2,
+    "members": 3
+  }
+]

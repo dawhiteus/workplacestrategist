@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2d2798fa-16f3-4ff4-95f5-7d2408aa6fe2",
+    "venue_name": "Life Time Work - Clarendon",
+    "latitude": 38.88886642456055,
+    "longitude": -77.09190368652344,
+    "reservations": 2,
+    "spend": 130.0
+  },
+  {
+    "venue_id": "71eac4df-c70a-4213-80dd-68477a7393d7",
+    "venue_name": "Carr Workplaces - Clarendon",
+    "latitude": 38.88765335083008,
+    "longitude": -77.095458984375,
+    "reservations": 2,
+    "spend": 90.0
+  }
+]

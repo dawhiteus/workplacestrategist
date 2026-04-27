@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "fdd45d32-9f6c-4e38-af7d-fd9ec5a561c8",
+    "venue_name": "WeWork | 1900 Market",
+    "latitude": 39.95310974121094,
+    "longitude": -75.17245483398438,
+    "reservations": 34,
+    "spend": 1666.0
+  },
+  {
+    "venue_id": "939fddbb-b4d4-42e4-b43d-c4aa7f38d5fe",
+    "venue_name": "Industrious - Two Liberty Place",
+    "latitude": 39.95171356201172,
+    "longitude": -75.16748809814453,
+    "reservations": 10,
+    "spend": 630.0
+  },
+  {
+    "venue_id": "b5acc1e9-5305-4e53-8092-0909b1270e9d",
+    "venue_name": "Mindspace Philadelphia",
+    "latitude": 39.9512939453125,
+    "longitude": -75.16192626953125,
+    "reservations": 4,
+    "spend": 128.0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "04ecbc8d-5eb7-445c-b2a2-59162a7788f2",
+    "venue_name": "WeWork | Colony Square",
+    "latitude": 33.786949157714844,
+    "longitude": -84.38282775878906,
+    "reservations": 52,
+    "spend": 4939.0
+  },
+  {
+    "venue_id": "86ba6415-fe35-4523-85e1-4de0a7def96d",
+    "venue_name": "SPACES | Colony Square",
+    "latitude": 33.78750228881836,
+    "longitude": -84.38304138183594,
+    "reservations": 6,
+    "spend": 1975.76
+  },
+  {
+    "venue_id": "2d2a9a41-ea83-4e56-b8e4-cce6b68a6707",
+    "venue_name": "Industrious - Ponce City Market",
+    "latitude": 33.77252197265625,
+    "longitude": -84.365966796875,
+    "reservations": 15,
+    "spend": 1125.0
+  },
+  {
+    "venue_id": "d8a11ce6-2d5b-48b5-9ae8-48d0df7046d3",
+    "venue_name": "Industrious - Buckhead Village",
+    "latitude": 33.83894729614258,
+    "longitude": -84.37762451171875,
+    "reservations": 6,
+    "spend": 504.0
+  },
+  {
+    "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
+    "venue_name": "Alkaloid Networks",
+    "latitude": 33.75890350341797,
+    "longitude": -84.36479949951172,
+    "reservations": 6,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "b9d23853-b1c1-4a2d-85bd-16f45aa06682",
+    "venue_name": "WeWork | 1155 Perimeter Center West",
+    "latitude": 33.93000793457031,
+    "longitude": -84.35108947753906,
+    "reservations": 9,
+    "spend": 378.0
+  },
+  {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.84675598144531,
+    "longitude": -84.37248229980469,
+    "reservations": 3,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "76a9d596-203d-42e0-a964-6592d95580aa",
+    "venue_name": "Serendipity Labs - Atlanta Buckhead",
+    "latitude": 33.851959228515625,
+    "longitude": -84.36759185791016,
+    "reservations": 3,
+    "spend": 173.0
+  },
+  {
+    "venue_id": "b18dcc7a-2b0b-414a-80c7-183efd991de0",
+    "venue_name": "WeWork | Terminus 100",
+    "latitude": 33.844425201416016,
+    "longitude": -84.37104797363281,
+    "reservations": 4,
+    "spend": 140.0
+  }
+]

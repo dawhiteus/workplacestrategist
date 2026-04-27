@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "81bd15a9-e021-4d57-8b5c-67d3190b924e",
+    "venue_name": "Regus | Lincoln Center III",
+    "latitude": 42.99781799316406,
+    "longitude": -88.04058074951172,
+    "reservations": 19,
+    "spend": 2756.46
+  },
+  {
+    "venue_id": "7490819a-d541-4484-ad88-6b53ba01d281",
+    "venue_name": "Expansive - Cathedral Square",
+    "latitude": 43.04099655151367,
+    "longitude": -87.90628051757812,
+    "reservations": 4,
+    "spend": 448.0
+  },
+  {
+    "venue_id": "818a8acd-015a-41fa-ac10-975b5071a97f",
+    "venue_name": "Regus | Liberty 1 at Park Place",
+    "latitude": 43.15260314941406,
+    "longitude": -88.05296325683594,
+    "reservations": 2,
+    "spend": 430.0
+  }
+]

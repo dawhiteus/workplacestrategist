@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3cfb75a0-d809-4b1c-abda-c0b5e919c5f3",
+    "venue_name": "The Annex Workspace Chesterfield",
+    "latitude": 38.667903900146484,
+    "longitude": -90.62600708007812,
+    "reservations": 11,
+    "spend": 3320.0
+  },
+  {
+    "venue_id": "5e1e5ee6-bfa4-4e02-a801-813471f6fa09",
+    "venue_name": "ThriveCo Chesterfield",
+    "latitude": 38.663734436035156,
+    "longitude": -90.64848327636719,
+    "reservations": 9,
+    "spend": 2190.0
+  }
+]

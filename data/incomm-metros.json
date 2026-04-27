@@ -1,0 +1,162 @@
+[
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "reservations": 259,
+    "total_spend": 72921.0,
+    "venues": 7,
+    "members": 24
+  },
+  {
+    "city": "Duluth",
+    "state": "GA",
+    "reservations": 373,
+    "total_spend": 48855.0,
+    "venues": 2,
+    "members": 17
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 248,
+    "total_spend": 48602.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "reservations": 67,
+    "total_spend": 33583.4,
+    "venues": 8,
+    "members": 10
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 13,
+    "total_spend": 7163.2,
+    "venues": 4,
+    "members": 7
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 18,
+    "total_spend": 6103.0,
+    "venues": 6,
+    "members": 6
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 47,
+    "total_spend": 5959.8,
+    "venues": 13,
+    "members": 7
+  },
+  {
+    "city": "Redmond",
+    "state": "WA",
+    "reservations": 15,
+    "total_spend": 5509.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Bellevue",
+    "state": "WA",
+    "reservations": 15,
+    "total_spend": 4535.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "St. Louis",
+    "state": "MO",
+    "reservations": 4,
+    "total_spend": 2244.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Minneapolis",
+    "state": "MN",
+    "reservations": 30,
+    "total_spend": 2215.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Chesterfield",
+    "state": "MO",
+    "reservations": 7,
+    "total_spend": 2045.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Kansas City",
+    "state": "MO",
+    "reservations": 4,
+    "total_spend": 1986.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "University City",
+    "state": "MO",
+    "reservations": 5,
+    "total_spend": 1620.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Johns Creek",
+    "state": "GA",
+    "reservations": 8,
+    "total_spend": 1269.5,
+    "venues": 2,
+    "members": 5
+  },
+  {
+    "city": "Greenwood Village",
+    "state": "CO",
+    "reservations": 3,
+    "total_spend": 990.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Evergreen",
+    "state": "CO",
+    "reservations": 4,
+    "total_spend": 795.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 757.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Suwanee",
+    "state": "GA",
+    "reservations": 3,
+    "total_spend": 600.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Sunnyvale",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 330.0,
+    "venues": 1,
+    "members": 1
+  }
+]

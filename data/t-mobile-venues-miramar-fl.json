@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f53bb114-3db9-47bf-b329-3daf598729c3",
+    "venue_name": "BIND Space",
+    "latitude": 25.979982376098633,
+    "longitude": -80.34066009521484,
+    "reservations": 15,
+    "spend": 6880.0
+  },
+  {
+    "venue_id": "b2420591-c7b0-4ec8-a02a-2ade77ff8da6",
+    "venue_name": "Regus | Huntington Square III",
+    "latitude": 25.97684097290039,
+    "longitude": -80.34508514404297,
+    "reservations": 6,
+    "spend": 980.44
+  }
+]

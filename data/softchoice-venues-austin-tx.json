@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "6a9fbf36-3fc1-434a-a0df-bfa101ac592d",
+    "venue_name": "Common Desk - 6th & Congress",
+    "latitude": 30.268146514892578,
+    "longitude": -97.7422866821289,
+    "reservations": 63,
+    "spend": 3565.0
+  },
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.26104164123535,
+    "longitude": -97.72795104980469,
+    "reservations": 23,
+    "spend": 1600.0
+  },
+  {
+    "venue_id": "f8d5f030-3c4b-0132-29f6-76817799485c",
+    "venue_name": "WeWork | Congress",
+    "latitude": 30.26861000061035,
+    "longitude": -97.74317932128906,
+    "reservations": 10,
+    "spend": 570.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.258480072021484,
+    "longitude": -97.72895812988281,
+    "reservations": 6,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "e0317ab1-39a8-4024-ae12-6260b5470295",
+    "venue_name": "WeWork | 801 Barton Springs",
+    "latitude": 30.258699417114258,
+    "longitude": -97.75273895263672,
+    "reservations": 5,
+    "spend": 285.0
+  },
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.26758575439453,
+    "longitude": -97.75431823730469,
+    "reservations": 3,
+    "spend": 165.0
+  }
+]

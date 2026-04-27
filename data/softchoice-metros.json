@@ -1,0 +1,442 @@
+[
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 495,
+    "total_spend": 297409.31,
+    "venues": 26,
+    "members": 39
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 333,
+    "total_spend": 128607.75,
+    "venues": 31,
+    "members": 17
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 109,
+    "total_spend": 44655.0,
+    "venues": 12,
+    "members": 6
+  },
+  {
+    "city": "Burlington",
+    "state": "MA",
+    "reservations": 63,
+    "total_spend": 18910.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 110,
+    "total_spend": 13034.0,
+    "venues": 2,
+    "members": 38
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 19,
+    "total_spend": 12394.0,
+    "venues": 9,
+    "members": 6
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "reservations": 54,
+    "total_spend": 11073.0,
+    "venues": 10,
+    "members": 8
+  },
+  {
+    "city": "Norcross",
+    "state": "GA",
+    "reservations": 11,
+    "total_spend": 11012.81,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 46,
+    "total_spend": 7947.0,
+    "venues": 8,
+    "members": 13
+  },
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "reservations": 41,
+    "total_spend": 7305.5,
+    "venues": 5,
+    "members": 11
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 117,
+    "total_spend": 7302.0,
+    "venues": 12,
+    "members": 9
+  },
+  {
+    "city": "Cleveland",
+    "state": "OH",
+    "reservations": 20,
+    "total_spend": 6790.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Beachwood",
+    "state": "OH",
+    "reservations": 28,
+    "total_spend": 6280.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Decatur",
+    "state": "GA",
+    "reservations": 135,
+    "total_spend": 5363.42,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "reservations": 21,
+    "total_spend": 3879.5,
+    "venues": 4,
+    "members": 7
+  },
+  {
+    "city": "Wayne",
+    "state": "PA",
+    "reservations": 15,
+    "total_spend": 3300.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 15,
+    "total_spend": 3268.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Minneapolis",
+    "state": "MN",
+    "reservations": 79,
+    "total_spend": 2953.0,
+    "venues": 6,
+    "members": 3
+  },
+  {
+    "city": "Woburn",
+    "state": "MA",
+    "reservations": 4,
+    "total_spend": 2050.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 28,
+    "total_spend": 1675.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Sheboygan",
+    "state": "WI",
+    "reservations": 8,
+    "total_spend": 1520.5,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Jersey City",
+    "state": "NJ",
+    "reservations": 13,
+    "total_spend": 1500.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Chesterfield",
+    "state": "MO",
+    "reservations": 12,
+    "total_spend": 1485.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 1308.0,
+    "venues": 5,
+    "members": 5
+  },
+  {
+    "city": "Edina",
+    "state": "MN",
+    "reservations": 10,
+    "total_spend": 1300.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Queens",
+    "state": "NY",
+    "reservations": 29,
+    "total_spend": 1215.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "El Segundo",
+    "state": "CA",
+    "reservations": 13,
+    "total_spend": 1120.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Malvern",
+    "state": "PA",
+    "reservations": 4,
+    "total_spend": 1067.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Duluth",
+    "state": "GA",
+    "reservations": 8,
+    "total_spend": 1064.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Madison",
+    "state": "WI",
+    "reservations": 6,
+    "total_spend": 974.67,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Snellville",
+    "state": "GA",
+    "reservations": 3,
+    "total_spend": 948.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Glendora",
+    "state": "CA",
+    "reservations": 13,
+    "total_spend": 910.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 809.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Wauwatosa",
+    "state": "WI",
+    "reservations": 4,
+    "total_spend": 731.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Fairview Heights",
+    "state": "IL",
+    "reservations": 28,
+    "total_spend": 560.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Marietta",
+    "state": "GA",
+    "reservations": 7,
+    "total_spend": 492.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Syracuse",
+    "state": "NY",
+    "reservations": 23,
+    "total_spend": 385.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Sandy Springs",
+    "state": "GA",
+    "reservations": 7,
+    "total_spend": 368.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "reservations": 3,
+    "total_spend": 338.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Suwanee",
+    "state": "GA",
+    "reservations": 3,
+    "total_spend": 335.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Westlake",
+    "state": "OH",
+    "reservations": 12,
+    "total_spend": 240.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 240.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 239.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Holmdel",
+    "state": "NJ",
+    "reservations": 7,
+    "total_spend": 200.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Bloomington",
+    "state": "MN",
+    "reservations": 4,
+    "total_spend": 177.6,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Culver City",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 177.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "St. Louis Park",
+    "state": "MN",
+    "reservations": 5,
+    "total_spend": 175.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Green Bay",
+    "state": "WI",
+    "reservations": 3,
+    "total_spend": 165.22,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 5,
+    "total_spend": 158.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Minnetonka",
+    "state": "MN",
+    "reservations": 7,
+    "total_spend": 155.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Dublin",
+    "state": "OH",
+    "reservations": 5,
+    "total_spend": 150.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Canton",
+    "state": "GA",
+    "reservations": 5,
+    "total_spend": 125.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Deephaven",
+    "state": "MN",
+    "reservations": 3,
+    "total_spend": 105.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Mason",
+    "state": "OH",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Spring",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 75.0,
+    "venues": 1,
+    "members": 1
+  }
+]

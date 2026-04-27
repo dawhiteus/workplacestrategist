@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3f791a67-e47e-48d9-81c8-d2f408d964bf",
+    "venue_name": "Staples Coworking Boston (Government Center)",
+    "latitude": 42.35929489135742,
+    "longitude": -71.05799102783203,
+    "reservations": 6,
+    "spend": 1764.0
+  },
+  {
+    "venue_id": "0480182a-dfdc-416e-897c-731f880ba6ca",
+    "venue_name": "Boston Offices - Exchange Place",
+    "latitude": 42.3585205078125,
+    "longitude": -71.05610656738281,
+    "reservations": 3,
+    "spend": 914.0
+  },
+  {
+    "venue_id": "76f40932-875c-4cf3-89a7-3253878ff3e7",
+    "venue_name": "CourtYard Coworking",
+    "latitude": 42.35110855102539,
+    "longitude": -71.06102752685547,
+    "reservations": 2,
+    "spend": 350.0
+  }
+]

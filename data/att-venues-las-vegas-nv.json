@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "09c2f9ed-0382-4c81-91b9-9d885ddb32a4",
+    "venue_name": "WeWork | Town Square",
+    "latitude": 36.06855773925781,
+    "longitude": -115.17607116699219,
+    "reservations": 396,
+    "spend": 28736.6
+  },
+  {
+    "venue_id": "597f79e1-ebb2-4e9a-8c75-27fc4a265bb0",
+    "venue_name": "Regus | The Gramercy",
+    "latitude": 36.084651947021484,
+    "longitude": -115.29319763183594,
+    "reservations": 30,
+    "spend": 9052.63
+  },
+  {
+    "venue_id": "4640ddb0-2b15-4084-aad5-95a550b5752d",
+    "venue_name": "Corporate Coworking ",
+    "latitude": 36.085819244384766,
+    "longitude": -115.1904296875,
+    "reservations": 23,
+    "spend": 5467.0
+  },
+  {
+    "venue_id": "33d4c4a1-1120-4d50-b5f8-837fae4eca34",
+    "venue_name": "Regus | Arroyo Crossing",
+    "latitude": 36.062713623046875,
+    "longitude": -115.253662109375,
+    "reservations": 11,
+    "spend": 3694.63
+  },
+  {
+    "venue_id": "ad8b06c2-7513-4885-8da7-61fc073e7d2e",
+    "venue_name": "Pacific Workplaces - Las Vegas",
+    "latitude": 36.16720962524414,
+    "longitude": -115.14386749267578,
+    "reservations": 3,
+    "spend": 2280.0
+  },
+  {
+    "venue_id": "9889f190-4b6b-496e-a472-870268758d4a",
+    "venue_name": "NextGen CoWork - CoWorking Simplified",
+    "latitude": 36.0705680847168,
+    "longitude": -115.12809753417969,
+    "reservations": 6,
+    "spend": 1145.0
+  },
+  {
+    "venue_id": "f23984e5-afa2-401e-b06d-efb3714ebec0",
+    "venue_name": "Incubase Workspace",
+    "latitude": 36.0938606262207,
+    "longitude": -115.11825561523438,
+    "reservations": 10,
+    "spend": 590.0
+  },
+  {
+    "venue_id": "b926d6c9-22a4-44ba-9cb9-5466613a61a6",
+    "venue_name": "Regus | Town Square",
+    "latitude": 36.06770324707031,
+    "longitude": -115.17610931396484,
+    "reservations": 5,
+    "spend": 531.08
+  },
+  {
+    "venue_id": "9da17973-c006-4933-912e-fe7a24903e77",
+    "venue_name": "Intelligent Office - Las Vegas / Henderson",
+    "latitude": 36.01462936401367,
+    "longitude": -115.11715698242188,
+    "reservations": 3,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "7e20b4eb-3416-4eb0-bdcd-4cf5e480a3d2",
+    "venue_name": "Co-Operate At Sunset Coworking Space",
+    "latitude": 36.07114791870117,
+    "longitude": -115.27583312988281,
+    "reservations": 2,
+    "spend": 200.0
+  }
+]

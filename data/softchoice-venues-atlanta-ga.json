@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.84675598144531,
+    "longitude": -84.37248229980469,
+    "reservations": 174,
+    "spend": 201665.0
+  },
+  {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851470947265625,
+    "longitude": -84.36003112792969,
+    "reservations": 43,
+    "spend": 23740.0
+  },
+  {
+    "venue_id": "7faad3f8-e4de-4a7e-8977-e2bf7da50cf0",
+    "venue_name": "Roam Perimeter Center",
+    "latitude": 33.919551849365234,
+    "longitude": -84.3426742553711,
+    "reservations": 36,
+    "spend": 8445.0
+  },
+  {
+    "venue_id": "76a9d596-203d-42e0-a964-6592d95580aa",
+    "venue_name": "Serendipity Labs - Atlanta Buckhead",
+    "latitude": 33.851959228515625,
+    "longitude": -84.36759185791016,
+    "reservations": 13,
+    "spend": 3435.0
+  },
+  {
+    "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
+    "venue_name": "Peachtree Offices at Downtown, Inc.",
+    "latitude": 33.760398864746094,
+    "longitude": -84.38746643066406,
+    "reservations": 12,
+    "spend": 3235.0
+  },
+  {
+    "venue_id": "b9d23853-b1c1-4a2d-85bd-16f45aa06682",
+    "venue_name": "WeWork | 1155 Perimeter Center West",
+    "latitude": 33.93000793457031,
+    "longitude": -84.35108947753906,
+    "reservations": 19,
+    "spend": 2268.2
+  },
+  {
+    "venue_id": "80c6479f-9e52-4f55-9d66-350a30d9369c",
+    "venue_name": "Roam Galleria",
+    "latitude": 33.8786506652832,
+    "longitude": -84.45661163330078,
+    "reservations": 22,
+    "spend": 1400.0
+  },
+  {
+    "venue_id": "9a16ef1d-67c7-481b-a1b8-6b59617c1eca",
+    "venue_name": "Life Time Work - Buckhead",
+    "latitude": 33.853370666503906,
+    "longitude": -84.36360168457031,
+    "reservations": 11,
+    "spend": 1300.0
+  },
+  {
+    "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
+    "venue_name": "Alkaloid Networks",
+    "latitude": 33.75890350341797,
+    "longitude": -84.36479949951172,
+    "reservations": 10,
+    "spend": 800.0
+  },
+  {
+    "venue_id": "0c4239c7-d618-442c-9a8f-3e6ac4b503bf",
+    "venue_name": "Lucid Private Offices | Cumberland - Battery",
+    "latitude": 33.89676284790039,
+    "longitude": -84.46166229248047,
+    "reservations": 4,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "5f29755f-19b1-44d5-b163-375ec7986e43",
+    "venue_name": "Lucid Private Offices | Buckhead",
+    "latitude": 33.847835540771484,
+    "longitude": -84.36579132080078,
+    "reservations": 5,
+    "spend": 335.0
+  },
+  {
+    "venue_id": "c5017954-dc24-4f7a-bafc-15cb1f7786aa",
+    "venue_name": "HQ | Galleria 400 ",
+    "latitude": 33.88637924194336,
+    "longitude": -84.4613265991211,
+    "reservations": 3,
+    "spend": 231.36
+  }
+]

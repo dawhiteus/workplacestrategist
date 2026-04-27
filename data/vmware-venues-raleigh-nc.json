@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d5dbaf9c-b01c-4dd0-af04-660b6807e9b9",
+    "venue_name": "The Loading Dock - Beryl Road",
+    "latitude": 35.79340362548828,
+    "longitude": -78.69190216064453,
+    "reservations": 41,
+    "spend": 5650.0
+  },
+  {
+    "venue_id": "e379179e-46fa-4b9a-b129-bb84465787c9",
+    "venue_name": "The Loading Dock - Dock 1053",
+    "latitude": 35.80897521972656,
+    "longitude": -78.62125396728516,
+    "reservations": 8,
+    "spend": 200.0
+  }
+]

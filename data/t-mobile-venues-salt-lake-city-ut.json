@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "42fab995-5448-4425-9ece-8b62222374a9",
+    "venue_name": "Kiln - Salt Lake City",
+    "latitude": 40.76878356933594,
+    "longitude": -111.90418243408203,
+    "reservations": 14,
+    "spend": 3610.0
+  },
+  {
+    "venue_id": "3169b016-2188-4366-b3f3-233562679266",
+    "venue_name": "Avanti Workspace - Wells Fargo Center",
+    "latitude": 40.763038635253906,
+    "longitude": -111.89082336425781,
+    "reservations": 5,
+    "spend": 785.0
+  },
+  {
+    "venue_id": "a71710b9-ff3f-46fb-a1d8-1058781df5b0",
+    "venue_name": "Avanti Workspace - Broadway Media Center",
+    "latitude": 40.7630615234375,
+    "longitude": -111.89293670654297,
+    "reservations": 2,
+    "spend": 495.0
+  }
+]

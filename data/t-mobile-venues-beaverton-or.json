@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8ff366e4-3f16-47dc-a68f-546831662d1a",
+    "venue_name": "VIDA Coworking - Beaverton",
+    "latitude": 45.484901428222656,
+    "longitude": -122.77386474609375,
+    "reservations": 11,
+    "spend": 3180.0
+  },
+  {
+    "venue_id": "9758ffe9-5699-4143-a122-305ef88f3e7e",
+    "venue_name": "Regus | Cornell West",
+    "latitude": 45.529842376708984,
+    "longitude": -122.84187316894531,
+    "reservations": 2,
+    "spend": 139.2
+  }
+]

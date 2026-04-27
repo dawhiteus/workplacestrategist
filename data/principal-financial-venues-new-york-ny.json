@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "7d946ac4-1d0c-4155-bd55-20b1faf2c6c8",
+    "venue_name": "SPACES | Helmsley Building",
+    "latitude": 40.754398345947266,
+    "longitude": -73.9761962890625,
+    "reservations": 8,
+    "spend": 746.06
+  },
+  {
+    "venue_id": "fd83d9d7-88c2-4b50-9c85-24b6610d5efa",
+    "venue_name": "Regus | Americas Tower",
+    "latitude": 40.75709915161133,
+    "longitude": -73.98249816894531,
+    "reservations": 4,
+    "spend": 624.95
+  },
+  {
+    "venue_id": "d6ccad29-dcfb-48dd-b55e-310b226aa881",
+    "venue_name": "Regus | 250 Park Avenue",
+    "latitude": 40.755001068115234,
+    "longitude": -73.97579956054688,
+    "reservations": 4,
+    "spend": 507.72
+  },
+  {
+    "venue_id": "9e48c5dd-8a22-4897-a876-c104964efef4",
+    "venue_name": "SPACES | NY, New York - Met Tower",
+    "latitude": 40.76496124267578,
+    "longitude": -73.97917938232422,
+    "reservations": 4,
+    "spend": 475.27
+  },
+  {
+    "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
+    "venue_name": "Emerge212 - 125 Park Avenue",
+    "latitude": 40.75178909301758,
+    "longitude": -73.97736358642578,
+    "reservations": 4,
+    "spend": 380.0
+  }
+]

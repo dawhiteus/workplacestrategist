@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c834544d-84e0-469b-86b0-9c8dc3efe0e3",
+    "venue_name": "Intelligent Office of San Diego",
+    "latitude": 32.87363052368164,
+    "longitude": -117.21489715576172,
+    "reservations": 5,
+    "spend": 1020.0
+  },
+  {
+    "venue_id": "cee63f65-cb97-4084-8609-54c12d847e99",
+    "venue_name": "Regus | CA, La Jolla - 888 Prospect Street",
+    "latitude": 32.84640121459961,
+    "longitude": -117.2760009765625,
+    "reservations": 3,
+    "spend": 147.19
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "c6906984-063e-4898-988f-311f133e336d",
+    "venue_name": "The Root - Builders",
+    "latitude": 41.265525817871094,
+    "longitude": -95.93645477294922,
+    "reservations": 6,
+    "spend": 4300.0
+  },
+  {
+    "venue_id": "4f834233-a48a-4370-a50b-0733a74f0bb5",
+    "venue_name": "Regus | Linden Place",
+    "latitude": 41.26459884643555,
+    "longitude": -96.13798522949219,
+    "reservations": 6,
+    "spend": 2205.77
+  },
+  {
+    "venue_id": "55083bf1-5903-4e4a-b8b6-67ffac100827",
+    "venue_name": "Regus | Aksarben Village",
+    "latitude": 41.23957443237305,
+    "longitude": -96.01432800292969,
+    "reservations": 12,
+    "spend": 2041.2
+  },
+  {
+    "venue_id": "86e4c640-2ec9-4927-8a08-d2b7c0b9ff96",
+    "venue_name": "Regus | NE, Omaha - 2027 Dodge St",
+    "latitude": 41.25947952270508,
+    "longitude": -95.94354248046875,
+    "reservations": 4,
+    "spend": 1423.0
+  },
+  {
+    "venue_id": "80412ee5-5030-448f-8349-6384e196257b",
+    "venue_name": "Regus | NE, Omaha - S 72nd St",
+    "latitude": 41.24631881713867,
+    "longitude": -96.0230712890625,
+    "reservations": 2,
+    "spend": 464.55
+  }
+]

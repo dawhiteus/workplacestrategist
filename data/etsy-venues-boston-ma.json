@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "289ed2cd-6bbb-47b7-9b40-811b7d887f19",
+    "venue_name": "WeWork | One Lincoln",
+    "latitude": 42.353172302246094,
+    "longitude": -71.05923461914062,
+    "reservations": 49,
+    "spend": 2303.0
+  },
+  {
+    "venue_id": "f67a4d86-a7b3-406a-8c7a-592156345ce7",
+    "venue_name": "WeWork | 501 Boylston St",
+    "latitude": 42.35120391845703,
+    "longitude": -71.07452392578125,
+    "reservations": 14,
+    "spend": 826.0
+  },
+  {
+    "venue_id": "36313d6b-1824-4ab7-9e5e-79d129d783c2",
+    "venue_name": "Workbar Back Bay",
+    "latitude": 42.351810455322266,
+    "longitude": -71.07218170166016,
+    "reservations": 18,
+    "spend": 733.0
+  },
+  {
+    "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
+    "venue_name": "WeWork | One Seaport Square",
+    "latitude": 42.35343551635742,
+    "longitude": -71.04767608642578,
+    "reservations": 10,
+    "spend": 590.0
+  },
+  {
+    "venue_id": "02d000c6-e18e-4f4b-a531-2c3e9d1dd262",
+    "venue_name": "WeWork | 200 Portland",
+    "latitude": 42.36455154418945,
+    "longitude": -71.06226348876953,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 14,
+    "spend": 9495.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 7,
+    "spend": 5550.0
+  },
+  {
+    "venue_id": "bb13cadb-57fa-4270-8c96-19c750e7ab03",
+    "venue_name": "SaGE@276Fifth",
+    "latitude": 40.74599075317383,
+    "longitude": -73.98686981201172,
+    "reservations": 7,
+    "spend": 1132.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.74652099609375,
+    "longitude": -73.98805236816406,
+    "reservations": 3,
+    "spend": 990.0
+  },
+  {
+    "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
+    "venue_name": "The Farm SoHo",
+    "latitude": 40.72059631347656,
+    "longitude": -74.00148010253906,
+    "reservations": 3,
+    "spend": 569.0
+  },
+  {
+    "venue_id": "bdca4ce4-7a0d-4ea0-adce-f36142528335",
+    "venue_name": "Quest Workspaces - 48 Wall St.",
+    "latitude": 40.7065544128418,
+    "longitude": -74.00919342041016,
+    "reservations": 3,
+    "spend": 485.0
+  }
+]

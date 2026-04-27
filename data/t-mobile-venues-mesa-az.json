@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "6fdc379a-feca-4502-9b67-81ba1edf3fa4",
+    "venue_name": "CO+HOOTS - Mesa",
+    "latitude": 33.414608001708984,
+    "longitude": -111.8254623413086,
+    "reservations": 8,
+    "spend": 2610.0
+  },
+  {
+    "venue_id": "9da6fbfe-3b12-42e6-b14d-8eda807ed020",
+    "venue_name": "Regus | Stapley Corporate Center",
+    "latitude": 33.380611419677734,
+    "longitude": -111.80892181396484,
+    "reservations": 7,
+    "spend": 1088.0
+  },
+  {
+    "venue_id": "f399cb1d-58c3-4c24-8fa5-9a9d6d5c5dbd",
+    "venue_name": "Regus | Dobson",
+    "latitude": 33.37358856201172,
+    "longitude": -111.88098907470703,
+    "reservations": 3,
+    "spend": 919.0
+  },
+  {
+    "venue_id": "3a837575-9c4e-4ea9-8c89-fb24355ec7ed",
+    "venue_name": "Expansive - Mesa at Newberry Station",
+    "latitude": 33.415306091308594,
+    "longitude": -111.83466339111328,
+    "reservations": 3,
+    "spend": 698.0
+  }
+]

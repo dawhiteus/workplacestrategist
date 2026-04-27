@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "55f283ed-d009-43fa-9de0-30339073d042",
+    "venue_name": "Venture X | Charlotte Toringdon",
+    "latitude": 35.06632995605469,
+    "longitude": -80.83941650390625,
+    "reservations": 3,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "aed50af9-1f0d-4965-8248-dec5477a4b81",
+    "venue_name": "(CHA) Charlotte",
+    "latitude": 35.16416931152344,
+    "longitude": -80.8922119140625,
+    "reservations": 2,
+    "spend": 520.0
+  }
+]

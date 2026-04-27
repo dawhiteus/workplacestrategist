@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "93152194-4128-485e-ace1-89a2ccd37b99",
+    "venue_name": "Workspace Collective | 1st Ave",
+    "latitude": 29.184412002563477,
+    "longitude": -82.13557434082031,
+    "reservations": 9,
+    "spend": 2300.0
+  },
+  {
+    "venue_id": "ccaa5c4e-0d5b-4332-8bd8-19cf0a25ba07",
+    "venue_name": "Spacr Ocala",
+    "latitude": 29.186046600341797,
+    "longitude": -82.13574981689453,
+    "reservations": 2,
+    "spend": 460.0
+  },
+  {
+    "venue_id": "e0b5a6e0-1fd1-4fe3-835d-500bf3a516e8",
+    "venue_name": "Workspace Collective | Fort King",
+    "latitude": 29.18560791015625,
+    "longitude": -82.13172912597656,
+    "reservations": 2,
+    "spend": 390.0
+  }
+]

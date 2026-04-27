@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0141acfa-07af-4de9-9df8-98637937fada",
+    "venue_name": "Regus | Continental Plaza",
+    "latitude": 40.909061431884766,
+    "longitude": -74.03376770019531,
+    "reservations": 5,
+    "spend": 2082.5
+  },
+  {
+    "venue_id": "9e658874-b261-4b8d-bc3b-d4247a22e9c2",
+    "venue_name": "Office Evolution - Hackensack",
+    "latitude": 40.89805603027344,
+    "longitude": -74.03445434570312,
+    "reservations": 5,
+    "spend": 580.0
+  }
+]

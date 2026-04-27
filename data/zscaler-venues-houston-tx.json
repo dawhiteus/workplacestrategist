@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "801faace-7fc9-456b-bd29-af38260ce9ac",
+    "venue_name": "Life Time Work - City Centre Five",
+    "latitude": 29.781902313232422,
+    "longitude": -95.55976104736328,
+    "reservations": 3,
+    "spend": 915.0
+  },
+  {
+    "venue_id": "4ed16aba-c7d5-4898-bf1e-9bdddd2aa529",
+    "venue_name": "Life Time Work - Green Street",
+    "latitude": 29.754289627075195,
+    "longitude": -95.36540985107422,
+    "reservations": 7,
+    "spend": 530.0
+  },
+  {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.77901840209961,
+    "longitude": -95.56109619140625,
+    "reservations": 7,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "4e2d767d-5bf8-4ba9-872c-2730dac7d904",
+    "venue_name": "Common Desk - POST",
+    "latitude": 29.76621437072754,
+    "longitude": -95.36488342285156,
+    "reservations": 9,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "bfa70e18-5ce8-4017-8b2c-54b26125d2e7",
+    "venue_name": "Common Desk - Post Oak Blvd",
+    "latitude": 29.73497772216797,
+    "longitude": -95.4627914428711,
+    "reservations": 5,
+    "spend": 125.0
+  }
+]

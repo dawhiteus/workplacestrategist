@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5719a0ce-abfa-4745-bf53-d5207486210b",
+    "venue_name": "WORKSPACE-THE PACIFIC SOUTHWEST BUILDING",
+    "latitude": 36.734920501708984,
+    "longitude": -119.79059600830078,
+    "reservations": 17,
+    "spend": 6885.0
+  },
+  {
+    "venue_id": "eb120111-af64-493e-b0ef-bacead2a8cb2",
+    "venue_name": "SPACES | CA, Fresno - E River Park Circle",
+    "latitude": 36.85499954223633,
+    "longitude": -119.78520202636719,
+    "reservations": 2,
+    "spend": 872.0
+  }
+]

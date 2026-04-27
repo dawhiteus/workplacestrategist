@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
+    "venue_name": "Carr Workplaces - Embarcadero Center",
+    "latitude": 37.79469680786133,
+    "longitude": -122.39987182617188,
+    "reservations": 3,
+    "spend": 1545.0
+  },
+  {
+    "venue_id": "d5fe14f4-1035-4935-9a57-b472b20703b4",
+    "venue_name": "Townsend Enterprises",
+    "latitude": 37.77622604370117,
+    "longitude": -122.3965072631836,
+    "reservations": 2,
+    "spend": 1000.0
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.79138946533203,
+    "longitude": -122.39215087890625,
+    "reservations": 2,
+    "spend": 975.0
+  },
+  {
+    "venue_id": "03dbac2d-0388-4c2b-bd29-f247c6c6e6e4",
+    "venue_name": "EcoSystem Coworking",
+    "latitude": 37.78769302368164,
+    "longitude": -122.3973388671875,
+    "reservations": 2,
+    "spend": 550.0
+  },
+  {
+    "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
+    "venue_name": "WeWork | Salesforce Tower",
+    "latitude": 37.789817810058594,
+    "longitude": -122.39690399169922,
+    "reservations": 3,
+    "spend": 246.0
+  },
+  {
+    "venue_id": "b44a4d96-3605-48f9-8446-af17d1e89845",
+    "venue_name": "Offix Edge LLC",
+    "latitude": 37.753509521484375,
+    "longitude": -122.48863220214844,
+    "reservations": 4,
+    "spend": 86.0
+  }
+]

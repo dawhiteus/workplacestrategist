@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "c2dfd1ef-5919-4d7a-8edc-acca53304ade",
+    "venue_name": "WeWork | 330 N. Wabash",
+    "latitude": 41.88862991333008,
+    "longitude": -87.62750244140625,
+    "reservations": 10,
+    "spend": 470.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 11,
+    "spend": 405.0
+  },
+  {
+    "venue_id": "1bb8484d-f72f-4f39-a55c-23498f14ed24",
+    "venue_name": "WeWork | 515 N State",
+    "latitude": 41.891422271728516,
+    "longitude": -87.62734985351562,
+    "reservations": 6,
+    "spend": 282.0
+  },
+  {
+    "venue_id": "fecd727c-8ce2-4c39-8d5b-02e253d26c69",
+    "venue_name": "Workbox River North",
+    "latitude": 41.894073486328125,
+    "longitude": -87.63606262207031,
+    "reservations": 6,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "5c8af16c-fc20-4805-b484-8739db529cee",
+    "venue_name": "WeWork | 448 N LaSalle",
+    "latitude": 41.8906135559082,
+    "longitude": -87.63321685791016,
+    "reservations": 4,
+    "spend": 140.0
+  }
+]

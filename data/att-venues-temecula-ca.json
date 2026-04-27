@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5cfe9ca0-e201-49f2-a539-7c319e71dd4a",
+    "venue_name": "(TEM) Temecula",
+    "latitude": 33.52088928222656,
+    "longitude": -117.1665267944336,
+    "reservations": 30,
+    "spend": 15545.0
+  },
+  {
+    "venue_id": "abda1f08-e263-4ad1-9b1c-15fa1c4b6b3f",
+    "venue_name": "Regus | CA, Temecula - Enterprise Circle",
+    "latitude": 33.51686096191406,
+    "longitude": -117.16995239257812,
+    "reservations": 6,
+    "spend": 1364.19
+  }
+]

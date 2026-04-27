@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "fd2bcced-9e95-4632-88b5-563235cd549c",
+    "venue_name": "The Urban Hive",
+    "latitude": 38.58197784423828,
+    "longitude": -121.49626922607422,
+    "reservations": 5,
+    "spend": 2610.0
+  },
+  {
+    "venue_id": "b5414644-43ef-4544-9d52-493a24ec1a33",
+    "venue_name": "Office on American River Drive",
+    "latitude": 38.57090377807617,
+    "longitude": -121.38421630859375,
+    "reservations": 4,
+    "spend": 800.0
+  }
+]

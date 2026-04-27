@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "7bb865c3-5669-451e-a48a-5731d9a53b73",
+    "venue_name": "Downtown Spaces",
+    "latitude": 31.757564544677734,
+    "longitude": -106.494140625,
+    "reservations": 100,
+    "spend": 81541.0
+  },
+  {
+    "venue_id": "4c6620bf-e42d-4099-a8b7-60bbbe2d3ee5",
+    "venue_name": "Downtown Spaces",
+    "latitude": 31.757564544677734,
+    "longitude": -106.494140625,
+    "reservations": 12,
+    "spend": 24401.4
+  },
+  {
+    "venue_id": "caa14771-ac69-4c26-a240-ff4874678a73",
+    "venue_name": "The Station, Urban Offices",
+    "latitude": 31.755338668823242,
+    "longitude": -106.49321746826172,
+    "reservations": 21,
+    "spend": 11640.0
+  },
+  {
+    "venue_id": "235f289a-0383-40db-b7cc-f1a2cd76e23e",
+    "venue_name": "Regus | Wells Fargo Plaza",
+    "latitude": 31.76020050048828,
+    "longitude": -106.48600006103516,
+    "reservations": 11,
+    "spend": 3326.4
+  },
+  {
+    "venue_id": "775965e0-c77a-4ccb-9d24-d6a7414907c1",
+    "venue_name": "Intelligent Office El Paso East",
+    "latitude": 31.775949478149414,
+    "longitude": -106.30326843261719,
+    "reservations": 2,
+    "spend": 530.0
+  }
+]

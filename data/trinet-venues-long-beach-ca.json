@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "08c61a40-0c04-429b-97aa-6db995e2b703",
+    "venue_name": "(KIL) Kilroy Airport",
+    "latitude": 33.807411193847656,
+    "longitude": -118.145751953125,
+    "reservations": 30,
+    "spend": 5292.0
+  },
+  {
+    "venue_id": "4fd56db0-a5c1-43f3-8a49-a3581c0da330",
+    "venue_name": "(PCH) Park Tower",
+    "latitude": 33.782981872558594,
+    "longitude": -118.13365936279297,
+    "reservations": 29,
+    "spend": 3250.0
+  }
+]

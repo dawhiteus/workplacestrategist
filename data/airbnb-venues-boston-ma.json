@@ -1,0 +1,90 @@
+[
+  {
+    "venue_id": "53c22bcb-e7aa-4746-b899-f24869fb908c",
+    "venue_name": "WeWork | 33 Arch St",
+    "latitude": 42.35610580444336,
+    "longitude": -71.0582275390625,
+    "reservations": 84,
+    "spend": 5749.2
+  },
+  {
+    "venue_id": "f67a4d86-a7b3-406a-8c7a-592156345ce7",
+    "venue_name": "WeWork | 501 Boylston St",
+    "latitude": 42.35120391845703,
+    "longitude": -71.07452392578125,
+    "reservations": 13,
+    "spend": 767.0
+  },
+  {
+    "venue_id": "36313d6b-1824-4ab7-9e5e-79d129d783c2",
+    "venue_name": "Workbar Back Bay",
+    "latitude": 42.351810455322266,
+    "longitude": -71.07218170166016,
+    "reservations": 11,
+    "spend": 759.0
+  },
+  {
+    "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
+    "venue_name": "WeWork | One Seaport Square",
+    "latitude": 42.35343551635742,
+    "longitude": -71.04767608642578,
+    "reservations": 11,
+    "spend": 752.0
+  },
+  {
+    "venue_id": "74d712f5-cc68-4d25-afc5-d8f11d52d442",
+    "venue_name": "Workbar Downtown",
+    "latitude": 42.35727310180664,
+    "longitude": -71.05896759033203,
+    "reservations": 10,
+    "spend": 590.0
+  },
+  {
+    "venue_id": "3b3d0208-e52b-449d-b02d-4e60e3680066",
+    "venue_name": "SPACES | State Street",
+    "latitude": 42.358638763427734,
+    "longitude": -71.05512237548828,
+    "reservations": 7,
+    "spend": 565.88
+  },
+  {
+    "venue_id": "a1f1406c-84cf-4ab9-963f-de9bf755d571",
+    "venue_name": "Regus | 101 Arch Street",
+    "latitude": 42.35498809814453,
+    "longitude": -71.05882263183594,
+    "reservations": 4,
+    "spend": 424.04
+  },
+  {
+    "venue_id": "2b7b7362-8bb9-408e-ad0c-a4564ff56b57",
+    "venue_name": "WeWork | One Beacon Street",
+    "latitude": 42.35847854614258,
+    "longitude": -71.06082916259766,
+    "reservations": 7,
+    "spend": 375.4
+  },
+  {
+    "venue_id": "74e36fe0-98d9-44f4-a034-8963000a5ff5",
+    "venue_name": "Industrious - Copley",
+    "latitude": 42.347042083740234,
+    "longitude": -71.07535552978516,
+    "reservations": 3,
+    "spend": 222.0
+  },
+  {
+    "venue_id": "3f791a67-e47e-48d9-81c8-d2f408d964bf",
+    "venue_name": "Staples Coworking Boston (Government Center)",
+    "latitude": 42.35929489135742,
+    "longitude": -71.05799102783203,
+    "reservations": 5,
+    "spend": 145.0
+  },
+  {
+    "venue_id": "02d000c6-e18e-4f4b-a531-2c3e9d1dd262",
+    "venue_name": "WeWork | 200 Portland",
+    "latitude": 42.36455154418945,
+    "longitude": -71.06226348876953,
+    "reservations": 2,
+    "spend": 84.0
+  }
+]

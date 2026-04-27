@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "82c1884d-57b0-4f6a-9e6f-a1dd875a3212",
+    "venue_name": "from HERE @ The Junction",
+    "latitude": 40.31338882446289,
+    "longitude": -74.63565063476562,
+    "reservations": 17,
+    "spend": 620.0
+  },
+  {
+    "venue_id": "06aac3fa-5dcb-426a-b217-4591db4f1030",
+    "venue_name": "Tigerlabs on Witherspoon",
+    "latitude": 40.35767364501953,
+    "longitude": -74.66387939453125,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

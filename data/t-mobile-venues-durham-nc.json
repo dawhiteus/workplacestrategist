@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "f688fc90-c1f5-4d58-b6ee-e48796698df5",
+    "venue_name": "Towerview Office Suites- Page Creek ",
+    "latitude": 35.882808685302734,
+    "longitude": -78.84223937988281,
+    "reservations": 22,
+    "spend": 7730.0
+  },
+  {
+    "venue_id": "50473851-8e57-414b-a7b3-2b6f1297fc70",
+    "venue_name": "Durham Bottling Co.",
+    "latitude": 35.99036407470703,
+    "longitude": -78.89644622802734,
+    "reservations": 6,
+    "spend": 3000.0
+  },
+  {
+    "venue_id": "39563aea-363c-4efa-b04a-456fbf0ae1c8",
+    "venue_name": "Venture X | Durham",
+    "latitude": 35.89724349975586,
+    "longitude": -78.87003326416016,
+    "reservations": 7,
+    "spend": 1739.52
+  },
+  {
+    "venue_id": "48172481-509b-4b7b-bd74-564bfb211d3f",
+    "venue_name": "HQ | Imperial Business Park",
+    "latitude": 35.8805046081543,
+    "longitude": -78.84204864501953,
+    "reservations": 3,
+    "spend": 1230.0
+  }
+]

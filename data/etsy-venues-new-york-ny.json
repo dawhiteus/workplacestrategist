@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 3,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 2,
+    "spend": 80.0
+  }
+]

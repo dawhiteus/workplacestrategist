@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4d683ece-5ec9-4504-a030-9bf92523e9ec",
+    "venue_name": "Social Lofts East",
+    "latitude": 33.562984466552734,
+    "longitude": -101.87417602539062,
+    "reservations": 7,
+    "spend": 4900.0
+  },
+  {
+    "venue_id": "f03381e3-55f4-415c-8fc7-1225d821dc9a",
+    "venue_name": "Regus | Lubbock - Pyramid Plaza",
+    "latitude": 33.52798080444336,
+    "longitude": -101.88439178466797,
+    "reservations": 4,
+    "spend": 570.5
+  }
+]

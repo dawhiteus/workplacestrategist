@@ -1,0 +1,106 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 3,
+    "total_spend": 3650.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "reservations": 60,
+    "total_spend": 2705.0,
+    "venues": 5,
+    "members": 1
+  },
+  {
+    "city": "Albany",
+    "state": "NY",
+    "reservations": 106,
+    "total_spend": 2650.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 3,
+    "total_spend": 2108.11,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1578.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 4,
+    "total_spend": 1484.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Henrietta",
+    "state": "NY",
+    "reservations": 19,
+    "total_spend": 795.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "reservations": 18,
+    "total_spend": 665.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 4,
+    "total_spend": 635.4,
+    "venues": 4,
+    "members": 1
+  },
+  {
+    "city": "Rochester",
+    "state": "NY",
+    "reservations": 18,
+    "total_spend": 620.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Mount Pleasant",
+    "state": "SC",
+    "reservations": 9,
+    "total_spend": 504.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 397.0,
+    "venues": 5,
+    "members": 1
+  },
+  {
+    "city": "Troy",
+    "state": "NY",
+    "reservations": 3,
+    "total_spend": 75.0,
+    "venues": 1,
+    "members": 1
+  }
+]

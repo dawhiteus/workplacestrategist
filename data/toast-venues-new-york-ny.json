@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "bdca4ce4-7a0d-4ea0-adce-f36142528335",
+    "venue_name": "Quest Workspaces - 48 Wall St.",
+    "latitude": 40.7065544128418,
+    "longitude": -74.00919342041016,
+    "reservations": 19,
+    "spend": 931.0
+  },
+  {
+    "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
+    "venue_name": "WeWork | 368 9th Ave",
+    "latitude": 40.751068115234375,
+    "longitude": -73.99771881103516,
+    "reservations": 5,
+    "spend": 235.0
+  },
+  {
+    "venue_id": "71dcd609-3551-45cd-8adb-1bd811a52cc0",
+    "venue_name": "Hines | The Square at 205 Hudson Street",
+    "latitude": 40.72372817993164,
+    "longitude": -74.00843811035156,
+    "reservations": 4,
+    "spend": 160.0
+  }
+]

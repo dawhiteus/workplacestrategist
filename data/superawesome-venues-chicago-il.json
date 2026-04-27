@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 75,
+    "spend": 7865.0
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.90366744995117,
+    "longitude": -87.63109588623047,
+    "reservations": 5,
+    "spend": 175.0
+  }
+]

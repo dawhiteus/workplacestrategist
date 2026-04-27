@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e571a0c7-2ff1-4c1c-8f81-732966510aea",
+    "venue_name": "SPACES | Mallory",
+    "latitude": 35.940582275390625,
+    "longitude": -86.82262420654297,
+    "reservations": 9,
+    "spend": 4785.38
+  },
+  {
+    "venue_id": "a8efdb28-0f74-49fe-80aa-7fc0224e2576",
+    "venue_name": "Regus | TN, Franklin - Cool Springs",
+    "latitude": 35.94389724731445,
+    "longitude": -86.80619812011719,
+    "reservations": 11,
+    "spend": 2032.64
+  }
+]

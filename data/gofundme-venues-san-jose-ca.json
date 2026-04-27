@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "85061ae0-cd8c-4364-a569-69bd69d0188e",
+    "venue_name": "SPACES | Santana Row",
+    "latitude": 37.317535400390625,
+    "longitude": -121.94762420654297,
+    "reservations": 27,
+    "spend": 3328.81
+  },
+  {
+    "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
+    "venue_name": "Expansive - North First",
+    "latitude": 37.37726974487305,
+    "longitude": -121.92033386230469,
+    "reservations": 15,
+    "spend": 947.0
+  },
+  {
+    "venue_id": "2d537039-65f9-4191-a24d-b915d3a2b363",
+    "venue_name": "Silicon Valley Business Center",
+    "latitude": 37.26165008544922,
+    "longitude": -121.92310333251953,
+    "reservations": 23,
+    "spend": 805.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "5c8af16c-fc20-4805-b484-8739db529cee",
+    "venue_name": "WeWork | 448 N LaSalle",
+    "latitude": 41.8906135559082,
+    "longitude": -87.63321685791016,
+    "reservations": 6,
+    "spend": 4276.0
+  },
+  {
+    "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
+    "venue_name": "Carr Workplaces - Aon Center",
+    "latitude": 41.885284423828125,
+    "longitude": -87.62151336669922,
+    "reservations": 9,
+    "spend": 3990.0
+  },
+  {
+    "venue_id": "2928c52a-db27-4575-ae19-474fa5da5418",
+    "venue_name": "Regus | Chicago \u201a\u00c4\u00ec 110 North Wacker Drive",
+    "latitude": 41.883487701416016,
+    "longitude": -87.63742065429688,
+    "reservations": 3,
+    "spend": 2163.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 7,
+    "spend": 1715.0
+  },
+  {
+    "venue_id": "18d059f9-efa3-4a3e-9db8-5d6d219ff6c2",
+    "venue_name": "Expansive - Magnificent Mile",
+    "latitude": 41.89278793334961,
+    "longitude": -87.62390899658203,
+    "reservations": 4,
+    "spend": 1550.0
+  },
+  {
+    "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
+    "venue_name": "350 Coworking | 350 N. Orleans",
+    "latitude": 41.888038635253906,
+    "longitude": -87.63765716552734,
+    "reservations": 17,
+    "spend": 1020.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505126953125,
+    "longitude": -87.63457489013672,
+    "reservations": 13,
+    "spend": 582.0
+  }
+]

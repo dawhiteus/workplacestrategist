@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "3af0e528-8d13-4726-9783-3d89dd2eac80",
+    "venue_name": "Industrious - Ogilvie",
+    "latitude": 41.882320404052734,
+    "longitude": -87.64046478271484,
+    "reservations": 49,
+    "spend": 2540.0
+  },
+  {
+    "venue_id": "6ec7f4f0-010e-4aa2-83db-08fc5aea5bd8",
+    "venue_name": "Industrious - Fulton Market",
+    "latitude": 41.88507080078125,
+    "longitude": -87.65416717529297,
+    "reservations": 44,
+    "spend": 2530.0
+  },
+  {
+    "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
+    "venue_name": "Carr Workplaces - Aon Center",
+    "latitude": 41.885284423828125,
+    "longitude": -87.62151336669922,
+    "reservations": 3,
+    "spend": 1800.0
+  },
+  {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890647888183594,
+    "longitude": -87.62683868408203,
+    "reservations": 6,
+    "spend": 1705.0
+  },
+  {
+    "venue_id": "d32d805f-144d-481c-938a-62362da96036",
+    "venue_name": "Farbman Group | 100 North LaSalle",
+    "latitude": 41.88335418701172,
+    "longitude": -87.63286590576172,
+    "reservations": 3,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "7fdd0f72-f27a-4905-8d4c-85046591c3fc",
+    "venue_name": "SPACES | Chicago, Spaces West Ohio Street",
+    "latitude": 41.892642974853516,
+    "longitude": -87.636474609375,
+    "reservations": 3,
+    "spend": 260.26
+  }
+]

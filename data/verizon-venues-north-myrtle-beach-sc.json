@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0b24290f-0d12-4062-bf21-cb303fcd1753",
+    "venue_name": "Regus | North Myrtle Beach- 2nd Ave",
+    "latitude": 33.82659149169922,
+    "longitude": -78.68350982666016,
+    "reservations": 26,
+    "spend": 7245.5
+  },
+  {
+    "venue_id": "6b888353-4758-4404-99f8-2ced61a0dc44",
+    "venue_name": "ATTA Business Center",
+    "latitude": 33.83852767944336,
+    "longitude": -78.6445541381836,
+    "reservations": 11,
+    "spend": 1600.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6cbf95f8-48fb-4151-ac9b-1ab23df9d6c4",
+    "venue_name": "Executive Base Network",
+    "latitude": 37.77418899536133,
+    "longitude": -121.98931884765625,
+    "reservations": 29,
+    "spend": 2920.0
+  },
+  {
+    "venue_id": "1bf3abe6-3e31-43f6-bf6e-91e5600950a5",
+    "venue_name": "One Eleven One Ninety",
+    "latitude": 37.77394104003906,
+    "longitude": -121.98915100097656,
+    "reservations": 5,
+    "spend": 1150.0
+  }
+]

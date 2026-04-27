@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.77901840209961,
+    "longitude": -95.56109619140625,
+    "reservations": 10,
+    "spend": 4020.0
+  },
+  {
+    "venue_id": "b006579a-4a7f-4eca-873e-c41bf2503ffd",
+    "venue_name": "Local Office",
+    "latitude": 29.72518539428711,
+    "longitude": -95.41943359375,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "49a3fc82-f23b-418b-9a8f-779e461d4581",
+    "venue_name": "SPACES | TX, Houston - 708 Main Street",
+    "latitude": 29.7590389251709,
+    "longitude": -95.3636245727539,
+    "reservations": 2,
+    "spend": 106.32
+  }
+]

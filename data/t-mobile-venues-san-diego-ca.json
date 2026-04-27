@@ -1,0 +1,90 @@
+[
+  {
+    "venue_id": "c4146c35-8824-43bb-9f2d-6420bc51aed5",
+    "venue_name": "Venture X | San Diego Scripps Ranch",
+    "latitude": 32.9008674621582,
+    "longitude": -117.10950469970703,
+    "reservations": 415,
+    "spend": 254870.0
+  },
+  {
+    "venue_id": "cb5b6511-d665-4625-84c9-a9a6143dffd0",
+    "venue_name": "Downtown Works Pacific Beach",
+    "latitude": 32.79862594604492,
+    "longitude": -117.24076843261719,
+    "reservations": 25,
+    "spend": 8760.0
+  },
+  {
+    "venue_id": "e37a8032-f692-45e4-be38-2d632c24ad01",
+    "venue_name": "Hera Hub- Mission Valley",
+    "latitude": 32.77460861206055,
+    "longitude": -117.1382064819336,
+    "reservations": 10,
+    "spend": 3120.0
+  },
+  {
+    "venue_id": "691d71e8-a18f-44ea-9f7f-c4b9cd2c7f89",
+    "venue_name": "Regus | Diamond View",
+    "latitude": 32.708900451660156,
+    "longitude": -117.15599822998047,
+    "reservations": 4,
+    "spend": 1472.0
+  },
+  {
+    "venue_id": "70771d0b-43df-4842-b111-c08cf9da05a0",
+    "venue_name": "SMARTSPACE - San Diego",
+    "latitude": 32.824981689453125,
+    "longitude": -117.11870574951172,
+    "reservations": 3,
+    "spend": 830.0
+  },
+  {
+    "venue_id": "98945285-ae11-4b3e-872f-7c92c3bbd834",
+    "venue_name": "Regus | Mission Valley - Stonecrest",
+    "latitude": 32.80569839477539,
+    "longitude": -117.12000274658203,
+    "reservations": 3,
+    "spend": 780.0
+  },
+  {
+    "venue_id": "54d73257-d5e2-4ffe-bdff-34f316ae85da",
+    "venue_name": "(MV1) Mission Valley",
+    "latitude": 32.776676177978516,
+    "longitude": -117.13864135742188,
+    "reservations": 2,
+    "spend": 779.0
+  },
+  {
+    "venue_id": "d4260a2c-6b2e-40c6-a113-35a0f1e8762e",
+    "venue_name": "(600) One America Plaza",
+    "latitude": 32.716190338134766,
+    "longitude": -117.168701171875,
+    "reservations": 2,
+    "spend": 760.0
+  },
+  {
+    "venue_id": "f4bb4100-5e5d-472c-b1e3-9cb6a77d9971",
+    "venue_name": "Regus | One Pacific Heights",
+    "latitude": 32.900115966796875,
+    "longitude": -117.19005584716797,
+    "reservations": 2,
+    "spend": 581.0
+  },
+  {
+    "venue_id": "cf5869c0-dbff-4e7a-9996-3053518c12e5",
+    "venue_name": "Downtown Works San Diego",
+    "latitude": 32.718013763427734,
+    "longitude": -117.16799926757812,
+    "reservations": 2,
+    "spend": 570.0
+  },
+  {
+    "venue_id": "63c74062-0f4f-40c1-8136-69a640f34772",
+    "venue_name": "Hera Hub - San Diego",
+    "latitude": 32.89604187011719,
+    "longitude": -117.18751525878906,
+    "reservations": 2,
+    "spend": 420.0
+  }
+]

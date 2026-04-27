@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
+    "venue_name": "Venture X | LoDo",
+    "latitude": 39.75336456298828,
+    "longitude": -104.99684143066406,
+    "reservations": 6,
+    "spend": 6750.0
+  },
+  {
+    "venue_id": "947cf0f4-5dd0-405d-bb49-78bc68dd8e30",
+    "venue_name": "SPACES | Denver - Ballpark",
+    "latitude": 39.75756072998047,
+    "longitude": -104.9906005859375,
+    "reservations": 3,
+    "spend": 1491.0
+  }
+]

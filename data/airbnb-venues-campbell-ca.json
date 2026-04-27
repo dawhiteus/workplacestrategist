@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0663e0bc-44a9-418a-b3e4-a27ed86b4618",
+    "venue_name": "Satellite Workplaces Campbell",
+    "latitude": 37.28792953491211,
+    "longitude": -121.93329620361328,
+    "reservations": 38,
+    "spend": 2445.0
+  },
+  {
+    "venue_id": "20c29e18-cfa7-45d9-bf7a-194a2255c6a0",
+    "venue_name": "Regus || Pruneyard",
+    "latitude": 37.28770065307617,
+    "longitude": -121.93499755859375,
+    "reservations": 4,
+    "spend": 628.48
+  }
+]

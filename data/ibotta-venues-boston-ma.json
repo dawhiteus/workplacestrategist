@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "74d712f5-cc68-4d25-afc5-d8f11d52d442",
+    "venue_name": "Workbar Downtown",
+    "latitude": 42.35727310180664,
+    "longitude": -71.05896759033203,
+    "reservations": 6,
+    "spend": 344.0
+  },
+  {
+    "venue_id": "f67a4d86-a7b3-406a-8c7a-592156345ce7",
+    "venue_name": "WeWork | 501 Boylston St",
+    "latitude": 42.35120391845703,
+    "longitude": -71.07452392578125,
+    "reservations": 4,
+    "spend": 236.0
+  },
+  {
+    "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
+    "venue_name": "WeWork | One Seaport Square",
+    "latitude": 42.35343551635742,
+    "longitude": -71.04767608642578,
+    "reservations": 3,
+    "spend": 177.0
+  }
+]

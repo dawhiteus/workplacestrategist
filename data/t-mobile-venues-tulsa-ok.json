@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "a3f18315-f10a-4372-9791-64884a3ae72e",
+    "venue_name": "The Root - East Village",
+    "latitude": 36.15746307373047,
+    "longitude": -95.9839096069336,
+    "reservations": 66,
+    "spend": 18503.0
+  },
+  {
+    "venue_id": "6d8deb20-d61f-4a16-95eb-74132383a406",
+    "venue_name": "Elevate Coworking",
+    "latitude": 36.032535552978516,
+    "longitude": -95.90494537353516,
+    "reservations": 16,
+    "spend": 4976.0
+  },
+  {
+    "venue_id": "71919189-ceaf-4554-a801-0bc5fb19fe2b",
+    "venue_name": "Regus | Tulsa - Sheridan Road",
+    "latitude": 36.06740951538086,
+    "longitude": -95.90535736083984,
+    "reservations": 13,
+    "spend": 4220.42
+  },
+  {
+    "venue_id": "3f0cc933-1e3f-46c8-9892-333157ea3684",
+    "venue_name": "The Office Tulsa",
+    "latitude": 36.085350036621094,
+    "longitude": -95.93960571289062,
+    "reservations": 2,
+    "spend": 840.0
+  },
+  {
+    "venue_id": "e9611e2c-aa34-4ed5-9bd4-75822fa65dfa",
+    "venue_name": "The Root - Market Station",
+    "latitude": 36.14569854736328,
+    "longitude": -95.95785522460938,
+    "reservations": 2,
+    "spend": 540.0
+  }
+]

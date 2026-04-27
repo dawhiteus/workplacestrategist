@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "41083117-9b28-4959-a449-df847032de25",
+    "venue_name": "Signature | Washington - 600 Mass Ave",
+    "latitude": 38.90125274658203,
+    "longitude": -77.02092742919922,
+    "reservations": 6,
+    "spend": 3192.0
+  },
+  {
+    "venue_id": "0f2e3975-6fa5-47d3-b1e4-c6a87eaa2b45",
+    "venue_name": "The Mark at Manhattan Laundry",
+    "latitude": 38.91984939575195,
+    "longitude": -77.03076171875,
+    "reservations": 5,
+    "spend": 3160.0
+  },
+  {
+    "venue_id": "5dc79a7d-44b1-496e-b06d-dd0fafa9c6b1",
+    "venue_name": "Metro Offices - Farragut",
+    "latitude": 38.90142059326172,
+    "longitude": -77.0405502319336,
+    "reservations": 3,
+    "spend": 750.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cb6e66d3-4a1c-480a-931e-d9452946efc9",
+    "venue_name": "Regus | CA, Santa Clara - Techmart Center",
+    "latitude": 37.40621566772461,
+    "longitude": -121.97669219970703,
+    "reservations": 8,
+    "spend": 589.71
+  },
+  {
+    "venue_id": "806c1927-3ed1-4131-80dd-b67899cdec47",
+    "venue_name": "SPACES || CA, Santa Clara - Spaces Augustine 101",
+    "latitude": 37.38290786743164,
+    "longitude": -121.9704360961914,
+    "reservations": 4,
+    "spend": 347.38
+  }
+]

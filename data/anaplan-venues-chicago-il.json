@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "59dff76c-3092-401d-87a1-91b8116d0b37",
+    "venue_name": "Industrious - Willis Tower",
+    "latitude": 41.87887954711914,
+    "longitude": -87.63651275634766,
+    "reservations": 18,
+    "spend": 9633.0
+  },
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944030761719,
+    "longitude": -87.6360092163086,
+    "reservations": 6,
+    "spend": 2962.5
+  },
+  {
+    "venue_id": "2928c52a-db27-4575-ae19-474fa5da5418",
+    "venue_name": "Regus | Chicago \u201a\u00c4\u00ec 110 North Wacker Drive",
+    "latitude": 41.883487701416016,
+    "longitude": -87.63742065429688,
+    "reservations": 3,
+    "spend": 645.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.89024353027344,
+    "longitude": -87.63189697265625,
+    "reservations": 3,
+    "spend": 515.0
+  }
+]

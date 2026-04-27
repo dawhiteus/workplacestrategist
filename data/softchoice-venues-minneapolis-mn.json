@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "927e82c5-aa9d-4e55-aad3-c8ae0a48e371",
+    "venue_name": "Workbox Downtown Minneapolis",
+    "latitude": 44.97501754760742,
+    "longitude": -93.27143096923828,
+    "reservations": 28,
+    "spend": 980.0
+  },
+  {
+    "venue_id": "e86b7b23-04a8-4bc8-b8e1-51421d72cdaa",
+    "venue_name": "WeWork | Capella Tower",
+    "latitude": 44.97627258300781,
+    "longitude": -93.26873016357422,
+    "reservations": 24,
+    "spend": 840.0
+  },
+  {
+    "venue_id": "27c846d0-08fb-41cc-8424-f4490737cb0e",
+    "venue_name": "WeWork | 729 N Washington Ave",
+    "latitude": 44.987998962402344,
+    "longitude": -93.27798461914062,
+    "reservations": 14,
+    "spend": 563.0
+  }
+]

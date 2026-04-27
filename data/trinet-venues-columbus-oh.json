@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "dc4f9780-43d9-4496-b2e8-92dadb02519f",
+    "venue_name": "Versa Grandview",
+    "latitude": 39.97425079345703,
+    "longitude": -83.05360412597656,
+    "reservations": 116,
+    "spend": 11639.25
+  },
+  {
+    "venue_id": "f02e354f-12e6-44d5-afcd-0160df147a40",
+    "venue_name": "Workbox Short North",
+    "latitude": 39.980281829833984,
+    "longitude": -83.00440979003906,
+    "reservations": 7,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "aaae2d99-1ffc-469c-b1b0-5aab27e15fc2",
+    "venue_name": "COhatch - Upper Arlington",
+    "latitude": 40.00699996948242,
+    "longitude": -83.05650329589844,
+    "reservations": 5,
+    "spend": 445.0
+  }
+]

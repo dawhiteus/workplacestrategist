@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "c97f1fb1-2ae7-4e50-bf9d-c6e7617a515d",
+    "venue_name": "Regus | Bishops Way",
+    "latitude": 43.028804779052734,
+    "longitude": -88.07839965820312,
+    "reservations": 3,
+    "spend": 1302.0
+  },
+  {
+    "venue_id": "af603c8c-3af5-4bdb-afe5-e53078e6ba1f",
+    "venue_name": "Regus | WI, Brookfield - Water Tower Blvd",
+    "latitude": 43.03089904785156,
+    "longitude": -88.16480255126953,
+    "reservations": 10,
+    "spend": 1244.0
+  },
+  {
+    "venue_id": "b026818b-8f7f-41b8-88aa-b4f6e4f2beca",
+    "venue_name": "Regus | Brookfield - Wisconsin Ave",
+    "latitude": 43.03947448730469,
+    "longitude": -88.12245178222656,
+    "reservations": 7,
+    "spend": 1050.0
+  }
+]

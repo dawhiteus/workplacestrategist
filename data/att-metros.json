@@ -1,0 +1,826 @@
+[
+  {
+    "city": "Dublin",
+    "state": "CA",
+    "reservations": 1017,
+    "total_spend": 369738.0,
+    "venues": 2,
+    "members": 51
+  },
+  {
+    "city": "Bellflower",
+    "state": "CA",
+    "reservations": 920,
+    "total_spend": 304940.0,
+    "venues": 1,
+    "members": 31
+  },
+  {
+    "city": "Modesto",
+    "state": "CA",
+    "reservations": 689,
+    "total_spend": 205955.0,
+    "venues": 4,
+    "members": 24
+  },
+  {
+    "city": "El Segundo",
+    "state": "CA",
+    "reservations": 1134,
+    "total_spend": 176638.0,
+    "venues": 3,
+    "members": 159
+  },
+  {
+    "city": "Turlock",
+    "state": "CA",
+    "reservations": 431,
+    "total_spend": 107005.0,
+    "venues": 1,
+    "members": 10
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "reservations": 378,
+    "total_spend": 78176.43,
+    "venues": 10,
+    "members": 26
+  },
+  {
+    "city": "Gilroy",
+    "state": "CA",
+    "reservations": 1256,
+    "total_spend": 76685.0,
+    "venues": 2,
+    "members": 18
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 856,
+    "total_spend": 65571.3,
+    "venues": 7,
+    "members": 23
+  },
+  {
+    "city": "Tacoma",
+    "state": "WA",
+    "reservations": 230,
+    "total_spend": 58208.0,
+    "venues": 8,
+    "members": 6
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "reservations": 495,
+    "total_spend": 53059.47,
+    "venues": 16,
+    "members": 26
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 276,
+    "total_spend": 41747.2,
+    "venues": 26,
+    "members": 45
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 87,
+    "total_spend": 32945.0,
+    "venues": 11,
+    "members": 11
+  },
+  {
+    "city": "Reno",
+    "state": "NV",
+    "reservations": 127,
+    "total_spend": 32816.4,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Temecula",
+    "state": "CA",
+    "reservations": 84,
+    "total_spend": 31857.19,
+    "venues": 5,
+    "members": 12
+  },
+  {
+    "city": "Tracy",
+    "state": "CA",
+    "reservations": 166,
+    "total_spend": 23590.0,
+    "venues": 1,
+    "members": 8
+  },
+  {
+    "city": "Riverside",
+    "state": "CA",
+    "reservations": 129,
+    "total_spend": 22660.0,
+    "venues": 4,
+    "members": 15
+  },
+  {
+    "city": "Boise",
+    "state": "ID",
+    "reservations": 90,
+    "total_spend": 22345.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Sunnyvale",
+    "state": "CA",
+    "reservations": 100,
+    "total_spend": 21339.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Colorado Springs",
+    "state": "CO",
+    "reservations": 91,
+    "total_spend": 17807.2,
+    "venues": 7,
+    "members": 7
+  },
+  {
+    "city": "Loveland",
+    "state": "CO",
+    "reservations": 65,
+    "total_spend": 17525.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Lafayette",
+    "state": "CO",
+    "reservations": 62,
+    "total_spend": 17120.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Pasadena",
+    "state": "CA",
+    "reservations": 116,
+    "total_spend": 16445.0,
+    "venues": 4,
+    "members": 26
+  },
+  {
+    "city": "Pleasanton",
+    "state": "CA",
+    "reservations": 121,
+    "total_spend": 15999.0,
+    "venues": 1,
+    "members": 11
+  },
+  {
+    "city": "Fairfield",
+    "state": "CA",
+    "reservations": 171,
+    "total_spend": 14055.0,
+    "venues": 1,
+    "members": 9
+  },
+  {
+    "city": "Sandy",
+    "state": "UT",
+    "reservations": 43,
+    "total_spend": 12090.0,
+    "venues": 1,
+    "members": 10
+  },
+  {
+    "city": "Kalispell",
+    "state": "MT",
+    "reservations": 78,
+    "total_spend": 10947.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Lake Oswego",
+    "state": "OR",
+    "reservations": 36,
+    "total_spend": 10465.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Los Gatos",
+    "state": "CA",
+    "reservations": 54,
+    "total_spend": 8970.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "reservations": 49,
+    "total_spend": 8801.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Valencia",
+    "state": "CA",
+    "reservations": 51,
+    "total_spend": 8793.28,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "El Monte",
+    "state": "CA",
+    "reservations": 50,
+    "total_spend": 7935.0,
+    "venues": 1,
+    "members": 15
+  },
+  {
+    "city": "Bakersfield",
+    "state": "CA",
+    "reservations": 24,
+    "total_spend": 7180.0,
+    "venues": 3,
+    "members": 6
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "reservations": 14,
+    "total_spend": 6109.0,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "Walnut Creek",
+    "state": "CA",
+    "reservations": 44,
+    "total_spend": 5770.0,
+    "venues": 2,
+    "members": 5
+  },
+  {
+    "city": "Ontario",
+    "state": "CA",
+    "reservations": 37,
+    "total_spend": 5040.0,
+    "venues": 4,
+    "members": 11
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "reservations": 125,
+    "total_spend": 4960.0,
+    "venues": 5,
+    "members": 5
+  },
+  {
+    "city": "Concord",
+    "state": "CA",
+    "reservations": 55,
+    "total_spend": 4417.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "San Ramon",
+    "state": "CA",
+    "reservations": 34,
+    "total_spend": 4070.0,
+    "venues": 2,
+    "members": 7
+  },
+  {
+    "city": "Federal Way",
+    "state": "WA",
+    "reservations": 17,
+    "total_spend": 3940.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 20,
+    "total_spend": 3923.5,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Honolulu",
+    "state": "HI",
+    "reservations": 25,
+    "total_spend": 3758.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "reservations": 34,
+    "total_spend": 3753.0,
+    "venues": 3,
+    "members": 11
+  },
+  {
+    "city": "Englewood",
+    "state": "CO",
+    "reservations": 6,
+    "total_spend": 3750.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Greenwood Village",
+    "state": "CO",
+    "reservations": 7,
+    "total_spend": 3623.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Santa Barbara",
+    "state": "CA",
+    "reservations": 24,
+    "total_spend": 3580.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "reservations": 17,
+    "total_spend": 3495.0,
+    "venues": 5,
+    "members": 7
+  },
+  {
+    "city": "Santa Clara",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 3465.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Campbell",
+    "state": "CA",
+    "reservations": 22,
+    "total_spend": 3268.62,
+    "venues": 4,
+    "members": 7
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "reservations": 27,
+    "total_spend": 3202.0,
+    "venues": 7,
+    "members": 15
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 19,
+    "total_spend": 3048.5,
+    "venues": 5,
+    "members": 2
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 11,
+    "total_spend": 2867.0,
+    "venues": 9,
+    "members": 5
+  },
+  {
+    "city": "Long Beach",
+    "state": "CA",
+    "reservations": 19,
+    "total_spend": 2855.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Spokane",
+    "state": "WA",
+    "reservations": 12,
+    "total_spend": 2615.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "La Palma",
+    "state": "CA",
+    "reservations": 17,
+    "total_spend": 2563.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Glen Allen",
+    "state": "VA",
+    "reservations": 9,
+    "total_spend": 2535.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Oakland",
+    "state": "CA",
+    "reservations": 9,
+    "total_spend": 2470.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Henderson",
+    "state": "NV",
+    "reservations": 22,
+    "total_spend": 2435.08,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Westminster",
+    "state": "CO",
+    "reservations": 10,
+    "total_spend": 2434.0,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Cupertino",
+    "state": "CA",
+    "reservations": 14,
+    "total_spend": 2335.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "San Mateo",
+    "state": "CA",
+    "reservations": 17,
+    "total_spend": 2295.0,
+    "venues": 3,
+    "members": 8
+  },
+  {
+    "city": "Fresno",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 2205.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Santa Cruz",
+    "state": "CA",
+    "reservations": 65,
+    "total_spend": 2202.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Burlingame",
+    "state": "CA",
+    "reservations": 9,
+    "total_spend": 1890.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Westlake Village",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 1831.72,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Northglenn",
+    "state": "CO",
+    "reservations": 21,
+    "total_spend": 1829.0,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Tarzana",
+    "state": "CA",
+    "reservations": 15,
+    "total_spend": 1800.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Pleasant Hill",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 1780.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Felton",
+    "state": "CA",
+    "reservations": 31,
+    "total_spend": 1760.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Provo",
+    "state": "UT",
+    "reservations": 5,
+    "total_spend": 1710.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Milpitas",
+    "state": "CA",
+    "reservations": 37,
+    "total_spend": 1500.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Redondo Beach",
+    "state": "CA",
+    "reservations": 27,
+    "total_spend": 1485.0,
+    "venues": 1,
+    "members": 14
+  },
+  {
+    "city": "Newport Beach",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1445.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Ogden",
+    "state": "UT",
+    "reservations": 8,
+    "total_spend": 1350.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Aurora",
+    "state": "CO",
+    "reservations": 5,
+    "total_spend": 1320.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Littleton",
+    "state": "CO",
+    "reservations": 3,
+    "total_spend": 1305.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "reservations": 21,
+    "total_spend": 1185.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Charleston",
+    "state": "SC",
+    "reservations": 3,
+    "total_spend": 1104.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Camarillo",
+    "state": "CA",
+    "reservations": 31,
+    "total_spend": 900.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Henrico",
+    "state": "VA",
+    "reservations": 4,
+    "total_spend": 890.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Bedford",
+    "state": "NH",
+    "reservations": 4,
+    "total_spend": 889.14,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 841.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Culver City",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 795.0,
+    "venues": 1,
+    "members": 7
+  },
+  {
+    "city": "Louisville",
+    "state": "CO",
+    "reservations": 4,
+    "total_spend": 760.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Eagle",
+    "state": "ID",
+    "reservations": 6,
+    "total_spend": 730.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Gig Harbor",
+    "state": "WA",
+    "reservations": 6,
+    "total_spend": 700.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Beverly Hills",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 640.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "reservations": 8,
+    "total_spend": 630.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 5,
+    "total_spend": 594.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Lomita",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 585.0,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Oxnard",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 578.8,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Surprise",
+    "state": "AZ",
+    "reservations": 8,
+    "total_spend": 570.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Larkspur",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 570.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Orange",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 490.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Portsmouth",
+    "state": "NH",
+    "reservations": 3,
+    "total_spend": 466.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Fullerton",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 407.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Newark",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 386.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Olympia",
+    "state": "WA",
+    "reservations": 4,
+    "total_spend": 346.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Rocklin",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 315.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Calabasas",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 300.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Henrietta",
+    "state": "NY",
+    "reservations": 8,
+    "total_spend": 270.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Berkeley",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 85.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Lafayette",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 85.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Folsom",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 54.0,
+    "venues": 1,
+    "members": 1
+  }
+]

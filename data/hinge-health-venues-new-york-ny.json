@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 94,
+    "spend": 8495.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 73,
+    "spend": 7010.0
+  },
+  {
+    "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
+    "venue_name": "WeWork | 368 9th Ave",
+    "latitude": 40.751068115234375,
+    "longitude": -73.99771881103516,
+    "reservations": 103,
+    "spend": 4505.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 22,
+    "spend": 3410.0
+  },
+  {
+    "venue_id": "be9ca194-8fe2-434d-a726-d34c135f2580",
+    "venue_name": "Spaces | 142 W 57th St",
+    "latitude": 40.76482391357422,
+    "longitude": -73.97923278808594,
+    "reservations": 50,
+    "spend": 2914.0
+  },
+  {
+    "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
+    "venue_name": "The Malin Flatiron",
+    "latitude": 40.738895416259766,
+    "longitude": -73.989990234375,
+    "reservations": 27,
+    "spend": 2405.0
+  },
+  {
+    "venue_id": "ca9acf9c-f827-4bba-920f-83aea82d9881",
+    "venue_name": "WeWork | 27 E 28th St",
+    "latitude": 40.74388885498047,
+    "longitude": -73.98506164550781,
+    "reservations": 18,
+    "spend": 1062.0
+  },
+  {
+    "venue_id": "005153ba-0b22-4750-96b2-c3315e55f014",
+    "venue_name": "345 On Seventh",
+    "latitude": 40.74806213378906,
+    "longitude": -73.99241638183594,
+    "reservations": 3,
+    "spend": 990.0
+  },
+  {
+    "venue_id": "f533cbcb-e1d5-4226-a28d-82e1fd479fa9",
+    "venue_name": "WeWork | 33 Irving Pl",
+    "latitude": 40.735137939453125,
+    "longitude": -73.98824310302734,
+    "reservations": 12,
+    "spend": 708.0
+  },
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.73402404785156,
+    "longitude": -74.00786590576172,
+    "reservations": 8,
+    "spend": 660.0
+  },
+  {
+    "venue_id": "da075775-0b2b-4bc7-bdda-96b4aa5ffc19",
+    "venue_name": "WeWork | 115 Broadway",
+    "latitude": 40.70888137817383,
+    "longitude": -74.01142883300781,
+    "reservations": 6,
+    "spend": 224.0
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639221191406,
+    "longitude": -73.98652648925781,
+    "reservations": 3,
+    "spend": 147.0
+  }
+]

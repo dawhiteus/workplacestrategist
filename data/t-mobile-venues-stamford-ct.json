@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "eb04b57f-9093-4d83-99d3-1e79bc195838",
+    "venue_name": "Serendipity Labs - Stamford",
+    "latitude": 41.04464340209961,
+    "longitude": -73.53203582763672,
+    "reservations": 24,
+    "spend": 20220.0
+  },
+  {
+    "venue_id": "f598dab1-73b5-4f46-a5dc-afa76f4830bc",
+    "venue_name": "Regus | One Stamford Plaza",
+    "latitude": 41.05195236206055,
+    "longitude": -73.53418731689453,
+    "reservations": 2,
+    "spend": 853.66
+  },
+  {
+    "venue_id": "d87a65af-fd16-44a5-a0c8-11eac28b5b00",
+    "venue_name": "Connecticut Business Centers",
+    "latitude": 41.05465316772461,
+    "longitude": -73.53800964355469,
+    "reservations": 3,
+    "spend": 490.0
+  },
+  {
+    "venue_id": "fd27d5bc-83ea-447a-aff1-6544740a74aa",
+    "venue_name": "HQ | CT, Stamford - Summer Street",
+    "latitude": 41.0536994934082,
+    "longitude": -73.54090118408203,
+    "reservations": 3,
+    "spend": 442.0
+  },
+  {
+    "venue_id": "abe79c82-e386-442a-83db-8d9a626bf67d",
+    "venue_name": "Regus | Soundview",
+    "latitude": 41.060062408447266,
+    "longitude": -73.50981903076172,
+    "reservations": 2,
+    "spend": 294.0
+  }
+]

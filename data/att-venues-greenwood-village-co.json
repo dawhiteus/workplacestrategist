@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "88e25536-0f8f-41c4-8cd8-77764f15b8ce",
+    "venue_name": "Venture X | Greenwood Village",
+    "latitude": 39.5997428894043,
+    "longitude": -104.8894271850586,
+    "reservations": 4,
+    "spend": 2448.0
+  },
+  {
+    "venue_id": "cfba912c-0e87-4a02-b6f0-013d02fc1046",
+    "venue_name": "3to5 Club",
+    "latitude": 39.612342834472656,
+    "longitude": -104.8999252319336,
+    "reservations": 2,
+    "spend": 1000.0
+  }
+]

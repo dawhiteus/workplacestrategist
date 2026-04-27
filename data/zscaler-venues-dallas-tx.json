@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4aa0aa63-1c66-426b-9c0c-7d270054a7da",
+    "venue_name": "Common Desk - Dallas Arts District",
+    "latitude": 32.787532806396484,
+    "longitude": -96.79916381835938,
+    "reservations": 9,
+    "spend": 1805.0
+  },
+  {
+    "venue_id": "8e63e213-ccab-4320-87fe-d438055d926d",
+    "venue_name": "Industrious - Dallas Farmers Market",
+    "latitude": 32.77783203125,
+    "longitude": -96.78937530517578,
+    "reservations": 3,
+    "spend": 189.0
+  }
+]

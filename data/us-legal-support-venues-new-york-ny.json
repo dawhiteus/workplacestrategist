@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.7594108581543,
+    "longitude": -73.97814178466797,
+    "reservations": 4,
+    "spend": 2570.0
+  },
+  {
+    "venue_id": "03eb6821-13f2-4924-91d6-6f273595e966",
+    "venue_name": "Select Office Suites - 1115 Broadway Flatiron NYC",
+    "latitude": 40.74293899536133,
+    "longitude": -73.98927307128906,
+    "reservations": 3,
+    "spend": 420.0
+  }
+]

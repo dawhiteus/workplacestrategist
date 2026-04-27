@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ae6f8c3e-2fe8-49d1-8a28-e4f40b333c03",
+    "venue_name": "Quest Workspaces- Coral Gables",
+    "latitude": 25.74846076965332,
+    "longitude": -80.25847625732422,
+    "reservations": 4,
+    "spend": 1174.0
+  },
+  {
+    "venue_id": "d96f15ea-0d17-4116-81f5-412709be17f1",
+    "venue_name": "Regus | Coral Gables",
+    "latitude": 25.75038719177246,
+    "longitude": -80.25695037841797,
+    "reservations": 3,
+    "spend": 464.83
+  },
+  {
+    "venue_id": "50f76d75-8623-4d07-bb9b-d9fe68bf194b",
+    "venue_name": "WeWork | Giralda Place",
+    "latitude": 25.751279830932617,
+    "longitude": -80.25956726074219,
+    "reservations": 6,
+    "spend": 282.0
+  }
+]

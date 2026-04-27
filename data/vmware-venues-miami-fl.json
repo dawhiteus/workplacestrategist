@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9d6c3182-77ca-447a-a787-26ddb105b7a5",
+    "venue_name": "B\u00fcro Coconut Grove",
+    "latitude": 25.727617263793945,
+    "longitude": -80.2420883178711,
+    "reservations": 47,
+    "spend": 7940.0
+  },
+  {
+    "venue_id": "b8dee293-e85d-482f-9145-9cb779ceab59",
+    "venue_name": "Quest Workspaces- 1395 Brickell",
+    "latitude": 25.76058006286621,
+    "longitude": -80.19120788574219,
+    "reservations": 17,
+    "spend": 3915.0
+  },
+  {
+    "venue_id": "b8c9834e-2064-4178-81b0-9c1bcdf96261",
+    "venue_name": "Quest Workspaces 777 Brickell Ave",
+    "latitude": 25.766460418701172,
+    "longitude": -80.1897201538086,
+    "reservations": 4,
+    "spend": 775.0
+  }
+]

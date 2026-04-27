@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cf027884-f8bf-4045-b3c4-94e349a0f0da",
+    "venue_name": "Office Evolution - Burlington",
+    "latitude": 42.48749542236328,
+    "longitude": -71.19734191894531,
+    "reservations": 18,
+    "spend": 7525.0
+  },
+  {
+    "venue_id": "0143dd71-3a80-4ebf-a215-c86d1b06e146",
+    "venue_name": "Boston Offices Burlington Center",
+    "latitude": 42.49148941040039,
+    "longitude": -71.19540405273438,
+    "reservations": 5,
+    "spend": 2702.0
+  }
+]

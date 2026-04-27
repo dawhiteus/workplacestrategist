@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f7b141a0-8e11-0132-226b-1efb49eb59b4",
+    "venue_name": "WeWork | 85 Broad St",
+    "latitude": 40.7039909362793,
+    "longitude": -74.01109313964844,
+    "reservations": 11,
+    "spend": 498.0
+  },
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 3,
+    "spend": 225.0
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 39,
+    "total_spend": 9305.25,
+    "venues": 7,
+    "members": 12
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 8,
+    "total_spend": 7515.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 31,
+    "total_spend": 6810.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 9,
+    "total_spend": 5120.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 7,
+    "total_spend": 4225.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "reservations": 7,
+    "total_spend": 3780.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 6,
+    "total_spend": 3730.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Metairie",
+    "state": "LA",
+    "reservations": 12,
+    "total_spend": 3568.81,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "reservations": 6,
+    "total_spend": 3156.5,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Overland Park",
+    "state": "KS",
+    "reservations": 6,
+    "total_spend": 2496.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Baltimore",
+    "state": "MD",
+    "reservations": 7,
+    "total_spend": 1650.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Jackson",
+    "state": "MS",
+    "reservations": 4,
+    "total_spend": 1200.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Des Moines",
+    "state": "IA",
+    "reservations": 3,
+    "total_spend": 903.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Dearborn",
+    "state": "MI",
+    "reservations": 6,
+    "total_spend": 900.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 3,
+    "total_spend": 840.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Birmingham",
+    "state": "AL",
+    "reservations": 3,
+    "total_spend": 825.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "reservations": 4,
+    "total_spend": 750.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Kansas City",
+    "state": "MO",
+    "reservations": 4,
+    "total_spend": 624.0,
+    "venues": 2,
+    "members": 2
+  }
+]

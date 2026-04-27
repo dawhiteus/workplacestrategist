@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "787c23bd-5ab9-494c-ab2f-4d2bf3e91852",
+    "venue_name": "Office Evolution - Flowood (Jackson)",
+    "latitude": 32.31806182861328,
+    "longitude": -90.09195709228516,
+    "reservations": 28,
+    "spend": 7085.0
+  },
+  {
+    "venue_id": "174fe48c-d0e0-480c-9c1e-b80f10c96e0e",
+    "venue_name": "Regus | MS, Jackson - Flowood -  Market Street",
+    "latitude": 32.339599609375,
+    "longitude": -90.06089782714844,
+    "reservations": 2,
+    "spend": 650.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
+    "venue_name": "AvantSpace- Greenwich St.",
+    "latitude": 37.798858642578125,
+    "longitude": -122.43561553955078,
+    "reservations": 32,
+    "spend": 23666.0
+  },
+  {
+    "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
+    "venue_name": "WeWork | Two Embarcadero Center",
+    "latitude": 37.7947883605957,
+    "longitude": -122.39840698242188,
+    "reservations": 41,
+    "spend": 23663.0
+  },
+  {
+    "venue_id": "ec998576-713d-4905-8abe-5d4035366f4f",
+    "venue_name": "Cookline Construction, Inc.",
+    "latitude": 37.758270263671875,
+    "longitude": -122.39466857910156,
+    "reservations": 11,
+    "spend": 855.0
+  },
+  {
+    "venue_id": "fb251996-b4fd-4b36-b7b0-eba293fa9934",
+    "venue_name": "WeWork | 44 Montgomery",
+    "latitude": 37.789730072021484,
+    "longitude": -122.40190887451172,
+    "reservations": 6,
+    "spend": 354.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 8,
+    "spend": 320.0
+  },
+  {
+    "venue_id": "e6089ee6-1ad5-4bf0-8936-43a5bba00940",
+    "venue_name": "The House by Edge & Node",
+    "latitude": 37.800899505615234,
+    "longitude": -122.45897674560547,
+    "reservations": 7,
+    "spend": 315.0
+  },
+  {
+    "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
+    "venue_name": "WeWork | Salesforce Tower",
+    "latitude": 37.789817810058594,
+    "longitude": -122.39690399169922,
+    "reservations": 3,
+    "spend": 246.0
+  }
+]

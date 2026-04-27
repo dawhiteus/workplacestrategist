@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6ec86632-8b77-4e36-965b-527efc07d8c1",
+    "venue_name": "SPACES | Huntsville - Spaces Redstone Arsenal",
+    "latitude": 34.696495056152344,
+    "longitude": -86.67442321777344,
+    "reservations": 12,
+    "spend": 4482.61
+  },
+  {
+    "venue_id": "06409439-f8eb-4a59-85d3-1f0784e78b41",
+    "venue_name": "Regus | Cummings Research Park",
+    "latitude": 34.71193313598633,
+    "longitude": -86.6767578125,
+    "reservations": 24,
+    "spend": 2728.31
+  }
+]

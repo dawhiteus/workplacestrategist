@@ -1,0 +1,906 @@
+[
+  {
+    "city": "Naples",
+    "state": "FL",
+    "reservations": 52,
+    "total_spend": 13110.0,
+    "venues": 2,
+    "members": 10
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 40,
+    "total_spend": 11820.0,
+    "venues": 11,
+    "members": 12
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 29,
+    "total_spend": 8446.0,
+    "venues": 7,
+    "members": 5
+  },
+  {
+    "city": "Fresno",
+    "state": "CA",
+    "reservations": 19,
+    "total_spend": 7757.0,
+    "venues": 2,
+    "members": 8
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 22,
+    "total_spend": 7037.5,
+    "venues": 7,
+    "members": 7
+  },
+  {
+    "city": "Oxnard",
+    "state": "CA",
+    "reservations": 17,
+    "total_spend": 5860.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 17,
+    "total_spend": 5443.0,
+    "venues": 6,
+    "members": 6
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 15,
+    "total_spend": 5290.0,
+    "venues": 10,
+    "members": 7
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "reservations": 16,
+    "total_spend": 4830.0,
+    "venues": 5,
+    "members": 6
+  },
+  {
+    "city": "Modesto",
+    "state": "CA",
+    "reservations": 15,
+    "total_spend": 4705.0,
+    "venues": 3,
+    "members": 6
+  },
+  {
+    "city": "Oakland",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 4396.0,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "Fairfield",
+    "state": "CA",
+    "reservations": 9,
+    "total_spend": 4230.0,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Bradenton",
+    "state": "FL",
+    "reservations": 49,
+    "total_spend": 3815.0,
+    "venues": 2,
+    "members": 8
+  },
+  {
+    "city": "Pensacola",
+    "state": "FL",
+    "reservations": 23,
+    "total_spend": 3810.0,
+    "venues": 1,
+    "members": 9
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "reservations": 9,
+    "total_spend": 3750.0,
+    "venues": 3,
+    "members": 6
+  },
+  {
+    "city": "Lake Mary",
+    "state": "FL",
+    "reservations": 39,
+    "total_spend": 3732.0,
+    "venues": 2,
+    "members": 7
+  },
+  {
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "reservations": 17,
+    "total_spend": 3714.0,
+    "venues": 2,
+    "members": 7
+  },
+  {
+    "city": "Walnut Creek",
+    "state": "CA",
+    "reservations": 9,
+    "total_spend": 3540.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Ontario",
+    "state": "CA",
+    "reservations": 12,
+    "total_spend": 3520.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Riverside",
+    "state": "CA",
+    "reservations": 19,
+    "total_spend": 3375.0,
+    "venues": 5,
+    "members": 5
+  },
+  {
+    "city": "Dublin",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 3321.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Cocoa Beach",
+    "state": "FL",
+    "reservations": 26,
+    "total_spend": 3215.0,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 3163.0,
+    "venues": 5,
+    "members": 6
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 11,
+    "total_spend": 3160.0,
+    "venues": 7,
+    "members": 9
+  },
+  {
+    "city": "Ponte Vedra Beach",
+    "state": "FL",
+    "reservations": 26,
+    "total_spend": 3150.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Minneapolis",
+    "state": "MN",
+    "reservations": 5,
+    "total_spend": 3065.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "reservations": 14,
+    "total_spend": 2815.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Detroit",
+    "state": "MI",
+    "reservations": 7,
+    "total_spend": 2775.0,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "reservations": 11,
+    "total_spend": 2715.0,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 2450.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 8,
+    "total_spend": 2370.0,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "DeLand",
+    "state": "FL",
+    "reservations": 20,
+    "total_spend": 2370.0,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Fort Myers",
+    "state": "FL",
+    "reservations": 17,
+    "total_spend": 2370.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Grand Rapids",
+    "state": "MI",
+    "reservations": 10,
+    "total_spend": 2334.0,
+    "venues": 4,
+    "members": 6
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "reservations": 17,
+    "total_spend": 2236.0,
+    "venues": 10,
+    "members": 7
+  },
+  {
+    "city": "Clearwater",
+    "state": "FL",
+    "reservations": 22,
+    "total_spend": 2180.0,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "San Rafael",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 2175.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Ocala",
+    "state": "FL",
+    "reservations": 14,
+    "total_spend": 2150.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Santa Barbara",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 2075.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Indian Harbour Beach",
+    "state": "FL",
+    "reservations": 26,
+    "total_spend": 2032.5,
+    "venues": 1,
+    "members": 7
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "reservations": 8,
+    "total_spend": 2000.0,
+    "venues": 6,
+    "members": 5
+  },
+  {
+    "city": "Orange Park",
+    "state": "FL",
+    "reservations": 17,
+    "total_spend": 1925.0,
+    "venues": 1,
+    "members": 7
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "reservations": 9,
+    "total_spend": 1910.0,
+    "venues": 6,
+    "members": 5
+  },
+  {
+    "city": "Port St. Lucie",
+    "state": "FL",
+    "reservations": 13,
+    "total_spend": 1905.0,
+    "venues": 2,
+    "members": 7
+  },
+  {
+    "city": "Daytona Beach",
+    "state": "FL",
+    "reservations": 13,
+    "total_spend": 1898.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "reservations": 7,
+    "total_spend": 1850.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 13,
+    "total_spend": 1834.44,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "White Plains",
+    "state": "NY",
+    "reservations": 4,
+    "total_spend": 1761.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "St. Petersburg",
+    "state": "FL",
+    "reservations": 18,
+    "total_spend": 1732.5,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "Aventura",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 1670.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "reservations": 7,
+    "total_spend": 1600.0,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "Richmond",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1575.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "reservations": 8,
+    "total_spend": 1561.0,
+    "venues": 6,
+    "members": 6
+  },
+  {
+    "city": "Monterey",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 1545.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Palmetto Bay",
+    "state": "FL",
+    "reservations": 10,
+    "total_spend": 1536.0,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Long Beach",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1518.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Albany",
+    "state": "NY",
+    "reservations": 6,
+    "total_spend": 1500.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Temecula",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 1488.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Lakewood Ranch",
+    "state": "FL",
+    "reservations": 10,
+    "total_spend": 1425.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Memphis",
+    "state": "TN",
+    "reservations": 9,
+    "total_spend": 1408.0,
+    "venues": 2,
+    "members": 7
+  },
+  {
+    "city": "Menlo Park",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 1370.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Tracy",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1275.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Sterling Heights",
+    "state": "MI",
+    "reservations": 7,
+    "total_spend": 1260.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 1230.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "reservations": 5,
+    "total_spend": 1194.0,
+    "venues": 5,
+    "members": 5
+  },
+  {
+    "city": "Staten Island",
+    "state": "NY",
+    "reservations": 7,
+    "total_spend": 1170.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Valencia",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 1140.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 3,
+    "total_spend": 1137.2,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 6,
+    "total_spend": 1135.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Livonia",
+    "state": "MI",
+    "reservations": 6,
+    "total_spend": 1128.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "reservations": 8,
+    "total_spend": 1125.0,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "reservations": 5,
+    "total_spend": 1059.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Land O' Lakes",
+    "state": "FL",
+    "reservations": 8,
+    "total_spend": 1050.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "reservations": 4,
+    "total_spend": 1025.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Chico",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 1005.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Santa Cruz",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 895.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Fort Collins",
+    "state": "CO",
+    "reservations": 5,
+    "total_spend": 850.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "La Mirada",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 840.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Winston-Salem",
+    "state": "NC",
+    "reservations": 5,
+    "total_spend": 840.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Tarpon Springs",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 825.0,
+    "venues": 2,
+    "members": 5
+  },
+  {
+    "city": "Palm City",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 820.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Kissimmee",
+    "state": "FL",
+    "reservations": 10,
+    "total_spend": 811.0,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Knoxville",
+    "state": "TN",
+    "reservations": 5,
+    "total_spend": 810.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Culver City",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 770.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Fort Worth",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 762.5,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Plantation",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 740.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Stuart",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 715.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 705.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Brandon",
+    "state": "FL",
+    "reservations": 5,
+    "total_spend": 700.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Montgomery",
+    "state": "TX",
+    "reservations": 4,
+    "total_spend": 675.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Nevada City",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 660.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Queens",
+    "state": "NY",
+    "reservations": 3,
+    "total_spend": 650.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Aston",
+    "state": "PA",
+    "reservations": 3,
+    "total_spend": 640.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Brighton",
+    "state": "MI",
+    "reservations": 4,
+    "total_spend": 606.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Venice",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 605.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Bakersfield",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 595.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Marietta",
+    "state": "GA",
+    "reservations": 3,
+    "total_spend": 585.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Concord",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 551.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Palmdale",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 525.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Arlington",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 515.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Winter Garden",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 490.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 460.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Gilroy",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 425.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Lutz",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 390.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Amarillo",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 385.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Palm Beach",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 348.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Fayetteville",
+    "state": "NC",
+    "reservations": 3,
+    "total_spend": 320.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Doral",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 285.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Baltimore",
+    "state": "MD",
+    "reservations": 3,
+    "total_spend": 250.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Katy",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 250.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Fort Pierce",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 228.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Winter Park",
+    "state": "FL",
+    "reservations": 5,
+    "total_spend": 200.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Tallahassee",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 129.0,
+    "venues": 1,
+    "members": 2
+  }
+]

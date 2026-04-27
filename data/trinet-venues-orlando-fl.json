@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "fe7cb8c1-7d06-40a7-8b7b-38d5d0322818",
+    "venue_name": "Venture X | Downtown Orlando",
+    "latitude": 28.541105270385742,
+    "longitude": -81.37689971923828,
+    "reservations": 48,
+    "spend": 17575.0
+  },
+  {
+    "venue_id": "dc636eef-6ae2-40ca-9654-7934252c879d",
+    "venue_name": "Serendipity Labs Orlando - Downtown",
+    "latitude": 28.53705596923828,
+    "longitude": -81.37933349609375,
+    "reservations": 15,
+    "spend": 3908.0
+  },
+  {
+    "venue_id": "65fb4656-c5b6-46d1-8f52-a4529f7dcf34",
+    "venue_name": "The Conduit",
+    "latitude": 28.558122634887695,
+    "longitude": -81.37882232666016,
+    "reservations": 6,
+    "spend": 2535.0
+  },
+  {
+    "venue_id": "4ebfc06a-9caf-44f5-9dcc-b5849a8e7927",
+    "venue_name": "Expansive - Angebilt Building",
+    "latitude": 28.542749404907227,
+    "longitude": -81.3788833618164,
+    "reservations": 10,
+    "spend": 1365.0
+  },
+  {
+    "venue_id": "616d7a6b-3d3c-4fb1-902f-cd7d1fd1fa1e",
+    "venue_name": "Orlando Office Center - Downtown Orlando",
+    "latitude": 28.547069549560547,
+    "longitude": -81.37991333007812,
+    "reservations": 2,
+    "spend": 333.0
+  }
+]

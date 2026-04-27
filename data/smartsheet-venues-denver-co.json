@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
+    "venue_name": "Venture X | LoDo",
+    "latitude": 39.75336456298828,
+    "longitude": -104.99684143066406,
+    "reservations": 11,
+    "spend": 12612.0
+  },
+  {
+    "venue_id": "7d1564c9-861a-48cf-b5e7-de0458c35d51",
+    "venue_name": "Serendipity Labs - Denver - LoDo",
+    "latitude": 39.75555419921875,
+    "longitude": -105.00009155273438,
+    "reservations": 11,
+    "spend": 9345.0
+  },
+  {
+    "venue_id": "c1ca6830-86b1-446e-8486-4a12ee7ab1da",
+    "venue_name": "Shift Workspaces | Bannock",
+    "latitude": 39.73221969604492,
+    "longitude": -104.99066162109375,
+    "reservations": 12,
+    "spend": 8919.0
+  },
+  {
+    "venue_id": "f19bdf9b-2388-43af-aba2-08ab0d1fe1bc",
+    "venue_name": "Candy Factory Coworking",
+    "latitude": 39.74629211425781,
+    "longitude": -104.99549102783203,
+    "reservations": 17,
+    "spend": 8538.0
+  },
+  {
+    "venue_id": "6dec1a18-4016-4954-af3b-e21d74ac2f28",
+    "venue_name": "Thrive Workplace @ Ballpark",
+    "latitude": 39.75680160522461,
+    "longitude": -104.98990631103516,
+    "reservations": 6,
+    "spend": 3650.0
+  },
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741546630859375,
+    "longitude": -104.98779296875,
+    "reservations": 7,
+    "spend": 2875.0
+  }
+]

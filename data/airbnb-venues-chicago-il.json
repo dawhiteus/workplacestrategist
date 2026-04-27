@@ -1,0 +1,162 @@
+[
+  {
+    "venue_id": "8dc888d2-5146-4b7f-a842-211e30b4e52e",
+    "venue_name": "Two Thirty",
+    "latitude": 41.895790100097656,
+    "longitude": -87.6356201171875,
+    "reservations": 32,
+    "spend": 2720.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 42,
+    "spend": 2280.0
+  },
+  {
+    "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
+    "venue_name": "350 Coworking | 350 N. Orleans",
+    "latitude": 41.888038635253906,
+    "longitude": -87.63765716552734,
+    "reservations": 17,
+    "spend": 890.0
+  },
+  {
+    "venue_id": "c8075780-e397-465b-b631-4b4cd8d62ccd",
+    "venue_name": "Second Shift",
+    "latitude": 41.93218231201172,
+    "longitude": -87.71360778808594,
+    "reservations": 28,
+    "spend": 840.0
+  },
+  {
+    "venue_id": "a23d9d6d-f148-4766-be2b-f1e28eba0bcb",
+    "venue_name": "WeWork | 1 South Dearborn",
+    "latitude": 41.88167953491211,
+    "longitude": -87.62874603271484,
+    "reservations": 10,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "04ed0f0a-e91f-4273-b13b-649fc0778f38",
+    "venue_name": "Expansive - North Center",
+    "latitude": 41.95161819458008,
+    "longitude": -87.6742172241211,
+    "reservations": 8,
+    "spend": 304.0
+  },
+  {
+    "venue_id": "3b1d7996-78c7-496d-9700-944f948364ee",
+    "venue_name": "Expansive - River North \u2013 Superior",
+    "latitude": 41.895267486572266,
+    "longitude": -87.6390380859375,
+    "reservations": 2,
+    "spend": 228.0
+  },
+  {
+    "venue_id": "18d059f9-efa3-4a3e-9db8-5d6d219ff6c2",
+    "venue_name": "Expansive - Magnificent Mile",
+    "latitude": 41.89278793334961,
+    "longitude": -87.62390899658203,
+    "reservations": 3,
+    "spend": 203.0
+  },
+  {
+    "venue_id": "b3f423ca-ce58-4490-b50e-01f7ea1863d2",
+    "venue_name": "Desk606",
+    "latitude": 41.91713333129883,
+    "longitude": -87.70977783203125,
+    "reservations": 6,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
+    "venue_name": "Carr Workplaces - Aon Center",
+    "latitude": 41.885284423828125,
+    "longitude": -87.62151336669922,
+    "reservations": 3,
+    "spend": 185.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.89024353027344,
+    "longitude": -87.63189697265625,
+    "reservations": 3,
+    "spend": 170.0
+  },
+  {
+    "venue_id": "1bb8484d-f72f-4f39-a55c-23498f14ed24",
+    "venue_name": "WeWork | 515 N State",
+    "latitude": 41.891422271728516,
+    "longitude": -87.62734985351562,
+    "reservations": 3,
+    "spend": 141.0
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.90366744995117,
+    "longitude": -87.63109588623047,
+    "reservations": 4,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "2a8f36b0-0ac0-4358-955d-ecd5f4d735ae",
+    "venue_name": "Workbox - The Loop",
+    "latitude": 41.879905700683594,
+    "longitude": -87.63046264648438,
+    "reservations": 4,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "14d256c9-8a0d-40a7-8d5d-93a483e1e731",
+    "venue_name": "Expansive - The Loop",
+    "latitude": 41.880531311035156,
+    "longitude": -87.63027954101562,
+    "reservations": 2,
+    "spend": 127.0
+  },
+  {
+    "venue_id": "a8d3ecf3-e3a7-441b-8799-0522ba404176",
+    "venue_name": "WeWork | Bridgeview Bank - Uptown",
+    "latitude": 41.96876525878906,
+    "longitude": -87.65911102294922,
+    "reservations": 3,
+    "spend": 119.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505126953125,
+    "longitude": -87.63457489013672,
+    "reservations": 3,
+    "spend": 114.0
+  },
+  {
+    "venue_id": "5c8af16c-fc20-4805-b484-8739db529cee",
+    "venue_name": "WeWork | 448 N LaSalle",
+    "latitude": 41.8906135559082,
+    "longitude": -87.63321685791016,
+    "reservations": 3,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "107f916f-148f-436a-be1e-29c0701be38f",
+    "venue_name": "WeWork | 167 North Green Street",
+    "latitude": 41.885154724121094,
+    "longitude": -87.64849090576172,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890647888183594,
+    "longitude": -87.62683868408203,
+    "reservations": 2,
+    "spend": 60.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a73d2115-0c25-432d-9590-4d839fc9252a",
+    "venue_name": "Life Time Work - St Louis Park",
+    "latitude": 44.966087341308594,
+    "longitude": -93.34577178955078,
+    "reservations": 75,
+    "spend": 6985.0
+  },
+  {
+    "venue_id": "02d6874e-7169-4704-ad7a-866e4dc4a0ff",
+    "venue_name": "Park OffiCenter",
+    "latitude": 44.96889114379883,
+    "longitude": -93.35382080078125,
+    "reservations": 5,
+    "spend": 300.0
+  }
+]

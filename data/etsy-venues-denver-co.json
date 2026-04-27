@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "ae954f2e-8951-4f60-851f-1be3ea831661",
+    "venue_name": "WeWork | Financial House",
+    "latitude": 39.71820831298828,
+    "longitude": -104.95462799072266,
+    "reservations": 39,
+    "spend": 2301.0
+  },
+  {
+    "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
+    "venue_name": "Venture X | LoDo",
+    "latitude": 39.75336456298828,
+    "longitude": -104.99684143066406,
+    "reservations": 15,
+    "spend": 775.0
+  },
+  {
+    "venue_id": "1b290d2e-90c1-45b6-8c33-1432dbfc9029",
+    "venue_name": "WeWork | Triangle Building",
+    "latitude": 39.7525634765625,
+    "longitude": -105.00231170654297,
+    "reservations": 8,
+    "spend": 376.0
+  },
+  {
+    "venue_id": "c16c10e7-d617-4148-b709-6e0e3f7abcfb",
+    "venue_name": "WeWork | The Circa Building",
+    "latitude": 39.75788497924805,
+    "longitude": -105.00798797607422,
+    "reservations": 6,
+    "spend": 282.0
+  },
+  {
+    "venue_id": "7d1564c9-861a-48cf-b5e7-de0458c35d51",
+    "venue_name": "Serendipity Labs - Denver - LoDo",
+    "latitude": 39.75555419921875,
+    "longitude": -105.00009155273438,
+    "reservations": 2,
+    "spend": 118.0
+  },
+  {
+    "venue_id": "0346af01-926c-4808-8ff7-c0e2df5cd649",
+    "venue_name": "Shift Workspaces | Corona",
+    "latitude": 39.721778869628906,
+    "longitude": -104.97438049316406,
+    "reservations": 3,
+    "spend": 87.0
+  },
+  {
+    "venue_id": "ecc9eb17-9a1d-49a1-8ab1-eb99012fa607",
+    "venue_name": "Runway Workspaces (formerly SmartSpace)",
+    "latitude": 39.751220703125,
+    "longitude": -104.88986206054688,
+    "reservations": 4,
+    "spend": 80.0
+  },
+  {
+    "venue_id": "4348879e-06a1-4f24-849f-c04f6a8303f4",
+    "venue_name": "Creative Density | Uptown",
+    "latitude": 39.74635314941406,
+    "longitude": -104.98074340820312,
+    "reservations": 3,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "258b7d7b-eac3-4ff2-9922-db561f467a68",
+    "venue_name": "Venture X | Denver South",
+    "latitude": 39.68086624145508,
+    "longitude": -104.93801879882812,
+    "reservations": 3,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "d34effe4-cff3-4f94-a9dc-a43e6ca1af1d",
+    "venue_name": "Enterprise Coworking | RiNo",
+    "latitude": 39.76162338256836,
+    "longitude": -104.97962951660156,
+    "reservations": 2,
+    "spend": 40.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ea0cf6b9-2703-4a0f-a51e-10d1f0482b30",
+    "venue_name": "Fuse Flex Space",
+    "latitude": 33.268829345703125,
+    "longitude": -111.79212188720703,
+    "reservations": 773,
+    "spend": 303481.0
+  },
+  {
+    "venue_id": "a6afb793-481f-47e8-a40d-51e6996c7466",
+    "venue_name": "Vybe",
+    "latitude": 33.27240753173828,
+    "longitude": -111.79267120361328,
+    "reservations": 339,
+    "spend": 128833.5
+  },
+  {
+    "venue_id": "60496f5c-ff34-4c54-a15c-e164d924f4a2",
+    "venue_name": "Regus | San Tan Corporate Center II",
+    "latitude": 33.320499420166016,
+    "longitude": -111.8949966430664,
+    "reservations": 146,
+    "spend": 52464.81
+  }
+]

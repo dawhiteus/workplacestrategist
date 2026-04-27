@@ -1,0 +1,130 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 12,
+    "total_spend": 3658.0,
+    "venues": 10,
+    "members": 4
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "reservations": 9,
+    "total_spend": 1665.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 7,
+    "total_spend": 1237.0,
+    "venues": 7,
+    "members": 2
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 11,
+    "total_spend": 855.0,
+    "venues": 6,
+    "members": 3
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "reservations": 20,
+    "total_spend": 740.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Modesto",
+    "state": "CA",
+    "reservations": 8,
+    "total_spend": 710.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 700.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 4,
+    "total_spend": 550.0,
+    "venues": 4,
+    "members": 1
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 382.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 5,
+    "total_spend": 360.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "reservations": 6,
+    "total_spend": 343.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 3,
+    "total_spend": 210.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "reservations": 3,
+    "total_spend": 210.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Kansas City",
+    "state": "MO",
+    "reservations": 3,
+    "total_spend": 208.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Chandler",
+    "state": "AZ",
+    "reservations": 4,
+    "total_spend": 140.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 110.0,
+    "venues": 2,
+    "members": 1
+  }
+]

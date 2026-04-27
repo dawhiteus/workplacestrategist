@@ -1,0 +1,122 @@
+[
+  {
+    "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
+    "venue_name": "WeWork | The Domain",
+    "latitude": 30.40485382080078,
+    "longitude": -97.72134399414062,
+    "reservations": 82,
+    "spend": 4484.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.258480072021484,
+    "longitude": -97.72895812988281,
+    "reservations": 32,
+    "spend": 3000.0
+  },
+  {
+    "venue_id": "6a9fbf36-3fc1-434a-a0df-bfa101ac592d",
+    "venue_name": "Common Desk - 6th & Congress",
+    "latitude": 30.268146514892578,
+    "longitude": -97.7422866821289,
+    "reservations": 20,
+    "spend": 975.0
+  },
+  {
+    "venue_id": "de3ed332-a021-44f3-89dc-473da893654d",
+    "venue_name": "fibercove",
+    "latitude": 30.2514705657959,
+    "longitude": -97.76693725585938,
+    "reservations": 9,
+    "spend": 815.0
+  },
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.26758575439453,
+    "longitude": -97.75431823730469,
+    "reservations": 13,
+    "spend": 715.0
+  },
+  {
+    "venue_id": "cb17af79-1aeb-475d-9283-f726ee755628",
+    "venue_name": "Expansive - Austin Highland",
+    "latitude": 30.330394744873047,
+    "longitude": -97.7105484008789,
+    "reservations": 7,
+    "spend": 698.0
+  },
+  {
+    "venue_id": "6b5843d4-1f56-45f2-8754-9878fa92d85f",
+    "venue_name": "Expansive - North Austin",
+    "latitude": 30.443641662597656,
+    "longitude": -97.69578552246094,
+    "reservations": 8,
+    "spend": 608.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192184448242,
+    "longitude": -97.73033905029297,
+    "reservations": 16,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "078af5a6-cc7b-4c8b-ad02-e2d3e98d7a3d",
+    "venue_name": "Regus || 111 Congress",
+    "latitude": 30.263519287109375,
+    "longitude": -97.74358367919922,
+    "reservations": 2,
+    "spend": 438.0
+  },
+  {
+    "venue_id": "cfd6e4d3-63a0-48fc-affd-cd01c86b0092",
+    "venue_name": "FUSE Workspace-Bee Cave",
+    "latitude": 30.324968338012695,
+    "longitude": -97.96041870117188,
+    "reservations": 14,
+    "spend": 420.0
+  },
+  {
+    "venue_id": "d585a2ad-6a56-4459-97b8-df63186dc656",
+    "venue_name": "Cafe Creme",
+    "latitude": 30.231857299804688,
+    "longitude": -97.73563385009766,
+    "reservations": 2,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "d3b8b904-6a57-40cd-a076-aedd4e2bde7d",
+    "venue_name": "WeWork | University Park",
+    "latitude": 30.29123878479004,
+    "longitude": -97.7227783203125,
+    "reservations": 3,
+    "spend": 183.0
+  },
+  {
+    "venue_id": "bcabfec9-e090-4005-ac25-672352a78384",
+    "venue_name": "Regus | North MoPac",
+    "latitude": 30.35260581970215,
+    "longitude": -97.75018310546875,
+    "reservations": 2,
+    "spend": 160.2
+  },
+  {
+    "venue_id": "abb916d1-6285-4240-ba7c-03279779ca71",
+    "venue_name": "Industrious - Victory Plaza",
+    "latitude": 30.324384689331055,
+    "longitude": -97.73906707763672,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "0e007938-151b-49e1-ad2b-73b3c591d710",
+    "venue_name": "Expansive - Plaza on the Lake",
+    "latitude": 30.349681854248047,
+    "longitude": -97.80119323730469,
+    "reservations": 2,
+    "spend": 76.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "69a706c6-8fe1-4738-a4a3-bf8973396cb5",
+    "venue_name": "980 Spaces - Boca Raton",
+    "latitude": 26.359289169311523,
+    "longitude": -80.082763671875,
+    "reservations": 21,
+    "spend": 1630.0
+  },
+  {
+    "venue_id": "cdbf6b15-a818-492d-9a56-6d5cac01de74",
+    "venue_name": "The One Cowork",
+    "latitude": 26.39362907409668,
+    "longitude": -80.07601928710938,
+    "reservations": 5,
+    "spend": 724.0
+  },
+  {
+    "venue_id": "24689e9c-b3d4-4e68-b1ca-d2cc549db71a",
+    "venue_name": "CoSuite Boca Raton",
+    "latitude": 26.367517471313477,
+    "longitude": -80.12244415283203,
+    "reservations": 3,
+    "spend": 585.0
+  }
+]

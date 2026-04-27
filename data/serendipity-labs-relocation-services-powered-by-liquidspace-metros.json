@@ -1,0 +1,10 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 12,
+    "total_spend": 1728.0,
+    "venues": 5,
+    "members": 2
+  }
+]

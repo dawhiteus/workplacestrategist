@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "64a0325e-69cd-422a-97e0-fea1ed965799",
+    "venue_name": "Regus | Shelton",
+    "latitude": 41.27320098876953,
+    "longitude": -73.13410186767578,
+    "reservations": 12,
+    "spend": 2541.36
+  },
+  {
+    "venue_id": "7c82f4c7-7594-4e63-9c8a-4202b30759b3",
+    "venue_name": "Regus | CT, Shelton - 1 Waterview Dr",
+    "latitude": 41.29570007324219,
+    "longitude": -73.08744049072266,
+    "reservations": 11,
+    "spend": 1560.48
+  }
+]

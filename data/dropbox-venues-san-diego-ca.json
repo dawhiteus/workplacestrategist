@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cf5869c0-dbff-4e7a-9996-3053518c12e5",
+    "venue_name": "Downtown Works San Diego",
+    "latitude": 32.718013763427734,
+    "longitude": -117.16799926757812,
+    "reservations": 9,
+    "spend": 4790.0
+  },
+  {
+    "venue_id": "cb5b6511-d665-4625-84c9-a9a6143dffd0",
+    "venue_name": "Downtown Works Pacific Beach",
+    "latitude": 32.79862594604492,
+    "longitude": -117.24076843261719,
+    "reservations": 4,
+    "spend": 930.0
+  }
+]

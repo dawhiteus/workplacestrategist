@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "98e8a00b-7df1-4bea-be2c-d8ee7cf2787b",
+    "venue_name": "Office Evolution - Boulder",
+    "latitude": 40.0217399597168,
+    "longitude": -105.24072265625,
+    "reservations": 19,
+    "spend": 570.0
+  },
+  {
+    "venue_id": "c5845ed8-2f22-453e-8c17-dc0fa5ad0202",
+    "venue_name": "WeWork | Canyon 28",
+    "latitude": 40.017635345458984,
+    "longitude": -105.259033203125,
+    "reservations": 2,
+    "spend": 215.0
+  }
+]

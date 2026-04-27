@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "f48f3f9e-d086-4144-a8ac-003adc53b776",
+    "venue_name": "SPACES | Charlotte - S.Tryon",
+    "latitude": 35.226871490478516,
+    "longitude": -80.84439086914062,
+    "reservations": 6,
+    "spend": 1457.5
+  },
+  {
+    "venue_id": "1c78459c-e5df-4bfb-baae-c57312db265e",
+    "venue_name": "WeWork | 615 S College St",
+    "latitude": 35.22138214111328,
+    "longitude": -80.84795379638672,
+    "reservations": 15,
+    "spend": 1250.0
+  },
+  {
+    "venue_id": "56ca5589-69e7-457e-ae98-2707ab38f018",
+    "venue_name": "YourOffice - Ballantyne (Charlotte, NC)",
+    "latitude": 35.05923843383789,
+    "longitude": -80.85212707519531,
+    "reservations": 5,
+    "spend": 1190.0
+  },
+  {
+    "venue_id": "030546d9-6c6d-404b-8fcf-534933c04d92",
+    "venue_name": "SPACES | Charlotte - Spaces South End",
+    "latitude": 35.209781646728516,
+    "longitude": -80.86433410644531,
+    "reservations": 3,
+    "spend": 1097.88
+  },
+  {
+    "venue_id": "54f4f250-e40f-47c3-b446-1c7defaf52f6",
+    "venue_name": "WeWork | The RailYard South End",
+    "latitude": 35.21723556518555,
+    "longitude": -80.85576629638672,
+    "reservations": 17,
+    "spend": 1060.0
+  },
+  {
+    "venue_id": "55f283ed-d009-43fa-9de0-30339073d042",
+    "venue_name": "Venture X | Charlotte Toringdon",
+    "latitude": 35.06632995605469,
+    "longitude": -80.83941650390625,
+    "reservations": 3,
+    "spend": 995.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "66715a81-5e1a-4598-a8c3-dbda8bb1133a",
+    "venue_name": "Regus | Perimeter Park",
+    "latitude": 33.43741226196289,
+    "longitude": -86.72411346435547,
+    "reservations": 8,
+    "spend": 1455.5
+  },
+  {
+    "venue_id": "34facfe6-770e-48d8-b1a9-740ef10f7f67",
+    "venue_name": "Werkpl\u0101s Hoover",
+    "latitude": 33.379093170166016,
+    "longitude": -86.80953216552734,
+    "reservations": 3,
+    "spend": 310.0
+  }
+]

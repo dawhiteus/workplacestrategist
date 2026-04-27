@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "f285d5a1-a5fd-430b-9f69-c1c365f75965",
+    "venue_name": "AmeriCenter of Dublin",
+    "latitude": 40.08058166503906,
+    "longitude": -83.12985229492188,
+    "reservations": 7,
+    "spend": 1850.0
+  },
+  {
+    "venue_id": "5c22990d-445b-4bf1-a7fe-939af2f54be5",
+    "venue_name": "Brick House Blue: The Loop - Dublin/Bridge Park",
+    "latitude": 40.1002197265625,
+    "longitude": -83.10816955566406,
+    "reservations": 3,
+    "spend": 712.0
+  },
+  {
+    "venue_id": "3a5bbd6f-b53b-4ca5-bb1d-bbedf7351b23",
+    "venue_name": "COhatch - Dublin",
+    "latitude": 40.10077667236328,
+    "longitude": -83.11347198486328,
+    "reservations": 2,
+    "spend": 60.0
+  }
+]

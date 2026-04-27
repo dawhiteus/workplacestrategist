@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "d34effe4-cff3-4f94-a9dc-a43e6ca1af1d",
+    "venue_name": "Enterprise Coworking | RiNo",
+    "latitude": 39.76162338256836,
+    "longitude": -104.97962951660156,
+    "reservations": 53,
+    "spend": 2250.0
+  },
+  {
+    "venue_id": "0346af01-926c-4808-8ff7-c0e2df5cd649",
+    "venue_name": "Shift Workspaces | Corona",
+    "latitude": 39.721778869628906,
+    "longitude": -104.97438049316406,
+    "reservations": 5,
+    "spend": 1613.0
+  },
+  {
+    "venue_id": "f19bdf9b-2388-43af-aba2-08ab0d1fe1bc",
+    "venue_name": "Candy Factory Coworking",
+    "latitude": 39.74629211425781,
+    "longitude": -104.99549102783203,
+    "reservations": 3,
+    "spend": 1275.0
+  },
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741546630859375,
+    "longitude": -104.98779296875,
+    "reservations": 3,
+    "spend": 410.0
+  },
+  {
+    "venue_id": "258b7d7b-eac3-4ff2-9922-db561f467a68",
+    "venue_name": "Venture X | Denver South",
+    "latitude": 39.68086624145508,
+    "longitude": -104.93801879882812,
+    "reservations": 8,
+    "spend": 280.0
+  }
+]

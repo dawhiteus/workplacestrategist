@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e90fd558-d27a-40e5-9da7-ea6eff1e5826",
+    "venue_name": "Serendipity Labs - Charleston - Mount Pleasant",
+    "latitude": 32.80050277709961,
+    "longitude": -79.90447235107422,
+    "reservations": 6,
+    "spend": 414.0
+  },
+  {
+    "venue_id": "0f70c835-4e66-4d86-94dc-20be7c00c6bf",
+    "venue_name": "Office Evolution - Mount Pleasant",
+    "latitude": 32.838043212890625,
+    "longitude": -79.85663604736328,
+    "reservations": 3,
+    "spend": 90.0
+  }
+]

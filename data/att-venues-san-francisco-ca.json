@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "b44a4d96-3605-48f9-8446-af17d1e89845",
+    "venue_name": "Offix Edge LLC",
+    "latitude": 37.753509521484375,
+    "longitude": -122.48863220214844,
+    "reservations": 845,
+    "spend": 64461.3
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.78120040893555,
+    "longitude": -122.4081039428711,
+    "reservations": 2,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 3,
+    "spend": 240.0
+  }
+]

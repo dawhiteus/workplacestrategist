@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5e488726-46eb-4c85-856e-8ae7732a68c6",
+    "venue_name": "NextSpace Coworking Berkeley",
+    "latitude": 37.8703727722168,
+    "longitude": -122.26885986328125,
+    "reservations": 15,
+    "spend": 905.0
+  },
+  {
+    "venue_id": "b96ae2e0-3c4b-0132-95d4-4ef45460b10c",
+    "venue_name": "WeWork | 2120 University Ave",
+    "latitude": 37.87198257446289,
+    "longitude": -122.26750183105469,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "6526ced6-5506-4f72-bf0e-3a719e1af811",
+    "venue_name": "SWAY - West Berkeley",
+    "latitude": 37.8685302734375,
+    "longitude": -122.29158020019531,
+    "reservations": 2,
+    "spend": 50.0
+  }
+]

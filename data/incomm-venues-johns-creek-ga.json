@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a1d04d87-3a5b-4b42-b339-a26e0cb329f7",
+    "venue_name": "Regus | Johns Creek",
+    "latitude": 34.06209945678711,
+    "longitude": -84.17109680175781,
+    "reservations": 5,
+    "spend": 824.5
+  },
+  {
+    "venue_id": "9a0f5248-7000-4e03-aa7a-1b2090753489",
+    "venue_name": "Regus | Lakefield",
+    "latitude": 34.059059143066406,
+    "longitude": -84.17091369628906,
+    "reservations": 3,
+    "spend": 445.0
+  }
+]

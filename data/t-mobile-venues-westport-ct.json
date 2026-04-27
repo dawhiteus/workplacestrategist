@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "6074ee6d-7acf-49cb-9501-356dab389199",
+    "venue_name": "Serendipity Labs - Westport",
+    "latitude": 41.13945388793945,
+    "longitude": -73.36483764648438,
+    "reservations": 21,
+    "spend": 19485.0
+  },
+  {
+    "venue_id": "79d8aebe-6690-4c0e-874f-f33f6c143425",
+    "venue_name": "Office Evolution Westport",
+    "latitude": 41.13941955566406,
+    "longitude": -73.34832000732422,
+    "reservations": 19,
+    "spend": 7290.0
+  },
+  {
+    "venue_id": "92b1c951-7bbe-480e-a87a-9c41bd6437ba",
+    "venue_name": "Regus | Westport View Corporate Center",
+    "latitude": 41.140499114990234,
+    "longitude": -73.36517333984375,
+    "reservations": 2,
+    "spend": 612.5
+  }
+]

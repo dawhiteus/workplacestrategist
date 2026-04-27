@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "de746730-b267-4887-8b04-21c3a487f6d4",
+    "venue_name": "C.W. Business Center at LAX",
+    "latitude": 33.95484161376953,
+    "longitude": -118.39656829833984,
+    "reservations": 4,
+    "spend": 1075.0
+  },
+  {
+    "venue_id": "128c7e0d-59f0-4379-aa87-d451739c67da",
+    "venue_name": "Serendipity Labs - Downtown Los Angeles - Wilshire",
+    "latitude": 34.05100631713867,
+    "longitude": -118.2601089477539,
+    "reservations": 2,
+    "spend": 592.0
+  },
+  {
+    "venue_id": "e07c2de7-6acc-4688-9886-991d663e39c9",
+    "venue_name": "(355) Wells Fargo Center",
+    "latitude": 34.052101135253906,
+    "longitude": -118.25279998779297,
+    "reservations": 2,
+    "spend": 396.0
+  }
+]

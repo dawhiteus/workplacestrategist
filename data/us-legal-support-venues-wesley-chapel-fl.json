@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5b75bf3b-a736-4852-88b0-545606e7f548",
+    "venue_name": "Mango Space Wesley Chapel",
+    "latitude": 28.23751449584961,
+    "longitude": -82.30746459960938,
+    "reservations": 14,
+    "spend": 2904.0
+  },
+  {
+    "venue_id": "75402bcb-dd82-4316-b420-eee3d8b5fa2e",
+    "venue_name": "Signature Workspace Wiregrass",
+    "latitude": 28.18804359436035,
+    "longitude": -82.3492202758789,
+    "reservations": 3,
+    "spend": 810.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d90b573b-a732-4423-924b-06b7487d99fb",
+    "venue_name": "District Offices Georgetown",
+    "latitude": 38.90433883666992,
+    "longitude": -77.05890655517578,
+    "reservations": 17,
+    "spend": 2215.0
+  },
+  {
+    "venue_id": "c2112223-af7f-47b4-bbd3-592b04ddb1f1",
+    "venue_name": "Carr Workplaces - Georgetown",
+    "latitude": 38.90399169921875,
+    "longitude": -77.0592269897461,
+    "reservations": 6,
+    "spend": 1500.0
+  }
+]

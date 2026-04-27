@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0346af01-926c-4808-8ff7-c0e2df5cd649",
+    "venue_name": "Shift Workspaces | Corona",
+    "latitude": 39.721778869628906,
+    "longitude": -104.97438049316406,
+    "reservations": 3,
+    "spend": 1770.0
+  },
+  {
+    "venue_id": "3d25e027-bfa6-4035-8e13-d1f89334d2a9",
+    "venue_name": "Cherry Creek North",
+    "latitude": 39.71961212158203,
+    "longitude": -104.95738220214844,
+    "reservations": 3,
+    "spend": 1500.0
+  }
+]

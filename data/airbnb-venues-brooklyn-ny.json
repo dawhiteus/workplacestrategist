@@ -1,0 +1,146 @@
+[
+  {
+    "venue_id": "30a7f2c3-1d12-4e74-9d5b-515cedfdc6b9",
+    "venue_name": "The Malin Williamsburg",
+    "latitude": 40.72229766845703,
+    "longitude": -73.9568862915039,
+    "reservations": 214,
+    "spend": 24140.0
+  },
+  {
+    "venue_id": "81f7f1d7-6944-41d6-b414-bc1c53000a25",
+    "venue_name": "Soho Works | 10 Jay",
+    "latitude": 40.70462417602539,
+    "longitude": -73.98695373535156,
+    "reservations": 37,
+    "spend": 4110.0
+  },
+  {
+    "venue_id": "4bce5925-e8ac-4a73-b77b-0cc483ad497b",
+    "venue_name": "Soho Works | 55 Water ",
+    "latitude": 40.70341873168945,
+    "longitude": -73.99160766601562,
+    "reservations": 32,
+    "spend": 3060.0
+  },
+  {
+    "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
+    "venue_name": "WeWork | 134 N 4th St",
+    "latitude": 40.716312408447266,
+    "longitude": -73.960205078125,
+    "reservations": 34,
+    "spend": 2380.0
+  },
+  {
+    "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
+    "venue_name": "Mindspace Williamsburg",
+    "latitude": 40.722930908203125,
+    "longitude": -73.95780181884766,
+    "reservations": 25,
+    "spend": 1553.0
+  },
+  {
+    "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
+    "venue_name": "Bond Collective Greenpoint",
+    "latitude": 40.73026657104492,
+    "longitude": -73.94893646240234,
+    "reservations": 15,
+    "spend": 785.0
+  },
+  {
+    "venue_id": "7c95754d-c292-4903-b800-436ecdf0b4f0",
+    "venue_name": "Car Part Time",
+    "latitude": 40.71245574951172,
+    "longitude": -73.93791198730469,
+    "reservations": 8,
+    "spend": 745.0
+  },
+  {
+    "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
+    "venue_name": "The New Work Project",
+    "latitude": 40.72095489501953,
+    "longitude": -73.95805358886719,
+    "reservations": 13,
+    "spend": 740.0
+  },
+  {
+    "venue_id": "1d742e12-371a-416c-b9b4-a5fba618e443",
+    "venue_name": "The Shop - Brooklyn",
+    "latitude": 40.677650451660156,
+    "longitude": -73.98860168457031,
+    "reservations": 5,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "eedf307c-d603-4e27-b9fb-ee697ffecba4",
+    "venue_name": "Bond Collective Bushwick",
+    "latitude": 40.699249267578125,
+    "longitude": -73.93836975097656,
+    "reservations": 5,
+    "spend": 425.0
+  },
+  {
+    "venue_id": "4e893f1e-7e98-4e89-b3b8-f0727c3e1976",
+    "venue_name": "Class & Co - Williamsburg",
+    "latitude": 40.71305465698242,
+    "longitude": -73.94364929199219,
+    "reservations": 7,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "284f5695-4297-4fd0-b8e1-bd4f4f60d8fe",
+    "venue_name": "Class & Co - Greenpoint",
+    "latitude": 40.72670364379883,
+    "longitude": -73.95220184326172,
+    "reservations": 3,
+    "spend": 230.0
+  },
+  {
+    "venue_id": "c5016a93-6c3d-47e3-bba5-82666913293c",
+    "venue_name": "Industrious - Williamsburg",
+    "latitude": 40.71603775024414,
+    "longitude": -73.96434020996094,
+    "reservations": 3,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "ab0b684f-7297-4e34-83e1-4adb99b282c2",
+    "venue_name": "BKLYN Commons - Brooklyn NY",
+    "latitude": 40.66223907470703,
+    "longitude": -73.96160888671875,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "d9ae45b3-b8e3-4006-b677-7b74285c1d78",
+    "venue_name": "WeWork | Dock 72 at the Brooklyn Navy yard",
+    "latitude": 40.70075607299805,
+    "longitude": -73.97235107421875,
+    "reservations": 4,
+    "spend": 185.0
+  },
+  {
+    "venue_id": "12a4796c-c227-4a12-b5c0-671106cff9c5",
+    "venue_name": "Industrious - Brooklyn - 1000 Dean",
+    "latitude": 40.67770004272461,
+    "longitude": -73.95738220214844,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "9230be32-9347-462d-97c7-697ce8bd8a7b",
+    "venue_name": "WeWork | Montague St.",
+    "latitude": 40.694313049316406,
+    "longitude": -73.99110412597656,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "5a4774c6-62dd-4d44-b944-311d892fb24f",
+    "venue_name": "The Yard: Gowanus",
+    "latitude": 40.66876983642578,
+    "longitude": -73.99243927001953,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

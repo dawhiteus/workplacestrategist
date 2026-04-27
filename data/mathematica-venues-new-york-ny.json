@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin Nomad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 5,
+    "spend": 352.5
+  },
+  {
+    "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
+    "venue_name": "WeWork | 368 9th Ave",
+    "latitude": 40.751068115234375,
+    "longitude": -73.99771881103516,
+    "reservations": 4,
+    "spend": 188.0
+  },
+  {
+    "venue_id": "da075775-0b2b-4bc7-bdda-96b4aa5ffc19",
+    "venue_name": "WeWork | 115 Broadway",
+    "latitude": 40.70888137817383,
+    "longitude": -74.01142883300781,
+    "reservations": 5,
+    "spend": 175.0
+  }
+]

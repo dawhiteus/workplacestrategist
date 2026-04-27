@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "40800d22-6e9d-44da-a876-fc1a4173a417",
+    "venue_name": "SPACES | Miami Beach - Spaces Lincoln Road",
+    "latitude": 25.791906356811523,
+    "longitude": -80.14098358154297,
+    "reservations": 5,
+    "spend": 453.92
+  },
+  {
+    "venue_id": "cbfa7898-e326-41a6-af9e-3a1d3771e859",
+    "venue_name": "Industrious - Miami Beach",
+    "latitude": 25.790348052978516,
+    "longitude": -80.13162994384766,
+    "reservations": 2,
+    "spend": 188.0
+  }
+]

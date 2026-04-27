@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741546630859375,
+    "longitude": -104.98779296875,
+    "reservations": 68,
+    "spend": 28475.0
+  },
+  {
+    "venue_id": "3d25e027-bfa6-4035-8e13-d1f89334d2a9",
+    "venue_name": "Cherry Creek North",
+    "latitude": 39.71961212158203,
+    "longitude": -104.95738220214844,
+    "reservations": 4,
+    "spend": 1450.0
+  },
+  {
+    "venue_id": "7d1564c9-861a-48cf-b5e7-de0458c35d51",
+    "venue_name": "Serendipity Labs - Denver - LoDo",
+    "latitude": 39.75555419921875,
+    "longitude": -105.00009155273438,
+    "reservations": 4,
+    "spend": 690.0
+  },
+  {
+    "venue_id": "2b1b4140-e30a-45fe-8caf-e7cee9cdb3dd",
+    "venue_name": "Intelligent Office Denver Tech Center",
+    "latitude": 39.631141662597656,
+    "longitude": -104.89521789550781,
+    "reservations": 3,
+    "spend": 469.0
+  },
+  {
+    "venue_id": "ecc9eb17-9a1d-49a1-8ab1-eb99012fa607",
+    "venue_name": "Runway Workspaces (formerly SmartSpace)",
+    "latitude": 39.751220703125,
+    "longitude": -104.88986206054688,
+    "reservations": 2,
+    "spend": 180.0
+  }
+]

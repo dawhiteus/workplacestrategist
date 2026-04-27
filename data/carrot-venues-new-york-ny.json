@@ -1,0 +1,122 @@
+[
+  {
+    "venue_id": "f533cbcb-e1d5-4226-a28d-82e1fd479fa9",
+    "venue_name": "WeWork | 33 Irving Pl",
+    "latitude": 40.735137939453125,
+    "longitude": -73.98824310302734,
+    "reservations": 79,
+    "spend": 4661.0
+  },
+  {
+    "venue_id": "52d81a69-bad3-4148-9fb6-e8684dabc3b5",
+    "venue_name": "WeWork | 1460 Broadway",
+    "latitude": 40.755104064941406,
+    "longitude": -73.9862060546875,
+    "reservations": 52,
+    "spend": 2444.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 24,
+    "spend": 1905.0
+  },
+  {
+    "venue_id": "b1d6bd96-f117-49bf-889a-9536ce86b9af",
+    "venue_name": "Nomadworks | Times Square",
+    "latitude": 40.75526809692383,
+    "longitude": -73.98958587646484,
+    "reservations": 9,
+    "spend": 1815.0
+  },
+  {
+    "venue_id": "e4598564-7418-4413-b1bc-11378963715f",
+    "venue_name": "WeWork | 154 W 14th St",
+    "latitude": 40.738372802734375,
+    "longitude": -73.99957275390625,
+    "reservations": 16,
+    "spend": 944.0
+  },
+  {
+    "venue_id": "d559069c-8c87-4be8-a009-a6f0603ef003",
+    "venue_name": "WeWork | 500 7th Avenue",
+    "latitude": 40.75320816040039,
+    "longitude": -73.98932647705078,
+    "reservations": 21,
+    "spend": 795.0
+  },
+  {
+    "venue_id": "5e4099db-a072-44ba-ae14-e1f54339e643",
+    "venue_name": "Firm & Co. Tribeca / Foley Square ",
+    "latitude": 40.715476989746094,
+    "longitude": -74.00554656982422,
+    "reservations": 3,
+    "spend": 389.0
+  },
+  {
+    "venue_id": "90ec82c0-b1f4-0131-aaba-327a344fe8c3",
+    "venue_name": "WeWork | 379 W Broadway",
+    "latitude": 40.7235221862793,
+    "longitude": -74.00220489501953,
+    "reservations": 9,
+    "spend": 315.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 5,
+    "spend": 195.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855224609375,
+    "longitude": -74.00897979736328,
+    "reservations": 3,
+    "spend": 153.0
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639221191406,
+    "longitude": -73.98652648925781,
+    "reservations": 3,
+    "spend": 147.0
+  },
+  {
+    "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
+    "venue_name": "The Yard: Lower East Side NYC",
+    "latitude": 40.71873092651367,
+    "longitude": -73.98969268798828,
+    "reservations": 3,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "5ad18402-7154-457e-bc09-32a675eaa843",
+    "venue_name": "The Yard: Columbus Circle",
+    "latitude": 40.76958084106445,
+    "longitude": -73.98319244384766,
+    "reservations": 3,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "d1d19c2a-6132-46fd-869d-7917b8b94880",
+    "venue_name": "Margalit Startup City",
+    "latitude": 40.72068405151367,
+    "longitude": -74.00009155273438,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

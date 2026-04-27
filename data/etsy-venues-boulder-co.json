@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4681c910-6adf-4bf4-8a2e-2570211a0565",
+    "venue_name": "Regus | CO, Boulder - Center Green Dr",
+    "latitude": 40.03109359741211,
+    "longitude": -105.24655151367188,
+    "reservations": 3,
+    "spend": 180.17
+  },
+  {
+    "venue_id": "98e8a00b-7df1-4bea-be2c-d8ee7cf2787b",
+    "venue_name": "Office Evolution - Boulder",
+    "latitude": 40.0217399597168,
+    "longitude": -105.24072265625,
+    "reservations": 2,
+    "spend": 63.0
+  }
+]

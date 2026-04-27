@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "715bb50c-5a33-42de-86ee-5f0412328e4f",
+    "venue_name": "Office Evolution - Columbus/Easton Town Center",
+    "latitude": 40.053489685058594,
+    "longitude": -82.91635131835938,
+    "reservations": 16,
+    "spend": 6770.0
+  },
+  {
+    "venue_id": "1b8708fe-ebc6-4d0b-8817-de92d3a50ce4",
+    "venue_name": "Office Evolution - Columbus | Worthington",
+    "latitude": 40.11941146850586,
+    "longitude": -83.01036834716797,
+    "reservations": 17,
+    "spend": 6115.0
+  },
+  {
+    "venue_id": "dc4f9780-43d9-4496-b2e8-92dadb02519f",
+    "venue_name": "Versa Grandview",
+    "latitude": 39.97425079345703,
+    "longitude": -83.05360412597656,
+    "reservations": 8,
+    "spend": 5249.2
+  },
+  {
+    "venue_id": "77933c5b-a4d3-425b-b35a-11aade7f4de7",
+    "venue_name": "COhatch - Easton",
+    "latitude": 40.0553092956543,
+    "longitude": -82.90742492675781,
+    "reservations": 23,
+    "spend": 690.0
+  },
+  {
+    "venue_id": "7950e9f8-990a-4da1-a6f7-9acf0e3e49c0",
+    "venue_name": "Regus | Crosswoods",
+    "latitude": 40.11902618408203,
+    "longitude": -83.01441192626953,
+    "reservations": 2,
+    "spend": 602.0
+  }
+]

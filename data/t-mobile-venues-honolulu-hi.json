@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "8603c9b6-4a69-432d-afbe-34c2f845db92",
+    "venue_name": "HAWAI'I COWORKING",
+    "latitude": 21.287107467651367,
+    "longitude": -157.83616638183594,
+    "reservations": 15,
+    "spend": 5035.0
+  },
+  {
+    "venue_id": "3d42b243-f29f-4b0c-a9cc-8f4b3ddb6fc2",
+    "venue_name": "Regus | Waterfront Honolulu",
+    "latitude": 21.300600051879883,
+    "longitude": -157.86300659179688,
+    "reservations": 4,
+    "spend": 958.5
+  },
+  {
+    "venue_id": "f7f67ae9-8fbd-4bad-84b4-c59cb4603ee7",
+    "venue_name": "(HON) Pauahi Tower at Bishop Square",
+    "latitude": 21.308917999267578,
+    "longitude": -157.86050415039062,
+    "reservations": 2,
+    "spend": 390.0
+  }
+]

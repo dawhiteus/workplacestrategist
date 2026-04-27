@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0ea3a54e-bce8-4aab-a9be-96d2b7e62de5",
+    "venue_name": "Aura Office",
+    "latitude": 37.70310974121094,
+    "longitude": -121.0719985961914,
+    "reservations": 5,
+    "spend": 1610.0
+  },
+  {
+    "venue_id": "7dda3f5b-fc75-44b8-b8ef-fff812dccb06",
+    "venue_name": "Nine3One",
+    "latitude": 37.639854431152344,
+    "longitude": -121.00006866455078,
+    "reservations": 12,
+    "spend": 1275.0
+  }
+]

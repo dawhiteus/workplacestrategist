@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
+    "venue_name": "WeWork | One Seaport Square",
+    "latitude": 42.35343551635742,
+    "longitude": -71.04767608642578,
+    "reservations": 90,
+    "spend": 10018.0
+  },
+  {
+    "venue_id": "6ba2ee5c-e0ae-46f8-9a54-b0659240e88b",
+    "venue_name": "Industrious - Back Bay",
+    "latitude": 42.34886169433594,
+    "longitude": -71.08296966552734,
+    "reservations": 5,
+    "spend": 375.0
+  }
+]

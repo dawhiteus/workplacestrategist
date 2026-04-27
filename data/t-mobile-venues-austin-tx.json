@@ -1,0 +1,106 @@
+[
+  {
+    "venue_id": "4c06b4c2-355f-4ebf-9f5b-bb318ad702da",
+    "venue_name": "Office Evolution - Austin",
+    "latitude": 30.386972427368164,
+    "longitude": -97.7596664428711,
+    "reservations": 897,
+    "spend": 347977.0
+  },
+  {
+    "venue_id": "850a8361-7011-49b7-bc93-3658437abce5",
+    "venue_name": "Regus | Rialto I",
+    "latitude": 30.25385284423828,
+    "longitude": -97.87084197998047,
+    "reservations": 282,
+    "spend": 107347.6
+  },
+  {
+    "venue_id": "cfd6e4d3-63a0-48fc-affd-cd01c86b0092",
+    "venue_name": "FUSE Workspace-Bee Cave",
+    "latitude": 30.324968338012695,
+    "longitude": -97.96041870117188,
+    "reservations": 28,
+    "spend": 9191.0
+  },
+  {
+    "venue_id": "4a00f9d7-18f7-49b7-ba2f-8975de8996e3",
+    "venue_name": "FUSE Workspace-Dripping Springs",
+    "latitude": 30.19879150390625,
+    "longitude": -97.99177551269531,
+    "reservations": 15,
+    "spend": 4420.0
+  },
+  {
+    "venue_id": "de3ed332-a021-44f3-89dc-473da893654d",
+    "venue_name": "fibercove",
+    "latitude": 30.2514705657959,
+    "longitude": -97.76693725585938,
+    "reservations": 13,
+    "spend": 2980.0
+  },
+  {
+    "venue_id": "6640551d-d18e-44e6-a6ef-50bcaf05996b",
+    "venue_name": "FUSE Workspace-East MLK",
+    "latitude": 30.279993057250977,
+    "longitude": -97.7192153930664,
+    "reservations": 2,
+    "spend": 1794.0
+  },
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.26104164123535,
+    "longitude": -97.72795104980469,
+    "reservations": 4,
+    "spend": 1600.0
+  },
+  {
+    "venue_id": "1c8f7f91-7473-4ffb-ae48-5dd004bab056",
+    "venue_name": "Vessel Offsite",
+    "latitude": 30.338926315307617,
+    "longitude": -97.71927642822266,
+    "reservations": 3,
+    "spend": 1500.0
+  },
+  {
+    "venue_id": "cb17af79-1aeb-475d-9283-f726ee755628",
+    "venue_name": "Expansive - Austin Highland",
+    "latitude": 30.330394744873047,
+    "longitude": -97.7105484008789,
+    "reservations": 6,
+    "spend": 1012.0
+  },
+  {
+    "venue_id": "6a9fbf36-3fc1-434a-a0df-bfa101ac592d",
+    "venue_name": "Common Desk - 6th & Congress",
+    "latitude": 30.268146514892578,
+    "longitude": -97.7422866821289,
+    "reservations": 7,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "9f0bdb57-9c28-4ad3-a162-3446196e35cf",
+    "venue_name": "Trendy Central Austin Cubicles",
+    "latitude": 30.358613967895508,
+    "longitude": -97.73131561279297,
+    "reservations": 4,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "079e8f36-19fd-4288-80ea-9817cbea85a3",
+    "venue_name": "Dwell Coworking West Gate",
+    "latitude": 30.209537506103516,
+    "longitude": -97.81494140625,
+    "reservations": 4,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192184448242,
+    "longitude": -97.73033905029297,
+    "reservations": 3,
+    "spend": 75.0
+  }
+]

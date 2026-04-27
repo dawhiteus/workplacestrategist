@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "fe7cb8c1-7d06-40a7-8b7b-38d5d0322818",
+    "venue_name": "Venture X | Downtown Orlando",
+    "latitude": 28.541105270385742,
+    "longitude": -81.37689971923828,
+    "reservations": 4,
+    "spend": 465.0
+  },
+  {
+    "venue_id": "616d7a6b-3d3c-4fb1-902f-cd7d1fd1fa1e",
+    "venue_name": "Orlando Office Center - Downtown Orlando",
+    "latitude": 28.547069549560547,
+    "longitude": -81.37991333007812,
+    "reservations": 2,
+    "spend": 275.0
+  }
+]

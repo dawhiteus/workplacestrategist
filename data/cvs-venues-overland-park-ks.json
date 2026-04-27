@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "7712154b-12bc-47a8-8368-fe2d18fba672",
+    "venue_name": "GRID COLLABORATIVE WORKSPACES",
+    "latitude": 38.909629821777344,
+    "longitude": -94.6732177734375,
+    "reservations": 4,
+    "spend": 840.0
+  },
+  {
+    "venue_id": "431f7192-1d25-480f-b9d7-7583c1754e32",
+    "venue_name": "Aspiria NOW",
+    "latitude": 38.91984939575195,
+    "longitude": -94.65786743164062,
+    "reservations": 3,
+    "spend": 322.0
+  }
+]

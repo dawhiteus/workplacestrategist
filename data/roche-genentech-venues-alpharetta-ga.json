@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a5166700-b48e-4a2c-96d6-097edb7bfe36",
+    "venue_name": "Serendipity Labs - Alpharetta - North Point",
+    "latitude": 34.04568099975586,
+    "longitude": -84.2990951538086,
+    "reservations": 3,
+    "spend": 1133.0
+  },
+  {
+    "venue_id": "3bd6c53a-fe59-4b82-b726-9ec5fec63487",
+    "venue_name": "Office Evolution - Atlanta Office Venture",
+    "latitude": 34.066490173339844,
+    "longitude": -84.27899932861328,
+    "reservations": 5,
+    "spend": 670.0
+  }
+]

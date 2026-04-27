@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
+    "venue_name": "Carr Workplaces - Embarcadero Center",
+    "latitude": 37.79469680786133,
+    "longitude": -122.39987182617188,
+    "reservations": 68,
+    "spend": 27455.0
+  },
+  {
+    "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
+    "venue_name": "WeWork | Two Embarcadero Center",
+    "latitude": 37.7947883605957,
+    "longitude": -122.39840698242188,
+    "reservations": 14,
+    "spend": 7264.0
+  },
+  {
+    "venue_id": "d5fe14f4-1035-4935-9a57-b472b20703b4",
+    "venue_name": "Townsend Enterprises",
+    "latitude": 37.77622604370117,
+    "longitude": -122.3965072631836,
+    "reservations": 9,
+    "spend": 6620.0
+  },
+  {
+    "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
+    "venue_name": "AvantSpace- Greenwich St.",
+    "latitude": 37.798858642578125,
+    "longitude": -122.43561553955078,
+    "reservations": 5,
+    "spend": 1662.0
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.79138946533203,
+    "longitude": -122.39215087890625,
+    "reservations": 5,
+    "spend": 1080.0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.77901840209961,
+    "longitude": -95.56109619140625,
+    "reservations": 11,
+    "spend": 1420.0
+  },
+  {
+    "venue_id": "1ce5cac9-a981-4775-883a-40a6f223d2e7",
+    "venue_name": "Regus | Kirby Grove",
+    "latitude": 29.73349952697754,
+    "longitude": -95.42279815673828,
+    "reservations": 3,
+    "spend": 312.0
+  },
+  {
+    "venue_id": "4e2d767d-5bf8-4ba9-872c-2730dac7d904",
+    "venue_name": "Common Desk - POST",
+    "latitude": 29.76621437072754,
+    "longitude": -95.36488342285156,
+    "reservations": 6,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "bfa70e18-5ce8-4017-8b2c-54b26125d2e7",
+    "venue_name": "Common Desk - Post Oak Blvd",
+    "latitude": 29.73497772216797,
+    "longitude": -95.4627914428711,
+    "reservations": 3,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "162ac95d-004f-4285-95f2-87d3eab03dff",
+    "venue_name": "WeWork | 609 Main Street",
+    "latitude": 29.759279251098633,
+    "longitude": -95.36247253417969,
+    "reservations": 4,
+    "spend": 96.0
+  }
+]

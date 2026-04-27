@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "42fab995-5448-4425-9ece-8b62222374a9",
+    "venue_name": "Kiln - Salt Lake City",
+    "latitude": 40.76878356933594,
+    "longitude": -111.90418243408203,
+    "reservations": 19,
+    "spend": 2385.0
+  },
+  {
+    "venue_id": "368cae46-14b5-453a-8533-b6ba6d42d1a3",
+    "venue_name": "Apt CoWork at Park Avenue",
+    "latitude": 40.72092819213867,
+    "longitude": -111.85678100585938,
+    "reservations": 2,
+    "spend": 155.0
+  }
+]

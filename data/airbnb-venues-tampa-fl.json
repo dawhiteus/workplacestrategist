@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a9ed4dac-4f9b-43bb-9969-cc69900fd846",
+    "venue_name": "CoWorkTampa",
+    "latitude": 27.967622756958008,
+    "longitude": -82.48515319824219,
+    "reservations": 3,
+    "spend": 661.0
+  },
+  {
+    "venue_id": "37c3d46b-7835-4a7d-ab20-ec88e2d8930a",
+    "venue_name": "Hyde House Public Studio",
+    "latitude": 27.935163497924805,
+    "longitude": -82.47663116455078,
+    "reservations": 4,
+    "spend": 200.0
+  }
+]

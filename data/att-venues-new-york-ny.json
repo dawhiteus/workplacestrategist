@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.7594108581543,
+    "longitude": -73.97814178466797,
+    "reservations": 2,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855224609375,
+    "longitude": -74.00897979736328,
+    "reservations": 2,
+    "spend": 188.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "34fb838d-7ca9-475c-99b2-42f95c9a365b",
+    "venue_name": "Union Cowork Los Angeles - Downtown/Arts District",
+    "latitude": 34.040374755859375,
+    "longitude": -118.23128509521484,
+    "reservations": 22,
+    "spend": 1440.0
+  },
+  {
+    "venue_id": "5e080182-9688-4f3b-9939-79904d6a5cbf",
+    "venue_name": "The Collection-Monthly Private Offices & Event Location",
+    "latitude": 34.04728698730469,
+    "longitude": -118.25608825683594,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 582,
+    "total_spend": 42205.0,
+    "venues": 25,
+    "members": 47
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 320,
+    "total_spend": 24988.2,
+    "venues": 4,
+    "members": 25
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 127,
+    "total_spend": 14068.26,
+    "venues": 15,
+    "members": 17
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 130,
+    "total_spend": 13436.0,
+    "venues": 5,
+    "members": 23
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "reservations": 94,
+    "total_spend": 12335.9,
+    "venues": 8,
+    "members": 17
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 75,
+    "total_spend": 5881.13,
+    "venues": 7,
+    "members": 12
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 39,
+    "total_spend": 4720.0,
+    "venues": 8,
+    "members": 8
+  },
+  {
+    "city": "Williamsburg",
+    "state": "NY",
+    "reservations": 5,
+    "total_spend": 175.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Poulsbo",
+    "state": "WA",
+    "reservations": 4,
+    "total_spend": 140.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Holmdel",
+    "state": "NJ",
+    "reservations": 5,
+    "total_spend": 125.0,
+    "venues": 1,
+    "members": 1
+  }
+]

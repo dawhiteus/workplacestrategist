@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "e94eeb64-06fa-40dd-af14-e8e102a511e8",
+    "venue_name": "The Brewery",
+    "latitude": 30.354028701782227,
+    "longitude": -91.04441833496094,
+    "reservations": 291,
+    "spend": 128072.0
+  },
+  {
+    "venue_id": "0ad76e89-d22c-4c34-b1fd-55ef9e7f80e1",
+    "venue_name": "Regus | One American Place",
+    "latitude": 30.451499938964844,
+    "longitude": -91.18830108642578,
+    "reservations": 18,
+    "spend": 4471.15
+  },
+  {
+    "venue_id": "89d85c8b-f07a-4047-920b-474aa5435c55",
+    "venue_name": "@ 6411 Perkins",
+    "latitude": 30.404844284057617,
+    "longitude": -91.12213134765625,
+    "reservations": 4,
+    "spend": 2000.0
+  },
+  {
+    "venue_id": "8afe2abd-7d83-4df0-b180-d6edb23a09ae",
+    "venue_name": "Regus | Westfork",
+    "latitude": 30.425100326538086,
+    "longitude": -91.05599975585938,
+    "reservations": 3,
+    "spend": 656.0
+  },
+  {
+    "venue_id": "c6b7ba00-7192-4b92-80f4-2b654bb61252",
+    "venue_name": "Regus | Baton Rouge - 10202 Perkins Rowe",
+    "latitude": 30.378238677978516,
+    "longitude": -91.09239196777344,
+    "reservations": 2,
+    "spend": 307.5
+  }
+]

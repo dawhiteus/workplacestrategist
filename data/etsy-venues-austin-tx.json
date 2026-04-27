@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "6640551d-d18e-44e6-a6ef-50bcaf05996b",
+    "venue_name": "FUSE Workspace-East MLK",
+    "latitude": 30.279993057250977,
+    "longitude": -97.7192153930664,
+    "reservations": 30,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "43be11d8-ed01-4cee-91de-a272e0d71f42",
+    "venue_name": "WeWork | Quarry Oaks II",
+    "latitude": 30.400875091552734,
+    "longitude": -97.73517608642578,
+    "reservations": 15,
+    "spend": 720.6
+  },
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.26104164123535,
+    "longitude": -97.72795104980469,
+    "reservations": 10,
+    "spend": 385.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192184448242,
+    "longitude": -97.73033905029297,
+    "reservations": 12,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "de3ed332-a021-44f3-89dc-473da893654d",
+    "venue_name": "fibercove",
+    "latitude": 30.2514705657959,
+    "longitude": -97.76693725585938,
+    "reservations": 6,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "05622ecc-3826-4d97-818a-f06c58e46bb3",
+    "venue_name": "Createscape",
+    "latitude": 30.26046371459961,
+    "longitude": -97.70388793945312,
+    "reservations": 8,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "f8d5f030-3c4b-0132-29f6-76817799485c",
+    "venue_name": "WeWork | Congress",
+    "latitude": 30.26861000061035,
+    "longitude": -97.74317932128906,
+    "reservations": 2,
+    "spend": 114.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.258480072021484,
+    "longitude": -97.72895812988281,
+    "reservations": 2,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "079e8f36-19fd-4288-80ea-9817cbea85a3",
+    "venue_name": "Dwell Coworking West Gate",
+    "latitude": 30.209537506103516,
+    "longitude": -97.81494140625,
+    "reservations": 3,
+    "spend": 75.0
+  }
+]

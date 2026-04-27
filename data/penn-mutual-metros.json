@@ -1,0 +1,66 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 5,
+    "total_spend": 2375.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 15,
+    "total_spend": 2057.94,
+    "venues": 7,
+    "members": 8
+  },
+  {
+    "city": "Woodbury",
+    "state": "MN",
+    "reservations": 5,
+    "total_spend": 1580.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 16,
+    "total_spend": 474.38,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Doylestown",
+    "state": "PA",
+    "reservations": 3,
+    "total_spend": 351.21,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "reservations": 4,
+    "total_spend": 249.88,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "reservations": 7,
+    "total_spend": 240.63,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Fairfax",
+    "state": "VA",
+    "reservations": 3,
+    "total_spend": 95.0,
+    "venues": 1,
+    "members": 2
+  }
+]

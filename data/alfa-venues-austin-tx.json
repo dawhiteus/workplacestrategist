@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.26104164123535,
+    "longitude": -97.72795104980469,
+    "reservations": 30,
+    "spend": 1035.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192184448242,
+    "longitude": -97.73033905029297,
+    "reservations": 8,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
+    "venue_name": "WeWork | The Domain",
+    "latitude": 30.40485382080078,
+    "longitude": -97.72134399414062,
+    "reservations": 3,
+    "spend": 171.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.258480072021484,
+    "longitude": -97.72895812988281,
+    "reservations": 3,
+    "spend": 150.0
+  }
+]

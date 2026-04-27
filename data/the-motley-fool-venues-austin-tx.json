@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e0317ab1-39a8-4024-ae12-6260b5470295",
+    "venue_name": "WeWork | 801 Barton Springs",
+    "latitude": 30.258699417114258,
+    "longitude": -97.75273895263672,
+    "reservations": 4,
+    "spend": 519.6
+  },
+  {
+    "venue_id": "ffcf6a7a-a6f2-465b-a6ad-5c3713ced2ab",
+    "venue_name": "Executive Workspace| West Austin",
+    "latitude": 30.30679702758789,
+    "longitude": -97.8266830444336,
+    "reservations": 3,
+    "spend": 450.0
+  }
+]

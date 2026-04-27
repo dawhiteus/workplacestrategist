@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "c1bef6f2-332c-405d-a33e-9a403561d4e6",
+    "venue_name": "Regus | Austin - Barton Springs",
+    "latitude": 30.264440536499023,
+    "longitude": -97.78186798095703,
+    "reservations": 12,
+    "spend": 2637.58
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192184448242,
+    "longitude": -97.73033905029297,
+    "reservations": 19,
+    "spend": 925.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.258480072021484,
+    "longitude": -97.72895812988281,
+    "reservations": 4,
+    "spend": 200.0
+  }
+]

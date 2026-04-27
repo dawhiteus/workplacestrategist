@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e175b6f1-3ad2-4254-ac1a-95f2b8364f6d",
+    "venue_name": "Serendipity Labs - Kansas City - Overland Park",
+    "latitude": 38.93025207519531,
+    "longitude": -94.64705657958984,
+    "reservations": 3,
+    "spend": 1389.0
+  },
+  {
+    "venue_id": "431f7192-1d25-480f-b9d7-7583c1754e32",
+    "venue_name": "Aspiria NOW",
+    "latitude": 38.91984939575195,
+    "longitude": -94.65786743164062,
+    "reservations": 3,
+    "spend": 1107.0
+  }
+]

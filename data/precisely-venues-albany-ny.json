@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4f3645b4-b74c-457b-aafd-729287eb39f8",
+    "venue_name": "Expansive - State Street",
+    "latitude": 42.649898529052734,
+    "longitude": -73.7522201538086,
+    "reservations": 5,
+    "spend": 2062.5
+  },
+  {
+    "venue_id": "63b2762b-3e70-4e7b-ab90-7d689bc4c644",
+    "venue_name": "Hone Coworks, Wolf Road",
+    "latitude": 42.722190856933594,
+    "longitude": -73.80064392089844,
+    "reservations": 7,
+    "spend": 1625.0
+  }
+]

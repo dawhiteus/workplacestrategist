@@ -1,0 +1,138 @@
+[
+  {
+    "venue_id": "6152ec2f-0851-4611-b63b-a2cfa88d1f92",
+    "venue_name": "Venture X | Charlotte - The Refinery",
+    "latitude": 35.22883987426758,
+    "longitude": -80.86164855957031,
+    "reservations": 5,
+    "spend": 5512.0
+  },
+  {
+    "venue_id": "54f4f250-e40f-47c3-b446-1c7defaf52f6",
+    "venue_name": "WeWork | The RailYard South End",
+    "latitude": 35.21723556518555,
+    "longitude": -80.85576629638672,
+    "reservations": 10,
+    "spend": 3671.0
+  },
+  {
+    "venue_id": "6fe0a6e4-ef40-4948-b511-d36151d86066",
+    "venue_name": "Industrious - Charlotte Trade & Tryon",
+    "latitude": 35.226768493652344,
+    "longitude": -80.8429946899414,
+    "reservations": 3,
+    "spend": 3306.0
+  },
+  {
+    "venue_id": "55f283ed-d009-43fa-9de0-30339073d042",
+    "venue_name": "Venture X | Charlotte Toringdon",
+    "latitude": 35.06632995605469,
+    "longitude": -80.83941650390625,
+    "reservations": 6,
+    "spend": 2895.0
+  },
+  {
+    "venue_id": "cccceb15-8a75-4c27-9b6b-07ff1d294dc0",
+    "venue_name": "Regus | Southpark Fairview (Office Suites Plus)",
+    "latitude": 35.15068435668945,
+    "longitude": -80.84091186523438,
+    "reservations": 11,
+    "spend": 2754.88
+  },
+  {
+    "venue_id": "4a0e8e73-af4c-455c-a9d2-9bc3204d8cdd",
+    "venue_name": "Office Evolution - Charlotte",
+    "latitude": 35.33834457397461,
+    "longitude": -80.76499938964844,
+    "reservations": 31,
+    "spend": 2354.0
+  },
+  {
+    "venue_id": "8ac46d05-848a-4e2d-8cd3-964d58714157",
+    "venue_name": "Regus | Ayrsley",
+    "latitude": 35.13762283325195,
+    "longitude": -80.93171691894531,
+    "reservations": 7,
+    "spend": 2298.17
+  },
+  {
+    "venue_id": "d859211e-52f6-4171-8638-b54c6a71943d",
+    "venue_name": "Industrious - Charlotte Uptown South",
+    "latitude": 35.2236213684082,
+    "longitude": -80.84964752197266,
+    "reservations": 4,
+    "spend": 2099.5
+  },
+  {
+    "venue_id": "56ca5589-69e7-457e-ae98-2707ab38f018",
+    "venue_name": "YourOffice - Ballantyne (Charlotte, NC)",
+    "latitude": 35.05923843383789,
+    "longitude": -80.85212707519531,
+    "reservations": 10,
+    "spend": 1965.0
+  },
+  {
+    "venue_id": "dac835e0-8f63-47c5-8840-6fe8761fdf9a",
+    "venue_name": "Regus | Trade and Tryon",
+    "latitude": 35.227699279785156,
+    "longitude": -80.8427963256836,
+    "reservations": 6,
+    "spend": 1464.62
+  },
+  {
+    "venue_id": "a455db3a-1001-434a-a360-c20c9661c623",
+    "venue_name": "SPACES | NC, Charlotte - Spaces South End",
+    "latitude": 35.209781646728516,
+    "longitude": -80.86433410644531,
+    "reservations": 2,
+    "spend": 1216.31
+  },
+  {
+    "venue_id": "be06cb29-683b-4340-a888-b4454bba9c6b",
+    "venue_name": "YourOffice - SouthPark (Charlotte, NC)",
+    "latitude": 35.14754104614258,
+    "longitude": -80.84305572509766,
+    "reservations": 6,
+    "spend": 905.0
+  },
+  {
+    "venue_id": "f5b5b6f9-5d3c-4ee2-9d93-ce0a79a0c253",
+    "venue_name": "Regus | NC, Charlotte- E Independence",
+    "latitude": 35.20075607299805,
+    "longitude": -80.77223205566406,
+    "reservations": 5,
+    "spend": 810.18
+  },
+  {
+    "venue_id": "2a237a10-e9a1-4969-98d0-9c3bd92efb18",
+    "venue_name": "Regus | Piedmont Southpark",
+    "latitude": 35.15140151977539,
+    "longitude": -80.83619689941406,
+    "reservations": 3,
+    "spend": 534.94
+  },
+  {
+    "venue_id": "57a0232f-cdbd-4414-9a0f-7d36d22b712c",
+    "venue_name": "Regus | SouthPark",
+    "latitude": 35.14992904663086,
+    "longitude": -80.8390884399414,
+    "reservations": 2,
+    "spend": 414.53
+  },
+  {
+    "venue_id": "f48f3f9e-d086-4144-a8ac-003adc53b776",
+    "venue_name": "SPACES | Charlotte - S.Tryon",
+    "latitude": 35.226871490478516,
+    "longitude": -80.84439086914062,
+    "reservations": 3,
+    "spend": 407.58
+  },
+  {
+    "venue_id": "711fcf34-834d-413a-a6b1-29dd5b4e4c70",
+    "venue_name": "Apt CoWork at Cottonwood Reserve",
+    "latitude": 35.16191101074219,
+    "longitude": -80.91912841796875,
+    "reservations": 4,
+    "spend": 360.0
+  }
+]

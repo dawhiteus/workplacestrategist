@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
+    "venue_name": "Bond Collective Greenpoint",
+    "latitude": 40.73026657104492,
+    "longitude": -73.94893646240234,
+    "reservations": 6,
+    "spend": 1775.0
+  },
+  {
+    "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
+    "venue_name": "The New Work Project",
+    "latitude": 40.72095489501953,
+    "longitude": -73.95805358886719,
+    "reservations": 3,
+    "spend": 650.0
+  }
+]

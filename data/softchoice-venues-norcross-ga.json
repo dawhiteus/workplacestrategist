@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "da3622c0-41b9-4604-b2ca-7ae1a759f5ae",
+    "venue_name": "Roam Peachtree Corners",
+    "latitude": 33.981563568115234,
+    "longitude": -84.21318817138672,
+    "reservations": 7,
+    "spend": 10875.0
+  },
+  {
+    "venue_id": "d49a4aaa-db77-40b3-ae83-56d8cd3ef17d",
+    "venue_name": "Regus | Peachtree Corners",
+    "latitude": 33.97710037231445,
+    "longitude": -84.21199798583984,
+    "reservations": 4,
+    "spend": 137.81
+  }
+]

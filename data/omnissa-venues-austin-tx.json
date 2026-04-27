@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "58dc8ab0-fa4a-40ce-b580-9e6debeccd0f",
+    "venue_name": "Regus | Arboretum Plaza",
+    "latitude": 30.390300750732422,
+    "longitude": -97.74859619140625,
+    "reservations": 3,
+    "spend": 1225.0
+  },
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.26758575439453,
+    "longitude": -97.75431823730469,
+    "reservations": 3,
+    "spend": 330.0
+  }
+]

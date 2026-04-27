@@ -1,0 +1,90 @@
+[
+  {
+    "venue_id": "de746730-b267-4887-8b04-21c3a487f6d4",
+    "venue_name": "C.W. Business Center at LAX",
+    "latitude": 33.95484161376953,
+    "longitude": -118.39656829833984,
+    "reservations": 110,
+    "spend": 16080.0
+  },
+  {
+    "venue_id": "a11fafd1-a1e0-4905-88cc-79f398851c4b",
+    "venue_name": "Spark Spaces",
+    "latitude": 34.101165771484375,
+    "longitude": -118.34461975097656,
+    "reservations": 13,
+    "spend": 6540.0
+  },
+  {
+    "venue_id": "227f860d-207b-4c13-941e-f86b16d094fb",
+    "venue_name": "BLANKSPACES Hollywood Sunset",
+    "latitude": 34.09772872924805,
+    "longitude": -118.33345794677734,
+    "reservations": 11,
+    "spend": 2920.0
+  },
+  {
+    "venue_id": "1a1a6a9e-727d-4ec2-a5e7-8199fe8fb9d7",
+    "venue_name": "Ouro Studio Gallery",
+    "latitude": 34.052207946777344,
+    "longitude": -118.24715423583984,
+    "reservations": 2,
+    "spend": 2250.0
+  },
+  {
+    "venue_id": "67c70736-ac11-4a6f-9c02-650e0dc24ab1",
+    "venue_name": "CENTRL Office - Downtown Los Angeles",
+    "latitude": 34.047889709472656,
+    "longitude": -118.24014282226562,
+    "reservations": 9,
+    "spend": 1920.0
+  },
+  {
+    "venue_id": "5e080182-9688-4f3b-9939-79904d6a5cbf",
+    "venue_name": "The Collection-Monthly Private Offices & Event Location",
+    "latitude": 34.04728698730469,
+    "longitude": -118.25608825683594,
+    "reservations": 37,
+    "spend": 1480.0
+  },
+  {
+    "venue_id": "da8baf69-dbd6-4a9b-a93c-912dedb2b485",
+    "venue_name": "Carr Workplaces - DTLA",
+    "latitude": 34.048274993896484,
+    "longitude": -118.25856018066406,
+    "reservations": 9,
+    "spend": 720.0
+  },
+  {
+    "venue_id": "2eb8a6fe-8567-4955-8b03-f99a044240f1",
+    "venue_name": "Regus || Warner Center",
+    "latitude": 34.185264587402344,
+    "longitude": -118.60233306884766,
+    "reservations": 2,
+    "spend": 237.6
+  },
+  {
+    "venue_id": "34fb838d-7ca9-475c-99b2-42f95c9a365b",
+    "venue_name": "Union Cowork Los Angeles - Downtown/Arts District",
+    "latitude": 34.040374755859375,
+    "longitude": -118.23128509521484,
+    "reservations": 6,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "a0850031-2c84-480a-ac13-87f7fb319fce",
+    "venue_name": "Titan Management Services Los Angeles",
+    "latitude": 34.05009078979492,
+    "longitude": -118.25909423828125,
+    "reservations": 2,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "504e1a75-d3ab-49bd-8b49-64bc7d4dae2a",
+    "venue_name": "The Hive Executive Suites",
+    "latitude": 34.171356201171875,
+    "longitude": -118.60455322265625,
+    "reservations": 2,
+    "spend": 105.0
+  }
+]

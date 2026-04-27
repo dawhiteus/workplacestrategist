@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.77901840209961,
+    "longitude": -95.56109619140625,
+    "reservations": 133,
+    "spend": 116495.0
+  },
+  {
+    "venue_id": "e51e82fd-6a1a-4e94-a05f-02b527e1ac70",
+    "venue_name": "The Work Well",
+    "latitude": 29.920392990112305,
+    "longitude": -95.61550903320312,
+    "reservations": 67,
+    "spend": 21180.0
+  },
+  {
+    "venue_id": "4e0a6f99-4c90-4ddc-a9a4-9a9fafe804b0",
+    "venue_name": "Sesh Coworking",
+    "latitude": 29.74267578125,
+    "longitude": -95.37261199951172,
+    "reservations": 36,
+    "spend": 13074.0
+  },
+  {
+    "venue_id": "c3ce03aa-b395-454d-b2ef-ee3818ede996",
+    "venue_name": "Lucid Private Offices | Uptown Tanglewood",
+    "latitude": 29.738510131835938,
+    "longitude": -95.47888946533203,
+    "reservations": 50,
+    "spend": 12520.0
+  },
+  {
+    "venue_id": "0e6b98cc-749b-4729-bdc2-f84958f6bc9a",
+    "venue_name": "Lucid Private Offices | River Oaks Upper Kirby",
+    "latitude": 29.73029327392578,
+    "longitude": -95.44068145751953,
+    "reservations": 8,
+    "spend": 1725.0
+  },
+  {
+    "venue_id": "9b8adda3-7bff-42e9-8471-0d10be57200c",
+    "venue_name": "TKO Suites - 3200 Wilcrest Blvd",
+    "latitude": 29.728618621826172,
+    "longitude": -95.57231140136719,
+    "reservations": 6,
+    "spend": 1520.0
+  },
+  {
+    "venue_id": "9d296e44-2595-4b6c-b6a5-001fc8fac6ce",
+    "venue_name": "Common Desk - Westchase",
+    "latitude": 29.738786697387695,
+    "longitude": -95.56214141845703,
+    "reservations": 6,
+    "spend": 540.0
+  }
+]

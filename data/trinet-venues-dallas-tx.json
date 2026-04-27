@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "95ec9e4c-a839-4e4e-86b1-775a5832068f",
+    "venue_name": "Lucid Private Offices | Uptown - Central Expressway",
+    "latitude": 32.814849853515625,
+    "longitude": -96.79060363769531,
+    "reservations": 23,
+    "spend": 4435.0
+  },
+  {
+    "venue_id": "bdabe831-94b0-4710-ad67-371b54edb4d7",
+    "venue_name": "Venture X | Dallas by the Galleria",
+    "latitude": 32.933677673339844,
+    "longitude": -96.8171615600586,
+    "reservations": 4,
+    "spend": 570.0
+  },
+  {
+    "venue_id": "3fda6d2b-3b77-44d6-919c-335a522ea63a",
+    "venue_name": "Lucid Private Offices | Mockingbird - SMU",
+    "latitude": 32.84000015258789,
+    "longitude": -96.7747573852539,
+    "reservations": 2,
+    "spend": 530.0
+  }
+]

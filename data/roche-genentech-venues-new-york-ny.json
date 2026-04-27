@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "4d739326-7185-4158-829d-4ec91747643e",
+    "venue_name": "Jay Suites - Chelsea",
+    "latitude": 40.74530792236328,
+    "longitude": -73.99393463134766,
+    "reservations": 11,
+    "spend": 9580.0
+  },
+  {
+    "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
+    "venue_name": "Emerge212 - 125 Park Avenue",
+    "latitude": 40.75178909301758,
+    "longitude": -73.97736358642578,
+    "reservations": 10,
+    "spend": 8535.0
+  },
+  {
+    "venue_id": "7d5a14e7-8fdc-4e0c-9d97-7d8d3cb384f3",
+    "venue_name": "Grand Central Offices",
+    "latitude": 40.756141662597656,
+    "longitude": -73.98283386230469,
+    "reservations": 7,
+    "spend": 4280.0
+  },
+  {
+    "venue_id": "4e1743ac-ca18-487b-aae5-ee3b5d4d8a9b",
+    "venue_name": "NYC Office Suites - 1270 Avenue of the Americas",
+    "latitude": 40.7602424621582,
+    "longitude": -73.9798355102539,
+    "reservations": 3,
+    "spend": 2029.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.74652099609375,
+    "longitude": -73.98805236816406,
+    "reservations": 7,
+    "spend": 1973.0
+  },
+  {
+    "venue_id": "fe9dc55c-cacf-44f2-bbbe-a8fc790c8b4e",
+    "venue_name": "Cre8ive NYC",
+    "latitude": 40.74715042114258,
+    "longitude": -73.99177551269531,
+    "reservations": 3,
+    "spend": 654.0
+  }
+]

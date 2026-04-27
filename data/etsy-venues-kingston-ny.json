@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "254f253a-d464-412c-8db2-0a950224ae32",
+    "venue_name": "Cowork Kingston",
+    "latitude": 41.9351692199707,
+    "longitude": -74.01909637451172,
+    "reservations": 55,
+    "spend": 1885.0
+  },
+  {
+    "venue_id": "4a6ae01e-3e00-4c76-b410-79374c4ed994",
+    "venue_name": "Barnfox Kingston",
+    "latitude": 41.93354415893555,
+    "longitude": -74.01986694335938,
+    "reservations": 4,
+    "spend": 190.0
+  }
+]

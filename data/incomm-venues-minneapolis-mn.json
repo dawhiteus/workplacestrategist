@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "7edcf090-a391-4435-8a9c-587e3328d53b",
+    "venue_name": "IDS Executive Suites",
+    "latitude": 44.97578811645508,
+    "longitude": -93.2720947265625,
+    "reservations": 3,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "927e82c5-aa9d-4e55-aad3-c8ae0a48e371",
+    "venue_name": "Workbox Downtown Minneapolis",
+    "latitude": 44.97501754760742,
+    "longitude": -93.27143096923828,
+    "reservations": 27,
+    "spend": 1015.0
+  }
+]

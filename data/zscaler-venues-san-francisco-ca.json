@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
+    "venue_name": "WeWork | Salesforce Tower",
+    "latitude": 37.789817810058594,
+    "longitude": -122.39690399169922,
+    "reservations": 83,
+    "spend": 6806.0
+  },
+  {
+    "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
+    "venue_name": "WeWork | Two Embarcadero Center",
+    "latitude": 37.7947883605957,
+    "longitude": -122.39840698242188,
+    "reservations": 76,
+    "spend": 4622.0
+  },
+  {
+    "venue_id": "cbd093b0-ad63-4f12-8677-af4c5fb450b0",
+    "venue_name": "SPACES || Mission & 3rd",
+    "latitude": 37.78661346435547,
+    "longitude": -122.40216827392578,
+    "reservations": 3,
+    "spend": 1641.58
+  },
+  {
+    "venue_id": "6930bcbf-bc8a-40c4-945e-1c2878494fed",
+    "venue_name": "Industrious - San Francisco Union Square",
+    "latitude": 37.78779983520508,
+    "longitude": -122.40477752685547,
+    "reservations": 10,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 12,
+    "spend": 480.0
+  },
+  {
+    "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
+    "venue_name": "AvantSpace- Greenwich St.",
+    "latitude": 37.798858642578125,
+    "longitude": -122.43561553955078,
+    "reservations": 3,
+    "spend": 178.0
+  }
+]

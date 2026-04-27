@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "98e8a00b-7df1-4bea-be2c-d8ee7cf2787b",
+    "venue_name": "Office Evolution - Boulder",
+    "latitude": 40.0217399597168,
+    "longitude": -105.24072265625,
+    "reservations": 2,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "ca637747-bef5-4a12-83d0-18daeb3f87ce",
+    "venue_name": "Founder Central",
+    "latitude": 40.02109146118164,
+    "longitude": -105.21755981445312,
+    "reservations": 2,
+    "spend": 325.0
+  }
+]

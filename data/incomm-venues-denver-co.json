@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f19bdf9b-2388-43af-aba2-08ab0d1fe1bc",
+    "venue_name": "Candy Factory Coworking",
+    "latitude": 39.74629211425781,
+    "longitude": -104.99549102783203,
+    "reservations": 243,
+    "spend": 47922.0
+  },
+  {
+    "venue_id": "f00cbf65-0922-4bb6-8411-bbe56225fb44",
+    "venue_name": "Office Evolution - Downtown Denver",
+    "latitude": 39.741455078125,
+    "longitude": -104.9820556640625,
+    "reservations": 5,
+    "spend": 680.0
+  }
+]

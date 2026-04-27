@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "d5dbaf9c-b01c-4dd0-af04-660b6807e9b9",
+    "venue_name": "The Loading Dock - Beryl Road",
+    "latitude": 35.79340362548828,
+    "longitude": -78.69190216064453,
+    "reservations": 10,
+    "spend": 542.0
+  },
+  {
+    "venue_id": "4cdfc97c-9839-46ee-9d7e-4462074f4b1e",
+    "venue_name": "Spaces | NC, Raleigh - Spaces Crabtree Terrace",
+    "latitude": 35.842430114746094,
+    "longitude": -78.68325805664062,
+    "reservations": 4,
+    "spend": 486.57
+  },
+  {
+    "venue_id": "11959f07-b4b4-4afa-bbc3-bac4a0e96861",
+    "venue_name": "SPACES | NC, Raleigh - Fayetteville St",
+    "latitude": 35.77518081665039,
+    "longitude": -78.639892578125,
+    "reservations": 2,
+    "spend": 360.46
+  }
+]

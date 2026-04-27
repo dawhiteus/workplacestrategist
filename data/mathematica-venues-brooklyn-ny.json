@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
+    "venue_name": "WeWork | 134 N 4th St",
+    "latitude": 40.716312408447266,
+    "longitude": -73.960205078125,
+    "reservations": 4,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "ab0b684f-7297-4e34-83e1-4adb99b282c2",
+    "venue_name": "BKLYN Commons - Brooklyn NY",
+    "latitude": 40.66223907470703,
+    "longitude": -73.96160888671875,
+    "reservations": 5,
+    "spend": 200.0
+  }
+]

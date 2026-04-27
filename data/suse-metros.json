@@ -1,0 +1,58 @@
+[
+  {
+    "city": "Tysons",
+    "state": "VA",
+    "reservations": 3,
+    "total_spend": 7452.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "reservations": 5,
+    "total_spend": 3839.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 7,
+    "total_spend": 3623.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Milpitas",
+    "state": "CA",
+    "reservations": 14,
+    "total_spend": 2890.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 5,
+    "total_spend": 2330.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Cupertino",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 1465.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "reservations": 4,
+    "total_spend": 1050.0,
+    "venues": 1,
+    "members": 1
+  }
+]

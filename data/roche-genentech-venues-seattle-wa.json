@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.61172866821289,
+    "longitude": -122.34436798095703,
+    "reservations": 32,
+    "spend": 13160.0
+  },
+  {
+    "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
+    "venue_name": "SURF Incubator",
+    "latitude": 47.60531997680664,
+    "longitude": -122.33389282226562,
+    "reservations": 4,
+    "spend": 1540.0
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.66591262817383,
+    "longitude": -122.37410736083984,
+    "reservations": 4,
+    "spend": 995.0
+  }
+]

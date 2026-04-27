@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "198476b0-c90b-4d9c-bfa3-4e0e4357d9d8",
+    "venue_name": "Sol Hub",
+    "latitude": 33.636009216308594,
+    "longitude": -117.7421875,
+    "reservations": 3,
+    "spend": 3240.0
+  },
+  {
+    "venue_id": "6b7e607d-c168-4ea5-9169-c7519b33c5fd",
+    "venue_name": "(ATR) The Atrium",
+    "latitude": 33.67045974731445,
+    "longitude": -117.85762786865234,
+    "reservations": 5,
+    "spend": 3000.0
+  }
+]

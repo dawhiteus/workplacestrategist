@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
+    "venue_name": "AvantSpace- Greenwich St.",
+    "latitude": 37.798858642578125,
+    "longitude": -122.43561553955078,
+    "reservations": 51,
+    "spend": 2654.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 43,
+    "spend": 1805.0
+  },
+  {
+    "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
+    "venue_name": "WeWork | Two Embarcadero Center",
+    "latitude": 37.7947883605957,
+    "longitude": -122.39840698242188,
+    "reservations": 4,
+    "spend": 232.0
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.78120040893555,
+    "longitude": -122.4081039428711,
+    "reservations": 5,
+    "spend": 232.0
+  },
+  {
+    "venue_id": "11eb5f2a-42a9-4f49-a1d2-155e818bf2c7",
+    "venue_name": "SPACES || Levi's Plaza",
+    "latitude": 37.80179977416992,
+    "longitude": -122.4010009765625,
+    "reservations": 3,
+    "spend": 93.54
+  },
+  {
+    "venue_id": "870fe233-2abc-4ff7-803e-f5a356484058",
+    "venue_name": "Groundfloor",
+    "latitude": 37.765647888183594,
+    "longitude": -122.42162322998047,
+    "reservations": 3,
+    "spend": 75.0
+  }
+]

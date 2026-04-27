@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5e46106e-447f-4fb5-a442-a1617018bd3e",
+    "venue_name": "Regus | Ponte Vedra Beach",
+    "latitude": 30.198999404907227,
+    "longitude": -81.38079833984375,
+    "reservations": 2,
+    "spend": 863.0
+  },
+  {
+    "venue_id": "24077f89-44e3-469e-987d-6d8584b0b4fe",
+    "venue_name": "Intelligent Office Ponte Vedra - Nocatee",
+    "latitude": 30.117769241333008,
+    "longitude": -81.41868591308594,
+    "reservations": 2,
+    "spend": 380.0
+  }
+]

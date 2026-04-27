@@ -1,0 +1,394 @@
+[
+  {
+    "city": "Wauwatosa",
+    "state": "WI",
+    "reservations": 669,
+    "total_spend": 243795.0,
+    "venues": 1,
+    "members": 23
+  },
+  {
+    "city": "Fort Myers",
+    "state": "FL",
+    "reservations": 388,
+    "total_spend": 81780.0,
+    "venues": 3,
+    "members": 9
+  },
+  {
+    "city": "Louisville",
+    "state": "KY",
+    "reservations": 240,
+    "total_spend": 65173.06,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Savannah",
+    "state": "GA",
+    "reservations": 83,
+    "total_spend": 52985.4,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Madison",
+    "state": "WI",
+    "reservations": 147,
+    "total_spend": 43495.82,
+    "venues": 8,
+    "members": 8
+  },
+  {
+    "city": "Lexington",
+    "state": "KY",
+    "reservations": 205,
+    "total_spend": 39799.83,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Appleton",
+    "state": "WI",
+    "reservations": 170,
+    "total_spend": 36494.57,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "reservations": 121,
+    "total_spend": 33969.66,
+    "venues": 20,
+    "members": 6
+  },
+  {
+    "city": "Fresno",
+    "state": "CA",
+    "reservations": 30,
+    "total_spend": 12134.82,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Lakewood Ranch",
+    "state": "FL",
+    "reservations": 64,
+    "total_spend": 12055.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Duluth",
+    "state": "GA",
+    "reservations": 5,
+    "total_spend": 11000.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "reservations": 31,
+    "total_spend": 9598.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Eau Claire",
+    "state": "WI",
+    "reservations": 36,
+    "total_spend": 9024.42,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "North Myrtle Beach",
+    "state": "SC",
+    "reservations": 37,
+    "total_spend": 8845.5,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Seven Fields",
+    "state": "PA",
+    "reservations": 37,
+    "total_spend": 7787.41,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Huntsville",
+    "state": "AL",
+    "reservations": 36,
+    "total_spend": 7210.92,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Knoxville",
+    "state": "TN",
+    "reservations": 33,
+    "total_spend": 6612.26,
+    "venues": 4,
+    "members": 1
+  },
+  {
+    "city": "Fort Mill",
+    "state": "SC",
+    "reservations": 22,
+    "total_spend": 6425.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Naples",
+    "state": "FL",
+    "reservations": 15,
+    "total_spend": 4397.5,
+    "venues": 3,
+    "members": 6
+  },
+  {
+    "city": "Bradenton",
+    "state": "FL",
+    "reservations": 25,
+    "total_spend": 4340.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Warrendale",
+    "state": "PA",
+    "reservations": 22,
+    "total_spend": 4328.77,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Milwaukee",
+    "state": "WI",
+    "reservations": 27,
+    "total_spend": 3999.46,
+    "venues": 5,
+    "members": 8
+  },
+  {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "reservations": 9,
+    "total_spend": 3755.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Chico",
+    "state": "CA",
+    "reservations": 68,
+    "total_spend": 3635.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Delafield",
+    "state": "WI",
+    "reservations": 37,
+    "total_spend": 3419.45,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Port St. Lucie",
+    "state": "FL",
+    "reservations": 10,
+    "total_spend": 3080.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Fargo",
+    "state": "ND",
+    "reservations": 19,
+    "total_spend": 2977.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Modesto",
+    "state": "CA",
+    "reservations": 17,
+    "total_spend": 2885.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "De Pere",
+    "state": "WI",
+    "reservations": 30,
+    "total_spend": 2856.24,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "reservations": 18,
+    "total_spend": 2495.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Mobile",
+    "state": "AL",
+    "reservations": 7,
+    "total_spend": 2330.72,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Augusta",
+    "state": "GA",
+    "reservations": 13,
+    "total_spend": 1753.11,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Ft. Myers",
+    "state": "FL",
+    "reservations": 9,
+    "total_spend": 1731.02,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Bluffton",
+    "state": "SC",
+    "reservations": 6,
+    "total_spend": 1599.9,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Stuart",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 1495.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 1416.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Ontario",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 1260.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "West Allis",
+    "state": "WI",
+    "reservations": 6,
+    "total_spend": 1250.0,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Birmingham",
+    "state": "AL",
+    "reservations": 8,
+    "total_spend": 1210.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Cranberry Township",
+    "state": "PA",
+    "reservations": 3,
+    "total_spend": 956.17,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Brookfield",
+    "state": "WI",
+    "reservations": 7,
+    "total_spend": 908.85,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "Columbia",
+    "state": "SC",
+    "reservations": 4,
+    "total_spend": 818.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "VA",
+    "reservations": 9,
+    "total_spend": 700.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Ridgeland",
+    "state": "MS",
+    "reservations": 3,
+    "total_spend": 588.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Sarasota",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 550.31,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 490.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Troy",
+    "state": "MI",
+    "reservations": 3,
+    "total_spend": 438.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Dearborn",
+    "state": "MI",
+    "reservations": 3,
+    "total_spend": 390.94,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Green Bay",
+    "state": "WI",
+    "reservations": 3,
+    "total_spend": 238.97,
+    "venues": 3,
+    "members": 2
+  }
+]

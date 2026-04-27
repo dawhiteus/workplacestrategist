@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "31baa0b8-4f50-401f-b632-787b6292ff74",
+    "venue_name": "Overlake WorkSpace",
+    "latitude": 47.6298828125,
+    "longitude": -122.18733215332031,
+    "reservations": 8,
+    "spend": 1645.0
+  },
+  {
+    "venue_id": "45ae97bc-8a69-44f1-bb65-178b309409f1",
+    "venue_name": "WeWork | Sunset North",
+    "latitude": 47.58333969116211,
+    "longitude": -122.15373992919922,
+    "reservations": 3,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "7683bfe9-7249-4e06-97fa-1f62d5d0d1f8",
+    "venue_name": "Regus | Bellefield Office Park",
+    "latitude": 47.59809875488281,
+    "longitude": -122.19000244140625,
+    "reservations": 3,
+    "spend": 73.44
+  }
+]

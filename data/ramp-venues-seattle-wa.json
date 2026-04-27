@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
+    "venue_name": "SURF Incubator",
+    "latitude": 47.60531997680664,
+    "longitude": -122.33389282226562,
+    "reservations": 3,
+    "spend": 558.0
+  },
+  {
+    "venue_id": "4998ab8e-dca1-4756-8655-216e5ca4dfe4",
+    "venue_name": "WeWork | 1201 3rd Ave.",
+    "latitude": 47.607147216796875,
+    "longitude": -122.3359375,
+    "reservations": 8,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
+    "venue_name": "The Cloud Room",
+    "latitude": 47.6136589050293,
+    "longitude": -122.3177490234375,
+    "reservations": 4,
+    "spend": 220.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "4803f859-7924-41c8-bfe9-3d75394463fa",
+    "venue_name": "Regus | First Tennessee Plaza",
+    "latitude": 35.962459564208984,
+    "longitude": -83.91596221923828,
+    "reservations": 19,
+    "spend": 4377.78
+  },
+  {
+    "venue_id": "4833f518-3c5f-4376-8a90-7673ed5a2b23",
+    "venue_name": "Regus | Cedar Bluff",
+    "latitude": 35.922000885009766,
+    "longitude": -84.07710266113281,
+    "reservations": 9,
+    "spend": 1589.48
+  },
+  {
+    "venue_id": "b3b767b9-7a97-4968-a6c9-6c7e51f9246c",
+    "venue_name": "Office Options Meeting Room Facilities",
+    "latitude": 35.922115325927734,
+    "longitude": -84.081298828125,
+    "reservations": 4,
+    "spend": 495.0
+  }
+]

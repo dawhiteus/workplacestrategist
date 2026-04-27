@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "7d1564c9-861a-48cf-b5e7-de0458c35d51",
+    "venue_name": "Serendipity Labs - Denver - LoDo",
+    "latitude": 39.75555419921875,
+    "longitude": -105.00009155273438,
+    "reservations": 3,
+    "spend": 1777.0
+  },
+  {
+    "venue_id": "d8afe4ce-6d70-4d19-93ca-b403fd7e53c6",
+    "venue_name": "Venture X | Denver North",
+    "latitude": 39.75346755981445,
+    "longitude": -104.97931671142578,
+    "reservations": 9,
+    "spend": 1360.0
+  },
+  {
+    "venue_id": "d34effe4-cff3-4f94-a9dc-a43e6ca1af1d",
+    "venue_name": "Enterprise Coworking | RiNo",
+    "latitude": 39.76162338256836,
+    "longitude": -104.97962951660156,
+    "reservations": 6,
+    "spend": 800.0
+  },
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741546630859375,
+    "longitude": -104.98779296875,
+    "reservations": 5,
+    "spend": 700.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5e5a0442-acbf-4ea3-bf79-847bd7e0a5c3",
+    "venue_name": "Regus | KY, Louisville \u2013 MET Building",
+    "latitude": 38.25346755981445,
+    "longitude": -85.75732421875,
+    "reservations": 153,
+    "spend": 39580.56
+  },
+  {
+    "venue_id": "735bfb4c-4ad3-44ad-8d21-54f756578e5c",
+    "venue_name": "Regus | Ormsby III Forest Green",
+    "latitude": 38.26259231567383,
+    "longitude": -85.56820678710938,
+    "reservations": 82,
+    "spend": 21592.5
+  },
+  {
+    "venue_id": "9b8aebb0-d035-4684-9bfa-6cb3e8cc4282",
+    "venue_name": "The Presley Post",
+    "latitude": 38.25698471069336,
+    "longitude": -85.76309967041016,
+    "reservations": 5,
+    "spend": 4000.0
+  }
+]

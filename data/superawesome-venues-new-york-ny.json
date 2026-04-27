@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 366,
+    "spend": 34965.0
+  },
+  {
+    "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
+    "venue_name": "Serendipity Labs - New York - Grand Central",
+    "latitude": 40.750938415527344,
+    "longitude": -73.97350311279297,
+    "reservations": 13,
+    "spend": 4487.0
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639221191406,
+    "longitude": -73.98652648925781,
+    "reservations": 9,
+    "spend": 892.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 12,
+    "spend": 480.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.74652099609375,
+    "longitude": -73.98805236816406,
+    "reservations": 13,
+    "spend": 455.0
+  },
+  {
+    "venue_id": "52d81a69-bad3-4148-9fb6-e8684dabc3b5",
+    "venue_name": "WeWork | 1460 Broadway",
+    "latitude": 40.755104064941406,
+    "longitude": -73.9862060546875,
+    "reservations": 3,
+    "spend": 141.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855041503906,
+    "longitude": -73.98938751220703,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

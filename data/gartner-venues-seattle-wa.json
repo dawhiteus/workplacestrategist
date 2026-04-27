@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "80d7a404-5a93-4d6a-a09e-1e60cba2c2f3",
+    "venue_name": "SPACES | WA, Seattle \u2013 Spaces Stadium",
+    "latitude": 47.5990104675293,
+    "longitude": -122.3350830078125,
+    "reservations": 3,
+    "spend": 1155.0
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.66591262817383,
+    "longitude": -122.37410736083984,
+    "reservations": 4,
+    "spend": 995.0
+  }
+]

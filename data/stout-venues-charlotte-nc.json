@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "6152ec2f-0851-4611-b63b-a2cfa88d1f92",
+    "venue_name": "Venture X | Charlotte - The Refinery",
+    "latitude": 35.22883987426758,
+    "longitude": -80.86164855957031,
+    "reservations": 13,
+    "spend": 2927.0
+  },
+  {
+    "venue_id": "54f4f250-e40f-47c3-b446-1c7defaf52f6",
+    "venue_name": "WeWork | The RailYard South End",
+    "latitude": 35.21723556518555,
+    "longitude": -80.85576629638672,
+    "reservations": 53,
+    "spend": 2654.0
+  },
+  {
+    "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
+    "venue_name": "Expansive - Uptown",
+    "latitude": 35.227840423583984,
+    "longitude": -80.8462905883789,
+    "reservations": 8,
+    "spend": 1587.0
+  },
+  {
+    "venue_id": "030546d9-6c6d-404b-8fcf-534933c04d92",
+    "venue_name": "SPACES | Charlotte - Spaces South End",
+    "latitude": 35.209781646728516,
+    "longitude": -80.86433410644531,
+    "reservations": 4,
+    "spend": 524.18
+  },
+  {
+    "venue_id": "56ca5589-69e7-457e-ae98-2707ab38f018",
+    "venue_name": "YourOffice - Ballantyne (Charlotte, NC)",
+    "latitude": 35.05923843383789,
+    "longitude": -80.85212707519531,
+    "reservations": 3,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "55f283ed-d009-43fa-9de0-30339073d042",
+    "venue_name": "Venture X | Charlotte Toringdon",
+    "latitude": 35.06632995605469,
+    "longitude": -80.83941650390625,
+    "reservations": 5,
+    "spend": 435.0
+  },
+  {
+    "venue_id": "be06cb29-683b-4340-a888-b4454bba9c6b",
+    "venue_name": "YourOffice - SouthPark (Charlotte, NC)",
+    "latitude": 35.14754104614258,
+    "longitude": -80.84305572509766,
+    "reservations": 3,
+    "spend": 330.0
+  },
+  {
+    "venue_id": "6fe0a6e4-ef40-4948-b511-d36151d86066",
+    "venue_name": "Industrious - Charlotte Trade & Tryon",
+    "latitude": 35.226768493652344,
+    "longitude": -80.8429946899414,
+    "reservations": 3,
+    "spend": 189.0
+  }
+]

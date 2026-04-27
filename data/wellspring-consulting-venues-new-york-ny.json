@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "bb13cadb-57fa-4270-8c96-19c750e7ab03",
+    "venue_name": "SaGE@276Fifth",
+    "latitude": 40.74599075317383,
+    "longitude": -73.98686981201172,
+    "reservations": 25,
+    "spend": 1563.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 19,
+    "spend": 760.0
+  },
+  {
+    "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
+    "venue_name": "Emerge212 - 125 Park Avenue",
+    "latitude": 40.75178909301758,
+    "longitude": -73.97736358642578,
+    "reservations": 8,
+    "spend": 612.5
+  }
+]

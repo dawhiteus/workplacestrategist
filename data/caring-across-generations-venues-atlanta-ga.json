@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851470947265625,
+    "longitude": -84.36003112792969,
+    "reservations": 5,
+    "spend": 1100.0
+  },
+  {
+    "venue_id": "b9d23853-b1c1-4a2d-85bd-16f45aa06682",
+    "venue_name": "WeWork | 1155 Perimeter Center West",
+    "latitude": 33.93000793457031,
+    "longitude": -84.35108947753906,
+    "reservations": 6,
+    "spend": 271.0
+  }
+]

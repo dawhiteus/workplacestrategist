@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1fcb9192-32eb-48b4-8bd4-c2a5ab5cdac4",
+    "venue_name": "onFlume Professional Coworking",
+    "latitude": 39.729190826416016,
+    "longitude": -121.83538818359375,
+    "reservations": 3,
+    "spend": 510.0
+  },
+  {
+    "venue_id": "2127caf3-3761-4d45-bd28-54235fda9b35",
+    "venue_name": "Stoble Workplace",
+    "latitude": 39.72785949707031,
+    "longitude": -121.83970642089844,
+    "reservations": 2,
+    "spend": 495.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "46bec0c2-21e1-4649-bb94-91e918f59de9",
+    "venue_name": "Gateway Executive Suites",
+    "latitude": 34.06800079345703,
+    "longitude": -117.64585876464844,
+    "reservations": 2,
+    "spend": 1049.0
+  },
+  {
+    "venue_id": "b8b163ff-52b5-4f32-abe5-3736d4e54543",
+    "venue_name": "DELTA HOTELS",
+    "latitude": 34.06337356567383,
+    "longitude": -117.60550689697266,
+    "reservations": 2,
+    "spend": 1020.0
+  },
+  {
+    "venue_id": "bb0ca5c2-cdd6-44fa-9bed-24ae2d1e3868",
+    "venue_name": "Office Evolution - Ontario",
+    "latitude": 34.06977081298828,
+    "longitude": -117.57830810546875,
+    "reservations": 3,
+    "spend": 900.0
+  }
+]

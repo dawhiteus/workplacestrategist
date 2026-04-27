@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2013c11d-b80c-48a6-b543-908b057cd90c",
+    "venue_name": "The Burrow",
+    "latitude": 40.66379165649414,
+    "longitude": -73.99546813964844,
+    "reservations": 16,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
+    "venue_name": "Bond Collective Greenpoint",
+    "latitude": 40.73026657104492,
+    "longitude": -73.94893646240234,
+    "reservations": 4,
+    "spend": 100.0
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "venue_id": "7fad793b-e7d7-48e9-bfd2-9480c6605626",
+    "venue_name": "CPS HR Consulting",
+    "latitude": 38.655277252197266,
+    "longitude": -121.5208511352539,
+    "reservations": 56,
+    "spend": 19600.0
+  },
+  {
+    "venue_id": "78d158b6-0835-4763-9ae9-d0e2ad87c637",
+    "venue_name": "Outlet Coworking - Sacramento",
+    "latitude": 38.574920654296875,
+    "longitude": -121.4786376953125,
+    "reservations": 69,
+    "spend": 17055.0
+  },
+  {
+    "venue_id": "fd72d971-feaf-4f0a-8733-d7f82fe41b1f",
+    "venue_name": "SPACES || R Street",
+    "latitude": 38.56874465942383,
+    "longitude": -121.48844909667969,
+    "reservations": 24,
+    "spend": 14642.32
+  },
+  {
+    "venue_id": "16eb3f87-91e2-4da1-aa8c-9adb2e99d9ba",
+    "venue_name": "CENTRL Office - Sacramento",
+    "latitude": 38.579811096191406,
+    "longitude": -121.4903793334961,
+    "reservations": 20,
+    "spend": 9940.0
+  },
+  {
+    "venue_id": "34b169a0-d644-4f6d-9433-a35b0b330f4b",
+    "venue_name": "Pacific Workplaces - J Street",
+    "latitude": 38.58196258544922,
+    "longitude": -121.50045776367188,
+    "reservations": 25,
+    "spend": 8180.0
+  },
+  {
+    "venue_id": "fd2bcced-9e95-4632-88b5-563235cd549c",
+    "venue_name": "The Urban Hive",
+    "latitude": 38.58197784423828,
+    "longitude": -121.49626922607422,
+    "reservations": 10,
+    "spend": 4320.0
+  },
+  {
+    "venue_id": "c899ae75-1b15-48e3-83ae-ad7acdfda373",
+    "venue_name": "Pacific Workplaces - Greenhaven",
+    "latitude": 38.49018859863281,
+    "longitude": -121.51602935791016,
+    "reservations": 15,
+    "spend": 2475.0
+  },
+  {
+    "venue_id": "3f4396ac-c509-4422-b7cd-19dee8d2c522",
+    "venue_name": "HQ || CA, Sacramento - Campus Commons (HQ)",
+    "latitude": 38.57099533081055,
+    "longitude": -121.41678619384766,
+    "reservations": 4,
+    "spend": 686.06
+  },
+  {
+    "venue_id": "165709d0-93d9-4ea1-8bea-a1afcc63f7f6",
+    "venue_name": "Capsity Coworking - Oak Park",
+    "latitude": 38.54733657836914,
+    "longitude": -121.46532440185547,
+    "reservations": 11,
+    "spend": 630.0
+  },
+  {
+    "venue_id": "8a763e9d-2dd6-47b5-956a-a37b7def23ed",
+    "venue_name": "Center 57",
+    "latitude": 38.566410064697266,
+    "longitude": -121.43338012695312,
+    "reservations": 2,
+    "spend": 305.0
+  },
+  {
+    "venue_id": "58c89904-4d7a-4437-8c37-dcdee84afbec",
+    "venue_name": "Bloom Workspaces",
+    "latitude": 38.572959899902344,
+    "longitude": -121.4808349609375,
+    "reservations": 2,
+    "spend": 100.0
+  }
+]

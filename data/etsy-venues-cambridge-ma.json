@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "aa251798-3f9d-4f8a-be00-d2300d153122",
+    "venue_name": "WeWork | 625 Mass Ave.",
+    "latitude": 42.36572265625,
+    "longitude": -71.10314178466797,
+    "reservations": 18,
+    "spend": 846.0
+  },
+  {
+    "venue_id": "e4d9969b-8cd1-4689-8e53-5f648d9cb024",
+    "venue_name": "Workbar Cambridge",
+    "latitude": 42.36648178100586,
+    "longitude": -71.10369873046875,
+    "reservations": 9,
+    "spend": 692.0
+  },
+  {
+    "venue_id": "c42dbb84-5a9b-4d37-8861-3999f58f1348",
+    "venue_name": "Cambridge Music Consortium",
+    "latitude": 42.36948013305664,
+    "longitude": -71.10059356689453,
+    "reservations": 6,
+    "spend": 448.0
+  }
+]

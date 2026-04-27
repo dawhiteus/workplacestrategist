@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3037aa8e-15d6-488c-8751-f77ba0bdf295",
+    "venue_name": "NWA Workplaces Bella Vista",
+    "latitude": 36.41921615600586,
+    "longitude": -94.2220687866211,
+    "reservations": 33,
+    "spend": 5628.0
+  },
+  {
+    "venue_id": "18ce2620-2fa7-4fc0-ae8b-fe844d9972be",
+    "venue_name": "NWA Workplaces on 5th St",
+    "latitude": 36.366878509521484,
+    "longitude": -94.19930267333984,
+    "reservations": 4,
+    "spend": 1005.0
+  },
+  {
+    "venue_id": "6afbec99-d683-48b0-b10e-15341f8547d1",
+    "venue_name": "Regus | AR, Bentonville - Beau Terre",
+    "latitude": 36.385215759277344,
+    "longitude": -94.171630859375,
+    "reservations": 5,
+    "spend": 653.63
+  }
+]

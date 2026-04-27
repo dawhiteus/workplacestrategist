@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.61172866821289,
+    "longitude": -122.34436798095703,
+    "reservations": 85,
+    "spend": 4830.0
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.66591262817383,
+    "longitude": -122.37410736083984,
+    "reservations": 70,
+    "spend": 3500.0
+  },
+  {
+    "venue_id": "4998ab8e-dca1-4756-8655-216e5ca4dfe4",
+    "venue_name": "WeWork | 1201 3rd Ave.",
+    "latitude": 47.607147216796875,
+    "longitude": -122.3359375,
+    "reservations": 35,
+    "spend": 2262.6
+  },
+  {
+    "venue_id": "92049d30-e2b3-4c10-a1d6-98b9997870ff",
+    "venue_name": "thinkspace - Seattle",
+    "latitude": 47.63450622558594,
+    "longitude": -122.339599609375,
+    "reservations": 9,
+    "spend": 1550.0
+  },
+  {
+    "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
+    "venue_name": "The Cloud Room",
+    "latitude": 47.6136589050293,
+    "longitude": -122.3177490234375,
+    "reservations": 37,
+    "spend": 1480.0
+  },
+  {
+    "venue_id": "fe7c09e6-0ece-4b22-b834-aaa369c25b3d",
+    "venue_name": "Expansive - Pioneer Building",
+    "latitude": 47.60219955444336,
+    "longitude": -122.33348083496094,
+    "reservations": 7,
+    "spend": 678.0
+  },
+  {
+    "venue_id": "ca021d3d-08b8-4c0c-bfc7-e8ff6a63b6a6",
+    "venue_name": "WeWork | 1448 NW Market Street",
+    "latitude": 47.66898727416992,
+    "longitude": -122.37577819824219,
+    "reservations": 9,
+    "spend": 531.0
+  },
+  {
+    "venue_id": "f54644e0-e12e-0132-2e14-46f49f6b5ea9",
+    "venue_name": "WeWork | Holyoke Building",
+    "latitude": 47.605506896972656,
+    "longitude": -122.33633422851562,
+    "reservations": 6,
+    "spend": 224.0
+  },
+  {
+    "venue_id": "4a3b38eb-bd86-4102-8796-64df14a69192",
+    "venue_name": "Regus | Seattle - Columbia Center",
+    "latitude": 47.6047248840332,
+    "longitude": -122.3306884765625,
+    "reservations": 4,
+    "spend": 163.45
+  },
+  {
+    "venue_id": "b8ed54f3-97b1-49b2-8c8a-a30160d6ac86",
+    "venue_name": "CENTRL Office - Capitol Hill",
+    "latitude": 47.61480712890625,
+    "longitude": -122.31840515136719,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

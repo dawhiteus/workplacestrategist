@@ -1,0 +1,106 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 63,
+    "total_spend": 3072.5,
+    "venues": 11,
+    "members": 15
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 2010.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 21,
+    "total_spend": 1029.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Alexandria",
+    "state": "VA",
+    "reservations": 17,
+    "total_spend": 992.0,
+    "venues": 2,
+    "members": 6
+  },
+  {
+    "city": "Cohasset",
+    "state": "MA",
+    "reservations": 22,
+    "total_spend": 878.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 17,
+    "total_spend": 865.0,
+    "venues": 5,
+    "members": 6
+  },
+  {
+    "city": "Newport Beach",
+    "state": "CA",
+    "reservations": 12,
+    "total_spend": 588.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 15,
+    "total_spend": 450.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 5,
+    "total_spend": 231.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 3,
+    "total_spend": 182.5,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Bryan",
+    "state": "TX",
+    "reservations": 4,
+    "total_spend": 172.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "reservations": 4,
+    "total_spend": 170.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Tulsa",
+    "state": "OK",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 1
+  }
+]

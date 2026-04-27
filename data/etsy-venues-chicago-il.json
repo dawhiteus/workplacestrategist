@@ -1,0 +1,122 @@
+[
+  {
+    "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
+    "venue_name": "350 Coworking | 350 N. Orleans",
+    "latitude": 41.888038635253906,
+    "longitude": -87.63765716552734,
+    "reservations": 66,
+    "spend": 2060.0
+  },
+  {
+    "venue_id": "6c504787-3001-4a91-a3ac-83e3d7613f16",
+    "venue_name": "Life Time Work - River North at One Chicago",
+    "latitude": 41.89649963378906,
+    "longitude": -87.62849426269531,
+    "reservations": 15,
+    "spend": 865.0
+  },
+  {
+    "venue_id": "c8075780-e397-465b-b631-4b4cd8d62ccd",
+    "venue_name": "Second Shift",
+    "latitude": 41.93218231201172,
+    "longitude": -87.71360778808594,
+    "reservations": 28,
+    "spend": 840.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 19,
+    "spend": 755.0
+  },
+  {
+    "venue_id": "2a8f36b0-0ac0-4358-955d-ecd5f4d735ae",
+    "venue_name": "Workbox - The Loop",
+    "latitude": 41.879905700683594,
+    "longitude": -87.63046264648438,
+    "reservations": 8,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "04ed0f0a-e91f-4273-b13b-649fc0778f38",
+    "venue_name": "Expansive - North Center",
+    "latitude": 41.95161819458008,
+    "longitude": -87.6742172241211,
+    "reservations": 4,
+    "spend": 226.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505126953125,
+    "longitude": -87.63457489013672,
+    "reservations": 4,
+    "spend": 187.0
+  },
+  {
+    "venue_id": "c2dfd1ef-5919-4d7a-8edc-acca53304ade",
+    "venue_name": "WeWork | 330 N. Wabash",
+    "latitude": 41.88862991333008,
+    "longitude": -87.62750244140625,
+    "reservations": 4,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "04847fd4-1443-4694-8f2e-b1fbe424bc9c",
+    "venue_name": "Industrious - Wicker Park",
+    "latitude": 41.9034423828125,
+    "longitude": -87.6708984375,
+    "reservations": 2,
+    "spend": 126.0
+  },
+  {
+    "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
+    "venue_name": "Carr Workplaces - Aon Center",
+    "latitude": 41.885284423828125,
+    "longitude": -87.62151336669922,
+    "reservations": 4,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "edf0548a-07d1-49ca-b642-b09a0ab1fe19",
+    "venue_name": "Workbox Magnificent Mile",
+    "latitude": 41.88983917236328,
+    "longitude": -87.62689971923828,
+    "reservations": 3,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "200cae30-0653-46f9-909d-70006ff2953d",
+    "venue_name": "DeskLabs",
+    "latitude": 41.937294006347656,
+    "longitude": -87.64836120605469,
+    "reservations": 4,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "0f6b3b8c-534b-4b7d-a349-8dbe72e91adc",
+    "venue_name": "Workbox Union Station",
+    "latitude": 41.8791618347168,
+    "longitude": -87.64392852783203,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.89024353027344,
+    "longitude": -87.63189697265625,
+    "reservations": 2,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "b3f423ca-ce58-4490-b50e-01f7ea1863d2",
+    "venue_name": "Desk606",
+    "latitude": 41.91713333129883,
+    "longitude": -87.70977783203125,
+    "reservations": 2,
+    "spend": 40.0
+  }
+]

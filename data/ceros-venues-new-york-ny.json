@@ -1,0 +1,210 @@
+[
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 248,
+    "spend": 58570.0
+  },
+  {
+    "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
+    "venue_name": "The Malin Flatiron",
+    "latitude": 40.738895416259766,
+    "longitude": -73.989990234375,
+    "reservations": 141,
+    "spend": 27230.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 112,
+    "spend": 20840.0
+  },
+  {
+    "venue_id": "d559069c-8c87-4be8-a009-a6f0603ef003",
+    "venue_name": "WeWork | 500 7th Avenue",
+    "latitude": 40.75320816040039,
+    "longitude": -73.98932647705078,
+    "reservations": 46,
+    "spend": 11874.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.74652099609375,
+    "longitude": -73.98805236816406,
+    "reservations": 91,
+    "spend": 5745.0
+  },
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.73402404785156,
+    "longitude": -74.00786590576172,
+    "reservations": 36,
+    "spend": 5536.25
+  },
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin Nomad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 27,
+    "spend": 4857.5
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639221191406,
+    "longitude": -73.98652648925781,
+    "reservations": 36,
+    "spend": 4419.0
+  },
+  {
+    "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
+    "venue_name": "Blender Workspace",
+    "latitude": 40.745994567871094,
+    "longitude": -73.98397827148438,
+    "reservations": 7,
+    "spend": 3165.0
+  },
+  {
+    "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
+    "venue_name": "Serendipity Labs - New York - Grand Central",
+    "latitude": 40.750938415527344,
+    "longitude": -73.97350311279297,
+    "reservations": 23,
+    "spend": 2501.0
+  },
+  {
+    "venue_id": "f533cbcb-e1d5-4226-a28d-82e1fd479fa9",
+    "venue_name": "WeWork | 33 Irving Pl",
+    "latitude": 40.735137939453125,
+    "longitude": -73.98824310302734,
+    "reservations": 4,
+    "spend": 1958.4
+  },
+  {
+    "venue_id": "98bed0ab-96d5-48f5-bd08-897beda3267d",
+    "venue_name": "WeWork | 750 Lexington",
+    "latitude": 40.762691497802734,
+    "longitude": -73.96826171875,
+    "reservations": 10,
+    "spend": 1920.2
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 12,
+    "spend": 1302.5
+  },
+  {
+    "venue_id": "52d81a69-bad3-4148-9fb6-e8684dabc3b5",
+    "venue_name": "WeWork | 1460 Broadway",
+    "latitude": 40.755104064941406,
+    "longitude": -73.9862060546875,
+    "reservations": 6,
+    "spend": 1185.4
+  },
+  {
+    "venue_id": "b69e0a98-f12b-4462-9a55-e55bd97dade8",
+    "venue_name": "Carr Workplaces - Central Park",
+    "latitude": 40.76327133178711,
+    "longitude": -73.97354888916016,
+    "reservations": 4,
+    "spend": 1085.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825256347656,
+    "longitude": -74.01303100585938,
+    "reservations": 9,
+    "spend": 670.0
+  },
+  {
+    "venue_id": "e4598564-7418-4413-b1bc-11378963715f",
+    "venue_name": "WeWork | 154 W 14th St",
+    "latitude": 40.738372802734375,
+    "longitude": -73.99957275390625,
+    "reservations": 3,
+    "spend": 622.0
+  },
+  {
+    "venue_id": "42c247ea-a225-4575-a0b7-6ca49f421643",
+    "venue_name": "SPACES | Midtown South",
+    "latitude": 40.74296188354492,
+    "longitude": -73.98375701904297,
+    "reservations": 3,
+    "spend": 555.23
+  },
+  {
+    "venue_id": "50a8ca07-6698-4e08-8c58-ab3d0818292d",
+    "venue_name": "Executive Offices of New York",
+    "latitude": 40.751953125,
+    "longitude": -73.98945617675781,
+    "reservations": 3,
+    "spend": 430.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855041503906,
+    "longitude": -73.98938751220703,
+    "reservations": 10,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "92ed7be7-03e3-40ba-9777-7f57f4115486",
+    "venue_name": "Soho Works | 875 Washington",
+    "latitude": 40.741004943847656,
+    "longitude": -74.00724792480469,
+    "reservations": 3,
+    "spend": 270.0
+  },
+  {
+    "venue_id": "49abea9b-f38a-4f0f-8d9b-06d21bcd4407",
+    "venue_name": "Gravel Road Business Executive Suites",
+    "latitude": 40.75099182128906,
+    "longitude": -73.98112487792969,
+    "reservations": 5,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "b1d6bd96-f117-49bf-889a-9536ce86b9af",
+    "venue_name": "Nomadworks | Times Square",
+    "latitude": 40.75526809692383,
+    "longitude": -73.98958587646484,
+    "reservations": 3,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "db292c72-2173-4f25-a8a4-27505c21bdd8",
+    "venue_name": "The Yard: Flatiron South",
+    "latitude": 40.74427032470703,
+    "longitude": -73.98790740966797,
+    "reservations": 6,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "5ad18402-7154-457e-bc09-32a675eaa843",
+    "venue_name": "The Yard: Columbus Circle",
+    "latitude": 40.76958084106445,
+    "longitude": -73.98319244384766,
+    "reservations": 5,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 3,
+    "spend": 117.0
+  }
+]

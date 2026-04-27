@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "0194189d-3f66-4d85-8eda-82c93403622e",
+    "venue_name": "The Hub Irvine",
+    "latitude": 33.638614654541016,
+    "longitude": -117.73486328125,
+    "reservations": 2,
+    "spend": 6602.0
+  },
+  {
+    "venue_id": "9118ba56-59b3-4467-bce4-5de3a7aa3dbb",
+    "venue_name": "Spectrum Executive Suites",
+    "latitude": 33.63060760498047,
+    "longitude": -117.72898864746094,
+    "reservations": 12,
+    "spend": 875.0
+  },
+  {
+    "venue_id": "6a16d79d-eb5d-4aad-94f2-d9fc20408137",
+    "venue_name": "WorkWell",
+    "latitude": 33.68326187133789,
+    "longitude": -117.83320617675781,
+    "reservations": 3,
+    "spend": 528.0
+  }
+]

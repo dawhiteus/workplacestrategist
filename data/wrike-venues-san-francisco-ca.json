@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
+    "venue_name": "Carr Workplaces - Embarcadero Center",
+    "latitude": 37.79469680786133,
+    "longitude": -122.39987182617188,
+    "reservations": 15,
+    "spend": 6770.0
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.79138946533203,
+    "longitude": -122.39215087890625,
+    "reservations": 8,
+    "spend": 2255.0
+  }
+]

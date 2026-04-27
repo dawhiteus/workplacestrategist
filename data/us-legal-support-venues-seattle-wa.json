@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.61172866821289,
+    "longitude": -122.34436798095703,
+    "reservations": 2,
+    "spend": 590.0
+  },
+  {
+    "venue_id": "aff1ae92-1fc6-4f1c-ae7e-1c05a4c7e746",
+    "venue_name": "Coworking Eastlake",
+    "latitude": 47.63908004760742,
+    "longitude": -122.3258285522461,
+    "reservations": 2,
+    "spend": 345.0
+  },
+  {
+    "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
+    "venue_name": "SURF Incubator",
+    "latitude": 47.60531997680664,
+    "longitude": -122.33389282226562,
+    "reservations": 2,
+    "spend": 200.0
+  }
+]

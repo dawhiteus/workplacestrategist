@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c64a11d6-c72d-4c77-a8ff-fb4207b7f877",
+    "venue_name": "Temescal Works",
+    "latitude": 37.83181381225586,
+    "longitude": -122.26313018798828,
+    "reservations": 17,
+    "spend": 540.0
+  },
+  {
+    "venue_id": "812830c5-524f-4c01-a04a-fa3e72735f37",
+    "venue_name": "WeWork | 1111 Broadway",
+    "latitude": 37.80280303955078,
+    "longitude": -122.27291870117188,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6fb5c710-80b6-44d8-ada9-a0c614db99a4",
+    "venue_name": "Worklab by Custer",
+    "latitude": 42.965030670166016,
+    "longitude": -85.67288970947266,
+    "reservations": 48,
+    "spend": 20835.0
+  },
+  {
+    "venue_id": "011b5341-94ef-47d6-9036-1d20618bc1a7",
+    "venue_name": "Shared: Coworking EGR",
+    "latitude": 42.95088577270508,
+    "longitude": -85.61632537841797,
+    "reservations": 2,
+    "spend": 697.0
+  }
+]

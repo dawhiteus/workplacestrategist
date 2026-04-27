@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6b1c7b9b-ebc0-407f-9c05-fbcd6bff146a",
+    "venue_name": "Studio 1646 LLC",
+    "latitude": 26.596515655517578,
+    "longitude": -81.87858581542969,
+    "reservations": 29,
+    "spend": 9505.0
+  },
+  {
+    "venue_id": "0e6588cc-b30d-4554-8cee-c7dde25626b3",
+    "venue_name": "Remote Workspace and Reading Lounge",
+    "latitude": 26.580947875976562,
+    "longitude": -81.87882232666016,
+    "reservations": 4,
+    "spend": 2150.0
+  }
+]

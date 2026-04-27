@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "017820ed-de41-4dee-9337-d13ce87b1009",
+    "venue_name": "Empire Scottsdale",
+    "latitude": 33.49008560180664,
+    "longitude": -111.92694091796875,
+    "reservations": 16,
+    "spend": 7195.0
+  },
+  {
+    "venue_id": "40e85f59-b6c0-4daf-9c69-3453085548de",
+    "venue_name": "Regus | Scottsdale Fashion Square",
+    "latitude": 33.50239944458008,
+    "longitude": -111.927001953125,
+    "reservations": 3,
+    "spend": 559.2
+  },
+  {
+    "venue_id": "1cf884a7-8e30-4c48-bbf1-3b449abcd199",
+    "venue_name": "Regus | Kierland",
+    "latitude": 33.62225341796875,
+    "longitude": -111.92900085449219,
+    "reservations": 2,
+    "spend": 551.91
+  },
+  {
+    "venue_id": "14f2bb12-12fe-41ed-8d6b-69e33175c026",
+    "venue_name": "SPACES | Old Town Scottsdale",
+    "latitude": 33.50040054321289,
+    "longitude": -111.92500305175781,
+    "reservations": 6,
+    "spend": 441.27
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "9e20ac9d-c230-4a0b-ac09-f5f4d851cd0e",
+    "venue_name": "WeWork | One Glenwood",
+    "latitude": 35.780548095703125,
+    "longitude": -78.64794158935547,
+    "reservations": 741,
+    "spend": 169826.6
+  },
+  {
+    "venue_id": "2760956a-fe0b-4053-b2fa-557387c16631",
+    "venue_name": "SPACES | The Dillon",
+    "latitude": 35.77799987792969,
+    "longitude": -78.64569854736328,
+    "reservations": 47,
+    "spend": 45056.83
+  },
+  {
+    "venue_id": "78a0d741-056d-4979-b77a-9f70783b72c9",
+    "venue_name": "Regus | Cap Trust Tower",
+    "latitude": 35.837059020996094,
+    "longitude": -78.64005279541016,
+    "reservations": 15,
+    "spend": 3948.77
+  },
+  {
+    "venue_id": "34c7776f-f4c2-40a1-9f59-a71e72ef4e01",
+    "venue_name": "Regus | Forum I (Office Suites Plus)",
+    "latitude": 35.89674758911133,
+    "longitude": -78.6519775390625,
+    "reservations": 17,
+    "spend": 2521.19
+  },
+  {
+    "venue_id": "d9617e43-4a67-460a-a343-6ae9e55ec44f",
+    "venue_name": "Regus | NC, Raleigh -  North Hills Tower II",
+    "latitude": 35.838050842285156,
+    "longitude": -78.6407699584961,
+    "reservations": 6,
+    "spend": 2419.19
+  },
+  {
+    "venue_id": "d5dbaf9c-b01c-4dd0-af04-660b6807e9b9",
+    "venue_name": "The Loading Dock - Beryl Road",
+    "latitude": 35.79340362548828,
+    "longitude": -78.69190216064453,
+    "reservations": 3,
+    "spend": 480.0
+  },
+  {
+    "venue_id": "e379179e-46fa-4b9a-b129-bb84465787c9",
+    "venue_name": "The Loading Dock - Dock 1053",
+    "latitude": 35.80897521972656,
+    "longitude": -78.62125396728516,
+    "reservations": 4,
+    "spend": 348.0
+  }
+]

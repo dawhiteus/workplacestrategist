@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "95ec9e4c-a839-4e4e-86b1-775a5832068f",
+    "venue_name": "Lucid Private Offices | Uptown - Central Expressway",
+    "latitude": 32.814849853515625,
+    "longitude": -96.79060363769531,
+    "reservations": 25,
+    "spend": 1835.0
+  },
+  {
+    "venue_id": "ec62aaf5-1e33-4e47-85a8-307344f7d15c",
+    "venue_name": "Hatchways Victory Park",
+    "latitude": 32.78645706176758,
+    "longitude": -96.8093490600586,
+    "reservations": 9,
+    "spend": 810.0
+  },
+  {
+    "venue_id": "133cd726-1477-40ed-81d8-1720892fc5c7",
+    "venue_name": "WeWork | 1920 McKinney Ave",
+    "latitude": 32.79012680053711,
+    "longitude": -96.80328369140625,
+    "reservations": 12,
+    "spend": 564.0
+  },
+  {
+    "venue_id": "38f0c83a-e730-4724-a0fd-a916874d5092",
+    "venue_name": "Expansive - Katy Building",
+    "latitude": 32.778751373291016,
+    "longitude": -96.80565643310547,
+    "reservations": 3,
+    "spend": 425.0
+  },
+  {
+    "venue_id": "b3a8efd8-f528-4c94-8bef-86100b01344f",
+    "venue_name": "Common Desk - West End",
+    "latitude": 32.78316879272461,
+    "longitude": -96.80786895751953,
+    "reservations": 12,
+    "spend": 365.0
+  },
+  {
+    "venue_id": "4aa0aa63-1c66-426b-9c0c-7d270054a7da",
+    "venue_name": "Common Desk - Dallas Arts District",
+    "latitude": 32.787532806396484,
+    "longitude": -96.79916381835938,
+    "reservations": 3,
+    "spend": 270.0
+  },
+  {
+    "venue_id": "6024185c-d5aa-4a5e-ab11-ddc57504ba20",
+    "venue_name": "WeWork | Preston Center",
+    "latitude": 32.864219665527344,
+    "longitude": -96.8102035522461,
+    "reservations": 3,
+    "spend": 141.0
+  }
+]

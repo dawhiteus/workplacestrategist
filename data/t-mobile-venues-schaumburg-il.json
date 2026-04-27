@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a98c27f5-535d-4d55-955b-d816ea4e8262",
+    "venue_name": "HuddleUp Powered By 25N Coworking",
+    "latitude": 42.057518005371094,
+    "longitude": -88.04124450683594,
+    "reservations": 8,
+    "spend": 6090.0
+  },
+  {
+    "venue_id": "333a2d97-5e41-4ca7-9e78-ee86ca0d7eb8",
+    "venue_name": "Regus | Woodfield Preserve",
+    "latitude": 42.0257453918457,
+    "longitude": -88.03244018554688,
+    "reservations": 3,
+    "spend": 565.05
+  }
+]

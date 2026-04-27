@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "77933c5b-a4d3-425b-b35a-11aade7f4de7",
+    "venue_name": "COhatch - Easton",
+    "latitude": 40.0553092956543,
+    "longitude": -82.90742492675781,
+    "reservations": 7,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "464c07ba-2722-45f4-9d30-74dd006ffbf5",
+    "venue_name": "COhatch - Polaris",
+    "latitude": 40.14573287963867,
+    "longitude": -82.9780502319336,
+    "reservations": 4,
+    "spend": 125.0
+  }
+]

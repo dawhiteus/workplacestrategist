@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "261487bc-73e1-4e74-a259-90534b96fda4",
+    "venue_name": "Outlet Coworking - Roseville",
+    "latitude": 38.74745559692383,
+    "longitude": -121.24443054199219,
+    "reservations": 258,
+    "spend": 38400.0
+  },
+  {
+    "venue_id": "5c5145e7-4b7b-4fd8-b5de-11efbdfd2c78",
+    "venue_name": "Regus | Highland Pointe",
+    "latitude": 38.78419494628906,
+    "longitude": -121.28388214111328,
+    "reservations": 2,
+    "spend": 761.34
+  },
+  {
+    "venue_id": "7b9f4e93-82da-4362-ba19-b8a3915f7c60",
+    "venue_name": "Roseville Executive Suites",
+    "latitude": 38.725257873535156,
+    "longitude": -121.29164123535156,
+    "reservations": 4,
+    "spend": 445.0
+  }
+]

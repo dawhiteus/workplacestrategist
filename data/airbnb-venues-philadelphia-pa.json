@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "23da23da-e224-4dfc-bdd6-519a359c9778",
+    "venue_name": "Bond Collective - Center City (Station House)",
+    "latitude": 39.95418930053711,
+    "longitude": -75.16766357421875,
+    "reservations": 7,
+    "spend": 1055.0
+  },
+  {
+    "venue_id": "fdd45d32-9f6c-4e38-af7d-fd9ec5a561c8",
+    "venue_name": "WeWork | 1900 Market",
+    "latitude": 39.95310974121094,
+    "longitude": -75.17245483398438,
+    "reservations": 11,
+    "spend": 483.0
+  },
+  {
+    "venue_id": "b5acc1e9-5305-4e53-8092-0909b1270e9d",
+    "venue_name": "Mindspace Philadelphia",
+    "latitude": 39.9512939453125,
+    "longitude": -75.16192626953125,
+    "reservations": 3,
+    "spend": 96.0
+  },
+  {
+    "venue_id": "5a2c1877-4944-4b83-9c34-9e7f43de544a",
+    "venue_name": "The Yard: Center City",
+    "latitude": 39.95083999633789,
+    "longitude": -75.15850067138672,
+    "reservations": 2,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "ed6c70b4-17a4-4d0f-99c5-4b7f8bad6d12",
+    "venue_name": "WeWork | 1100 Ludlow St",
+    "latitude": 39.953590393066406,
+    "longitude": -75.17935943603516,
+    "reservations": 2,
+    "spend": 84.0
+  }
+]

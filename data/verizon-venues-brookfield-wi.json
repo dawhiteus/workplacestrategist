@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "406bb4f4-17b1-4bd5-ba9a-ae140fb89c03",
+    "venue_name": "HQ | WI, Brookfield - Brookfield Square",
+    "latitude": 43.030643463134766,
+    "longitude": -88.11344909667969,
+    "reservations": 3,
+    "spend": 463.85
+  },
+  {
+    "venue_id": "c97f1fb1-2ae7-4e50-bf9d-c6e7617a515d",
+    "venue_name": "Regus | Bishops Way",
+    "latitude": 43.028804779052734,
+    "longitude": -88.07839965820312,
+    "reservations": 2,
+    "spend": 365.0
+  }
+]

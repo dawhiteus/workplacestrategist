@@ -1,0 +1,98 @@
+[
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 27,
+    "total_spend": 7313.21,
+    "venues": 9,
+    "members": 10
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 9,
+    "total_spend": 6531.97,
+    "venues": 7,
+    "members": 6
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "reservations": 5,
+    "total_spend": 3027.5,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 2855.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "reservations": 6,
+    "total_spend": 2530.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "reservations": 5,
+    "total_spend": 1982.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 4,
+    "total_spend": 1843.66,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Durham",
+    "state": "NC",
+    "reservations": 5,
+    "total_spend": 1510.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 5,
+    "total_spend": 1334.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Arlington",
+    "state": "VA",
+    "reservations": 3,
+    "total_spend": 1047.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Charleston",
+    "state": "SC",
+    "reservations": 3,
+    "total_spend": 1040.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "reservations": 4,
+    "total_spend": 996.0,
+    "venues": 2,
+    "members": 3
+  }
+]

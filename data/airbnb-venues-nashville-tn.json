@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1af51b42-829f-4e4e-9a68-1f785107f39c",
+    "venue_name": "The Malin Wedgewood Houston",
+    "latitude": 36.14491653442383,
+    "longitude": -86.76726531982422,
+    "reservations": 11,
+    "spend": 1060.0
+  },
+  {
+    "venue_id": "ac6456a9-d0b5-47ec-ac7c-026cbe998e58",
+    "venue_name": "The Malin South Gulch",
+    "latitude": 36.150630950927734,
+    "longitude": -86.77870178222656,
+    "reservations": 2,
+    "spend": 200.0
+  }
+]

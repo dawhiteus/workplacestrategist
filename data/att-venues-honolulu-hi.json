@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c8eae164-b247-40b1-a093-2ac3ef5504ff",
+    "venue_name": "Resource Suites LLC",
+    "latitude": 21.287689208984375,
+    "longitude": -157.83372497558594,
+    "reservations": 23,
+    "spend": 3490.0
+  },
+  {
+    "venue_id": "3d42b243-f29f-4b0c-a9cc-8f4b3ddb6fc2",
+    "venue_name": "Regus | Waterfront Honolulu",
+    "latitude": 21.300600051879883,
+    "longitude": -157.86300659179688,
+    "reservations": 2,
+    "spend": 268.0
+  }
+]

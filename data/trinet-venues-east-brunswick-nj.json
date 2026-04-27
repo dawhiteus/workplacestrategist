@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a7b9622e-e128-4e9a-9715-6221b516e375",
+    "venue_name": "Small Officer",
+    "latitude": 40.46891403198242,
+    "longitude": -74.40967559814453,
+    "reservations": 13,
+    "spend": 588.0
+  },
+  {
+    "venue_id": "de7c7377-4294-400f-b578-db996d4a6078",
+    "venue_name": "Office Evolution East Brunswick",
+    "latitude": 40.47929382324219,
+    "longitude": -74.40792083740234,
+    "reservations": 2,
+    "spend": 270.0
+  }
+]

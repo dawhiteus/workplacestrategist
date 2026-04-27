@@ -1,0 +1,34 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 47,
+    "total_spend": 5648.41,
+    "venues": 22,
+    "members": 3
+  },
+  {
+    "city": "New York City",
+    "state": "NY",
+    "reservations": 5,
+    "total_spend": 559.54,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Wilton",
+    "state": "CT",
+    "reservations": 4,
+    "total_spend": 425.76,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Parsippany-Troy Hills",
+    "state": "NJ",
+    "reservations": 3,
+    "total_spend": 345.0,
+    "venues": 1,
+    "members": 1
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.52505874633789,
+    "longitude": -122.68479919433594,
+    "reservations": 19,
+    "spend": 5640.0
+  },
+  {
+    "venue_id": "ca336e13-3a9f-4bd4-bc6d-021dc87d6e2b",
+    "venue_name": "WeWork | 830 NE Holladay St",
+    "latitude": 45.52975082397461,
+    "longitude": -122.65685272216797,
+    "reservations": 59,
+    "spend": 4459.4
+  },
+  {
+    "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
+    "venue_name": "CENTRL Office - West End",
+    "latitude": 45.52070999145508,
+    "longitude": -122.68387603759766,
+    "reservations": 7,
+    "spend": 1225.0
+  },
+  {
+    "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
+    "venue_name": "CENTRL Office - Eastside",
+    "latitude": 45.52379608154297,
+    "longitude": -122.66244506835938,
+    "reservations": 3,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "391f4ce6-e67c-4207-85ee-dbaa4cefa79b",
+    "venue_name": "Regus | River Park Center",
+    "latitude": 45.46546936035156,
+    "longitude": -122.66329956054688,
+    "reservations": 3,
+    "spend": 168.0
+  }
+]

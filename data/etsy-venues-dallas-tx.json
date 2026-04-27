@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "55a81b63-e3dc-429e-afb1-081ce444437d",
+    "venue_name": "Venture X Dallas - Braniff Center",
+    "latitude": 32.84946823120117,
+    "longitude": -96.84017181396484,
+    "reservations": 12,
+    "spend": 540.0
+  },
+  {
+    "venue_id": "5c14083b-9cad-4531-985a-ddeb3ba39a32",
+    "venue_name": "Lucid Private Offices | NorthPark",
+    "latitude": 32.8604850769043,
+    "longitude": -96.76956176757812,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

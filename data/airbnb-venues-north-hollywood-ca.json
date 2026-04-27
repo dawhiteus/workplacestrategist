@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "de40704d-2e07-4379-9ad6-5b8168aae59d",
+    "venue_name": "WeWork | 5161 Lankershim Blvd",
+    "latitude": 34.16427993774414,
+    "longitude": -118.37472534179688,
+    "reservations": 64,
+    "spend": 5486.6
+  },
+  {
+    "venue_id": "f5a56c38-1e8b-4b30-8b28-ebf9da9d813d",
+    "venue_name": "Regus || Lankershim Plaza",
+    "latitude": 34.16648483276367,
+    "longitude": -118.37538146972656,
+    "reservations": 19,
+    "spend": 5185.2
+  }
+]

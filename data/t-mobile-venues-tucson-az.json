@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "b428f17f-dd52-44a7-af82-10c980dd1b71",
+    "venue_name": "La Suprema Works & Events",
+    "latitude": 32.215999603271484,
+    "longitude": -110.97409057617188,
+    "reservations": 191,
+    "spend": 79115.0
+  },
+  {
+    "venue_id": "4c50ef9e-3a37-4628-bbbd-7047765fba0b",
+    "venue_name": "The Post Workspaces",
+    "latitude": 32.3416862487793,
+    "longitude": -110.97628021240234,
+    "reservations": 17,
+    "spend": 6960.0
+  },
+  {
+    "venue_id": "207ef1f6-1411-4f15-8506-9600f7803579",
+    "venue_name": "Regus | Downtown Tucson",
+    "latitude": 32.22140121459961,
+    "longitude": -110.97195434570312,
+    "reservations": 7,
+    "spend": 1646.4
+  },
+  {
+    "venue_id": "75ebaac3-68b5-4271-b1bb-6c160fc386d7",
+    "venue_name": "Intelligent Office of Tucson",
+    "latitude": 32.320655822753906,
+    "longitude": -110.9206314086914,
+    "reservations": 3,
+    "spend": 935.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "04ecbc8d-5eb7-445c-b2a2-59162a7788f2",
+    "venue_name": "WeWork | Colony Square",
+    "latitude": 33.786949157714844,
+    "longitude": -84.38282775878906,
+    "reservations": 30,
+    "spend": 1117.0
+  },
+  {
+    "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
+    "venue_name": "Alkaloid Networks",
+    "latitude": 33.75890350341797,
+    "longitude": -84.36479949951172,
+    "reservations": 7,
+    "spend": 390.0
+  },
+  {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.84675598144531,
+    "longitude": -84.37248229980469,
+    "reservations": 2,
+    "spend": 100.0
+  }
+]

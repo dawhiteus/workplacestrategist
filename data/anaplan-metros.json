@@ -1,0 +1,290 @@
+[
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 69,
+    "total_spend": 29173.5,
+    "venues": 20,
+    "members": 15
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 79,
+    "total_spend": 25039.0,
+    "venues": 25,
+    "members": 24
+  },
+  {
+    "city": "Reston",
+    "state": "VA",
+    "reservations": 62,
+    "total_spend": 25035.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 36,
+    "total_spend": 17755.0,
+    "venues": 12,
+    "members": 11
+  },
+  {
+    "city": "Aston",
+    "state": "PA",
+    "reservations": 78,
+    "total_spend": 15605.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Richardson",
+    "state": "TX",
+    "reservations": 50,
+    "total_spend": 10220.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 174,
+    "total_spend": 9189.0,
+    "venues": 9,
+    "members": 7
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 106,
+    "total_spend": 7275.6,
+    "venues": 13,
+    "members": 19
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 11,
+    "total_spend": 4100.2,
+    "venues": 6,
+    "members": 4
+  },
+  {
+    "city": "Media",
+    "state": "PA",
+    "reservations": 13,
+    "total_spend": 3520.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Herndon",
+    "state": "VA",
+    "reservations": 5,
+    "total_spend": 3415.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 7,
+    "total_spend": 2540.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 2250.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Chadds Ford",
+    "state": "PA",
+    "reservations": 11,
+    "total_spend": 2183.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Danvers",
+    "state": "MA",
+    "reservations": 27,
+    "total_spend": 2099.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Culver City",
+    "state": "CA",
+    "reservations": 49,
+    "total_spend": 1715.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "reservations": 25,
+    "total_spend": 1541.0,
+    "venues": 3,
+    "members": 6
+  },
+  {
+    "city": "Boca Raton",
+    "state": "FL",
+    "reservations": 27,
+    "total_spend": 1305.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Englewood",
+    "state": "CO",
+    "reservations": 3,
+    "total_spend": 1300.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 30,
+    "total_spend": 1287.0,
+    "venues": 12,
+    "members": 4
+  },
+  {
+    "city": "Brookline",
+    "state": "MA",
+    "reservations": 14,
+    "total_spend": 785.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Lake Oswego",
+    "state": "OR",
+    "reservations": 13,
+    "total_spend": 520.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Cohasset",
+    "state": "MA",
+    "reservations": 11,
+    "total_spend": 440.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Greenwood Village",
+    "state": "CO",
+    "reservations": 6,
+    "total_spend": 435.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 375.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Portland",
+    "state": "ME",
+    "reservations": 4,
+    "total_spend": 335.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Cambridge",
+    "state": "MA",
+    "reservations": 7,
+    "total_spend": 335.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Costa Mesa",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 328.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Needham",
+    "state": "MA",
+    "reservations": 10,
+    "total_spend": 290.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "El Segundo",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 290.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 269.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Greensboro",
+    "state": "NC",
+    "reservations": 7,
+    "total_spend": 220.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "reservations": 5,
+    "total_spend": 178.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "reservations": 3,
+    "total_spend": 105.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Pasadena",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 3,
+    "members": 1
+  }
+]

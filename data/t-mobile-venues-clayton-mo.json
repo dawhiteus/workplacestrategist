@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "1d402a89-4760-4765-a762-a2c85279914b",
+    "venue_name": "Serendipity Labs - St. Louis - Clayton",
+    "latitude": 38.65174865722656,
+    "longitude": -90.3418197631836,
+    "reservations": 4,
+    "spend": 2647.0
+  },
+  {
+    "venue_id": "d882601e-a78a-494b-b2a2-be6ac4652b53",
+    "venue_name": "ThriveCo Clayton",
+    "latitude": 38.64686584472656,
+    "longitude": -90.33976745605469,
+    "reservations": 5,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "46239884-7462-4718-af66-ac4ef82e78cd",
+    "venue_name": "Le Meridien St. Louis Clayton",
+    "latitude": 38.647037506103516,
+    "longitude": -90.3364028930664,
+    "reservations": 2,
+    "spend": 1150.0
+  }
+]

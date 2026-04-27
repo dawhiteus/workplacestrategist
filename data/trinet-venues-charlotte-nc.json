@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6152ec2f-0851-4611-b63b-a2cfa88d1f92",
+    "venue_name": "Venture X | Charlotte - The Refinery",
+    "latitude": 35.22883987426758,
+    "longitude": -80.86164855957031,
+    "reservations": 2,
+    "spend": 1560.0
+  },
+  {
+    "venue_id": "56ca5589-69e7-457e-ae98-2707ab38f018",
+    "venue_name": "YourOffice - Ballantyne (Charlotte, NC)",
+    "latitude": 35.05923843383789,
+    "longitude": -80.85212707519531,
+    "reservations": 2,
+    "spend": 500.0
+  }
+]

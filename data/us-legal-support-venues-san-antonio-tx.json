@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "4042b934-98e5-4c46-9866-8faf4190e6a9",
+    "venue_name": "Venture X | San Antonio Northwest",
+    "latitude": 29.5041561126709,
+    "longitude": -98.55146026611328,
+    "reservations": 4,
+    "spend": 1125.0
+  },
+  {
+    "venue_id": "29cfe8f4-5c37-4ef3-83d9-d74600c1aba9",
+    "venue_name": "VenturePoint Broadway",
+    "latitude": 29.463056564331055,
+    "longitude": -98.46463012695312,
+    "reservations": 3,
+    "spend": 740.0
+  },
+  {
+    "venue_id": "ab0c1b31-f536-4e9e-8b8f-b9d51e301245",
+    "venue_name": "Legacy Office Centers, Inc.",
+    "latitude": 29.51319694519043,
+    "longitude": -98.55585479736328,
+    "reservations": 3,
+    "spend": 600.0
+  }
+]

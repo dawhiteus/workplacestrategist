@@ -1,0 +1,210 @@
+[
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "reservations": 27,
+    "total_spend": 9471.2,
+    "venues": 7,
+    "members": 4
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "reservations": 12,
+    "total_spend": 5150.0,
+    "venues": 6,
+    "members": 5
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 22,
+    "total_spend": 4562.0,
+    "venues": 9,
+    "members": 3
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 38,
+    "total_spend": 4176.58,
+    "venues": 5,
+    "members": 6
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "reservations": 11,
+    "total_spend": 4098.55,
+    "venues": 6,
+    "members": 2
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 14,
+    "total_spend": 4044.0,
+    "venues": 7,
+    "members": 3
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 3335.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "reservations": 8,
+    "total_spend": 2617.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 1884.5,
+    "venues": 3,
+    "members": 6
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 12,
+    "total_spend": 1736.7,
+    "venues": 7,
+    "members": 7
+  },
+  {
+    "city": "Palo Alto",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 1410.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1258.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Manhattan Beach",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1193.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Glendale",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 1036.8,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "La Jolla",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1025.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Burlingame",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 910.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Littleton",
+    "state": "CO",
+    "reservations": 11,
+    "total_spend": 858.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Los Gatos",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 815.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "reservations": 4,
+    "total_spend": 770.6,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "El Segundo",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 705.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 8,
+    "total_spend": 660.88,
+    "venues": 6,
+    "members": 5
+  },
+  {
+    "city": "Edina",
+    "state": "MN",
+    "reservations": 5,
+    "total_spend": 615.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "San Mateo",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 538.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 10,
+    "total_spend": 503.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Milpitas",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 455.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Greenwood Village",
+    "state": "CO",
+    "reservations": 4,
+    "total_spend": 410.0,
+    "venues": 2,
+    "members": 2
+  }
+]

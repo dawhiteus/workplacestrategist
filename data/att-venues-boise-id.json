@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "be485dfd-d4a2-4df5-af68-fe6a38685801",
+    "venue_name": "Office Evolution - Boise",
+    "latitude": 43.61637878417969,
+    "longitude": -116.20545196533203,
+    "reservations": 50,
+    "spend": 12520.0
+  },
+  {
+    "venue_id": "6a5003c4-bbe7-41be-b6c2-b84f61e3ede6",
+    "venue_name": "Intelligent Office - Boise",
+    "latitude": 43.61606979370117,
+    "longitude": -116.2034683227539,
+    "reservations": 40,
+    "spend": 9825.0
+  }
+]

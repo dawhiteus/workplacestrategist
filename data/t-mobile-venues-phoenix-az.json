@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "a95892c0-1ac3-4e28-bfa1-25830509ec87",
+    "venue_name": "CO+HOOTS-Phoenix",
+    "latitude": 33.49195861816406,
+    "longitude": -112.07050323486328,
+    "reservations": 88,
+    "spend": 32785.0
+  },
+  {
+    "venue_id": "5736a0c5-81e5-441d-8802-b1d79a79a8c9",
+    "venue_name": "CoOperate Melrose",
+    "latitude": 33.49989318847656,
+    "longitude": -112.08149719238281,
+    "reservations": 60,
+    "spend": 24570.0
+  },
+  {
+    "venue_id": "5e256d25-5876-4b5f-9478-4f597ea390c4",
+    "venue_name": "Regus | Phoenix - 3rd St",
+    "latitude": 33.47080993652344,
+    "longitude": -112.06864166259766,
+    "reservations": 18,
+    "spend": 7245.9
+  },
+  {
+    "venue_id": "8b3d447f-f73d-4a15-910b-35280537698b",
+    "venue_name": "(PV1) Paradise Valley",
+    "latitude": 33.5876350402832,
+    "longitude": -111.97577667236328,
+    "reservations": 3,
+    "spend": 1080.0
+  },
+  {
+    "venue_id": "8ef8b6fc-a543-4827-8bbd-ab052249d783",
+    "venue_name": "Office Evolution - Phoenix",
+    "latitude": 33.304595947265625,
+    "longitude": -111.98735046386719,
+    "reservations": 2,
+    "spend": 860.0
+  },
+  {
+    "venue_id": "397d3311-5173-49a1-8ce7-ad8081fb9a0d",
+    "venue_name": "Executive Suites at Agave",
+    "latitude": 33.32223892211914,
+    "longitude": -111.9881591796875,
+    "reservations": 3,
+    "spend": 405.0
+  },
+  {
+    "venue_id": "8ab02f28-ac4a-4766-8789-c5e63f8463d7",
+    "venue_name": "SPACES | AZ, Phoenix \u2013 Block 23",
+    "latitude": 33.447998046875,
+    "longitude": -112.0722427368164,
+    "reservations": 4,
+    "spend": 296.25
+  },
+  {
+    "venue_id": "98b10aa2-6d32-4533-acb4-90a151cc229d",
+    "venue_name": "The Erickson Building Training Facility",
+    "latitude": 33.480838775634766,
+    "longitude": -112.02429962158203,
+    "reservations": 2,
+    "spend": 276.0
+  },
+  {
+    "venue_id": "789d1fa8-5412-4477-9be8-fa55f8611457",
+    "venue_name": "Regus | Desert Ridge Corporate",
+    "latitude": 33.67428970336914,
+    "longitude": -111.97822570800781,
+    "reservations": 3,
+    "spend": 177.0
+  },
+  {
+    "venue_id": "369629a7-4ac1-4258-9816-ef5e849fb5e5",
+    "venue_name": "Workuity",
+    "latitude": 33.50968551635742,
+    "longitude": -112.03168487548828,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

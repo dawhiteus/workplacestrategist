@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "801faace-7fc9-456b-bd29-af38260ce9ac",
+    "venue_name": "Life Time Work - City Centre Five",
+    "latitude": 29.781902313232422,
+    "longitude": -95.55976104736328,
+    "reservations": 7,
+    "spend": 4540.0
+  },
+  {
+    "venue_id": "09c0f554-2246-45ff-80b5-86bd8f1d098d",
+    "venue_name": "Avalon Suites - Tanglewood",
+    "latitude": 29.75037956237793,
+    "longitude": -95.48304748535156,
+    "reservations": 3,
+    "spend": 490.0
+  }
+]

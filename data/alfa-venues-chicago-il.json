@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "a23d9d6d-f148-4766-be2b-f1e28eba0bcb",
+    "venue_name": "WeWork | 1 South Dearborn",
+    "latitude": 41.88167953491211,
+    "longitude": -87.62874603271484,
+    "reservations": 9,
+    "spend": 493.0
+  },
+  {
+    "venue_id": "fecd727c-8ce2-4c39-8d5b-02e253d26c69",
+    "venue_name": "Workbox River North",
+    "latitude": 41.894073486328125,
+    "longitude": -87.63606262207031,
+    "reservations": 8,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505126953125,
+    "longitude": -87.63457489013672,
+    "reservations": 5,
+    "spend": 190.0
+  },
+  {
+    "venue_id": "200cae30-0653-46f9-909d-70006ff2953d",
+    "venue_name": "DeskLabs",
+    "latitude": 41.937294006347656,
+    "longitude": -87.64836120605469,
+    "reservations": 7,
+    "spend": 175.0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "dc4f9780-43d9-4496-b2e8-92dadb02519f",
+    "venue_name": "Versa Grandview",
+    "latitude": 39.97425079345703,
+    "longitude": -83.05360412597656,
+    "reservations": 101,
+    "spend": 2802.75
+  },
+  {
+    "venue_id": "464c07ba-2722-45f4-9d30-74dd006ffbf5",
+    "venue_name": "COhatch - Polaris",
+    "latitude": 40.14573287963867,
+    "longitude": -82.9780502319336,
+    "reservations": 21,
+    "spend": 1510.0
+  },
+  {
+    "venue_id": "aaae2d99-1ffc-469c-b1b0-5aab27e15fc2",
+    "venue_name": "COhatch - Upper Arlington",
+    "latitude": 40.00699996948242,
+    "longitude": -83.05650329589844,
+    "reservations": 9,
+    "spend": 540.0
+  },
+  {
+    "venue_id": "77933c5b-a4d3-425b-b35a-11aade7f4de7",
+    "venue_name": "COhatch - Easton",
+    "latitude": 40.0553092956543,
+    "longitude": -82.90742492675781,
+    "reservations": 6,
+    "spend": 240.0
+  }
+]

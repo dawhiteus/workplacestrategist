@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "de5e4c56-8730-45c2-8d47-183e9c5bf5ef",
+    "venue_name": "The Malin Savannah",
+    "latitude": 32.07961654663086,
+    "longitude": -81.09799194335938,
+    "reservations": 49,
+    "spend": 43825.0
+  },
+  {
+    "venue_id": "f911fa33-b327-4b21-b26f-60a8eeecbe7a",
+    "venue_name": "Regus | Savannah - 22 Bull St",
+    "latitude": 32.07992172241211,
+    "longitude": -81.0907974243164,
+    "reservations": 32,
+    "spend": 8636.4
+  },
+  {
+    "venue_id": "7a056b00-46aa-4a89-83c6-8a5b508a0ffe",
+    "venue_name": "Regus | The Altmayer Building",
+    "latitude": 32.07879638671875,
+    "longitude": -81.09188079833984,
+    "reservations": 2,
+    "spend": 524.0
+  }
+]

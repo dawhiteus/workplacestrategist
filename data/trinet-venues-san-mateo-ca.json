@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "40ee3e5d-6d05-464f-a1c3-12a627f1ddba",
+    "venue_name": "Pacific Workplaces - San Mateo",
+    "latitude": 37.55261993408203,
+    "longitude": -122.29170227050781,
+    "reservations": 3,
+    "spend": 190.0
+  },
+  {
+    "venue_id": "351f9758-138d-4954-8147-141c0201a47a",
+    "venue_name": "Werqwise - San Mateo",
+    "latitude": 37.56231689453125,
+    "longitude": -122.3255844116211,
+    "reservations": 2,
+    "spend": 90.0
+  }
+]

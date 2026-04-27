@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "63f67f80-f1ce-43b0-8de2-2b11bfb798ed",
+    "venue_name": "Regus | UT, Park City - S Sidewinder Dr",
+    "latitude": 40.66265106201172,
+    "longitude": -111.49891662597656,
+    "reservations": 18,
+    "spend": 1701.96
+  },
+  {
+    "venue_id": "f41e6039-1f49-4a57-88d2-57ad2de50d4b",
+    "venue_name": "Kiln - Park City",
+    "latitude": 40.71937561035156,
+    "longitude": -111.53910064697266,
+    "reservations": 2,
+    "spend": 195.0
+  }
+]

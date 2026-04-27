@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "836cb6bb-0b95-481d-bf4b-d1f1f9c9f756",
+    "venue_name": "Venture X | Richmond",
+    "latitude": 37.57033157348633,
+    "longitude": -77.46793365478516,
+    "reservations": 3,
+    "spend": 743.0
+  },
+  {
+    "venue_id": "ec9ab7ab-e217-40ca-a597-a0b12034bda7",
+    "venue_name": "Gather - Scott's Addition",
+    "latitude": 37.56437683105469,
+    "longitude": -77.4720687866211,
+    "reservations": 5,
+    "spend": 250.0
+  }
+]

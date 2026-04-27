@@ -1,0 +1,90 @@
+[
+  {
+    "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
+    "venue_name": "The Malin Flatiron",
+    "latitude": 40.738895416259766,
+    "longitude": -73.989990234375,
+    "reservations": 39,
+    "spend": 3000.0
+  },
+  {
+    "venue_id": "23f0843d-2948-46de-8797-660f7157d009",
+    "venue_name": "Tower 49\u00ae by Industrious",
+    "latitude": 40.757232666015625,
+    "longitude": -73.97696685791016,
+    "reservations": 4,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 7,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.73402404785156,
+    "longitude": -74.00786590576172,
+    "reservations": 6,
+    "spend": 455.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825256347656,
+    "longitude": -74.01303100585938,
+    "reservations": 12,
+    "spend": 420.0
+  },
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 5,
+    "spend": 380.0
+  },
+  {
+    "venue_id": "e4598564-7418-4413-b1bc-11378963715f",
+    "venue_name": "WeWork | 154 W 14th St",
+    "latitude": 40.738372802734375,
+    "longitude": -73.99957275390625,
+    "reservations": 5,
+    "spend": 325.0
+  },
+  {
+    "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
+    "venue_name": "WeWork | 368 9th Ave",
+    "latitude": 40.751068115234375,
+    "longitude": -73.99771881103516,
+    "reservations": 6,
+    "spend": 282.0
+  },
+  {
+    "venue_id": "71dcd609-3551-45cd-8adb-1bd811a52cc0",
+    "venue_name": "Hines | The Square at 205 Hudson Street",
+    "latitude": 40.72372817993164,
+    "longitude": -74.00843811035156,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "90ec82c0-b1f4-0131-aaba-327a344fe8c3",
+    "venue_name": "WeWork | 379 W Broadway",
+    "latitude": 40.7235221862793,
+    "longitude": -74.00220489501953,
+    "reservations": 4,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 3,
+    "spend": 123.0
+  }
+]

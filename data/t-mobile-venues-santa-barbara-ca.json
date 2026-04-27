@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f39a0cf3-4e2e-41aa-8dec-d7bdaf7991e3",
+    "venue_name": "THE SANDBOX Santa Barbara",
+    "latitude": 34.42169952392578,
+    "longitude": -119.68891143798828,
+    "reservations": 11,
+    "spend": 5390.0
+  },
+  {
+    "venue_id": "7feeabbf-b2fe-456d-8ebc-646ab5039afd",
+    "venue_name": "Workzones Santa Barbara",
+    "latitude": 34.41902160644531,
+    "longitude": -119.6993637084961,
+    "reservations": 4,
+    "spend": 690.0
+  }
+]

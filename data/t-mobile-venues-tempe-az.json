@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "8ca7db27-4496-4589-b802-420323f588e5",
+    "venue_name": "WeWork | The Watermark",
+    "latitude": 33.43324279785156,
+    "longitude": -111.927490234375,
+    "reservations": 67,
+    "spend": 3510.0
+  },
+  {
+    "venue_id": "d6189e98-bb5c-4f5c-9cce-a3293afaa33d",
+    "venue_name": "Perimeter83",
+    "latitude": 33.37779235839844,
+    "longitude": -111.97600555419922,
+    "reservations": 4,
+    "spend": 2075.0
+  },
+  {
+    "venue_id": "f82ecfba-41b0-4597-aff2-6ffe61001228",
+    "venue_name": "Fyresite x EIC Incubator",
+    "latitude": 33.427181243896484,
+    "longitude": -111.94046783447266,
+    "reservations": 4,
+    "spend": 1000.0
+  },
+  {
+    "venue_id": "5753ee42-8088-49b2-b64e-d634bca9da95",
+    "venue_name": "Regus | Arizona, Tempe - Wells Fargo Plaza",
+    "latitude": 33.40810012817383,
+    "longitude": -111.93900299072266,
+    "reservations": 3,
+    "spend": 602.0
+  },
+  {
+    "venue_id": "93ea6322-8827-4b9a-bf1f-10ac81c30e56",
+    "venue_name": "Industrious - Tempe",
+    "latitude": 33.42806625366211,
+    "longitude": -111.94042205810547,
+    "reservations": 2,
+    "spend": 528.0
+  }
+]

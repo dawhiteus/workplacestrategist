@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741546630859375,
+    "longitude": -104.98779296875,
+    "reservations": 39,
+    "spend": 2230.0
+  },
+  {
+    "venue_id": "c16c10e7-d617-4148-b709-6e0e3f7abcfb",
+    "venue_name": "WeWork | The Circa Building",
+    "latitude": 39.75788497924805,
+    "longitude": -105.00798797607422,
+    "reservations": 35,
+    "spend": 1645.0
+  },
+  {
+    "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
+    "venue_name": "Venture X | LoDo",
+    "latitude": 39.75336456298828,
+    "longitude": -104.99684143066406,
+    "reservations": 9,
+    "spend": 1360.0
+  },
+  {
+    "venue_id": "c1ca6830-86b1-446e-8486-4a12ee7ab1da",
+    "venue_name": "Shift Workspaces | Bannock",
+    "latitude": 39.73221969604492,
+    "longitude": -104.99066162109375,
+    "reservations": 5,
+    "spend": 207.0
+  },
+  {
+    "venue_id": "0346af01-926c-4808-8ff7-c0e2df5cd649",
+    "venue_name": "Shift Workspaces | Corona",
+    "latitude": 39.721778869628906,
+    "longitude": -104.97438049316406,
+    "reservations": 2,
+    "spend": 64.0
+  }
+]

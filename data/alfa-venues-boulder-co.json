@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9d1a6bd8-5685-416c-8bd9-cc40bfc9bba8",
+    "venue_name": "Industrious - Pearl Street",
+    "latitude": 40.01762771606445,
+    "longitude": -105.27740478515625,
+    "reservations": 4,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "c5845ed8-2f22-453e-8c17-dc0fa5ad0202",
+    "venue_name": "WeWork | Canyon 28",
+    "latitude": 40.017635345458984,
+    "longitude": -105.259033203125,
+    "reservations": 7,
+    "spend": 315.0
+  },
+  {
+    "venue_id": "98e8a00b-7df1-4bea-be2c-d8ee7cf2787b",
+    "venue_name": "Office Evolution - Boulder",
+    "latitude": 40.0217399597168,
+    "longitude": -105.24072265625,
+    "reservations": 6,
+    "spend": 180.0
+  }
+]

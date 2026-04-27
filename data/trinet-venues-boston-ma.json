@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "74d712f5-cc68-4d25-afc5-d8f11d52d442",
+    "venue_name": "Workbar Downtown",
+    "latitude": 42.35727310180664,
+    "longitude": -71.05896759033203,
+    "reservations": 9,
+    "spend": 2045.0
+  },
+  {
+    "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
+    "venue_name": "Idea Space - Back Bay",
+    "latitude": 42.34859848022461,
+    "longitude": -71.08344268798828,
+    "reservations": 2,
+    "spend": 518.0
+  }
+]

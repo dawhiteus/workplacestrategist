@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "30a7f2c3-1d12-4e74-9d5b-515cedfdc6b9",
+    "venue_name": "The Malin Williamsburg",
+    "latitude": 40.72229766845703,
+    "longitude": -73.9568862915039,
+    "reservations": 6,
+    "spend": 455.0
+  },
+  {
+    "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
+    "venue_name": "WeWork | 134 N 4th St",
+    "latitude": 40.716312408447266,
+    "longitude": -73.960205078125,
+    "reservations": 6,
+    "spend": 420.0
+  },
+  {
+    "venue_id": "eedf307c-d603-4e27-b9fb-ee697ffecba4",
+    "venue_name": "Bond Collective Bushwick",
+    "latitude": 40.699249267578125,
+    "longitude": -73.93836975097656,
+    "reservations": 11,
+    "spend": 395.0
+  },
+  {
+    "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
+    "venue_name": "Bond Collective Greenpoint",
+    "latitude": 40.73026657104492,
+    "longitude": -73.94893646240234,
+    "reservations": 4,
+    "spend": 160.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "31baa0b8-4f50-401f-b632-787b6292ff74",
+    "venue_name": "Overlake WorkSpace",
+    "latitude": 47.6298828125,
+    "longitude": -122.18733215332031,
+    "reservations": 18,
+    "spend": 1235.0
+  },
+  {
+    "venue_id": "72c8a894-90cc-4bd8-a5e4-d48ceeae9152",
+    "venue_name": "(BEL) Eastside Office Center",
+    "latitude": 47.57841110229492,
+    "longitude": -122.14928436279297,
+    "reservations": 15,
+    "spend": 1050.0
+  },
+  {
+    "venue_id": "11c501d2-2747-45ed-af42-4be310273c20",
+    "venue_name": "WeWork | Bellevue Place",
+    "latitude": 47.617916107177734,
+    "longitude": -122.20109558105469,
+    "reservations": 3,
+    "spend": 177.0
+  }
+]

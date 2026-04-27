@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "36313d6b-1824-4ab7-9e5e-79d129d783c2",
+    "venue_name": "Workbar Back Bay",
+    "latitude": 42.351810455322266,
+    "longitude": -71.07218170166016,
+    "reservations": 4,
+    "spend": 3407.0
+  },
+  {
+    "venue_id": "2439de9a-3b24-4848-b837-4abc2bd5d70c",
+    "venue_name": "Regus | Seaport - One Marina Park",
+    "latitude": 42.35319900512695,
+    "longitude": -71.04540252685547,
+    "reservations": 3,
+    "spend": 1445.0
+  }
+]

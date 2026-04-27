@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "cb17af79-1aeb-475d-9283-f726ee755628",
+    "venue_name": "Expansive - Austin Highland",
+    "latitude": 30.330394744873047,
+    "longitude": -97.7105484008789,
+    "reservations": 19,
+    "spend": 4303.0
+  },
+  {
+    "venue_id": "6b5843d4-1f56-45f2-8754-9878fa92d85f",
+    "venue_name": "Expansive - North Austin",
+    "latitude": 30.443641662597656,
+    "longitude": -97.69578552246094,
+    "reservations": 19,
+    "spend": 2330.0
+  },
+  {
+    "venue_id": "a030b5ba-13c8-40bd-a379-d979841fc46b",
+    "venue_name": "FUSE Workspace-Four Points",
+    "latitude": 30.410009384155273,
+    "longitude": -97.85163116455078,
+    "reservations": 27,
+    "spend": 810.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192184448242,
+    "longitude": -97.73033905029297,
+    "reservations": 15,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
+    "venue_name": "WeWork | The Domain",
+    "latitude": 30.40485382080078,
+    "longitude": -97.72134399414062,
+    "reservations": 3,
+    "spend": 306.6
+  },
+  {
+    "venue_id": "4ad600ec-ff28-4129-ae1a-83c96b616540",
+    "venue_name": "Regus | Aspen Lake One",
+    "latitude": 30.463232040405273,
+    "longitude": -97.79309844970703,
+    "reservations": 4,
+    "spend": 197.53
+  },
+  {
+    "venue_id": "0e007938-151b-49e1-ad2b-73b3c591d710",
+    "venue_name": "Expansive - Plaza on the Lake",
+    "latitude": 30.349681854248047,
+    "longitude": -97.80119323730469,
+    "reservations": 5,
+    "spend": 190.0
+  },
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.26758575439453,
+    "longitude": -97.75431823730469,
+    "reservations": 3,
+    "spend": 155.0
+  }
+]

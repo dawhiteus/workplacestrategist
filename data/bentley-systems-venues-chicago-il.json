@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "c2dfd1ef-5919-4d7a-8edc-acca53304ade",
+    "venue_name": "WeWork | 330 N. Wabash",
+    "latitude": 41.88862991333008,
+    "longitude": -87.62750244140625,
+    "reservations": 27,
+    "spend": 1269.0
+  },
+  {
+    "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
+    "venue_name": "350 Coworking | 350 N. Orleans",
+    "latitude": 41.888038635253906,
+    "longitude": -87.63765716552734,
+    "reservations": 8,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "a23d9d6d-f148-4766-be2b-f1e28eba0bcb",
+    "venue_name": "WeWork | 1 South Dearborn",
+    "latitude": 41.88167953491211,
+    "longitude": -87.62874603271484,
+    "reservations": 5,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.89024353027344,
+    "longitude": -87.63189697265625,
+    "reservations": 3,
+    "spend": 90.0
+  }
+]

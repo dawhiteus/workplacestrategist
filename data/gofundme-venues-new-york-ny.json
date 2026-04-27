@@ -1,0 +1,218 @@
+[
+  {
+    "venue_id": "c0c3cd79-fd9c-4cb6-af7f-28af54c89b4c",
+    "venue_name": "Midtown East Space",
+    "latitude": 40.75430679321289,
+    "longitude": -73.96768951416016,
+    "reservations": 20,
+    "spend": 9900.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 51,
+    "spend": 4500.0
+  },
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 27,
+    "spend": 4230.0
+  },
+  {
+    "venue_id": "602fd624-23b4-4eb8-99ba-ae2c42556794",
+    "venue_name": "Emerge212 - 3 Columbus Circle",
+    "latitude": 40.76688003540039,
+    "longitude": -73.98223876953125,
+    "reservations": 2,
+    "spend": 3360.0
+  },
+  {
+    "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
+    "venue_name": "The Farm SoHo",
+    "latitude": 40.72059631347656,
+    "longitude": -74.00148010253906,
+    "reservations": 3,
+    "spend": 2490.0
+  },
+  {
+    "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
+    "venue_name": "The Malin Flatiron",
+    "latitude": 40.738895416259766,
+    "longitude": -73.989990234375,
+    "reservations": 32,
+    "spend": 2405.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 7,
+    "spend": 1672.5
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855224609375,
+    "longitude": -74.00897979736328,
+    "reservations": 6,
+    "spend": 846.0
+  },
+  {
+    "venue_id": "b69e0a98-f12b-4462-9a55-e55bd97dade8",
+    "venue_name": "Carr Workplaces - Central Park",
+    "latitude": 40.76327133178711,
+    "longitude": -73.97354888916016,
+    "reservations": 4,
+    "spend": 550.0
+  },
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.73402404785156,
+    "longitude": -74.00786590576172,
+    "reservations": 6,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "d1d19c2a-6132-46fd-869d-7917b8b94880",
+    "venue_name": "Margalit Startup City",
+    "latitude": 40.72068405151367,
+    "longitude": -74.00009155273438,
+    "reservations": 4,
+    "spend": 365.0
+  },
+  {
+    "venue_id": "c0382c4b-1327-4db1-be07-bc4484510a3f",
+    "venue_name": "WeWork | 199 Water St",
+    "latitude": 40.70693588256836,
+    "longitude": -74.00448608398438,
+    "reservations": 7,
+    "spend": 322.0
+  },
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin Nomad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 3,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639221191406,
+    "longitude": -73.98652648925781,
+    "reservations": 5,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855041503906,
+    "longitude": -73.98938751220703,
+    "reservations": 6,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
+    "venue_name": "The Yard: Lower East Side NYC",
+    "latitude": 40.71873092651367,
+    "longitude": -73.98969268798828,
+    "reservations": 6,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "9575df25-c5e4-4ab4-b34d-cfd7712ba7f0",
+    "venue_name": "Le Parc",
+    "latitude": 40.739662170410156,
+    "longitude": -73.9865493774414,
+    "reservations": 2,
+    "spend": 195.0
+  },
+  {
+    "venue_id": "2764adaa-e570-43a7-9ec3-d1e928e5f564",
+    "venue_name": "Industrious - Lex & E 50th St",
+    "latitude": 40.756832122802734,
+    "longitude": -73.97267150878906,
+    "reservations": 2,
+    "spend": 189.0
+  },
+  {
+    "venue_id": "d559069c-8c87-4be8-a009-a6f0603ef003",
+    "venue_name": "WeWork | 500 7th Avenue",
+    "latitude": 40.75320816040039,
+    "longitude": -73.98932647705078,
+    "reservations": 4,
+    "spend": 188.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825256347656,
+    "longitude": -74.01303100585938,
+    "reservations": 4,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "b49bbf41-37eb-424f-9237-6db21bf78b24",
+    "venue_name": "Industrious - Flatiron",
+    "latitude": 40.74411392211914,
+    "longitude": -73.99320983886719,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "e143208a-de9c-4543-b7bd-e534ad25f34f",
+    "venue_name": "WeWork | 430 Park Avenue",
+    "latitude": 40.760799407958984,
+    "longitude": -73.97176361083984,
+    "reservations": 3,
+    "spend": 141.0
+  },
+  {
+    "venue_id": "0e1d1cea-e22d-4936-87b2-9b27a32acd83",
+    "venue_name": "WeWork | 148 Lafayette St",
+    "latitude": 40.71940994262695,
+    "longitude": -74.00003814697266,
+    "reservations": 2,
+    "spend": 118.0
+  },
+  {
+    "venue_id": "9546da66-4fef-4298-8537-c0f7a90cffa2",
+    "venue_name": "Regus | Brookfield Place",
+    "latitude": 40.71369934082031,
+    "longitude": -74.01480102539062,
+    "reservations": 2,
+    "spend": 114.32
+  },
+  {
+    "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
+    "venue_name": "Serendipity Labs - New York - Grand Central",
+    "latitude": 40.750938415527344,
+    "longitude": -73.97350311279297,
+    "reservations": 2,
+    "spend": 104.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 2,
+    "spend": 84.0
+  },
+  {
+    "venue_id": "00d93232-dcac-40de-a99a-0cb81ae8e652",
+    "venue_name": "Corporate Suites: 880 3rd Avenue",
+    "latitude": 40.75795364379883,
+    "longitude": -73.96953582763672,
+    "reservations": 2,
+    "spend": 60.0
+  }
+]

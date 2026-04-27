@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
+    "venue_name": "Expansive - North First",
+    "latitude": 37.37726974487305,
+    "longitude": -121.92033386230469,
+    "reservations": 282,
+    "spend": 61776.0
+  },
+  {
+    "venue_id": "85061ae0-cd8c-4364-a569-69bd69d0188e",
+    "venue_name": "SPACES | Santana Row",
+    "latitude": 37.317535400390625,
+    "longitude": -121.94762420654297,
+    "reservations": 17,
+    "spend": 6046.65
+  },
+  {
+    "venue_id": "a4d5fd04-bc63-4484-97eb-9cd3255c9e40",
+    "venue_name": "Regus || Downtown San Jose",
+    "latitude": 37.332584381103516,
+    "longitude": -121.8943099975586,
+    "reservations": 29,
+    "spend": 4791.75
+  },
+  {
+    "venue_id": "c79ce97f-3fab-40fe-a7fc-39a99a3ba066",
+    "venue_name": "HQ | CA, San Jose - North San Jose",
+    "latitude": 37.39613723754883,
+    "longitude": -121.92843627929688,
+    "reservations": 13,
+    "spend": 2431.77
+  },
+  {
+    "venue_id": "2d537039-65f9-4191-a24d-b915d3a2b363",
+    "venue_name": "Silicon Valley Business Center",
+    "latitude": 37.26165008544922,
+    "longitude": -121.92310333251953,
+    "reservations": 15,
+    "spend": 1830.0
+  },
+  {
+    "venue_id": "23abbae6-932d-499a-a20c-0c1e8235eb17",
+    "venue_name": "Regus | CA, San Jose - South San Jose",
+    "latitude": 37.23640060424805,
+    "longitude": -121.77799987792969,
+    "reservations": 11,
+    "spend": 506.26
+  },
+  {
+    "venue_id": "2a9efa7e-e69b-415b-a85c-8563c0bce30f",
+    "venue_name": "Pacific Workplaces - San Jose",
+    "latitude": 37.33527374267578,
+    "longitude": -121.89152526855469,
+    "reservations": 7,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "e0fb972e-1999-42ca-8079-5320837d5499",
+    "venue_name": "WeWork | Riverpark Tower",
+    "latitude": 37.32887268066406,
+    "longitude": -121.89356994628906,
+    "reservations": 2,
+    "spend": 84.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
+    "venue_name": "Mindspace K St",
+    "latitude": 38.90296173095703,
+    "longitude": -77.03071594238281,
+    "reservations": 28,
+    "spend": 1352.0
+  },
+  {
+    "venue_id": "288a0cd0-b01b-4d2f-9fca-e982dc7f2cdd",
+    "venue_name": "District Offices Capitol Hill",
+    "latitude": 38.898990631103516,
+    "longitude": -77.00798797607422,
+    "reservations": 4,
+    "spend": 100.0
+  }
+]

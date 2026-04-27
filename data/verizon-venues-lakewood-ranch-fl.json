@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "aaaf3acb-7acf-4360-a74b-346b0b86dd5d",
+    "venue_name": "ComCenter at Lakewood Ranch",
+    "latitude": 27.392520904541016,
+    "longitude": -82.44631958007812,
+    "reservations": 53,
+    "spend": 9305.0
+  },
+  {
+    "venue_id": "e4e93f7d-2e07-4dd1-81d3-2ee7f8021ef5",
+    "venue_name": "CoworkLWR",
+    "latitude": 27.387582778930664,
+    "longitude": -82.43482208251953,
+    "reservations": 11,
+    "spend": 2750.0
+  }
+]

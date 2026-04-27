@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "bce0be91-251d-4fbd-aa86-3ef51252d1fa",
+    "venue_name": "Jay Conference Bryant Park - Conference & Event Space",
+    "latitude": 40.75349044799805,
+    "longitude": -73.98597717285156,
+    "reservations": 2,
+    "spend": 3100.0
+  },
+  {
+    "venue_id": "532868a6-52e0-40e2-be4d-74196e01f2e4",
+    "venue_name": "Jay Conference - Bryant Park Conference Center",
+    "latitude": 40.75345993041992,
+    "longitude": -73.98589324951172,
+    "reservations": 2,
+    "spend": 2800.0
+  }
+]

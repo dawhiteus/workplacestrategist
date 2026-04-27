@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
+    "venue_name": "Jay Suites - Midtown East",
+    "latitude": 40.759788513183594,
+    "longitude": -73.9737548828125,
+    "reservations": 8,
+    "spend": 1625.0
+  },
+  {
+    "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
+    "venue_name": "The Farm SoHo",
+    "latitude": 40.72059631347656,
+    "longitude": -74.00148010253906,
+    "reservations": 3,
+    "spend": 1389.0
+  },
+  {
+    "venue_id": "03eb6821-13f2-4924-91d6-6f273595e966",
+    "venue_name": "Select Office Suites - 1115 Broadway Flatiron NYC",
+    "latitude": 40.74293899536133,
+    "longitude": -73.98927307128906,
+    "reservations": 5,
+    "spend": 870.0
+  },
+  {
+    "venue_id": "b69e0a98-f12b-4462-9a55-e55bd97dade8",
+    "venue_name": "Carr Workplaces - Central Park",
+    "latitude": 40.76327133178711,
+    "longitude": -73.97354888916016,
+    "reservations": 4,
+    "spend": 195.0
+  },
+  {
+    "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
+    "venue_name": "The Yard: Lower East Side NYC",
+    "latitude": 40.71873092651367,
+    "longitude": -73.98969268798828,
+    "reservations": 5,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

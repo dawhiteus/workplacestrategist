@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c7a5710e-21c2-49f5-8020-47497129e440",
+    "venue_name": "Regus | WA, Spokane Valley - E Mirabeau Pkwy",
+    "latitude": 47.686832427978516,
+    "longitude": -117.23541259765625,
+    "reservations": 38,
+    "spend": 5354.32
+  },
+  {
+    "venue_id": "8e3b6cc5-1080-4c26-8e1f-bd78ff53c384",
+    "venue_name": "Burbity Workspaces @ Sullivan Valley Commons",
+    "latitude": 47.68227767944336,
+    "longitude": -117.19673156738281,
+    "reservations": 23,
+    "spend": 4240.0
+  }
+]

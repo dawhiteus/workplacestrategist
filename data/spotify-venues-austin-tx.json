@@ -1,0 +1,90 @@
+[
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.26758575439453,
+    "longitude": -97.75431823730469,
+    "reservations": 143,
+    "spend": 7850.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192184448242,
+    "longitude": -97.73033905029297,
+    "reservations": 135,
+    "spend": 3475.0
+  },
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.26104164123535,
+    "longitude": -97.72795104980469,
+    "reservations": 43,
+    "spend": 1450.0
+  },
+  {
+    "venue_id": "6a9fbf36-3fc1-434a-a0df-bfa101ac592d",
+    "venue_name": "Common Desk - 6th & Congress",
+    "latitude": 30.268146514892578,
+    "longitude": -97.7422866821289,
+    "reservations": 51,
+    "spend": 1300.0
+  },
+  {
+    "venue_id": "d3b8b904-6a57-40cd-a076-aedd4e2bde7d",
+    "venue_name": "WeWork | University Park",
+    "latitude": 30.29123878479004,
+    "longitude": -97.7227783203125,
+    "reservations": 10,
+    "spend": 610.0
+  },
+  {
+    "venue_id": "f8d5f030-3c4b-0132-29f6-76817799485c",
+    "venue_name": "WeWork | Congress",
+    "latitude": 30.26861000061035,
+    "longitude": -97.74317932128906,
+    "reservations": 9,
+    "spend": 513.0
+  },
+  {
+    "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
+    "venue_name": "WeWork | The Domain",
+    "latitude": 30.40485382080078,
+    "longitude": -97.72134399414062,
+    "reservations": 5,
+    "spend": 275.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.258480072021484,
+    "longitude": -97.72895812988281,
+    "reservations": 5,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "e0317ab1-39a8-4024-ae12-6260b5470295",
+    "venue_name": "WeWork | 801 Barton Springs",
+    "latitude": 30.258699417114258,
+    "longitude": -97.75273895263672,
+    "reservations": 4,
+    "spend": 228.0
+  },
+  {
+    "venue_id": "cb17af79-1aeb-475d-9283-f726ee755628",
+    "venue_name": "Expansive - Austin Highland",
+    "latitude": 30.330394744873047,
+    "longitude": -97.7105484008789,
+    "reservations": 5,
+    "spend": 174.0
+  },
+  {
+    "venue_id": "05622ecc-3826-4d97-818a-f06c58e46bb3",
+    "venue_name": "Createscape",
+    "latitude": 30.26046371459961,
+    "longitude": -97.70388793945312,
+    "reservations": 4,
+    "spend": 100.0
+  }
+]

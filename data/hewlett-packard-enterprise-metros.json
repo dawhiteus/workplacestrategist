@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 107,
+    "total_spend": 10002.51,
+    "venues": 16,
+    "members": 26
+  },
+  {
+    "city": "Round Rock",
+    "state": "TX",
+    "reservations": 7,
+    "total_spend": 748.19,
+    "venues": 2,
+    "members": 3
+  }
+]

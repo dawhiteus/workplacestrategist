@@ -1,0 +1,226 @@
+[
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 297,
+    "total_spend": 14833.0,
+    "venues": 11,
+    "members": 10
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 205,
+    "total_spend": 12756.0,
+    "venues": 29,
+    "members": 10
+  },
+  {
+    "city": "Palo Alto",
+    "state": "CA",
+    "reservations": 214,
+    "total_spend": 12626.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 138,
+    "total_spend": 4180.0,
+    "venues": 7,
+    "members": 17
+  },
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "reservations": 22,
+    "total_spend": 1895.0,
+    "venues": 4,
+    "members": 6
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 51,
+    "total_spend": 1791.0,
+    "venues": 9,
+    "members": 1
+  },
+  {
+    "city": "Ferndale",
+    "state": "MI",
+    "reservations": 4,
+    "total_spend": 1700.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 25,
+    "total_spend": 1669.0,
+    "venues": 4,
+    "members": 9
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 40,
+    "total_spend": 1531.0,
+    "venues": 10,
+    "members": 12
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 16,
+    "total_spend": 926.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Grapevine",
+    "state": "TX",
+    "reservations": 23,
+    "total_spend": 890.0,
+    "venues": 2,
+    "members": 15
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 12,
+    "total_spend": 644.57,
+    "venues": 7,
+    "members": 1
+  },
+  {
+    "city": "Carmel",
+    "state": "IN",
+    "reservations": 16,
+    "total_spend": 515.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Noblesville",
+    "state": "IN",
+    "reservations": 14,
+    "total_spend": 445.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 8,
+    "total_spend": 342.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Irving",
+    "state": "TX",
+    "reservations": 9,
+    "total_spend": 315.0,
+    "venues": 1,
+    "members": 8
+  },
+  {
+    "city": "Media",
+    "state": "PA",
+    "reservations": 3,
+    "total_spend": 310.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "reservations": 5,
+    "total_spend": 295.0,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Southlake",
+    "state": "TX",
+    "reservations": 7,
+    "total_spend": 245.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 8,
+    "total_spend": 200.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Indianapolis",
+    "state": "IN",
+    "reservations": 5,
+    "total_spend": 150.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Detroit",
+    "state": "MI",
+    "reservations": 4,
+    "total_spend": 140.0,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 130.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Marietta",
+    "state": "GA",
+    "reservations": 5,
+    "total_spend": 125.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "reservations": 4,
+    "total_spend": 120.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Round Rock",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Lincoln",
+    "state": "NE",
+    "reservations": 3,
+    "total_spend": 68.88,
+    "venues": 1,
+    "members": 1
+  }
+]

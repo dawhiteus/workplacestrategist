@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.52505874633789,
+    "longitude": -122.68479919433594,
+    "reservations": 35,
+    "spend": 14245.0
+  },
+  {
+    "venue_id": "ca336e13-3a9f-4bd4-bc6d-021dc87d6e2b",
+    "venue_name": "WeWork | 830 NE Holladay St",
+    "latitude": 45.52975082397461,
+    "longitude": -122.65685272216797,
+    "reservations": 6,
+    "spend": 7800.0
+  },
+  {
+    "venue_id": "fd3fdf91-8059-4536-97c7-2eabb6b2a8ec",
+    "venue_name": "SPACES | Slabtown",
+    "latitude": 45.534515380859375,
+    "longitude": -122.69629669189453,
+    "reservations": 4,
+    "spend": 1682.4
+  },
+  {
+    "venue_id": "3836b9e2-ad24-4995-86ba-dc6dd44fe21f",
+    "venue_name": "Regus || Liberty Centre Lloyd District",
+    "latitude": 45.529701232910156,
+    "longitude": -122.65899658203125,
+    "reservations": 5,
+    "spend": 1658.0
+  },
+  {
+    "venue_id": "17458fba-6b83-46bb-8c4d-23693de4680f",
+    "venue_name": "Regus | US Bancorp Tower Downtown PDX",
+    "latitude": 45.522220611572266,
+    "longitude": -122.67630767822266,
+    "reservations": 3,
+    "spend": 1642.8
+  },
+  {
+    "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
+    "venue_name": "CENTRL Office - Eastside",
+    "latitude": 45.52379608154297,
+    "longitude": -122.66244506835938,
+    "reservations": 5,
+    "spend": 1485.0
+  },
+  {
+    "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
+    "venue_name": "CENTRL Office - West End",
+    "latitude": 45.52070999145508,
+    "longitude": -122.68387603759766,
+    "reservations": 3,
+    "spend": 1365.0
+  }
+]

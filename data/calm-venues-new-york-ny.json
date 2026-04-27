@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
+    "venue_name": "The Farm SoHo",
+    "latitude": 40.72059631347656,
+    "longitude": -74.00148010253906,
+    "reservations": 59,
+    "spend": 1711.0
+  },
+  {
+    "venue_id": "db292c72-2173-4f25-a8a4-27505c21bdd8",
+    "venue_name": "The Yard: Flatiron South",
+    "latitude": 40.74427032470703,
+    "longitude": -73.98790740966797,
+    "reservations": 25,
+    "spend": 875.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

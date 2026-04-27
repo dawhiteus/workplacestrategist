@@ -1,0 +1,130 @@
+[
+  {
+    "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
+    "venue_name": "Mindspace K St",
+    "latitude": 38.90296173095703,
+    "longitude": -77.03071594238281,
+    "reservations": 20,
+    "spend": 3964.0
+  },
+  {
+    "venue_id": "0f2e3975-6fa5-47d3-b1e4-c6a87eaa2b45",
+    "venue_name": "The Mark at Manhattan Laundry",
+    "latitude": 38.91984939575195,
+    "longitude": -77.03076171875,
+    "reservations": 9,
+    "spend": 2230.0
+  },
+  {
+    "venue_id": "afc6f147-75b9-4d5b-a261-04eb0cd6be59",
+    "venue_name": "Oval Offices DC",
+    "latitude": 38.90046691894531,
+    "longitude": -77.03853607177734,
+    "reservations": 16,
+    "spend": 1973.0
+  },
+  {
+    "venue_id": "c2112223-af7f-47b4-bbd3-592b04ddb1f1",
+    "venue_name": "Carr Workplaces - Georgetown",
+    "latitude": 38.90399169921875,
+    "longitude": -77.0592269897461,
+    "reservations": 8,
+    "spend": 1715.0
+  },
+  {
+    "venue_id": "d90b573b-a732-4423-924b-06b7487d99fb",
+    "venue_name": "District Offices Georgetown",
+    "latitude": 38.90433883666992,
+    "longitude": -77.05890655517578,
+    "reservations": 9,
+    "spend": 1660.0
+  },
+  {
+    "venue_id": "8513f6ed-8daf-40b3-aeb6-6ab490870998",
+    "venue_name": "SPACES | NoMa",
+    "latitude": 38.904945373535156,
+    "longitude": -77.0024185180664,
+    "reservations": 6,
+    "spend": 1510.75
+  },
+  {
+    "venue_id": "619dad2e-e6bc-4dd1-b6b6-623fbb7c1cca",
+    "venue_name": "WeWork | 1701 Rhode Island Ave NW",
+    "latitude": 38.90671157836914,
+    "longitude": -77.03875732421875,
+    "reservations": 25,
+    "spend": 1175.0
+  },
+  {
+    "venue_id": "7de94cd6-abef-4cee-9ecd-6daffd45fe94",
+    "venue_name": "WeWork | 700 K Street NW",
+    "latitude": 38.90196990966797,
+    "longitude": -77.02261352539062,
+    "reservations": 14,
+    "spend": 658.0
+  },
+  {
+    "venue_id": "a47350fd-631a-42b0-a789-3435dab970bb",
+    "venue_name": "Launch Workplaces Glover Park",
+    "latitude": 38.919368743896484,
+    "longitude": -77.07038879394531,
+    "reservations": 21,
+    "spend": 630.0
+  },
+  {
+    "venue_id": "fe68ca6d-90d4-4298-9afd-79e5080579f1",
+    "venue_name": "WeWork | 200 Massachusetts Ave NW",
+    "latitude": 38.89891052246094,
+    "longitude": -77.01407623291016,
+    "reservations": 13,
+    "spend": 587.0
+  },
+  {
+    "venue_id": "f541b03e-f00b-44c0-8448-cebfeebddc05",
+    "venue_name": "Workbox Dupont Circle",
+    "latitude": 38.90525817871094,
+    "longitude": -77.03268432617188,
+    "reservations": 15,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "796f43d4-0a91-4719-a601-affc392f1795",
+    "venue_name": "The Yard: Eastern Market",
+    "latitude": 38.88448715209961,
+    "longitude": -76.99543762207031,
+    "reservations": 7,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "288a0cd0-b01b-4d2f-9fca-e982dc7f2cdd",
+    "venue_name": "District Offices Capitol Hill",
+    "latitude": 38.898990631103516,
+    "longitude": -77.00798797607422,
+    "reservations": 2,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "bf2946c2-26c9-43b1-b6f4-c75e645923f5",
+    "venue_name": "Carr Workplaces - Capitol Hill",
+    "latitude": 38.894432067871094,
+    "longitude": -77.01158142089844,
+    "reservations": 3,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "3b63c688-f62a-44cf-bb06-bb53bd677395",
+    "venue_name": "WeWork | Midtown Center",
+    "latitude": 38.90393829345703,
+    "longitude": -77.03498840332031,
+    "reservations": 2,
+    "spend": 118.0
+  },
+  {
+    "venue_id": "4e9cbe0e-f0f8-4040-b781-ae6691e709b6",
+    "venue_name": "District Offices Farragut",
+    "latitude": 38.903350830078125,
+    "longitude": -77.03926849365234,
+    "reservations": 3,
+    "spend": 101.0
+  }
+]

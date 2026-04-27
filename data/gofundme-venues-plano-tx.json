@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e9df505f-8783-4672-8378-1a9bde5d97d3",
+    "venue_name": "Lucid Private Offices | West Plano - Willow Bend",
+    "latitude": 33.0217399597168,
+    "longitude": -96.83235931396484,
+    "reservations": 6,
+    "spend": 520.0
+  },
+  {
+    "venue_id": "bc199a47-0646-4752-ac2f-5391ef1b0af7",
+    "venue_name": "Regus | Plano - Spaces West Plano Village",
+    "latitude": 33.04652786254883,
+    "longitude": -96.8285140991211,
+    "reservations": 2,
+    "spend": 277.1
+  }
+]

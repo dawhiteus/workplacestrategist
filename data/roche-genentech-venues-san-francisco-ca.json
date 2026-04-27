@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
+    "venue_name": "Carr Workplaces - Embarcadero Center",
+    "latitude": 37.79469680786133,
+    "longitude": -122.39987182617188,
+    "reservations": 7,
+    "spend": 2325.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.79262161254883,
+    "longitude": -122.39891052246094,
+    "reservations": 6,
+    "spend": 1100.0
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.79138946533203,
+    "longitude": -122.39215087890625,
+    "reservations": 3,
+    "spend": 345.0
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.78120040893555,
+    "longitude": -122.4081039428711,
+    "reservations": 3,
+    "spend": 145.0
+  }
+]

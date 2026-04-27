@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "03dbac2d-0388-4c2b-bd29-f247c6c6e6e4",
+    "venue_name": "EcoSystem Coworking",
+    "latitude": 37.78769302368164,
+    "longitude": -122.3973388671875,
+    "reservations": 63,
+    "spend": 3555.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 21,
+    "spend": 1320.0
+  }
+]

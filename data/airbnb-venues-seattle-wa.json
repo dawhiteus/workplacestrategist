@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.61172866821289,
+    "longitude": -122.34436798095703,
+    "reservations": 14,
+    "spend": 5475.0
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.66591262817383,
+    "longitude": -122.37410736083984,
+    "reservations": 16,
+    "spend": 1438.0
+  },
+  {
+    "venue_id": "80d7a404-5a93-4d6a-a09e-1e60cba2c2f3",
+    "venue_name": "SPACES | WA, Seattle \u2013 Spaces Stadium",
+    "latitude": 47.5990104675293,
+    "longitude": -122.3350830078125,
+    "reservations": 8,
+    "spend": 561.53
+  },
+  {
+    "venue_id": "45fcbce5-acee-44ab-96d1-f067f66f02fe",
+    "venue_name": "(SEA) Seattle Downtown",
+    "latitude": 47.61410140991211,
+    "longitude": -122.3353500366211,
+    "reservations": 4,
+    "spend": 380.0
+  },
+  {
+    "venue_id": "b8ed54f3-97b1-49b2-8c8a-a30160d6ac86",
+    "venue_name": "CENTRL Office - Capitol Hill",
+    "latitude": 47.61480712890625,
+    "longitude": -122.31840515136719,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
+    "venue_name": "The Cloud Room",
+    "latitude": 47.6136589050293,
+    "longitude": -122.3177490234375,
+    "reservations": 4,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "ca021d3d-08b8-4c0c-bfc7-e8ff6a63b6a6",
+    "venue_name": "WeWork | 1448 NW Market Street",
+    "latitude": 47.66898727416992,
+    "longitude": -122.37577819824219,
+    "reservations": 2,
+    "spend": 118.0
+  },
+  {
+    "venue_id": "b6ab32ec-909a-42b3-b0f6-b78bc1976590",
+    "venue_name": "Regus || Ballard",
+    "latitude": 47.66350555419922,
+    "longitude": -122.37593078613281,
+    "reservations": 2,
+    "spend": 92.85
+  }
+]

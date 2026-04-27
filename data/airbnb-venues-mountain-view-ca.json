@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cff25dec-c467-4b91-adc4-db7d03161e12",
+    "venue_name": "Regus || Mountain View Downtown",
+    "latitude": 37.38654708862305,
+    "longitude": -122.08412170410156,
+    "reservations": 11,
+    "spend": 3087.93
+  },
+  {
+    "venue_id": "c7758f93-bd92-4026-9dbb-76d0c6d1dcdb",
+    "venue_name": "Desk and Me - Shared Office",
+    "latitude": 37.41379165649414,
+    "longitude": -122.08893585205078,
+    "reservations": 2,
+    "spend": 550.0
+  }
+]

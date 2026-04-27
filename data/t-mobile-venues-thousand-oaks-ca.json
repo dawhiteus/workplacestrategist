@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a4a44810-c1ef-4ea3-9ded-1d658d631838",
+    "venue_name": "officeLOCALE Newbury Park",
+    "latitude": 34.19463348388672,
+    "longitude": -118.92779541015625,
+    "reservations": 18,
+    "spend": 7770.0
+  },
+  {
+    "venue_id": "4a43636a-c804-4b63-86e0-7b43d886c2cb",
+    "venue_name": "officeLOCALE Coworking Space and Business Center",
+    "latitude": 34.181610107421875,
+    "longitude": -118.87181854248047,
+    "reservations": 13,
+    "spend": 3663.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "772309c3-3ff9-4c7e-a3fc-ae079c2dd20e",
+    "venue_name": "SPACES | Seattle - Spaces 2 and U",
+    "latitude": 47.60662078857422,
+    "longitude": -122.33674621582031,
+    "reservations": 4,
+    "spend": 2247.5
+  },
+  {
+    "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
+    "venue_name": "SURF Incubator",
+    "latitude": 47.60531997680664,
+    "longitude": -122.33389282226562,
+    "reservations": 15,
+    "spend": 1476.0
+  }
+]

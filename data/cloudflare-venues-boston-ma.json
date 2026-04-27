@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "74d712f5-cc68-4d25-afc5-d8f11d52d442",
+    "venue_name": "Workbar Downtown",
+    "latitude": 42.35727310180664,
+    "longitude": -71.05896759033203,
+    "reservations": 4,
+    "spend": 236.0
+  },
+  {
+    "venue_id": "289ed2cd-6bbb-47b7-9b40-811b7d887f19",
+    "venue_name": "WeWork | One Lincoln",
+    "latitude": 42.353172302246094,
+    "longitude": -71.05923461914062,
+    "reservations": 3,
+    "spend": 119.0
+  }
+]

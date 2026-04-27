@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "39563aea-363c-4efa-b04a-456fbf0ae1c8",
+    "venue_name": "Venture X | Durham",
+    "latitude": 35.89724349975586,
+    "longitude": -78.87003326416016,
+    "reservations": 23,
+    "spend": 10304.0
+  },
+  {
+    "venue_id": "f688fc90-c1f5-4d58-b6ee-e48796698df5",
+    "venue_name": "Towerview Office Suites- Page Creek ",
+    "latitude": 35.882808685302734,
+    "longitude": -78.84223937988281,
+    "reservations": 19,
+    "spend": 6940.0
+  }
+]

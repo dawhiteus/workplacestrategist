@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f36be385-ea35-4534-abb0-0cac35cf51c7",
+    "venue_name": "Office Evolution - Tampa | Harbour Island",
+    "latitude": 27.938724517822266,
+    "longitude": -82.45487976074219,
+    "reservations": 4,
+    "spend": 1775.0
+  },
+  {
+    "venue_id": "03aa435d-7862-421c-bffe-99b9d0348eed",
+    "venue_name": "On Point Executive Center",
+    "latitude": 27.96870994567871,
+    "longitude": -82.56926727294922,
+    "reservations": 2,
+    "spend": 477.0
+  }
+]

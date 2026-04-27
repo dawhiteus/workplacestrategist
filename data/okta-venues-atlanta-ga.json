@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
+    "venue_name": "Peachtree Offices at Downtown, Inc.",
+    "latitude": 33.760398864746094,
+    "longitude": -84.38746643066406,
+    "reservations": 6,
+    "spend": 1300.0
+  },
+  {
+    "venue_id": "8abfe8ff-f57a-4601-9ca8-de92208bdc71",
+    "venue_name": "Peachtree Offices at 1100, LLC",
+    "latitude": 33.78491973876953,
+    "longitude": -84.38316345214844,
+    "reservations": 5,
+    "spend": 858.0
+  },
+  {
+    "venue_id": "86141186-529d-4139-b9cc-478751abab4d",
+    "venue_name": "SPACES | The Battery",
+    "latitude": 33.89048385620117,
+    "longitude": -84.46981048583984,
+    "reservations": 3,
+    "spend": 516.0
+  }
+]

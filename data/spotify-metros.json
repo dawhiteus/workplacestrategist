@@ -1,0 +1,266 @@
+[
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 297,
+    "total_spend": 71483.72,
+    "venues": 41,
+    "members": 26
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 123,
+    "total_spend": 51354.57,
+    "venues": 18,
+    "members": 9
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 429,
+    "total_spend": 17033.5,
+    "venues": 20,
+    "members": 9
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 125,
+    "total_spend": 5245.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "reservations": 23,
+    "total_spend": 2070.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "reservations": 48,
+    "total_spend": 1777.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 12,
+    "total_spend": 1455.0,
+    "venues": 6,
+    "members": 3
+  },
+  {
+    "city": "Kingston",
+    "state": "NY",
+    "reservations": 41,
+    "total_spend": 1455.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Wake Forest",
+    "state": "NC",
+    "reservations": 39,
+    "total_spend": 1178.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 27,
+    "total_spend": 1127.13,
+    "venues": 8,
+    "members": 6
+  },
+  {
+    "city": "Minneapolis",
+    "state": "MN",
+    "reservations": 4,
+    "total_spend": 954.67,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 24,
+    "total_spend": 778.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Wyncote",
+    "state": "PA",
+    "reservations": 15,
+    "total_spend": 750.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "reservations": 23,
+    "total_spend": 722.75,
+    "venues": 4,
+    "members": 1
+  },
+  {
+    "city": "Zionsville",
+    "state": "IN",
+    "reservations": 20,
+    "total_spend": 700.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 700.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Arlington Heights",
+    "state": "IL",
+    "reservations": 9,
+    "total_spend": 675.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "reservations": 5,
+    "total_spend": 605.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "reservations": 8,
+    "total_spend": 591.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Decatur",
+    "state": "GA",
+    "reservations": 10,
+    "total_spend": 469.4,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Syosset",
+    "state": "NY",
+    "reservations": 8,
+    "total_spend": 462.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Park City",
+    "state": "UT",
+    "reservations": 7,
+    "total_spend": 455.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Littleton",
+    "state": "CO",
+    "reservations": 6,
+    "total_spend": 450.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "reservations": 10,
+    "total_spend": 398.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Glen Allen",
+    "state": "VA",
+    "reservations": 7,
+    "total_spend": 350.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "San Mateo",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 295.9,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Fort Wayne",
+    "state": "IN",
+    "reservations": 4,
+    "total_spend": 180.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 6,
+    "total_spend": 160.0,
+    "venues": 5,
+    "members": 3
+  },
+  {
+    "city": "Midlothian",
+    "state": "VA",
+    "reservations": 3,
+    "total_spend": 150.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "reservations": 4,
+    "total_spend": 130.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Ashburn",
+    "state": "VA",
+    "reservations": 3,
+    "total_spend": 120.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "reservations": 3,
+    "total_spend": 119.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Asheville",
+    "state": "NC",
+    "reservations": 4,
+    "total_spend": 115.0,
+    "venues": 2,
+    "members": 1
+  }
+]

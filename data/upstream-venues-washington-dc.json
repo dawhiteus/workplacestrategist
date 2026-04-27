@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "796f43d4-0a91-4719-a601-affc392f1795",
+    "venue_name": "The Yard: Eastern Market",
+    "latitude": 38.88448715209961,
+    "longitude": -76.99543762207031,
+    "reservations": 10,
+    "spend": 2555.0
+  },
+  {
+    "venue_id": "8af21f9e-b2f6-4074-b26f-8f196ed31bc3",
+    "venue_name": "SPACES | DC, Washington- 800 Maine Avenue",
+    "latitude": 38.8797607421875,
+    "longitude": -77.02462768554688,
+    "reservations": 5,
+    "spend": 1058.21
+  }
+]

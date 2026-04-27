@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "afd453b3-d1cf-43b1-a6ba-f54455668a49",
+    "venue_name": "Office Evolution- Jacksonville Brooklyn",
+    "latitude": 30.322250366210938,
+    "longitude": -81.67253875732422,
+    "reservations": 3,
+    "spend": 410.0
+  },
+  {
+    "venue_id": "2a4e33f2-8876-425b-a628-5407b99b53be",
+    "venue_name": "Expansive - Groover-Stewart Building",
+    "latitude": 30.325899124145508,
+    "longitude": -81.65386962890625,
+    "reservations": 3,
+    "spend": 290.0
+  }
+]

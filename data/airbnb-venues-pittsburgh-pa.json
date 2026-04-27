@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "7ccfa714-1968-4103-b479-5c9d436f8853",
+    "venue_name": "Liberty Bank Building Coworking",
+    "latitude": 40.4612922668457,
+    "longitude": -79.92337036132812,
+    "reservations": 138,
+    "spend": 5095.0
+  },
+  {
+    "venue_id": "a4522670-c116-4030-908a-c6603d67f027",
+    "venue_name": "Regus | Bakery Square",
+    "latitude": 40.45669937133789,
+    "longitude": -79.9175033569336,
+    "reservations": 3,
+    "spend": 438.74
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 4,
+    "total_spend": 4975.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 9,
+    "total_spend": 1660.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 9,
+    "total_spend": 819.0,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 4,
+    "total_spend": 664.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "reservations": 4,
+    "total_spend": 335.8,
+    "venues": 3,
+    "members": 2
+  }
+]

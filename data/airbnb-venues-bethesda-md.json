@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "641c6ccb-390f-4b6d-b851-95f387c99bb3",
+    "venue_name": "WeWork | The Wilson",
+    "latitude": 38.98200607299805,
+    "longitude": -77.09394836425781,
+    "reservations": 4,
+    "spend": 188.0
+  },
+  {
+    "venue_id": "2fae5904-a045-484e-b707-4c985de1f37f",
+    "venue_name": "Carr Workplaces - Bethesda",
+    "latitude": 38.98247146606445,
+    "longitude": -77.09480285644531,
+    "reservations": 2,
+    "spend": 90.0
+  }
+]

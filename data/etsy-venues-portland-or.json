@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.52505874633789,
+    "longitude": -122.68479919433594,
+    "reservations": 57,
+    "spend": 2500.0
+  },
+  {
+    "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
+    "venue_name": "CENTRL Office - Eastside",
+    "latitude": 45.52379608154297,
+    "longitude": -122.66244506835938,
+    "reservations": 8,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
+    "venue_name": "CENTRL Office - West End",
+    "latitude": 45.52070999145508,
+    "longitude": -122.68387603759766,
+    "reservations": 9,
+    "spend": 360.0
+  },
+  {
+    "venue_id": "8aaa8eb9-b992-4a4d-b482-ca8b068b4ec6",
+    "venue_name": "VIDA Coworking Community",
+    "latitude": 45.525718688964844,
+    "longitude": -122.64686584472656,
+    "reservations": 3,
+    "spend": 110.0
+  },
+  {
+    "venue_id": "14cbcd43-d167-4486-9ca3-6452a684ebed",
+    "venue_name": "openHAUS coworking + shared workspace",
+    "latitude": 45.559444427490234,
+    "longitude": -122.6611099243164,
+    "reservations": 2,
+    "spend": 50.0
+  }
+]

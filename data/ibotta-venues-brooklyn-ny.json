@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "30a7f2c3-1d12-4e74-9d5b-515cedfdc6b9",
+    "venue_name": "The Malin Williamsburg",
+    "latitude": 40.72229766845703,
+    "longitude": -73.9568862915039,
+    "reservations": 25,
+    "spend": 1875.0
+  },
+  {
+    "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
+    "venue_name": "Mindspace Williamsburg",
+    "latitude": 40.722930908203125,
+    "longitude": -73.95780181884766,
+    "reservations": 3,
+    "spend": 147.0
+  }
+]

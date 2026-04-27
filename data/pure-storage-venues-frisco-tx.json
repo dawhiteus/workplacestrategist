@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3d8ad5cb-83df-4e56-a20e-d2641a2e7aaa",
+    "venue_name": "25N Coworking - Frisco",
+    "latitude": 33.15519714355469,
+    "longitude": -96.83062744140625,
+    "reservations": 10,
+    "spend": 4290.0
+  },
+  {
+    "venue_id": "32a51b00-e671-4ba0-b9b6-fb8c0ca73b96",
+    "venue_name": "(HAL) Hall Park",
+    "latitude": 33.10471725463867,
+    "longitude": -96.82395935058594,
+    "reservations": 4,
+    "spend": 720.0
+  }
+]

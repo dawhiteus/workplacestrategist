@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "48aa9968-2221-492e-bb19-7be71abccb78",
+    "venue_name": "3LO - Modern Co-Working in Historic Downtown Durham",
+    "latitude": 35.995094299316406,
+    "longitude": -78.89968872070312,
+    "reservations": 2,
+    "spend": 264.0
+  },
+  {
+    "venue_id": "39563aea-363c-4efa-b04a-456fbf0ae1c8",
+    "venue_name": "Venture X | Durham",
+    "latitude": 35.89724349975586,
+    "longitude": -78.87003326416016,
+    "reservations": 2,
+    "spend": 165.0
+  },
+  {
+    "venue_id": "12e74492-eae7-4f8e-8ef7-a1d87b645c17",
+    "venue_name": "WeWork | One City Center",
+    "latitude": 35.995819091796875,
+    "longitude": -78.90138244628906,
+    "reservations": 4,
+    "spend": 144.0
+  }
+]

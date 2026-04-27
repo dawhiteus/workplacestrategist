@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "ab3c25c9-12ee-4a92-95e8-1482723ec415",
+    "venue_name": "Coalition Space | Downtown Denver",
+    "latitude": 39.74314880371094,
+    "longitude": -104.9858627319336,
+    "reservations": 25,
+    "spend": 7925.0
+  },
+  {
+    "venue_id": "910ef650-913f-4b10-868f-01a2a058c19c",
+    "venue_name": "GRID Collaborative Workspaces- Denver",
+    "latitude": 39.72349166870117,
+    "longitude": -104.98798370361328,
+    "reservations": 20,
+    "spend": 5710.0
+  },
+  {
+    "venue_id": "3d25e027-bfa6-4035-8e13-d1f89334d2a9",
+    "venue_name": "Cherry Creek North",
+    "latitude": 39.71961212158203,
+    "longitude": -104.95738220214844,
+    "reservations": 8,
+    "spend": 2750.0
+  },
+  {
+    "venue_id": "6ebca81c-b87c-4e3a-b68c-278584557e26",
+    "venue_name": "Intelligent Office Denver (Cherry Creek)",
+    "latitude": 39.716819763183594,
+    "longitude": -104.9469985961914,
+    "reservations": 3,
+    "spend": 705.0
+  },
+  {
+    "venue_id": "ecc9eb17-9a1d-49a1-8ab1-eb99012fa607",
+    "venue_name": "Runway Workspaces (formerly SmartSpace)",
+    "latitude": 39.751220703125,
+    "longitude": -104.88986206054688,
+    "reservations": 2,
+    "spend": 185.0
+  }
+]

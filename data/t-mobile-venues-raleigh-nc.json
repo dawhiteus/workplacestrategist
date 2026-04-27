@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "5738d991-051a-46f8-9a5e-b1d82708f4a4",
+    "venue_name": "Office Evolution - Raleigh Crabtree Valley Mall",
+    "latitude": 35.84333038330078,
+    "longitude": -78.68170166015625,
+    "reservations": 10,
+    "spend": 6800.0
+  },
+  {
+    "venue_id": "e379179e-46fa-4b9a-b129-bb84465787c9",
+    "venue_name": "The Loading Dock - Dock 1053",
+    "latitude": 35.80897521972656,
+    "longitude": -78.62125396728516,
+    "reservations": 18,
+    "spend": 5680.0
+  },
+  {
+    "venue_id": "d5dbaf9c-b01c-4dd0-af04-660b6807e9b9",
+    "venue_name": "The Loading Dock - Beryl Road",
+    "latitude": 35.79340362548828,
+    "longitude": -78.69190216064453,
+    "reservations": 6,
+    "spend": 2285.0
+  },
+  {
+    "venue_id": "bb8d33c2-a6e6-4ff1-b47c-cb24ae685882",
+    "venue_name": "TKO Suites - Raleigh, NC",
+    "latitude": 35.76299285888672,
+    "longitude": -78.73216247558594,
+    "reservations": 2,
+    "spend": 565.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.77901840209961,
+    "longitude": -95.56109619140625,
+    "reservations": 23,
+    "spend": 9000.0
+  },
+  {
+    "venue_id": "4e2d767d-5bf8-4ba9-872c-2730dac7d904",
+    "venue_name": "Common Desk - POST",
+    "latitude": 29.76621437072754,
+    "longitude": -95.36488342285156,
+    "reservations": 16,
+    "spend": 425.0
+  },
+  {
+    "venue_id": "bfa70e18-5ce8-4017-8b2c-54b26125d2e7",
+    "venue_name": "Common Desk - Post Oak Blvd",
+    "latitude": 29.73497772216797,
+    "longitude": -95.4627914428711,
+    "reservations": 4,
+    "spend": 100.0
+  }
+]

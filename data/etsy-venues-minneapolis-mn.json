@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
+    "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
+    "latitude": 44.9775390625,
+    "longitude": -93.26364135742188,
+    "reservations": 20,
+    "spend": 820.0
+  },
+  {
+    "venue_id": "353e8c94-d0d5-4284-b5ed-64c579d237ca",
+    "venue_name": "The Wilderness Fitness and Coworking",
+    "latitude": 44.94880676269531,
+    "longitude": -93.29270935058594,
+    "reservations": 7,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "927e82c5-aa9d-4e55-aad3-c8ae0a48e371",
+    "venue_name": "Workbox Downtown Minneapolis",
+    "latitude": 44.97501754760742,
+    "longitude": -93.27143096923828,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

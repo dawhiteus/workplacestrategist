@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "18034c8f-013e-4661-824b-9c77ad9ad1c6",
+    "venue_name": "Regus | LA, Metairie - Galleria",
+    "latitude": 29.9955997467041,
+    "longitude": -90.152099609375,
+    "reservations": 7,
+    "spend": 1988.81
+  },
+  {
+    "venue_id": "347bdd7f-b11f-45ec-bc1b-f776c0b5f77b",
+    "venue_name": "UrbanHUB | Metairie",
+    "latitude": 29.991796493530273,
+    "longitude": -90.155029296875,
+    "reservations": 5,
+    "spend": 1580.0
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "e3e58eae-24a6-4769-b0ea-643d13aedb2d",
+    "venue_name": "The Link in Oldtown",
+    "latitude": 38.807682037353516,
+    "longitude": -77.0527572631836,
+    "reservations": 18,
+    "spend": 1055.0
+  },
+  {
+    "venue_id": "be38eaa1-7856-418c-8e98-6fab5b135a7a",
+    "venue_name": "Regus | 2000 Duke Street",
+    "latitude": 38.80419921875,
+    "longitude": -77.06400299072266,
+    "reservations": 9,
+    "spend": 765.99
+  },
+  {
+    "venue_id": "075a5ed1-367c-475e-a44a-dc521289f5e1",
+    "venue_name": "Regus | Kingstowne Ridge",
+    "latitude": 38.77170181274414,
+    "longitude": -77.13310241699219,
+    "reservations": 3,
+    "spend": 508.3
+  },
+  {
+    "venue_id": "1350236f-8dce-47c3-a86c-3cacd00c06a0",
+    "venue_name": "ALX Community Waterfront",
+    "latitude": 38.805355072021484,
+    "longitude": -77.0398178100586,
+    "reservations": 9,
+    "spend": 432.0
+  },
+  {
+    "venue_id": "1745dceb-4ef8-41d2-99c1-2a858a3f2ba9",
+    "venue_name": "ALX Community Atrium",
+    "latitude": 38.80327606201172,
+    "longitude": -77.04789733886719,
+    "reservations": 7,
+    "spend": 270.0
+  },
+  {
+    "venue_id": "5d51a601-43f2-4318-9a46-62d2e620cad2",
+    "venue_name": "Goldfinch Social | Alexandria",
+    "latitude": 38.824485778808594,
+    "longitude": -77.05857849121094,
+    "reservations": 4,
+    "spend": 156.0
+  },
+  {
+    "venue_id": "590528ac-1e0b-4858-98ea-9901c2608a61",
+    "venue_name": "Intelligent Office of Alexandria",
+    "latitude": 38.80160140991211,
+    "longitude": -77.08171844482422,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

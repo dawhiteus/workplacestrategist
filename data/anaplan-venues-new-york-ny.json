@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "bce0be91-251d-4fbd-aa86-3ef51252d1fa",
+    "venue_name": "Jay Conference Bryant Park - Conference & Event Space",
+    "latitude": 40.75349044799805,
+    "longitude": -73.98597717285156,
+    "reservations": 4,
+    "spend": 11950.0
+  },
+  {
+    "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
+    "venue_name": "Blender Workspace",
+    "latitude": 40.745994567871094,
+    "longitude": -73.98397827148438,
+    "reservations": 4,
+    "spend": 3200.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 19,
+    "spend": 1425.0
+  },
+  {
+    "venue_id": "2078f5a6-7567-48b7-ab2e-d41c931e5834",
+    "venue_name": "Regus | Madison Square Garden",
+    "latitude": 40.7515983581543,
+    "longitude": -73.99359893798828,
+    "reservations": 3,
+    "spend": 429.0
+  },
+  {
+    "venue_id": "aeca193f-16ef-41b7-81a9-6df428dfd21b",
+    "venue_name": "The Yard: Lincoln Square",
+    "latitude": 40.77431106567383,
+    "longitude": -73.98079681396484,
+    "reservations": 10,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 4,
+    "spend": 273.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855041503906,
+    "longitude": -73.98938751220703,
+    "reservations": 5,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639221191406,
+    "longitude": -73.98652648925781,
+    "reservations": 5,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 4,
+    "spend": 160.0
+  }
+]

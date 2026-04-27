@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
+    "venue_name": "Mindspace Williamsburg",
+    "latitude": 40.722930908203125,
+    "longitude": -73.95780181884766,
+    "reservations": 49,
+    "spend": 2445.0
+  },
+  {
+    "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
+    "venue_name": "WeWork | 134 N 4th St",
+    "latitude": 40.716312408447266,
+    "longitude": -73.960205078125,
+    "reservations": 13,
+    "spend": 910.0
+  }
+]

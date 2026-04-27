@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "a030b5ba-13c8-40bd-a379-d979841fc46b",
+    "venue_name": "FUSE Workspace-Four Points",
+    "latitude": 30.410009384155273,
+    "longitude": -97.85163116455078,
+    "reservations": 4,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.26104164123535,
+    "longitude": -97.72795104980469,
+    "reservations": 4,
+    "spend": 115.0
+  },
+  {
+    "venue_id": "079e8f36-19fd-4288-80ea-9817cbea85a3",
+    "venue_name": "Dwell Coworking West Gate",
+    "latitude": 30.209537506103516,
+    "longitude": -97.81494140625,
+    "reservations": 4,
+    "spend": 100.0
+  }
+]

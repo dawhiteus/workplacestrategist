@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
+    "venue_name": "CENTRL Office - West End",
+    "latitude": 45.52070999145508,
+    "longitude": -122.68387603759766,
+    "reservations": 11,
+    "spend": 3325.0
+  },
+  {
+    "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
+    "venue_name": "CENTRL Office - Eastside",
+    "latitude": 45.52379608154297,
+    "longitude": -122.66244506835938,
+    "reservations": 5,
+    "spend": 775.0
+  }
+]

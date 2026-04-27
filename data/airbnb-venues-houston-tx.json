@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "bfa70e18-5ce8-4017-8b2c-54b26125d2e7",
+    "venue_name": "Common Desk - Post Oak Blvd",
+    "latitude": 29.73497772216797,
+    "longitude": -95.4627914428711,
+    "reservations": 45,
+    "spend": 3920.0
+  },
+  {
+    "venue_id": "b006579a-4a7f-4eca-873e-c41bf2503ffd",
+    "venue_name": "Local Office",
+    "latitude": 29.72518539428711,
+    "longitude": -95.41943359375,
+    "reservations": 2,
+    "spend": 460.0
+  },
+  {
+    "venue_id": "9d296e44-2595-4b6c-b6a5-001fc8fac6ce",
+    "venue_name": "Common Desk - Westchase",
+    "latitude": 29.738786697387695,
+    "longitude": -95.56214141845703,
+    "reservations": 4,
+    "spend": 360.0
+  },
+  {
+    "venue_id": "089878db-f734-494b-8db3-a3c4cc91bf43",
+    "venue_name": "Hines | The Square at 717 Texas",
+    "latitude": 29.761688232421875,
+    "longitude": -95.36422729492188,
+    "reservations": 4,
+    "spend": 310.0
+  },
+  {
+    "venue_id": "4e2d767d-5bf8-4ba9-872c-2730dac7d904",
+    "venue_name": "Common Desk - POST",
+    "latitude": 29.76621437072754,
+    "longitude": -95.36488342285156,
+    "reservations": 5,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "f74c16c1-2a49-4aea-aac0-d0a2aa32ac8a",
+    "venue_name": "WeWork | Galleria Office Tower I",
+    "latitude": 29.73835563659668,
+    "longitude": -95.46138763427734,
+    "reservations": 2,
+    "spend": 60.0
+  }
+]

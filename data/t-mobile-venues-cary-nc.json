@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "dbb0b170-cfd1-44f5-9598-c254b1afe32d",
+    "venue_name": "Towerview Office Suites- 150 Preston Executive Drive",
+    "latitude": 35.79106903076172,
+    "longitude": -78.82925415039062,
+    "reservations": 13,
+    "spend": 2133.0
+  },
+  {
+    "venue_id": "f618bdb1-7526-452c-afde-f900d068ebf2",
+    "venue_name": "Regus | Cary- Towerview Ct",
+    "latitude": 35.80286407470703,
+    "longitude": -78.81412506103516,
+    "reservations": 3,
+    "spend": 1382.5
+  },
+  {
+    "venue_id": "8947ab35-16be-48da-a54b-0388696acfce",
+    "venue_name": "Towerview Office Suites- 120 Preston Executive Dr",
+    "latitude": 35.79178237915039,
+    "longitude": -78.82768249511719,
+    "reservations": 3,
+    "spend": 998.0
+  }
+]

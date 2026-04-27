@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c5c45fde-183e-46c6-b68b-d5cf032069eb",
+    "venue_name": "COhatch - St. Petersburg",
+    "latitude": 27.876171112060547,
+    "longitude": -82.64459228515625,
+    "reservations": 4,
+    "spend": 135.0
+  },
+  {
+    "venue_id": "4097fd70-3ea1-4f03-9062-e46370997c90",
+    "venue_name": "Expansive - 4th Street DTSP",
+    "latitude": 27.775165557861328,
+    "longitude": -82.63817596435547,
+    "reservations": 3,
+    "spend": 98.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
+    "venue_name": "WeWork | Salesforce Tower",
+    "latitude": 37.789817810058594,
+    "longitude": -122.39690399169922,
+    "reservations": 16,
+    "spend": 1070.0
+  },
+  {
+    "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
+    "venue_name": "AvantSpace- Greenwich St.",
+    "latitude": 37.798858642578125,
+    "longitude": -122.43561553955078,
+    "reservations": 7,
+    "spend": 378.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

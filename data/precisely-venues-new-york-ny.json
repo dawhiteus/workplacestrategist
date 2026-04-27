@@ -1,0 +1,114 @@
+[
+  {
+    "venue_id": "d559069c-8c87-4be8-a009-a6f0603ef003",
+    "venue_name": "WeWork | 500 7th Avenue",
+    "latitude": 40.75320816040039,
+    "longitude": -73.98932647705078,
+    "reservations": 103,
+    "spend": 4706.8
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 27,
+    "spend": 3640.0
+  },
+  {
+    "venue_id": "50a8ca07-6698-4e08-8c58-ab3d0818292d",
+    "venue_name": "Executive Offices of New York",
+    "latitude": 40.751953125,
+    "longitude": -73.98945617675781,
+    "reservations": 19,
+    "spend": 1710.0
+  },
+  {
+    "venue_id": "edf7d0a3-4efe-466b-b842-c1b73e69f19a",
+    "venue_name": "Emerge212 - 1185 Avenue of the Americas",
+    "latitude": 40.757877349853516,
+    "longitude": -73.982421875,
+    "reservations": 3,
+    "spend": 1030.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855041503906,
+    "longitude": -73.98938751220703,
+    "reservations": 18,
+    "spend": 1015.0
+  },
+  {
+    "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
+    "venue_name": "The Yard: Lower East Side NYC",
+    "latitude": 40.71873092651367,
+    "longitude": -73.98969268798828,
+    "reservations": 29,
+    "spend": 1015.0
+  },
+  {
+    "venue_id": "b1d6bd96-f117-49bf-889a-9536ce86b9af",
+    "venue_name": "Nomadworks | Times Square",
+    "latitude": 40.75526809692383,
+    "longitude": -73.98958587646484,
+    "reservations": 5,
+    "spend": 909.0
+  },
+  {
+    "venue_id": "2078f5a6-7567-48b7-ab2e-d41c931e5834",
+    "venue_name": "Regus | Madison Square Garden",
+    "latitude": 40.7515983581543,
+    "longitude": -73.99359893798828,
+    "reservations": 3,
+    "spend": 679.18
+  },
+  {
+    "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
+    "venue_name": "Blender Workspace",
+    "latitude": 40.745994567871094,
+    "longitude": -73.98397827148438,
+    "reservations": 4,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "90ec82c0-b1f4-0131-aaba-327a344fe8c3",
+    "venue_name": "WeWork | 379 W Broadway",
+    "latitude": 40.7235221862793,
+    "longitude": -74.00220489501953,
+    "reservations": 4,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "71dcd609-3551-45cd-8adb-1bd811a52cc0",
+    "venue_name": "Hines | The Square at 205 Hudson Street",
+    "latitude": 40.72372817993164,
+    "longitude": -74.00843811035156,
+    "reservations": 3,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "5ad18402-7154-457e-bc09-32a675eaa843",
+    "venue_name": "The Yard: Columbus Circle",
+    "latitude": 40.76958084106445,
+    "longitude": -73.98319244384766,
+    "reservations": 4,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "db292c72-2173-4f25-a8a4-27505c21bdd8",
+    "venue_name": "The Yard: Flatiron South",
+    "latitude": 40.74427032470703,
+    "longitude": -73.98790740966797,
+    "reservations": 3,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "d1d19c2a-6132-46fd-869d-7917b8b94880",
+    "venue_name": "Margalit Startup City",
+    "latitude": 40.72068405151367,
+    "longitude": -74.00009155273438,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

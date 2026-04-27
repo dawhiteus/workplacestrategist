@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "80b27394-8eca-41c3-96f9-f3c9364cf83e",
+    "venue_name": "Red Oak Coworking",
+    "latitude": 42.991085052490234,
+    "longitude": -71.46143341064453,
+    "reservations": 13,
+    "spend": 1300.0
+  },
+  {
+    "venue_id": "6d62658c-363d-4123-8c17-5ab10a297ce2",
+    "venue_name": "Spark Offices @ the Mills",
+    "latitude": 42.99467468261719,
+    "longitude": -71.4678726196289,
+    "reservations": 5,
+    "spend": 480.0
+  }
+]

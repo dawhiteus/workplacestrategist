@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "7d1564c9-861a-48cf-b5e7-de0458c35d51",
+    "venue_name": "Serendipity Labs - Denver - LoDo",
+    "latitude": 39.75555419921875,
+    "longitude": -105.00009155273438,
+    "reservations": 7,
+    "spend": 2573.0
+  },
+  {
+    "venue_id": "0346af01-926c-4808-8ff7-c0e2df5cd649",
+    "venue_name": "Shift Workspaces | Corona",
+    "latitude": 39.721778869628906,
+    "longitude": -104.97438049316406,
+    "reservations": 4,
+    "spend": 618.0
+  },
+  {
+    "venue_id": "ab3c25c9-12ee-4a92-95e8-1482723ec415",
+    "venue_name": "Coalition Space | Downtown Denver",
+    "latitude": 39.74314880371094,
+    "longitude": -104.9858627319336,
+    "reservations": 4,
+    "spend": 475.0
+  }
+]

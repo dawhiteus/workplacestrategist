@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f6e8e60b-8b7d-43b2-be6c-7e0152281dc1",
+    "venue_name": "eSuites",
+    "latitude": 26.71402931213379,
+    "longitude": -80.0970458984375,
+    "reservations": 4,
+    "spend": 1640.0
+  },
+  {
+    "venue_id": "dfd9c3c6-4a12-45e5-a0c0-554a1975fcc8",
+    "venue_name": "Regus | Emerald View",
+    "latitude": 26.712125778198242,
+    "longitude": -80.14750671386719,
+    "reservations": 2,
+    "spend": 560.0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "cec3984f-c28b-41c9-b0f7-4f3496385f3a",
+    "venue_name": "Venture X | Greenville Plush Mills",
+    "latitude": 34.84324264526367,
+    "longitude": -82.423095703125,
+    "reservations": 4,
+    "spend": 4300.0
+  },
+  {
+    "venue_id": "3d39c2a3-c3e2-4469-b927-e64c023155b9",
+    "venue_name": "Greenville Flywheel Coworking",
+    "latitude": 34.87575149536133,
+    "longitude": -82.40487670898438,
+    "reservations": 6,
+    "spend": 4030.0
+  },
+  {
+    "venue_id": "c9bfe843-f3b7-4f13-b5e0-fde785d272ef",
+    "venue_name": "Regus | Downtown- NOMA Tower",
+    "latitude": 34.85307312011719,
+    "longitude": -82.39772033691406,
+    "reservations": 9,
+    "spend": 3019.0
+  },
+  {
+    "venue_id": "76e3f3fb-9276-4d02-9eb2-1513d68e45c5",
+    "venue_name": "SPACES | Greenville - Falls Tower",
+    "latitude": 34.84640121459961,
+    "longitude": -82.40070343017578,
+    "reservations": 5,
+    "spend": 2631.06
+  },
+  {
+    "venue_id": "0e48eb63-52be-4bc3-bcce-459f02836294",
+    "venue_name": "THRIVE | Greenville",
+    "latitude": 34.84933853149414,
+    "longitude": -82.4001235961914,
+    "reservations": 4,
+    "spend": 1428.0
+  },
+  {
+    "venue_id": "52bf4166-2e6c-45f3-a394-d3bd57434329",
+    "venue_name": "Regus | Millport at Butler",
+    "latitude": 34.80820083618164,
+    "longitude": -82.28620147705078,
+    "reservations": 4,
+    "spend": 966.6
+  }
+]

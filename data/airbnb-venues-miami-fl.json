@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "0d2e2090-e7cc-4b42-8e30-bb1b87f4faa9",
+    "venue_name": "WeWork | Brickell City Centre",
+    "latitude": 25.767250061035156,
+    "longitude": -80.19366455078125,
+    "reservations": 89,
+    "spend": 5947.0
+  },
+  {
+    "venue_id": "b24ac095-9b7b-46a6-82ea-45d109fb6cda",
+    "venue_name": "Mindspace Wynwood ",
+    "latitude": 25.804304122924805,
+    "longitude": -80.19557189941406,
+    "reservations": 47,
+    "spend": 3865.0
+  },
+  {
+    "venue_id": "e232e8c2-70da-4f97-b43c-1b800e43ef2e",
+    "venue_name": "WeWork | Wynwood Garage",
+    "latitude": 25.801877975463867,
+    "longitude": -80.20169830322266,
+    "reservations": 61,
+    "spend": 3483.0
+  },
+  {
+    "venue_id": "2ee5a873-5ca2-45d4-aa94-7c22bebf1431",
+    "venue_name": "Mindspace 100 Biscayne",
+    "latitude": 25.77581214904785,
+    "longitude": -80.18824768066406,
+    "reservations": 4,
+    "spend": 1355.0
+  },
+  {
+    "venue_id": "4b670cdc-c37f-4308-95f1-d7cc092f7b85",
+    "venue_name": "Tedge Mindful Coworking",
+    "latitude": 25.80841064453125,
+    "longitude": -80.1940689086914,
+    "reservations": 12,
+    "spend": 585.0
+  },
+  {
+    "venue_id": "588c7777-d99e-4e11-84d6-36f076287019",
+    "venue_name": "Nimbler Spaces Miami",
+    "latitude": 25.78215217590332,
+    "longitude": -80.19017028808594,
+    "reservations": 12,
+    "spend": 540.0
+  },
+  {
+    "venue_id": "adce5b7e-1fc9-4486-98f5-a66dc5c2739b",
+    "venue_name": "Work Plus Office",
+    "latitude": 25.764019012451172,
+    "longitude": -80.19178009033203,
+    "reservations": 2,
+    "spend": 335.0
+  },
+  {
+    "venue_id": "e74753cd-12d8-4783-837a-3f5d0fd95951",
+    "venue_name": "B\u00fcro MiMo",
+    "latitude": 25.842309951782227,
+    "longitude": -80.18473052978516,
+    "reservations": 3,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "400076eb-d767-42c3-9e1a-bae13aa23707",
+    "venue_name": "BrainBox",
+    "latitude": 25.810935974121094,
+    "longitude": -80.19834899902344,
+    "reservations": 2,
+    "spend": 152.5
+  },
+  {
+    "venue_id": "7416f4dd-0313-45a8-b3da-37ea9ec8d956",
+    "venue_name": "Industrious - Brickell",
+    "latitude": 25.76247215270996,
+    "longitude": -80.19055938720703,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "3b4d31d8-fa85-4fd7-8acc-5dc20a547bac",
+    "venue_name": "WorQ Coworking",
+    "latitude": 25.763351440429688,
+    "longitude": -80.19046020507812,
+    "reservations": 2,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "894c9ddd-9a5e-43a8-901b-315dd1e684c2",
+    "venue_name": "Regus | Wells Fargo Plaza",
+    "latitude": 25.7716007232666,
+    "longitude": -80.19010162353516,
+    "reservations": 2,
+    "spend": 39.5
+  }
+]

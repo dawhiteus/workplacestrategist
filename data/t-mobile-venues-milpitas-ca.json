@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "93e962c6-a629-4e6b-8bde-7e2e72468f75",
+    "venue_name": "McCarthy Business Center",
+    "latitude": 37.406700134277344,
+    "longitude": -121.91996002197266,
+    "reservations": 19,
+    "spend": 5305.0
+  },
+  {
+    "venue_id": "cdd9fc9e-0897-43d9-9c2b-266a99c999da",
+    "venue_name": "FalconX Global Innovation Partners LLC",
+    "latitude": 37.420963287353516,
+    "longitude": -121.89321899414062,
+    "reservations": 7,
+    "spend": 230.0
+  }
+]

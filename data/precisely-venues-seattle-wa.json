@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.66591262817383,
+    "longitude": -122.37410736083984,
+    "reservations": 18,
+    "spend": 4895.0
+  },
+  {
+    "venue_id": "ca021d3d-08b8-4c0c-bfc7-e8ff6a63b6a6",
+    "venue_name": "WeWork | 1448 NW Market Street",
+    "latitude": 47.66898727416992,
+    "longitude": -122.37577819824219,
+    "reservations": 4,
+    "spend": 236.0
+  }
+]

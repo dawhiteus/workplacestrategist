@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "9e6dc2b0-453c-44ac-85ca-35f54acae35a",
+    "venue_name": "moss",
+    "latitude": 33.991668701171875,
+    "longitude": -118.46834564208984,
+    "reservations": 16,
+    "spend": 1265.0
+  },
+  {
+    "venue_id": "a5ec1221-4875-4908-9680-43f4897b74c1",
+    "venue_name": "Wilshire 1001 Premium Flex Space & Coworking Solutions",
+    "latitude": 34.05180740356445,
+    "longitude": -118.26139068603516,
+    "reservations": 15,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "970dc4dc-1d74-4eca-ae06-7a112a1b5a01",
+    "venue_name": "The Preserve",
+    "latitude": 34.09641647338867,
+    "longitude": -118.31062316894531,
+    "reservations": 12,
+    "spend": 435.0
+  },
+  {
+    "venue_id": "34fb838d-7ca9-475c-99b2-42f95c9a365b",
+    "venue_name": "Union Cowork Los Angeles - Downtown/Arts District",
+    "latitude": 34.040374755859375,
+    "longitude": -118.23128509521484,
+    "reservations": 7,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "7e200d85-2bb7-476c-b1c3-43114668609a",
+    "venue_name": "(WIL) The Tower",
+    "latitude": 34.05805206298828,
+    "longitude": -118.445068359375,
+    "reservations": 2,
+    "spend": 198.0
+  },
+  {
+    "venue_id": "9e46b78c-dd0a-4ed8-b4cf-b9cc9b195f89",
+    "venue_name": "SPACES || Fairfax",
+    "latitude": 34.073001861572266,
+    "longitude": -118.36199951171875,
+    "reservations": 2,
+    "spend": 170.0
+  },
+  {
+    "venue_id": "5e080182-9688-4f3b-9939-79904d6a5cbf",
+    "venue_name": "The Collection-Monthly Private Offices & Event Location",
+    "latitude": 34.04728698730469,
+    "longitude": -118.25608825683594,
+    "reservations": 4,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "67c70736-ac11-4a6f-9c02-650e0dc24ab1",
+    "venue_name": "CENTRL Office - Downtown Los Angeles",
+    "latitude": 34.047889709472656,
+    "longitude": -118.24014282226562,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "28517adb-d8c5-4cda-8386-36d8b1bcea35",
+    "venue_name": "Intelligent Office Bloomington",
+    "latitude": 44.85438537597656,
+    "longitude": -93.35699462890625,
+    "reservations": 77,
+    "spend": 8310.0
+  },
+  {
+    "venue_id": "af1514f3-ea9f-4c75-bb32-f82e77c8c862",
+    "venue_name": "OffiCenters at International Plaza",
+    "latitude": 44.859222412109375,
+    "longitude": -93.22686004638672,
+    "reservations": 19,
+    "spend": 1330.0
+  },
+  {
+    "venue_id": "2af2da32-efe3-450b-ba2a-0b313188baf7",
+    "venue_name": "France OffiCenter",
+    "latitude": 44.85685729980469,
+    "longitude": -93.32833862304688,
+    "reservations": 8,
+    "spend": 920.0
+  }
+]

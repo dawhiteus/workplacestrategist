@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "690c38c3-a635-453d-8d6b-0f92708bd0e2",
+    "venue_name": "Regus | Sunset Hills",
+    "latitude": 38.553428649902344,
+    "longitude": -90.41556549072266,
+    "reservations": 32,
+    "spend": 6048.5
+  },
+  {
+    "venue_id": "7a9caf23-6ef3-4446-a1ad-63ccfafa9796",
+    "venue_name": "Spark St. Louis",
+    "latitude": 38.624507904052734,
+    "longitude": -90.19329071044922,
+    "reservations": 4,
+    "spend": 5450.0
+  },
+  {
+    "venue_id": "09fe40e2-86b0-4fc4-9e76-fe79d1064b31",
+    "venue_name": "WorkWise",
+    "latitude": 38.62879943847656,
+    "longitude": -90.28677368164062,
+    "reservations": 10,
+    "spend": 2335.0
+  },
+  {
+    "venue_id": "8b6212ff-b698-425c-a300-fc059e8e8101",
+    "venue_name": "The Annex Workspace Shrewsbury",
+    "latitude": 38.59125900268555,
+    "longitude": -90.32737731933594,
+    "reservations": 7,
+    "spend": 1710.0
+  },
+  {
+    "venue_id": "48719a80-5182-4fb4-9cbf-660e54d6b83b",
+    "venue_name": "Regus | CityPlace",
+    "latitude": 38.673152923583984,
+    "longitude": -90.44151306152344,
+    "reservations": 8,
+    "spend": 1673.0
+  },
+  {
+    "venue_id": "ef0bdcc7-95f1-41f5-901a-101a2d44cb28",
+    "venue_name": "Office Evolution Clayton",
+    "latitude": 38.64665222167969,
+    "longitude": -90.3379135131836,
+    "reservations": 3,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "18a2e018-136e-4cd7-9905-cde16ab0954b",
+    "venue_name": "TechArtista Downtown",
+    "latitude": 38.6268196105957,
+    "longitude": -90.18831634521484,
+    "reservations": 2,
+    "spend": 220.0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "d8afe4ce-6d70-4d19-93ca-b403fd7e53c6",
+    "venue_name": "Venture X | Denver North",
+    "latitude": 39.75346755981445,
+    "longitude": -104.97931671142578,
+    "reservations": 101,
+    "spend": 24660.0
+  },
+  {
+    "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
+    "venue_name": "Venture X | LoDo",
+    "latitude": 39.75336456298828,
+    "longitude": -104.99684143066406,
+    "reservations": 66,
+    "spend": 23037.0
+  },
+  {
+    "venue_id": "c16c10e7-d617-4148-b709-6e0e3f7abcfb",
+    "venue_name": "WeWork | The Circa Building",
+    "latitude": 39.75788497924805,
+    "longitude": -105.00798797607422,
+    "reservations": 109,
+    "spend": 5123.0
+  },
+  {
+    "venue_id": "f19bdf9b-2388-43af-aba2-08ab0d1fe1bc",
+    "venue_name": "Candy Factory Coworking",
+    "latitude": 39.74629211425781,
+    "longitude": -104.99549102783203,
+    "reservations": 5,
+    "spend": 1851.0
+  },
+  {
+    "venue_id": "c1ca6830-86b1-446e-8486-4a12ee7ab1da",
+    "venue_name": "Shift Workspaces | Bannock",
+    "latitude": 39.73221969604492,
+    "longitude": -104.99066162109375,
+    "reservations": 40,
+    "spend": 1224.0
+  },
+  {
+    "venue_id": "f00cbf65-0922-4bb6-8411-bbe56225fb44",
+    "venue_name": "Office Evolution - Downtown Denver",
+    "latitude": 39.741455078125,
+    "longitude": -104.9820556640625,
+    "reservations": 12,
+    "spend": 520.0
+  },
+  {
+    "venue_id": "0d224c90-fd01-4cc0-ac84-7a1558c288ba",
+    "venue_name": "Executive Business Centers - DTC",
+    "latitude": 39.625099182128906,
+    "longitude": -104.89716339111328,
+    "reservations": 3,
+    "spend": 475.0
+  },
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741546630859375,
+    "longitude": -104.98779296875,
+    "reservations": 3,
+    "spend": 135.0
+  },
+  {
+    "venue_id": "4348879e-06a1-4f24-849f-c04f6a8303f4",
+    "venue_name": "Creative Density | Uptown",
+    "latitude": 39.74635314941406,
+    "longitude": -104.98074340820312,
+    "reservations": 3,
+    "spend": 75.0
+  }
+]

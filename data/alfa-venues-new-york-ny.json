@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 53,
+    "spend": 4190.0
+  },
+  {
+    "venue_id": "c0382c4b-1327-4db1-be07-bc4484510a3f",
+    "venue_name": "WeWork | 199 Water St",
+    "latitude": 40.70693588256836,
+    "longitude": -74.00448608398438,
+    "reservations": 59,
+    "spend": 3254.0
+  },
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.73402404785156,
+    "longitude": -74.00786590576172,
+    "reservations": 32,
+    "spend": 2505.0
+  },
+  {
+    "venue_id": "13b6059d-4f63-4146-b995-753ff8cb21ce",
+    "venue_name": "WeWork | 135 Madison Ave",
+    "latitude": 40.74604034423828,
+    "longitude": -73.9840316772461,
+    "reservations": 6,
+    "spend": 282.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855224609375,
+    "longitude": -74.00897979736328,
+    "reservations": 5,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
+    "venue_name": "WeWork | 368 9th Ave",
+    "latitude": 40.751068115234375,
+    "longitude": -73.99771881103516,
+    "reservations": 5,
+    "spend": 235.0
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639221191406,
+    "longitude": -73.98652648925781,
+    "reservations": 4,
+    "spend": 196.0
+  },
+  {
+    "venue_id": "505dfae7-a576-4b3a-a8e6-7ff1f8834fdb",
+    "venue_name": "WeWork | 450 Lexington Ave",
+    "latitude": 40.753265380859375,
+    "longitude": -73.9754409790039,
+    "reservations": 4,
+    "spend": 188.0
+  },
+  {
+    "venue_id": "7264e559-cece-4400-b21c-facc38cb69e2",
+    "venue_name": "WeWork | 160 Varick Street",
+    "latitude": 40.726715087890625,
+    "longitude": -74.0052719116211,
+    "reservations": 4,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
+    "venue_name": "The Yard: Lower East Side NYC",
+    "latitude": 40.71873092651367,
+    "longitude": -73.98969268798828,
+    "reservations": 5,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "dc4a9483-dcbc-4d47-92aa-5a3b19d9057d",
+    "venue_name": "Servcorp - Financial District NYC",
+    "latitude": 40.70283126831055,
+    "longitude": -74.01394653320312,
+    "reservations": 4,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825256347656,
+    "longitude": -74.01303100585938,
+    "reservations": 4,
+    "spend": 100.0
+  }
+]

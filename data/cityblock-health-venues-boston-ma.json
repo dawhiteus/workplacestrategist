@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "adfd069a-c949-4a9b-a04a-3b73ecaac9af",
+    "venue_name": "Boston Offices - One Boston Place",
+    "latitude": 42.358619689941406,
+    "longitude": -71.05835723876953,
+    "reservations": 6,
+    "spend": 3510.0
+  },
+  {
+    "venue_id": "db7f6905-7393-4dc4-a1e6-b4f6c6149deb",
+    "venue_name": "Intelligent Office - Boston",
+    "latitude": 42.356529235839844,
+    "longitude": -71.05335235595703,
+    "reservations": 4,
+    "spend": 590.0
+  }
+]

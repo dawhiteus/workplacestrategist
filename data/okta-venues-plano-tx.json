@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d5d4bf9b-1682-44aa-93ff-e554c69cab2c",
+    "venue_name": "Venture X | Plano East",
+    "latitude": 33.00624465942383,
+    "longitude": -96.70628356933594,
+    "reservations": 5,
+    "spend": 230.0
+  },
+  {
+    "venue_id": "14256972-e1ca-43e1-a67a-1aea183f13da",
+    "venue_name": "Venture X | Plano West",
+    "latitude": 33.06393814086914,
+    "longitude": -96.83049774169922,
+    "reservations": 4,
+    "spend": 140.0
+  }
+]

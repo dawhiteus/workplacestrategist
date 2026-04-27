@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e175b6f1-3ad2-4254-ac1a-95f2b8364f6d",
+    "venue_name": "Serendipity Labs - Kansas City - Overland Park",
+    "latitude": 38.93025207519531,
+    "longitude": -94.64705657958984,
+    "reservations": 15,
+    "spend": 3472.0
+  },
+  {
+    "venue_id": "fb2499b7-c8fe-4f44-b2d1-32e4bea00b1f",
+    "venue_name": "Office Evolution - Overland Park",
+    "latitude": 38.927085876464844,
+    "longitude": -94.680908203125,
+    "reservations": 6,
+    "spend": 1330.0
+  }
+]

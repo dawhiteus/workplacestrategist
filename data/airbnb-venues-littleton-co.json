@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1c7da95c-bb04-40bc-8b11-f7b9aaa9b7bf",
+    "venue_name": "Synergy Station CoWorks",
+    "latitude": 39.54902267456055,
+    "longitude": -104.87159729003906,
+    "reservations": 5,
+    "spend": 335.0
+  },
+  {
+    "venue_id": "249612f2-98fe-4a97-82a9-45d91bc8dba5",
+    "venue_name": "Kiln - Littleton",
+    "latitude": 39.62253952026367,
+    "longitude": -105.01948547363281,
+    "reservations": 3,
+    "spend": 180.0
+  }
+]

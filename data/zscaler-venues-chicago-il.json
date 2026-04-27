@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505126953125,
+    "longitude": -87.63457489013672,
+    "reservations": 4,
+    "spend": 3303.0
+  },
+  {
+    "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
+    "venue_name": "350 Coworking | 350 N. Orleans",
+    "latitude": 41.888038635253906,
+    "longitude": -87.63765716552734,
+    "reservations": 3,
+    "spend": 1800.0
+  },
+  {
+    "venue_id": "91c68f6a-1d38-4451-a345-da4d84361c77",
+    "venue_name": "WeWork | 625 W Adams Street",
+    "latitude": 41.87898254394531,
+    "longitude": -87.64356994628906,
+    "reservations": 6,
+    "spend": 923.0
+  },
+  {
+    "venue_id": "107f916f-148f-436a-be1e-29c0701be38f",
+    "venue_name": "WeWork | 167 North Green Street",
+    "latitude": 41.885154724121094,
+    "longitude": -87.64849090576172,
+    "reservations": 3,
+    "spend": 598.0
+  },
+  {
+    "venue_id": "58918a1d-a57a-4ec6-a9a0-fb3c869ed3aa",
+    "venue_name": "Workbox - Fulton Market",
+    "latitude": 41.88628387451172,
+    "longitude": -87.64893341064453,
+    "reservations": 12,
+    "spend": 420.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 9,
+    "spend": 360.0
+  },
+  {
+    "venue_id": "2a8f36b0-0ac0-4358-955d-ecd5f4d735ae",
+    "venue_name": "Workbox - The Loop",
+    "latitude": 41.879905700683594,
+    "longitude": -87.63046264648438,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

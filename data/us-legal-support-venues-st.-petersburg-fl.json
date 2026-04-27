@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "18511a08-90a6-400c-8a73-d6a22f43ebbb",
+    "venue_name": "1211 1st Ave N",
+    "latitude": 27.77225685119629,
+    "longitude": -82.65125274658203,
+    "reservations": 8,
+    "spend": 930.0
+  },
+  {
+    "venue_id": "4097fd70-3ea1-4f03-9062-e46370997c90",
+    "venue_name": "Expansive - 4th Street DTSP",
+    "latitude": 27.775165557861328,
+    "longitude": -82.63817596435547,
+    "reservations": 2,
+    "spend": 437.5
+  },
+  {
+    "venue_id": "61478b9d-66d6-405e-a54f-5ae1085ba5ca",
+    "venue_name": "Apt CoWork at Cottonwood Bayview",
+    "latitude": 27.775392532348633,
+    "longitude": -82.63644409179688,
+    "reservations": 7,
+    "spend": 275.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "4aa0aa63-1c66-426b-9c0c-7d270054a7da",
+    "venue_name": "Common Desk - Dallas Arts District",
+    "latitude": 32.787532806396484,
+    "longitude": -96.79916381835938,
+    "reservations": 81,
+    "spend": 2415.0
+  },
+  {
+    "venue_id": "b3a8efd8-f528-4c94-8bef-86100b01344f",
+    "venue_name": "Common Desk - West End",
+    "latitude": 32.78316879272461,
+    "longitude": -96.80786895751953,
+    "reservations": 13,
+    "spend": 325.0
+  },
+  {
+    "venue_id": "bdabe831-94b0-4710-ad67-371b54edb4d7",
+    "venue_name": "Venture X | Dallas by the Galleria",
+    "latitude": 32.933677673339844,
+    "longitude": -96.8171615600586,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

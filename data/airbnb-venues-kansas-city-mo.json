@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "899bdf64-ee80-4d42-a5ca-745001e1fc90",
+    "venue_name": "Regus | Zona Rosa",
+    "latitude": 39.25318145751953,
+    "longitude": -94.66410827636719,
+    "reservations": 20,
+    "spend": 1819.75
+  },
+  {
+    "venue_id": "8ceb132c-edf4-4fbd-a749-d035d80fb69c",
+    "venue_name": "Regus | Briarcliff",
+    "latitude": 39.16795349121094,
+    "longitude": -94.59587860107422,
+    "reservations": 5,
+    "spend": 735.0
+  },
+  {
+    "venue_id": "04d8458b-2b8a-4aac-bc25-89457aebd5c5",
+    "venue_name": "Regus || South Kansas City",
+    "latitude": 38.944000244140625,
+    "longitude": -94.58100128173828,
+    "reservations": 2,
+    "spend": 198.0
+  },
+  {
+    "venue_id": "016012e7-1186-439c-9110-99d2e8290dfa",
+    "venue_name": "WeWork | Lightwell",
+    "latitude": 39.10063934326172,
+    "longitude": -94.58355712890625,
+    "reservations": 4,
+    "spend": 188.0
+  },
+  {
+    "venue_id": "893467f9-e7d1-4781-8fed-725902dc3de9",
+    "venue_name": "Spark Kansas City",
+    "latitude": 39.096466064453125,
+    "longitude": -94.58206176757812,
+    "reservations": 2,
+    "spend": 75.0
+  }
+]

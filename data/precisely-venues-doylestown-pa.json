@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "717ed2f2-9664-413b-b879-1e73d8fcedbc",
+    "venue_name": "HQ | PA, Doylestown - Easton Rd",
+    "latitude": 40.294246673583984,
+    "longitude": -75.12669372558594,
+    "reservations": 5,
+    "spend": 450.12
+  },
+  {
+    "venue_id": "6bc37f83-2b9f-430e-80c0-c3b7d4f2c770",
+    "venue_name": "Regus | Doylestown",
+    "latitude": 40.30518341064453,
+    "longitude": -75.1321029663086,
+    "reservations": 4,
+    "spend": 400.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5a05ffcf-99bb-482e-9578-21ac753a86bd",
+    "venue_name": "Port Workspaces @ Uptown Oakland",
+    "latitude": 37.8084716796875,
+    "longitude": -122.26542663574219,
+    "reservations": 35,
+    "spend": 1050.0
+  },
+  {
+    "venue_id": "338779f5-902d-4430-98af-bb5bfd23672c",
+    "venue_name": "Oakstop",
+    "latitude": 37.80670928955078,
+    "longitude": -122.26970672607422,
+    "reservations": 4,
+    "spend": 960.0
+  }
+]

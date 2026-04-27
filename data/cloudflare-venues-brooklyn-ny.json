@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
+    "venue_name": "Mindspace Williamsburg",
+    "latitude": 40.722930908203125,
+    "longitude": -73.95780181884766,
+    "reservations": 112,
+    "spend": 7397.0
+  },
+  {
+    "venue_id": "30a7f2c3-1d12-4e74-9d5b-515cedfdc6b9",
+    "venue_name": "The Malin Williamsburg",
+    "latitude": 40.72229766845703,
+    "longitude": -73.9568862915039,
+    "reservations": 16,
+    "spend": 3225.0
+  },
+  {
+    "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
+    "venue_name": "Bond Collective Greenpoint",
+    "latitude": 40.73026657104492,
+    "longitude": -73.94893646240234,
+    "reservations": 39,
+    "spend": 2565.0
+  },
+  {
+    "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
+    "venue_name": "WeWork | 134 N 4th St",
+    "latitude": 40.716312408447266,
+    "longitude": -73.960205078125,
+    "reservations": 16,
+    "spend": 2300.8
+  },
+  {
+    "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
+    "venue_name": "The New Work Project",
+    "latitude": 40.72095489501953,
+    "longitude": -73.95805358886719,
+    "reservations": 11,
+    "spend": 1890.0
+  },
+  {
+    "venue_id": "4bce5925-e8ac-4a73-b77b-0cc483ad497b",
+    "venue_name": "Soho Works | 55 Water ",
+    "latitude": 40.70341873168945,
+    "longitude": -73.99160766601562,
+    "reservations": 6,
+    "spend": 630.0
+  },
+  {
+    "venue_id": "9230be32-9347-462d-97c7-697ce8bd8a7b",
+    "venue_name": "WeWork | Montague St.",
+    "latitude": 40.694313049316406,
+    "longitude": -73.99110412597656,
+    "reservations": 12,
+    "spend": 564.0
+  },
+  {
+    "venue_id": "eedf307c-d603-4e27-b9fb-ee697ffecba4",
+    "venue_name": "Bond Collective Bushwick",
+    "latitude": 40.699249267578125,
+    "longitude": -73.93836975097656,
+    "reservations": 7,
+    "spend": 510.0
+  },
+  {
+    "venue_id": "713ccec3-af30-4b34-a1d6-e79c6de9695a",
+    "venue_name": "WeWork | Dumbo Heights (Sands)",
+    "latitude": 40.700347900390625,
+    "longitude": -73.98743438720703,
+    "reservations": 7,
+    "spend": 329.0
+  },
+  {
+    "venue_id": "5a4774c6-62dd-4d44-b944-311d892fb24f",
+    "venue_name": "The Yard: Gowanus",
+    "latitude": 40.66876983642578,
+    "longitude": -73.99243927001953,
+    "reservations": 6,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "ab0b684f-7297-4e34-83e1-4adb99b282c2",
+    "venue_name": "BKLYN Commons - Brooklyn NY",
+    "latitude": 40.66223907470703,
+    "longitude": -73.96160888671875,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "27c2f659-0166-46d6-97c5-d31dcdc345c0",
+    "venue_name": "Bond Collective - Vinegar Hill",
+    "latitude": 40.70233917236328,
+    "longitude": -73.98157501220703,
+    "reservations": 3,
+    "spend": 85.0
+  }
+]

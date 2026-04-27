@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2af68214-2258-48e5-98a8-2efe10b07f74",
+    "venue_name": "TOTUS Business Center Long Island - Melville, NY",
+    "latitude": 40.77273178100586,
+    "longitude": -73.41284942626953,
+    "reservations": 67,
+    "spend": 19135.0
+  },
+  {
+    "venue_id": "85c04f62-3f10-4534-9805-33c7222423b6",
+    "venue_name": "Greenway Plaza Office Park",
+    "latitude": 40.77070999145508,
+    "longitude": -73.40862274169922,
+    "reservations": 10,
+    "spend": 4360.0
+  }
+]

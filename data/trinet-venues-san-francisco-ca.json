@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.79138946533203,
+    "longitude": -122.39215087890625,
+    "reservations": 3,
+    "spend": 1005.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.79262161254883,
+    "longitude": -122.39891052246094,
+    "reservations": 2,
+    "spend": 420.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "c0ae1d63-960d-44e5-859b-65320095493d",
+    "venue_name": "Hampton Business Center - Pines Blvd.",
+    "latitude": 26.007129669189453,
+    "longitude": -80.35581970214844,
+    "reservations": 10,
+    "spend": 2090.0
+  },
+  {
+    "venue_id": "dddf211c-93f9-429f-a828-24cca47ef754",
+    "venue_name": "Hampton Business Center",
+    "latitude": 26.025169372558594,
+    "longitude": -80.34661102294922,
+    "reservations": 5,
+    "spend": 835.0
+  },
+  {
+    "venue_id": "6c68df13-028c-4e34-a0cd-60bb007b1362",
+    "venue_name": "Global Impact Workspace",
+    "latitude": 26.007518768310547,
+    "longitude": -80.26530456542969,
+    "reservations": 2,
+    "spend": 126.0
+  }
+]

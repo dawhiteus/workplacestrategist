@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "2d2798fa-16f3-4ff4-95f5-7d2408aa6fe2",
+    "venue_name": "Life Time Work - Clarendon",
+    "latitude": 38.88886642456055,
+    "longitude": -77.09190368652344,
+    "reservations": 2,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "9396a679-4966-453a-a0f7-1303a06d6610",
+    "venue_name": "WeWork | 901 North Glebe Road",
+    "latitude": 38.88151550292969,
+    "longitude": -77.11516571044922,
+    "reservations": 3,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "2362c47d-aefe-45d7-98a4-6a4df395f59a",
+    "venue_name": "WeWork | 1201 Wilson Blvd",
+    "latitude": 38.895267486572266,
+    "longitude": -77.0712661743164,
+    "reservations": 2,
+    "spend": 94.0
+  }
+]

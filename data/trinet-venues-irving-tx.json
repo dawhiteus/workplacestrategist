@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "490b4ed5-855d-46a3-a748-ce06988f4b48",
+    "venue_name": "Foster Coworking - Las Colinas",
+    "latitude": 32.86245346069336,
+    "longitude": -96.93560028076172,
+    "reservations": 52,
+    "spend": 17225.0
+  },
+  {
+    "venue_id": "e1a7964a-912d-4e78-9808-48909fbea684",
+    "venue_name": "Lucid Private Offices | Las Colinas",
+    "latitude": 32.86048889160156,
+    "longitude": -96.93485260009766,
+    "reservations": 2,
+    "spend": 465.0
+  },
+  {
+    "venue_id": "16a7081c-fa68-4252-9640-c582406316d3",
+    "venue_name": "Cubexec at Las Colinas",
+    "latitude": 32.89073944091797,
+    "longitude": -96.95904541015625,
+    "reservations": 2,
+    "spend": 340.0
+  }
+]

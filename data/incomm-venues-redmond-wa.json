@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "b7d54849-2c18-4589-b8f8-3770ded10f5f",
+    "venue_name": "Seattle Marriott Redmond",
+    "latitude": 47.671119689941406,
+    "longitude": -122.1221923828125,
+    "reservations": 9,
+    "spend": 4669.0
+  },
+  {
+    "venue_id": "72401dd4-35ba-4d86-b5da-1c04d680c09f",
+    "venue_name": "thinkspace - Redmond",
+    "latitude": 47.676414489746094,
+    "longitude": -122.12199401855469,
+    "reservations": 6,
+    "spend": 840.0
+  }
+]

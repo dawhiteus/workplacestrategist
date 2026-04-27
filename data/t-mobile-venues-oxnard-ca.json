@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "73dfe24a-02df-4d28-af8d-3410eda03813",
+    "venue_name": "River Park Executive Suites",
+    "latitude": 34.24314498901367,
+    "longitude": -119.18206787109375,
+    "reservations": 4,
+    "spend": 1405.0
+  },
+  {
+    "venue_id": "c1a4436c-3d58-4f58-8e9e-92f8bc4a2a77",
+    "venue_name": "Regus || TOPA Financial Plaza",
+    "latitude": 34.22800064086914,
+    "longitude": -119.17500305175781,
+    "reservations": 4,
+    "spend": 898.8
+  }
+]

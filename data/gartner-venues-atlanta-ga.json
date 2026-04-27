@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "04ecbc8d-5eb7-445c-b2a2-59162a7788f2",
+    "venue_name": "WeWork | Colony Square",
+    "latitude": 33.786949157714844,
+    "longitude": -84.38282775878906,
+    "reservations": 4,
+    "spend": 168.0
+  },
+  {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851470947265625,
+    "longitude": -84.36003112792969,
+    "reservations": 3,
+    "spend": 160.0
+  }
+]

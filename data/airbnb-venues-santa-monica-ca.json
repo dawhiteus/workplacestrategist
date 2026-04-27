@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "edc4460c-44d0-4e52-8739-c8aaf1d16d3e",
+    "venue_name": "WeWork | 520 Broadway",
+    "latitude": 34.0161247253418,
+    "longitude": -118.49168395996094,
+    "reservations": 159,
+    "spend": 9706.0
+  },
+  {
+    "venue_id": "83411883-6d50-48e6-9ae0-b6a6f5c34e21",
+    "venue_name": "BLANKSPACES Santa Monica",
+    "latitude": 34.013729095458984,
+    "longitude": -118.49600982666016,
+    "reservations": 41,
+    "spend": 5625.0
+  },
+  {
+    "venue_id": "fd7cad1d-b456-498e-a0fb-16b64179bdb7",
+    "venue_name": "BLANKSPACES Santa Monica - Main St.",
+    "latitude": 33.997779846191406,
+    "longitude": -118.47962188720703,
+    "reservations": 83,
+    "spend": 3005.0
+  },
+  {
+    "venue_id": "4afe5b5b-5266-4e5b-8572-b6b5d2168d73",
+    "venue_name": "theOFFICE",
+    "latitude": 34.02846145629883,
+    "longitude": -118.48107147216797,
+    "reservations": 35,
+    "spend": 1365.0
+  },
+  {
+    "venue_id": "43538958-bb01-443e-b461-fefd24122c55",
+    "venue_name": "WeWork | 312 Arizona Ave",
+    "latitude": 34.01711654663086,
+    "longitude": -118.49724578857422,
+    "reservations": 13,
+    "spend": 767.0
+  },
+  {
+    "venue_id": "6a90b5d2-bfaf-40bb-b35d-33fbde64c50d",
+    "venue_name": "(SM4) Ocean Avenue",
+    "latitude": 34.01189041137695,
+    "longitude": -118.4950180053711,
+    "reservations": 2,
+    "spend": 479.0
+  },
+  {
+    "venue_id": "c2807ef0-80d9-4882-9d23-7e531f60b372",
+    "venue_name": "Barrister Executive Suites | Santa Monica",
+    "latitude": 34.016841888427734,
+    "longitude": -118.50060272216797,
+    "reservations": 2,
+    "spend": 325.0
+  },
+  {
+    "venue_id": "10e33bec-af27-4c72-908e-96e3e32eb052",
+    "venue_name": "SPACES || Water Garden",
+    "latitude": 34.02922058105469,
+    "longitude": -118.47206115722656,
+    "reservations": 2,
+    "spend": 166.2
+  },
+  {
+    "venue_id": "cebb29c7-c43a-4fa7-866f-345f0dc05265",
+    "venue_name": "BLANKSPACES Santa Monica @Colorado",
+    "latitude": 34.01820373535156,
+    "longitude": -118.48693084716797,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

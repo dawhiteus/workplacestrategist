@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "37ab46a8-6552-434d-b2a4-a0870b3df3cd",
+    "venue_name": "WorkSpace Irvine",
+    "latitude": 33.69099426269531,
+    "longitude": -117.86475372314453,
+    "reservations": 14,
+    "spend": 1740.0
+  },
+  {
+    "venue_id": "72111bfb-d9ff-49e1-8d41-4826bc032c02",
+    "venue_name": "WeWork | 400 Spectrum Center",
+    "latitude": 33.65150833129883,
+    "longitude": -117.7462158203125,
+    "reservations": 7,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "ee836b44-d543-4432-8861-2b9a2d43176e",
+    "venue_name": "WeWork | 200 Spectrum Center",
+    "latitude": 33.6527214050293,
+    "longitude": -117.7479019165039,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

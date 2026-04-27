@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5a8c535d-b636-433c-b252-e38d4327d4bf",
+    "venue_name": "Venture X- Downtown Columbia",
+    "latitude": 34.01095962524414,
+    "longitude": -81.03827667236328,
+    "reservations": 8,
+    "spend": 3785.0
+  },
+  {
+    "venue_id": "02ff0471-37c2-416f-beda-67d434f1552c",
+    "venue_name": "Regus | Columbia - 1501 Main St",
+    "latitude": 34.00531768798828,
+    "longitude": -81.03643035888672,
+    "reservations": 11,
+    "spend": 2300.06
+  },
+  {
+    "venue_id": "2b82fcbb-df9f-4687-9525-84bc8e107af7",
+    "venue_name": "Expansive - Main Street",
+    "latitude": 34.002262115478516,
+    "longitude": -81.03433227539062,
+    "reservations": 6,
+    "spend": 1813.5
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
+    "venue_name": "WeWork | One Seaport Square",
+    "latitude": 42.35343551635742,
+    "longitude": -71.04767608642578,
+    "reservations": 21,
+    "spend": 1239.0
+  },
+  {
+    "venue_id": "f67a4d86-a7b3-406a-8c7a-592156345ce7",
+    "venue_name": "WeWork | 501 Boylston St",
+    "latitude": 42.35120391845703,
+    "longitude": -71.07452392578125,
+    "reservations": 16,
+    "spend": 944.0
+  },
+  {
+    "venue_id": "2b7b7362-8bb9-408e-ad0c-a4564ff56b57",
+    "venue_name": "WeWork | One Beacon Street",
+    "latitude": 42.35847854614258,
+    "longitude": -71.06082916259766,
+    "reservations": 3,
+    "spend": 141.0
+  }
+]

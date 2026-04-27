@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9bb9bdbf-77f4-4bf4-86f1-47b7a95246f6",
+    "venue_name": "Expansive - Golden Triangle",
+    "latitude": 40.44178009033203,
+    "longitude": -80.00133514404297,
+    "reservations": 2,
+    "spend": 119.0
+  },
+  {
+    "venue_id": "ff2ab9dc-9117-47dc-8b93-f3b8ace394d3",
+    "venue_name": "OneValley at the Roundhouse",
+    "latitude": 40.4209098815918,
+    "longitude": -79.95079040527344,
+    "reservations": 2,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "25f81b37-7a4a-40a2-9772-9f8355f5c0fc",
+    "venue_name": "BusinessWise @ 4 Smithfield Street-Permanently Closed",
+    "latitude": 40.43684005737305,
+    "longitude": -80.00057220458984,
+    "reservations": 2,
+    "spend": 56.0
+  }
+]

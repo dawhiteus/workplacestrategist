@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2b8d638a-76d4-4372-aadd-7e5055fc989a",
+    "venue_name": "Regus | Bellevue Skyline Tower",
+    "latitude": 47.613853454589844,
+    "longitude": -122.19400024414062,
+    "reservations": 10,
+    "spend": 3614.0
+  },
+  {
+    "venue_id": "31baa0b8-4f50-401f-b632-787b6292ff74",
+    "venue_name": "Overlake WorkSpace",
+    "latitude": 47.6298828125,
+    "longitude": -122.18733215332031,
+    "reservations": 8,
+    "spend": 2737.0
+  }
+]

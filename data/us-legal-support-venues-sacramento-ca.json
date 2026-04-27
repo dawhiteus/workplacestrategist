@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "78d158b6-0835-4763-9ae9-d0e2ad87c637",
+    "venue_name": "Outlet Coworking - Sacramento",
+    "latitude": 38.574920654296875,
+    "longitude": -121.4786376953125,
+    "reservations": 2,
+    "spend": 330.0
+  },
+  {
+    "venue_id": "165709d0-93d9-4ea1-8bea-a1afcc63f7f6",
+    "venue_name": "Capsity Coworking - Oak Park",
+    "latitude": 38.54733657836914,
+    "longitude": -121.46532440185547,
+    "reservations": 2,
+    "spend": 300.0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 19,
+    "total_spend": 9109.0,
+    "venues": 7,
+    "members": 2
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 10,
+    "total_spend": 6954.5,
+    "venues": 6,
+    "members": 2
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 6103.55,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1125.0,
+    "venues": 1,
+    "members": 1
+  }
+]

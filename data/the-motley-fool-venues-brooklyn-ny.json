@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
+    "venue_name": "Mindspace Williamsburg",
+    "latitude": 40.722930908203125,
+    "longitude": -73.95780181884766,
+    "reservations": 19,
+    "spend": 1013.0
+  },
+  {
+    "venue_id": "30a7f2c3-1d12-4e74-9d5b-515cedfdc6b9",
+    "venue_name": "The Malin Williamsburg",
+    "latitude": 40.72229766845703,
+    "longitude": -73.9568862915039,
+    "reservations": 7,
+    "spend": 545.0
+  },
+  {
+    "venue_id": "284f5695-4297-4fd0-b8e1-bd4f4f60d8fe",
+    "venue_name": "Class & Co - Greenpoint",
+    "latitude": 40.72670364379883,
+    "longitude": -73.95220184326172,
+    "reservations": 11,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
+    "venue_name": "Bond Collective Greenpoint",
+    "latitude": 40.73026657104492,
+    "longitude": -73.94893646240234,
+    "reservations": 4,
+    "spend": 263.68
+  },
+  {
+    "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
+    "venue_name": "The New Work Project",
+    "latitude": 40.72095489501953,
+    "longitude": -73.95805358886719,
+    "reservations": 4,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "9230be32-9347-462d-97c7-697ce8bd8a7b",
+    "venue_name": "WeWork | Montague St.",
+    "latitude": 40.694313049316406,
+    "longitude": -73.99110412597656,
+    "reservations": 4,
+    "spend": 188.0
+  }
+]

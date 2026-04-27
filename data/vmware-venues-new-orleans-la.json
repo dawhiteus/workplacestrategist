@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1b09508b-8aa2-4cec-8053-b0da1361d371",
+    "venue_name": "Connect Hub Coworking New Orleans",
+    "latitude": 29.948827743530273,
+    "longitude": -90.06766510009766,
+    "reservations": 6,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "65a3efb6-59d6-47ec-8361-5d48248d5936",
+    "venue_name": "Scale New Orleans",
+    "latitude": 29.943016052246094,
+    "longitude": -90.07145690917969,
+    "reservations": 5,
+    "spend": 125.0
+  }
+]

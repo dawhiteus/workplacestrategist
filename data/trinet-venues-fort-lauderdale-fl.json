@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "73553bd6-2639-4b99-a1a5-f020a65e78be",
+    "venue_name": "Axis Space",
+    "latitude": 26.11812973022461,
+    "longitude": -80.14157104492188,
+    "reservations": 19,
+    "spend": 4827.0
+  },
+  {
+    "venue_id": "2a918f7f-1efe-4f94-882f-ed64ac923e32",
+    "venue_name": "Empire Executive Offices",
+    "latitude": 26.114320755004883,
+    "longitude": -80.14176177978516,
+    "reservations": 3,
+    "spend": 2470.0
+  },
+  {
+    "venue_id": "ead7f97f-1f05-45f8-a0a1-591ed1fc6b07",
+    "venue_name": "Quest Workspaces- Ft. Lauderdale",
+    "latitude": 26.123563766479492,
+    "longitude": -80.14119720458984,
+    "reservations": 4,
+    "spend": 822.0
+  },
+  {
+    "venue_id": "de5c51e9-df81-4460-80cd-44d0780bb3b2",
+    "venue_name": "Zen Offices Las Olas",
+    "latitude": 26.12033462524414,
+    "longitude": -80.14014434814453,
+    "reservations": 3,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "8fbb4304-9be4-417d-bed2-1dfb5059e97f",
+    "venue_name": "General Provision Downtown",
+    "latitude": 26.119430541992188,
+    "longitude": -80.14486694335938,
+    "reservations": 2,
+    "spend": 80.0
+  }
+]

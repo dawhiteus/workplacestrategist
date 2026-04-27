@@ -1,0 +1,226 @@
+[
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 56,
+    "total_spend": 6057.0,
+    "venues": 8,
+    "members": 13
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 34,
+    "total_spend": 2792.5,
+    "venues": 17,
+    "members": 7
+  },
+  {
+    "city": "Oakland",
+    "state": "CA",
+    "reservations": 81,
+    "total_spend": 2600.0,
+    "venues": 4,
+    "members": 6
+  },
+  {
+    "city": "San Rafael",
+    "state": "CA",
+    "reservations": 24,
+    "total_spend": 1851.15,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 22,
+    "total_spend": 1178.0,
+    "venues": 11,
+    "members": 5
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "reservations": 20,
+    "total_spend": 1104.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 14,
+    "total_spend": 1076.5,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 14,
+    "total_spend": 1061.0,
+    "venues": 8,
+    "members": 3
+  },
+  {
+    "city": "Walnut Creek",
+    "state": "CA",
+    "reservations": 8,
+    "total_spend": 1056.8,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Concord",
+    "state": "CA",
+    "reservations": 13,
+    "total_spend": 899.9,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Lafayette",
+    "state": "CA",
+    "reservations": 19,
+    "total_spend": 630.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 13,
+    "total_spend": 560.0,
+    "venues": 6,
+    "members": 3
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 12,
+    "total_spend": 454.0,
+    "venues": 6,
+    "members": 2
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "reservations": 5,
+    "total_spend": 429.0,
+    "venues": 5,
+    "members": 1
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 8,
+    "total_spend": 399.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Santa Barbara",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 382.2,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 380.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 8,
+    "total_spend": 353.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "reservations": 5,
+    "total_spend": 345.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Boca Raton",
+    "state": "FL",
+    "reservations": 8,
+    "total_spend": 318.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Aventura",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 247.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 6,
+    "total_spend": 214.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "reservations": 6,
+    "total_spend": 200.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Boise",
+    "state": "ID",
+    "reservations": 3,
+    "total_spend": 190.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Milpitas",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 150.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Culver City",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 140.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "reservations": 3,
+    "total_spend": 105.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Chesterbrook",
+    "state": "PA",
+    "reservations": 4,
+    "total_spend": 100.0,
+    "venues": 1,
+    "members": 1
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "dfd588c4-b721-45e2-81f2-ca1c9e8bd925",
+    "venue_name": "Quest Workspaces - 121 Alhambra Plaza",
+    "latitude": 25.752519607543945,
+    "longitude": -80.25711822509766,
+    "reservations": 6,
+    "spend": 294.0
+  },
+  {
+    "venue_id": "0047dc11-4ffc-4f18-91b5-0a6a75ae1b34",
+    "venue_name": "Life Time Work - Coral Gables",
+    "latitude": 25.727994918823242,
+    "longitude": -80.25992584228516,
+    "reservations": 3,
+    "spend": 150.0
+  }
+]

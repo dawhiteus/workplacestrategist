@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "6ad9454f-4cf9-40aa-9b02-176d76184b5a",
+    "venue_name": "The Flamingo House",
+    "latitude": 26.346466064453125,
+    "longitude": -80.08749389648438,
+    "reservations": 179,
+    "spend": 32065.0
+  },
+  {
+    "venue_id": "cdbf6b15-a818-492d-9a56-6d5cac01de74",
+    "venue_name": "The One Cowork",
+    "latitude": 26.39362907409668,
+    "longitude": -80.07601928710938,
+    "reservations": 280,
+    "spend": 29821.0
+  },
+  {
+    "venue_id": "ab3a186b-3bd3-45f5-95d8-ab34c928777e",
+    "venue_name": "Venture X | Boca Raton",
+    "latitude": 26.35276222229004,
+    "longitude": -80.1151123046875,
+    "reservations": 135,
+    "spend": 9315.0
+  }
+]

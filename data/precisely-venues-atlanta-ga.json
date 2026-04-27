@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.84675598144531,
+    "longitude": -84.37248229980469,
+    "reservations": 20,
+    "spend": 8720.0
+  },
+  {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851470947265625,
+    "longitude": -84.36003112792969,
+    "reservations": 8,
+    "spend": 5250.0
+  },
+  {
+    "venue_id": "f86dc4d7-b966-495a-90e2-5d846b9384b6",
+    "venue_name": "Expansive - Atlanta Perimeter Center",
+    "latitude": 33.92753219604492,
+    "longitude": -84.34283447265625,
+    "reservations": 5,
+    "spend": 1888.0
+  },
+  {
+    "venue_id": "7faad3f8-e4de-4a7e-8977-e2bf7da50cf0",
+    "venue_name": "Roam Perimeter Center",
+    "latitude": 33.919551849365234,
+    "longitude": -84.3426742553711,
+    "reservations": 4,
+    "spend": 1755.0
+  },
+  {
+    "venue_id": "8abfe8ff-f57a-4601-9ca8-de92208bdc71",
+    "venue_name": "Peachtree Offices at 1100, LLC",
+    "latitude": 33.78491973876953,
+    "longitude": -84.38316345214844,
+    "reservations": 3,
+    "spend": 1185.0
+  },
+  {
+    "venue_id": "038c7481-0839-47e1-a557-890637b58104",
+    "venue_name": "Regus | Sterling Pointe",
+    "latitude": 33.92829895019531,
+    "longitude": -84.33370208740234,
+    "reservations": 3,
+    "spend": 638.2
+  },
+  {
+    "venue_id": "d5cacd9e-a80c-443e-9d38-4d49e0bfcbe0",
+    "venue_name": "Intelligent Office - Atlanta (Sandy Springs)",
+    "latitude": 33.93602752685547,
+    "longitude": -84.36168670654297,
+    "reservations": 3,
+    "spend": 555.0
+  }
+]

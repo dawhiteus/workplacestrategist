@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a95892c0-1ac3-4e28-bfa1-25830509ec87",
+    "venue_name": "CO+HOOTS-Phoenix",
+    "latitude": 33.49195861816406,
+    "longitude": -112.07050323486328,
+    "reservations": 3,
+    "spend": 255.0
+  },
+  {
+    "venue_id": "8b1b43ff-8c7a-4cc8-aeb5-f0ddaab1dc8a",
+    "venue_name": "Expansive - Midtown",
+    "latitude": 33.47997283935547,
+    "longitude": -112.07450866699219,
+    "reservations": 2,
+    "spend": 127.0
+  }
+]

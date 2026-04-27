@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3647889b-10ca-4d24-b9b2-374cf617f059",
+    "venue_name": "Carr Workplaces - The Willard",
+    "latitude": 38.897029876708984,
+    "longitude": -77.0330810546875,
+    "reservations": 7,
+    "spend": 5070.0
+  },
+  {
+    "venue_id": "62bc4b9b-0a97-42ed-b73c-44a46814ce16",
+    "venue_name": "Metro Offices - Dupont Circle",
+    "latitude": 38.907020568847656,
+    "longitude": -77.0422134399414,
+    "reservations": 5,
+    "spend": 175.0
+  }
+]

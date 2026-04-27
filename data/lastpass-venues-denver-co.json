@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
+    "venue_name": "Venture X | LoDo",
+    "latitude": 39.75336456298828,
+    "longitude": -104.99684143066406,
+    "reservations": 6,
+    "spend": 4000.0
+  },
+  {
+    "venue_id": "7f4e2adb-bba0-4817-9651-803007103511",
+    "venue_name": "Regus | DTC Tech",
+    "latitude": 39.62928009033203,
+    "longitude": -104.89901733398438,
+    "reservations": 3,
+    "spend": 773.0
+  },
+  {
+    "venue_id": "2f248ddb-769b-4f35-b892-1a1f9ccb5569",
+    "venue_name": "Regus | CO, Glendale - E Mississippi Ave",
+    "latitude": 39.696067810058594,
+    "longitude": -104.93885803222656,
+    "reservations": 3,
+    "spend": 521.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5e121162-6591-4f38-8c91-b1072b77a69c",
+    "venue_name": "Regus | Costa Mesa - 3420 Bristol Street",
+    "latitude": 33.69403839111328,
+    "longitude": -117.88426971435547,
+    "reservations": 4,
+    "spend": 347.85
+  },
+  {
+    "venue_id": "57b00e5c-c001-4b4d-b81c-8950e2a82f97",
+    "venue_name": "Industrious - 3090 Bristol Street",
+    "latitude": 33.684959411621094,
+    "longitude": -117.88459777832031,
+    "reservations": 3,
+    "spend": 189.0
+  },
+  {
+    "venue_id": "78595a9f-0c0e-49e6-8ceb-bff16f033de5",
+    "venue_name": "WeWork | Park Tower",
+    "latitude": 33.69200897216797,
+    "longitude": -117.88434600830078,
+    "reservations": 3,
+    "spend": 133.0
+  }
+]

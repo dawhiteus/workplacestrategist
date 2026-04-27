@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "6eee1ece-7328-4395-b93f-ef2202693d70",
+    "venue_name": "Gather | Virginia Beach",
+    "latitude": 36.84296417236328,
+    "longitude": -76.13411712646484,
+    "reservations": 33,
+    "spend": 3155.0
+  },
+  {
+    "venue_id": "0bc0d60d-9530-421e-bd2b-3e97cf8b431f",
+    "venue_name": "Office Space & Solutions Virginia Beach",
+    "latitude": 36.847049713134766,
+    "longitude": -76.1264419555664,
+    "reservations": 7,
+    "spend": 1670.0
+  },
+  {
+    "venue_id": "a229acce-3f54-4e31-a34c-e3e07b303893",
+    "venue_name": "HubCity Virginia Beach",
+    "latitude": 36.844139099121094,
+    "longitude": -76.17758178710938,
+    "reservations": 4,
+    "spend": 385.0
+  }
+]

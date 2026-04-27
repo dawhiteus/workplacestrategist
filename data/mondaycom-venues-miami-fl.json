@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2c8dda30-0db1-413a-bb11-92f54726585c",
+    "venue_name": "Industrious - Wynwood",
+    "latitude": 25.803447723388672,
+    "longitude": -80.20037841796875,
+    "reservations": 7,
+    "spend": 6117.0
+  },
+  {
+    "venue_id": "66128208-7501-422a-ba39-4a5b48386018",
+    "venue_name": "Expansive - Biscayne",
+    "latitude": 25.797971725463867,
+    "longitude": -80.18850708007812,
+    "reservations": 3,
+    "spend": 2814.0
+  }
+]

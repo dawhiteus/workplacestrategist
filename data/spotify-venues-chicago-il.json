@@ -1,0 +1,138 @@
+[
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 172,
+    "spend": 46800.0
+  },
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944030761719,
+    "longitude": -87.6360092163086,
+    "reservations": 4,
+    "spend": 4727.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505126953125,
+    "longitude": -87.63457489013672,
+    "reservations": 13,
+    "spend": 2312.0
+  },
+  {
+    "venue_id": "5c8af16c-fc20-4805-b484-8739db529cee",
+    "venue_name": "WeWork | 448 N LaSalle",
+    "latitude": 41.8906135559082,
+    "longitude": -87.63321685791016,
+    "reservations": 6,
+    "spend": 2047.0
+  },
+  {
+    "venue_id": "c2dfd1ef-5919-4d7a-8edc-acca53304ade",
+    "venue_name": "WeWork | 330 N. Wabash",
+    "latitude": 41.88862991333008,
+    "longitude": -87.62750244140625,
+    "reservations": 7,
+    "spend": 1267.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.89024353027344,
+    "longitude": -87.63189697265625,
+    "reservations": 4,
+    "spend": 874.0
+  },
+  {
+    "venue_id": "58918a1d-a57a-4ec6-a9a0-fb3c869ed3aa",
+    "venue_name": "Workbox - Fulton Market",
+    "latitude": 41.88628387451172,
+    "longitude": -87.64893341064453,
+    "reservations": 9,
+    "spend": 595.0
+  },
+  {
+    "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
+    "venue_name": "350 Coworking | 350 N. Orleans",
+    "latitude": 41.888038635253906,
+    "longitude": -87.63765716552734,
+    "reservations": 4,
+    "spend": 570.0
+  },
+  {
+    "venue_id": "edf0548a-07d1-49ca-b642-b09a0ab1fe19",
+    "venue_name": "Workbox Magnificent Mile",
+    "latitude": 41.88983917236328,
+    "longitude": -87.62689971923828,
+    "reservations": 7,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "107f916f-148f-436a-be1e-29c0701be38f",
+    "venue_name": "WeWork | 167 North Green Street",
+    "latitude": 41.885154724121094,
+    "longitude": -87.64849090576172,
+    "reservations": 9,
+    "spend": 423.0
+  },
+  {
+    "venue_id": "eb630f7c-5921-4f1f-a9bd-9668f61b5a21",
+    "venue_name": "Regus | Lincoln Park",
+    "latitude": 41.910743713378906,
+    "longitude": -87.65301513671875,
+    "reservations": 4,
+    "spend": 361.05
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.90366744995117,
+    "longitude": -87.63109588623047,
+    "reservations": 4,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "6c504787-3001-4a91-a3ac-83e3d7613f16",
+    "venue_name": "Life Time Work - River North at One Chicago",
+    "latitude": 41.89649963378906,
+    "longitude": -87.62849426269531,
+    "reservations": 5,
+    "spend": 315.0
+  },
+  {
+    "venue_id": "04847fd4-1443-4694-8f2e-b1fbe424bc9c",
+    "venue_name": "Industrious - Wicker Park",
+    "latitude": 41.9034423828125,
+    "longitude": -87.6708984375,
+    "reservations": 3,
+    "spend": 189.0
+  },
+  {
+    "venue_id": "c8075780-e397-465b-b631-4b4cd8d62ccd",
+    "venue_name": "Second Shift",
+    "latitude": 41.93218231201172,
+    "longitude": -87.71360778808594,
+    "reservations": 6,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "0f6b3b8c-534b-4b7d-a349-8dbe72e91adc",
+    "venue_name": "Workbox Union Station",
+    "latitude": 41.8791618347168,
+    "longitude": -87.64392852783203,
+    "reservations": 5,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "04ed0f0a-e91f-4273-b13b-649fc0778f38",
+    "venue_name": "Expansive - North Center",
+    "latitude": 41.95161819458008,
+    "longitude": -87.6742172241211,
+    "reservations": 3,
+    "spend": 114.0
+  }
+]

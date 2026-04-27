@@ -1,0 +1,58 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 654,
+    "total_spend": 42948.4,
+    "venues": 35,
+    "members": 61
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 114,
+    "total_spend": 3351.0,
+    "venues": 8,
+    "members": 19
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "reservations": 4,
+    "total_spend": 1300.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 4,
+    "total_spend": 661.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Williamsburg",
+    "state": "NY",
+    "reservations": 12,
+    "total_spend": 630.0,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Portland",
+    "state": "ME",
+    "reservations": 7,
+    "total_spend": 300.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "reservations": 3,
+    "total_spend": 80.0,
+    "venues": 2,
+    "members": 2
+  }
+]

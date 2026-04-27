@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0480182a-dfdc-416e-897c-731f880ba6ca",
+    "venue_name": "Boston Offices - Exchange Place",
+    "latitude": 42.3585205078125,
+    "longitude": -71.05610656738281,
+    "reservations": 9,
+    "spend": 3759.0
+  },
+  {
+    "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
+    "venue_name": "Idea Space - Back Bay",
+    "latitude": 42.34859848022461,
+    "longitude": -71.08344268798828,
+    "reservations": 3,
+    "spend": 1840.0
+  }
+]

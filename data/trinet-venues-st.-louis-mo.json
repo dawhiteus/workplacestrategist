@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "690c38c3-a635-453d-8d6b-0f92708bd0e2",
+    "venue_name": "Regus | Sunset Hills",
+    "latitude": 38.553428649902344,
+    "longitude": -90.41556549072266,
+    "reservations": 66,
+    "spend": 6566.0
+  },
+  {
+    "venue_id": "a25f3528-72c2-430e-979d-d5ea38a74880",
+    "venue_name": "TechArtista CWE",
+    "latitude": 38.65000915527344,
+    "longitude": -90.26017761230469,
+    "reservations": 14,
+    "spend": 210.0
+  }
+]

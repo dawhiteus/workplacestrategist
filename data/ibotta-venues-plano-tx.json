@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ef626851-b4e5-4943-a085-b65c6291bc8c",
+    "venue_name": "Serendipity Labs - Plano - Legacy West",
+    "latitude": 33.08556365966797,
+    "longitude": -96.83732604980469,
+    "reservations": 7,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "49f8ddf0-3093-4631-8a5d-ecf0f56c7ee2",
+    "venue_name": "WeWork | 6900 Dallas Parkway",
+    "latitude": 33.07267379760742,
+    "longitude": -96.8235855102539,
+    "reservations": 3,
+    "spend": 141.0
+  },
+  {
+    "venue_id": "65867243-9a17-411d-b265-e59e5519ddcb",
+    "venue_name": "Common Desk - Granite Park",
+    "latitude": 33.08755111694336,
+    "longitude": -96.82111358642578,
+    "reservations": 5,
+    "spend": 125.0
+  }
+]

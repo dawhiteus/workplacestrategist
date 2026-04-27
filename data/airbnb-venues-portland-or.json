@@ -1,0 +1,114 @@
+[
+  {
+    "venue_id": "101e73a7-e37a-456f-ab8e-703c92111f39",
+    "venue_name": "Kiln - Portland",
+    "latitude": 45.51259994506836,
+    "longitude": -122.65416717529297,
+    "reservations": 252,
+    "spend": 21275.0
+  },
+  {
+    "venue_id": "ca336e13-3a9f-4bd4-bc6d-021dc87d6e2b",
+    "venue_name": "WeWork | 830 NE Holladay St",
+    "latitude": 45.52975082397461,
+    "longitude": -122.65685272216797,
+    "reservations": 46,
+    "spend": 2655.0
+  },
+  {
+    "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
+    "venue_name": "CENTRL Office - Eastside",
+    "latitude": 45.52379608154297,
+    "longitude": -122.66244506835938,
+    "reservations": 12,
+    "spend": 1405.0
+  },
+  {
+    "venue_id": "0abba921-b869-410f-a6e9-5b17b55ec3ed",
+    "venue_name": "It's Just a Feeling",
+    "latitude": 45.54841613769531,
+    "longitude": -122.64141082763672,
+    "reservations": 34,
+    "spend": 1360.0
+  },
+  {
+    "venue_id": "fd3fdf91-8059-4536-97c7-2eabb6b2a8ec",
+    "venue_name": "SPACES | Slabtown",
+    "latitude": 45.534515380859375,
+    "longitude": -122.69629669189453,
+    "reservations": 16,
+    "spend": 1137.36
+  },
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.52505874633789,
+    "longitude": -122.68479919433594,
+    "reservations": 13,
+    "spend": 1060.0
+  },
+  {
+    "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
+    "venue_name": "CENTRL Office - West End",
+    "latitude": 45.52070999145508,
+    "longitude": -122.68387603759766,
+    "reservations": 10,
+    "spend": 820.0
+  },
+  {
+    "venue_id": "391f4ce6-e67c-4207-85ee-dbaa4cefa79b",
+    "venue_name": "Regus | River Park Center",
+    "latitude": 45.46546936035156,
+    "longitude": -122.66329956054688,
+    "reservations": 6,
+    "spend": 641.71
+  },
+  {
+    "venue_id": "d97c4a67-66c2-49d3-9517-19ed489d9f4a",
+    "venue_name": "Regus | Portland - 555 SE Martin Luther King Boulevard",
+    "latitude": 45.51888656616211,
+    "longitude": -122.66210174560547,
+    "reservations": 13,
+    "spend": 612.07
+  },
+  {
+    "venue_id": "8aaa8eb9-b992-4a4d-b482-ca8b068b4ec6",
+    "venue_name": "VIDA Coworking Community",
+    "latitude": 45.525718688964844,
+    "longitude": -122.64686584472656,
+    "reservations": 6,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "14cbcd43-d167-4486-9ca3-6452a684ebed",
+    "venue_name": "openHAUS coworking + shared workspace",
+    "latitude": 45.559444427490234,
+    "longitude": -122.6611099243164,
+    "reservations": 10,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "3b7bf34b-e2f5-4637-884b-cc0b4c89ac8c",
+    "venue_name": "Life Time Work - Beaverton",
+    "latitude": 45.51588439941406,
+    "longitude": -122.79360961914062,
+    "reservations": 2,
+    "spend": 130.0
+  },
+  {
+    "venue_id": "d4726547-3e6f-4929-a571-584a6d47a391",
+    "venue_name": "Regus | OR, Portland - River Park Center",
+    "latitude": 45.46546936035156,
+    "longitude": -122.66329956054688,
+    "reservations": 2,
+    "spend": 123.08
+  },
+  {
+    "venue_id": "f05e2b33-524c-4e57-b590-d01b80c5e278",
+    "venue_name": "HQ | Lincoln Center",
+    "latitude": 45.44509506225586,
+    "longitude": -122.77399444580078,
+    "reservations": 2,
+    "spend": 117.15
+  }
+]

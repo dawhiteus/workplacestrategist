@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 23,
+    "spend": 1867.25
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.79138946533203,
+    "longitude": -122.39215087890625,
+    "reservations": 3,
+    "spend": 1740.0
+  },
+  {
+    "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
+    "venue_name": "AvantSpace- Greenwich St.",
+    "latitude": 37.798858642578125,
+    "longitude": -122.43561553955078,
+    "reservations": 10,
+    "spend": 1086.0
+  },
+  {
+    "venue_id": "ba5c28df-3366-405d-8f77-b8beae62bf3d",
+    "venue_name": "A Great Space to Work - San Francisco",
+    "latitude": 37.80739974975586,
+    "longitude": -122.4148178100586,
+    "reservations": 8,
+    "spend": 44.0
+  }
+]

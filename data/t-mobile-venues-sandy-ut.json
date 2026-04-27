@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "415353c2-cd26-4399-91b8-cf10f6e4b5ac",
+    "venue_name": "Salt Mine Productive Coworking Space",
+    "latitude": 40.606597900390625,
+    "longitude": -111.85493469238281,
+    "reservations": 179,
+    "spend": 76600.0
+  },
+  {
+    "venue_id": "ac6b0cf3-4e6c-4cd5-bf5f-6ad33c40dc4f",
+    "venue_name": "Regus || Sandy",
+    "latitude": 40.57046890258789,
+    "longitude": -111.90104675292969,
+    "reservations": 2,
+    "spend": 523.2
+  }
+]

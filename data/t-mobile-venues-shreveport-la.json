@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2a69864b-7662-4c28-a81f-eb5164b33a95",
+    "venue_name": "The Meeting Space at EI",
+    "latitude": 32.524349212646484,
+    "longitude": -93.75735473632812,
+    "reservations": 30,
+    "spend": 5395.0
+  },
+  {
+    "venue_id": "2ddfd26a-cc38-4dba-b1ac-73f09c13061e",
+    "venue_name": "Regus | Boardwalk",
+    "latitude": 32.51340103149414,
+    "longitude": -93.7477035522461,
+    "reservations": 24,
+    "spend": 4325.58
+  }
+]

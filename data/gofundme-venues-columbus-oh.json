@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ff80928d-9f68-4906-a739-e271da965727",
+    "venue_name": "Haven Collective - Mansion",
+    "latitude": 39.96442794799805,
+    "longitude": -82.9841537475586,
+    "reservations": 4,
+    "spend": 550.0
+  },
+  {
+    "venue_id": "77933c5b-a4d3-425b-b35a-11aade7f4de7",
+    "venue_name": "COhatch - Easton",
+    "latitude": 40.0553092956543,
+    "longitude": -82.90742492675781,
+    "reservations": 4,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "0859e561-0986-4774-a8fd-16b5c061af14",
+    "venue_name": "COhatch - Bexley",
+    "latitude": 39.956565856933594,
+    "longitude": -82.92667388916016,
+    "reservations": 3,
+    "spend": 90.0
+  }
+]

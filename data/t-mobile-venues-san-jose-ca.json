@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
+    "venue_name": "Expansive - North First",
+    "latitude": 37.37726974487305,
+    "longitude": -121.92033386230469,
+    "reservations": 182,
+    "spend": 90274.5
+  },
+  {
+    "venue_id": "a5e1d1d2-fb03-4cb5-8e16-0bff7c14fdc0",
+    "venue_name": "(SJ2) Silicon Valley Center",
+    "latitude": 37.38529968261719,
+    "longitude": -121.9248275756836,
+    "reservations": 4,
+    "spend": 4000.0
+  },
+  {
+    "venue_id": "d687e00a-ee6c-4485-80ae-702656a59b1e",
+    "venue_name": "University of San Jose",
+    "latitude": 37.364261627197266,
+    "longitude": -121.91236114501953,
+    "reservations": 7,
+    "spend": 1076.0
+  }
+]

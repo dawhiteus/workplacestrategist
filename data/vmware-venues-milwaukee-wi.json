@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e85ee105-9ce8-4068-bf2e-d8deceac6eee",
+    "venue_name": "Regus | Third Ward",
+    "latitude": 43.0348014831543,
+    "longitude": -87.90850067138672,
+    "reservations": 14,
+    "spend": 1327.0
+  },
+  {
+    "venue_id": "d8113147-8de3-4b75-9cac-ea06a3a3c067",
+    "venue_name": "Relics Works + Relics Studio",
+    "latitude": 43.02651596069336,
+    "longitude": -87.91057586669922,
+    "reservations": 6,
+    "spend": 474.0
+  }
+]

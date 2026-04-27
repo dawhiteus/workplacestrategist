@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "6a9fbf36-3fc1-434a-a0df-bfa101ac592d",
+    "venue_name": "Common Desk - 6th & Congress",
+    "latitude": 30.268146514892578,
+    "longitude": -97.7422866821289,
+    "reservations": 99,
+    "spend": 2475.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.258480072021484,
+    "longitude": -97.72895812988281,
+    "reservations": 27,
+    "spend": 1350.0
+  },
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.26758575439453,
+    "longitude": -97.75431823730469,
+    "reservations": 9,
+    "spend": 1235.0
+  },
+  {
+    "venue_id": "d39b1229-a60c-4c7d-9b5f-6e62f853dff8",
+    "venue_name": "Executive Workspace| NW Austin",
+    "latitude": 30.464370727539062,
+    "longitude": -97.79431915283203,
+    "reservations": 3,
+    "spend": 990.0
+  },
+  {
+    "venue_id": "de3ed332-a021-44f3-89dc-473da893654d",
+    "venue_name": "fibercove",
+    "latitude": 30.2514705657959,
+    "longitude": -97.76693725585938,
+    "reservations": 3,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.26104164123535,
+    "longitude": -97.72795104980469,
+    "reservations": 20,
+    "spend": 680.0
+  },
+  {
+    "venue_id": "a030b5ba-13c8-40bd-a379-d979841fc46b",
+    "venue_name": "FUSE Workspace-Four Points",
+    "latitude": 30.410009384155273,
+    "longitude": -97.85163116455078,
+    "reservations": 10,
+    "spend": 300.0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "2b7b7362-8bb9-408e-ad0c-a4564ff56b57",
+    "venue_name": "WeWork | One Beacon Street",
+    "latitude": 42.35847854614258,
+    "longitude": -71.06082916259766,
+    "reservations": 46,
+    "spend": 2162.0
+  },
+  {
+    "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
+    "venue_name": "WeWork | One Seaport Square",
+    "latitude": 42.35343551635742,
+    "longitude": -71.04767608642578,
+    "reservations": 13,
+    "spend": 767.0
+  },
+  {
+    "venue_id": "289ed2cd-6bbb-47b7-9b40-811b7d887f19",
+    "venue_name": "WeWork | One Lincoln",
+    "latitude": 42.353172302246094,
+    "longitude": -71.05923461914062,
+    "reservations": 12,
+    "spend": 564.0
+  },
+  {
+    "venue_id": "f67a4d86-a7b3-406a-8c7a-592156345ce7",
+    "venue_name": "WeWork | 501 Boylston St",
+    "latitude": 42.35120391845703,
+    "longitude": -71.07452392578125,
+    "reservations": 7,
+    "spend": 413.0
+  },
+  {
+    "venue_id": "53c22bcb-e7aa-4746-b899-f24869fb908c",
+    "venue_name": "WeWork | 33 Arch St",
+    "latitude": 42.35610580444336,
+    "longitude": -71.0582275390625,
+    "reservations": 6,
+    "spend": 297.0
+  },
+  {
+    "venue_id": "3f791a67-e47e-48d9-81c8-d2f408d964bf",
+    "venue_name": "Staples Coworking Boston (Government Center)",
+    "latitude": 42.35929489135742,
+    "longitude": -71.05799102783203,
+    "reservations": 6,
+    "spend": 174.0
+  }
+]

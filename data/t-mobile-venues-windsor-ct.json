@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "48eb1bb8-da14-4210-88ff-2598be454ce2",
+    "venue_name": "Regus | CT, Windsor - Addison Rd",
+    "latitude": 41.86233139038086,
+    "longitude": -72.67878723144531,
+    "reservations": 49,
+    "spend": 6516.78
+  },
+  {
+    "venue_id": "80a8c8d6-2649-47e9-b107-401cd970d622",
+    "venue_name": "Regus | 360 Bloomfield",
+    "latitude": 41.85432052612305,
+    "longitude": -72.66278839111328,
+    "reservations": 6,
+    "spend": 776.38
+  }
+]

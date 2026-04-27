@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "504e1a75-d3ab-49bd-8b49-64bc7d4dae2a",
+    "venue_name": "The Hive Executive Suites",
+    "latitude": 34.171356201171875,
+    "longitude": -118.60455322265625,
+    "reservations": 22,
+    "spend": 6500.0
+  },
+  {
+    "venue_id": "d1739414-935b-46a6-b599-5864655149c9",
+    "venue_name": "(WC2) Warner Center Towers",
+    "latitude": 34.178810119628906,
+    "longitude": -118.59982299804688,
+    "reservations": 5,
+    "spend": 4010.0
+  },
+  {
+    "venue_id": "da8baf69-dbd6-4a9b-a93c-912dedb2b485",
+    "venue_name": "Carr Workplaces - DTLA",
+    "latitude": 34.048274993896484,
+    "longitude": -118.25856018066406,
+    "reservations": 3,
+    "spend": 1680.0
+  }
+]

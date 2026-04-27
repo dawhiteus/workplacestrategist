@@ -1,0 +1,10 @@
+[
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 6,
+    "total_spend": 1902.0,
+    "venues": 2,
+    "members": 2
+  }
+]

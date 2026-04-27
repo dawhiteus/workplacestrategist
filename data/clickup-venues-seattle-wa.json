@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "fe7c09e6-0ece-4b22-b834-aaa369c25b3d",
+    "venue_name": "Expansive - Pioneer Building",
+    "latitude": 47.60219955444336,
+    "longitude": -122.33348083496094,
+    "reservations": 6,
+    "spend": 3600.0
+  },
+  {
+    "venue_id": "b8ed54f3-97b1-49b2-8c8a-a30160d6ac86",
+    "venue_name": "CENTRL Office - Capitol Hill",
+    "latitude": 47.61480712890625,
+    "longitude": -122.31840515136719,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.61172866821289,
+    "longitude": -122.34436798095703,
+    "reservations": 40,
+    "spend": 6810.0
+  },
+  {
+    "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
+    "venue_name": "The Cloud Room",
+    "latitude": 47.6136589050293,
+    "longitude": -122.3177490234375,
+    "reservations": 63,
+    "spend": 4390.0
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.66591262817383,
+    "longitude": -122.37410736083984,
+    "reservations": 24,
+    "spend": 1060.0
+  }
+]

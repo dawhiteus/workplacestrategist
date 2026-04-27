@@ -1,6 +1,7 @@
 import path from 'path'
 import fs from 'fs'
 import type { HWIOutput, CPIOutput } from './types'
+import { generateIntakeDemand } from './platform-venues'
 
 // Seeded JSON data lives alongside the project for demo reliability.
 // If PULSE_DATA_PATH is set and accessible, DuckDB runtime queries are used instead.
@@ -17,6 +18,21 @@ function metroKey(city: string, state: string): string {
 // Escape single quotes to prevent SQL injection
 function esc(s: string): string {
   return s.replace(/'/g, "''")
+}
+
+// Convert enterprise name to seed-file slug (must match generation script)
+function enterpriseSlug(name: string): string {
+  return name.toLowerCase().replace(/[^a-z0-9\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').trim()
+}
+
+// Read an enterprise's metros seed file, returns [] if not found
+function readEnterpriseMetros(enterprise: string): Array<{
+  city: string; state: string; reservations: number; total_spend: number; venues: number; members: number
+}> {
+  const file = enterprise === 'Allstate' ? 'allstate-metros.json' : `${enterpriseSlug(enterprise)}-metros.json`
+  const p = path.join(DATA_DIR, file)
+  if (!fs.existsSync(p)) return []
+  return readJson(file)
 }
 
 export async function getMetroPortfolio(enterprise: string): Promise<Array<{
@@ -51,9 +67,12 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
     }
   }
 
-  // Seeded fallback — only Allstate has seeded data
-  if (enterprise === 'Allstate') {
-    return readJson('allstate-metros.json')
+  // Seeded fallback — read per-enterprise seed file if it exists
+  const slug = enterprise.toLowerCase().replace(/[^a-z0-9\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').trim()
+  const seedFile = enterprise === 'Allstate' ? 'allstate-metros.json' : `${slug}-metros.json`
+  const seedPath = path.join(DATA_DIR, seedFile)
+  if (fs.existsSync(seedPath)) {
+    return readJson(seedFile)
   }
   return []
 }
@@ -95,7 +114,8 @@ export async function getMetroVenues(enterprise: string, city: string, state: st
 
   // Seeded fallback — file-based JSON per enterprise/metro
   const key = metroKey(city, state)
-  const filename = `${enterprise.toLowerCase()}-venues-${key}.json`
+  const slug = enterprise === 'Allstate' ? 'allstate' : enterpriseSlug(enterprise)
+  const filename = `${slug}-venues-${key}.json`
   const filePath = path.join(DATA_DIR, filename)
   if (fs.existsSync(filePath)) {
     return readJson(filename)
@@ -139,6 +159,14 @@ export async function getDailyDemand(
   const filePath = path.join(DATA_DIR, filename)
   if (fs.existsSync(filePath)) {
     return readJson(filename)
+  }
+
+  // Synthetic fallback — derive demand wave from metro-level spend + reservations
+  const metros = readEnterpriseMetros(enterprise)
+  const metro = metros.find(m => m.city === city && m.state === state)
+  if (metro && metro.total_spend > 0 && metro.reservations > 0) {
+    const avgRatePerBooking = metro.total_spend / metro.reservations
+    return generateIntakeDemand(metro.total_spend, avgRatePerBooking)
   }
   return []
 }
@@ -209,6 +237,11 @@ export async function getEnterpriseList(): Promise<string[]> {
     }
   }
 
+  // Seeded fallback — read from committed enterprises-list.json
+  const listPath = path.join(DATA_DIR, 'enterprises-list.json')
+  if (fs.existsSync(listPath)) {
+    return readJson<string[]>('enterprises-list.json')
+  }
   return ['Allstate']
 }
 
@@ -534,6 +567,41 @@ export async function getWorkTypeData(
     return SEEDED_WORK_TYPE[key]
   }
 
-  // ── 3. Unknown metro ──────────────────────────────────────────────────────
+  // ── 3. Synthetic estimation — derived from metro booking patterns ─────────
+  // Uses members/reservations ratio as a proxy for collaboration intensity
+  // and bookings/venue density as a proxy for co-presence likelihood.
+  const metros = readEnterpriseMetros(enterprise)
+  const metro = metros.find(m => m.city === city && m.state === state)
+  if (metro && metro.reservations > 0) {
+    // HWI: high members-per-booking ratio → more unique people per booking → team/collab
+    // Low ratio → repeat individual bookings → concentration work
+    const membersToBookings = metro.members / metro.reservations
+    const hwiScore = Math.min(80, Math.max(8, Math.round(membersToBookings * 85)))
+    const collabSeats = Math.round(metro.reservations * (hwiScore / 100))
+    const concSeats = metro.reservations - collabSeats
+
+    // CPI: bookings-per-venue density → concentrated use = more co-presence
+    const bookingsPerVenue = metro.venues > 0 ? metro.reservations / metro.venues : 5
+    const rawCPI = 12 + Math.round((Math.min(bookingsPerVenue, 50) / 50) * 38)
+    const cpiScore = Math.min(50, Math.max(12, rawCPI))
+    const copresenceEvents = Math.round(metro.reservations * (cpiScore / 100))
+    const totalVenueDays = Math.round(metro.reservations * 0.75)
+
+    return {
+      hwi: {
+        score: hwiScore,
+        collaboration_seat_days: collabSeats,
+        concentration_seat_days: concSeats,
+      },
+      cpi: {
+        score: cpiScore,
+        copresence_event_count: copresenceEvents,
+        median_group_size: parseFloat((1.8 + membersToBookings).toFixed(1)),
+        total_venue_days: totalVenueDays,
+      },
+    }
+  }
+
+  // ── 4. Unknown metro — no data at all ────────────────────────────────────
   return null
 }

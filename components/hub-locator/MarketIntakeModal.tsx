@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react'
 import {
-  X, Search, ChevronRight, DollarSign, Users, MapPin, Loader2,
+  X, ChevronRight, DollarSign, Users, MapPin, Loader2,
   ArrowLeft, AlertCircle,
 } from 'lucide-react'
 import { PLATFORM_MARKETS } from '@/lib/platform-venues'
@@ -28,9 +28,6 @@ interface MarketIntakeModalProps {
 
 // ── Constants ────────────────────────────────────────────────────────────────
 
-const SORTED_MARKETS = [...PLATFORM_MARKETS].sort((a, b) =>
-  `${a.city}, ${a.state}`.localeCompare(`${b.city}, ${b.state}`)
-)
 
 const DEFAULT_FORM: FormState = {
   city: '',
@@ -115,7 +112,63 @@ function InputField({
   )
 }
 
-// ── Step 1: Market picker ─────────────────────────────────────────────────────
+// ── US city → state lookup ────────────────────────────────────────────────────
+
+const US_CITIES: [string, string][] = [
+  ['Anchorage','AK'],['Fairbanks','AK'],['Juneau','AK'],
+  ['Birmingham','AL'],['Huntsville','AL'],['Mobile','AL'],['Montgomery','AL'],
+  ['Fayetteville','AR'],['Fort Smith','AR'],['Little Rock','AR'],
+  ['Chandler','AZ'],['Gilbert','AZ'],['Glendale','AZ'],['Mesa','AZ'],['Phoenix','AZ'],['Scottsdale','AZ'],['Tempe','AZ'],['Tucson','AZ'],
+  ['Anaheim','CA'],['Bakersfield','CA'],['Burbank','CA'],['Chula Vista','CA'],['Concord','CA'],['El Segundo','CA'],['Encino','CA'],['Fremont','CA'],['Fresno','CA'],['Glendale','CA'],['Irvine','CA'],['Long Beach','CA'],['Los Angeles','CA'],['Modesto','CA'],['Oakland','CA'],['Palo Alto','CA'],['Pasadena','CA'],['Pleasanton','CA'],['Riverside','CA'],['Roseville','CA'],['Sacramento','CA'],['San Diego','CA'],['San Francisco','CA'],['San Jose','CA'],['San Ramon','CA'],['Santa Ana','CA'],['Santa Clara','CA'],['Santa Monica','CA'],['Stockton','CA'],['Sunnyvale','CA'],['Turlock','CA'],
+  ['Aurora','CO'],['Colorado Springs','CO'],['Denver','CO'],['Fort Collins','CO'],['Greenwood Village','CO'],
+  ['Bridgeport','CT'],['Hartford','CT'],['New Haven','CT'],['Rocky Hill','CT'],['Stamford','CT'],
+  ['Dover','DE'],['Wilmington','DE'],
+  ['Jacksonville','FL'],['Miami','FL'],['Fort Lauderdale','FL'],['Gainesville','FL'],['Hialeah','FL'],['Orlando','FL'],['Pensacola','FL'],['St. Petersburg','FL'],['Tallahassee','FL'],['Tampa','FL'],
+  ['Athens','GA'],['Atlanta','GA'],['Augusta','GA'],['Columbus','GA'],['Decatur','GA'],['Savannah','GA'],
+  ['Honolulu','HI'],
+  ['Boise','ID'],['Meridian','ID'],
+  ['Aurora','IL'],['Chicago','IL'],['Deerfield','IL'],['Joliet','IL'],['Naperville','IL'],['Peoria','IL'],['Rockford','IL'],['Springfield','IL'],
+  ['Carmel','IN'],['Evansville','IN'],['Fort Wayne','IN'],['Indianapolis','IN'],['South Bend','IN'],
+  ['Cedar Rapids','IA'],['Des Moines','IA'],
+  ['Kansas City','KS'],['Overland Park','KS'],['Topeka','KS'],['Wichita','KS'],
+  ['Lexington','KY'],['Louisville','KY'],
+  ['Baton Rouge','LA'],['New Orleans','LA'],['Shreveport','LA'],
+  ['Boston','MA'],['Cambridge','MA'],['Dedham','MA'],['Lowell','MA'],['Springfield','MA'],['Worcester','MA'],
+  ['Annapolis','MD'],['Baltimore','MD'],['Columbia','MD'],['Frederick','MD'],['Rockville','MD'],
+  ['Augusta','ME'],['Portland','ME'],
+  ['Ann Arbor','MI'],['Detroit','MI'],['Grand Rapids','MI'],['Lansing','MI'],['Sterling Heights','MI'],['Warren','MI'],
+  ['Duluth','MN'],['Minneapolis','MN'],['Rochester','MN'],['Saint Paul','MN'],
+  ['Independence','MO'],['Kansas City','MO'],['Saint Charles','MO'],['Saint Louis','MO'],['Springfield','MO'],
+  ['Jackson','MS'],
+  ['Billings','MT'],['Helena','MT'],['Missoula','MT'],
+  ['Charlotte','NC'],['Durham','NC'],['Greensboro','NC'],['Raleigh','NC'],['Winston-Salem','NC'],
+  ['Fargo','ND'],
+  ['Lincoln','NE'],['Omaha','NE'],
+  ['Manchester','NH'],['Nashua','NH'],
+  ['Cherry Hill','NJ'],['Jersey City','NJ'],['Newark','NJ'],['Trenton','NJ'],
+  ['Albuquerque','NM'],['Santa Fe','NM'],
+  ['Henderson','NV'],['Las Vegas','NV'],['Reno','NV'],
+  ['Albany','NY'],['Bronx','NY'],['Brooklyn','NY'],['Buffalo','NY'],['Manhattan','NY'],['New York','NY'],['Queens','NY'],['Rochester','NY'],['Staten Island','NY'],['Syracuse','NY'],['White Plains','NY'],['Yonkers','NY'],
+  ['Akron','OH'],['Cincinnati','OH'],['Cleveland','OH'],['Columbus','OH'],['Dayton','OH'],['Toledo','OH'],
+  ['Oklahoma City','OK'],['Tulsa','OK'],
+  ['Eugene','OR'],['Hillsboro','OR'],['Portland','OR'],['Salem','OR'],
+  ['Allentown','PA'],['Philadelphia','PA'],['Pittsburgh','PA'],['Reading','PA'],['Scranton','PA'],
+  ['Providence','RI'],
+  ['Charleston','SC'],['Columbia','SC'],['Greenville','SC'],
+  ['Sioux Falls','SD'],
+  ['Chattanooga','TN'],['Clarksville','TN'],['Knoxville','TN'],['Memphis','TN'],['Nashville','TN'],
+  ['Arlington','TX'],['Austin','TX'],['Corpus Christi','TX'],['Dallas','TX'],['El Paso','TX'],['Fort Worth','TX'],['Frisco','TX'],['Garland','TX'],['Houston','TX'],['Irving','TX'],['Lubbock','TX'],['McKinney','TX'],['Plano','TX'],['San Antonio','TX'],['Waco','TX'],
+  ['Provo','UT'],['Salt Lake City','UT'],['Sandy','UT'],['West Valley City','UT'],
+  ['Arlington','VA'],['Chesapeake','VA'],['Norfolk','VA'],['Reston','VA'],['Richmond','VA'],['Roanoke','VA'],['Virginia Beach','VA'],
+  ['Burlington','VT'],['Montpelier','VT'],
+  ['Bellevue','WA'],['Seattle','WA'],['Spokane','WA'],['Tacoma','WA'],['Vancouver','WA'],
+  ['Green Bay','WI'],['Madison','WI'],['Milwaukee','WI'],
+  ['Charleston','WV'],
+  ['Casper','WY'],['Cheyenne','WY'],
+  ['Washington','DC'],
+]
+
+// ── Step 1: Market entry ──────────────────────────────────────────────────────
 
 function StepMarket({
   form,
@@ -124,63 +177,94 @@ function StepMarket({
   form: FormState
   onSelect: (city: string, state: string) => void
 }) {
-  const [search, setSearch] = useState('')
+  const [query, setQuery] = useState(
+    form.city ? `${form.city}, ${form.state}` : ''
+  )
+  const [open, setOpen] = useState(false)
+  const [activeIdx, setActiveIdx] = useState(0)
   const inputRef = useRef<HTMLInputElement>(null)
+  const listRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => { inputRef.current?.focus() }, [])
 
-  const filtered = SORTED_MARKETS.filter(m =>
-    `${m.city} ${m.state}`.toLowerCase().includes(search.toLowerCase())
-  )
+  const suggestions = query.trim().length < 1 ? [] : US_CITIES.filter(([city, state]) =>
+    `${city}, ${state}`.toLowerCase().startsWith(query.toLowerCase()) ||
+    city.toLowerCase().startsWith(query.toLowerCase())
+  ).slice(0, 8)
+
+  function commit(city: string, state: string) {
+    onSelect(city, state)
+    setQuery(`${city}, ${state}`)
+    setOpen(false)
+  }
+
+  function handleChange(e: React.ChangeEvent<HTMLInputElement>) {
+    const val = e.target.value
+    setQuery(val)
+    setActiveIdx(0)
+    setOpen(true)
+    // Clear selection if user edits after picking
+    if (form.city) onSelect('', '')
+  }
+
+  function handleKeyDown(e: React.KeyboardEvent) {
+    if (!open || suggestions.length === 0) return
+    if (e.key === 'ArrowDown') { e.preventDefault(); setActiveIdx(i => Math.min(i + 1, suggestions.length - 1)) }
+    if (e.key === 'ArrowUp')   { e.preventDefault(); setActiveIdx(i => Math.max(i - 1, 0)) }
+    if (e.key === 'Enter')     { e.preventDefault(); const s = suggestions[activeIdx]; if (s) commit(s[0], s[1]) }
+    if (e.key === 'Escape')    { setOpen(false) }
+  }
+
+  const confirmed = !!form.city && !!form.state
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-6">
       <div>
-        <div className="text-base font-semibold text-body mb-0.5">Choose a market to analyze</div>
-        <div className="text-xs text-subtle">Select the city where you're evaluating a hub.</div>
+        <div className="text-base font-semibold text-body mb-0.5">Which market are you evaluating?</div>
+        <div className="text-xs text-subtle">Type a city — we'll infer the state.</div>
       </div>
 
-      {/* Search */}
-      <div className="flex items-center gap-2 bg-page border border-border rounded-lg px-3 py-2 focus-within:border-ls-400 transition-all">
-        <Search size={13} className="text-subtle flex-shrink-0" />
-        <input
-          ref={inputRef}
-          value={search}
-          onChange={e => setSearch(e.target.value)}
-          placeholder="Search cities…"
-          className="flex-1 bg-transparent outline-none text-sm text-body placeholder-subtle"
-        />
-      </div>
-
-      {/* Market list */}
-      <div className="max-h-64 overflow-y-auto -mx-1 pr-1">
-        <div className="flex flex-col gap-0.5">
-          {filtered.map(m => {
-            const isSelected = m.city === form.city && m.state === form.state
-            return (
-              <button
-                key={`${m.city}-${m.state}`}
-                onClick={() => onSelect(m.city, m.state)}
-                className={`w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-left transition-colors ${
-                  isSelected
-                    ? 'bg-ls-50 border border-ls-200 text-ls-700'
-                    : 'hover:bg-page border border-transparent'
-                }`}
-              >
-                <div className="flex items-center gap-2.5">
-                  <MapPin size={12} className={isSelected ? 'text-ls-500' : 'text-subtle'} />
-                  <span className={`text-sm font-medium ${isSelected ? 'text-ls-700' : 'text-body'}`}>
-                    {m.city}, {m.state}
-                  </span>
-                </div>
-                <span className="text-[10px] text-subtle">{m.venueCoords.length} venues</span>
-              </button>
-            )
-          })}
-          {filtered.length === 0 && (
-            <div className="text-center py-6 text-xs text-subtle">No markets match your search.</div>
+      <div className="relative">
+        <div className={`flex items-center bg-page border rounded-lg px-3 py-2.5 transition-all ${
+          confirmed ? 'border-ls-400 ring-1 ring-ls-100' : 'border-border focus-within:border-ls-400 focus-within:ring-1 focus-within:ring-ls-100'
+        }`}>
+          <MapPin size={13} className={`mr-2 flex-shrink-0 ${confirmed ? 'text-ls-500' : 'text-subtle'}`} />
+          <input
+            ref={inputRef}
+            value={query}
+            onChange={handleChange}
+            onFocus={() => setOpen(true)}
+            onBlur={() => setTimeout(() => setOpen(false), 150)}
+            onKeyDown={handleKeyDown}
+            placeholder="e.g. Chicago"
+            className="flex-1 bg-transparent outline-none text-sm text-body placeholder-subtle"
+          />
+          {confirmed && (
+            <span className="text-[10px] font-medium text-ls-600 bg-ls-50 px-1.5 py-0.5 rounded-full ml-2 flex-shrink-0">
+              {form.state}
+            </span>
           )}
         </div>
+
+        {open && suggestions.length > 0 && (
+          <div
+            ref={listRef}
+            className="absolute top-full mt-1 left-0 right-0 z-50 bg-card border border-border rounded-xl shadow-modal overflow-hidden"
+          >
+            {suggestions.map(([city, state], i) => (
+              <button
+                key={`${city}-${state}`}
+                onMouseDown={() => commit(city, state)}
+                className={`w-full text-left px-3 py-2 text-sm flex items-center justify-between transition-colors ${
+                  i === activeIdx ? 'bg-ls-50 text-ls-700' : 'text-body hover:bg-page'
+                }`}
+              >
+                <span>{city}</span>
+                <span className="text-xs text-subtle ml-2">{state}</span>
+              </button>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   )
@@ -518,7 +602,7 @@ export function MarketIntakeModal({ onClose }: MarketIntakeModalProps) {
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-[2px]"
+      className="fixed inset-0 z-50 flex items-center justify-center bg-page"
       onClick={handleBackdropClick}
     >
       <div className="w-[480px] bg-card border border-border rounded-2xl shadow-modal flex flex-col max-h-[90vh]">
@@ -535,7 +619,7 @@ export function MarketIntakeModal({ onClose }: MarketIntakeModalProps) {
               </button>
             )}
             <div>
-              <div className="text-sm font-semibold text-body">New Market Analysis</div>
+              <div className="text-sm font-semibold text-body">New Customer</div>
               <div className="text-[10px] text-subtle">Step {step} of 3</div>
             </div>
           </div>
@@ -547,8 +631,8 @@ export function MarketIntakeModal({ onClose }: MarketIntakeModalProps) {
           </div>
         </div>
 
-        {/* Body */}
-        <div className="flex-1 overflow-y-auto px-5 py-5">
+        {/* Body — overflow-visible on step 1 so autocomplete dropdown isn't clipped */}
+        <div className={`flex-1 px-5 py-5 ${step === 1 ? 'overflow-visible' : 'overflow-y-auto'}`}>
           {step === 1 && (
             <StepMarket
               form={form}

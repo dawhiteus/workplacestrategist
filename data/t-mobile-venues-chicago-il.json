@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "04ed0f0a-e91f-4273-b13b-649fc0778f38",
+    "venue_name": "Expansive - North Center",
+    "latitude": 41.95161819458008,
+    "longitude": -87.6742172241211,
+    "reservations": 8,
+    "spend": 1476.0
+  },
+  {
+    "venue_id": "20383fcd-219e-4212-8900-989f2c6a9e2b",
+    "venue_name": "Prism Spaces",
+    "latitude": 41.90388488769531,
+    "longitude": -87.66780090332031,
+    "reservations": 6,
+    "spend": 1015.0
+  },
+  {
+    "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
+    "venue_name": "Carr Workplaces - Aon Center",
+    "latitude": 41.885284423828125,
+    "longitude": -87.62151336669922,
+    "reservations": 2,
+    "spend": 990.0
+  },
+  {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890647888183594,
+    "longitude": -87.62683868408203,
+    "reservations": 4,
+    "spend": 670.0
+  },
+  {
+    "venue_id": "b3f423ca-ce58-4490-b50e-01f7ea1863d2",
+    "venue_name": "Desk606",
+    "latitude": 41.91713333129883,
+    "longitude": -87.70977783203125,
+    "reservations": 3,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505126953125,
+    "longitude": -87.63457489013672,
+    "reservations": 2,
+    "spend": 289.0
+  }
+]

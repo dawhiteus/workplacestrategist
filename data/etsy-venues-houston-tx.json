@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "d2082ae5-1426-46d2-86fd-ef9944734abf",
+    "venue_name": "Common Desk - East End",
+    "latitude": 29.75701332092285,
+    "longitude": -95.34709930419922,
+    "reservations": 7,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "4e0a6f99-4c90-4ddc-a9a4-9a9fafe804b0",
+    "venue_name": "Sesh Coworking",
+    "latitude": 29.74267578125,
+    "longitude": -95.37261199951172,
+    "reservations": 4,
+    "spend": 112.0
+  },
+  {
+    "venue_id": "4e2d767d-5bf8-4ba9-872c-2730dac7d904",
+    "venue_name": "Common Desk - POST",
+    "latitude": 29.76621437072754,
+    "longitude": -95.36488342285156,
+    "reservations": 3,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.77901840209961,
+    "longitude": -95.56109619140625,
+    "reservations": 2,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "162ac95d-004f-4285-95f2-87d3eab03dff",
+    "venue_name": "WeWork | 609 Main Street",
+    "latitude": 29.759279251098633,
+    "longitude": -95.36247253417969,
+    "reservations": 2,
+    "spend": 48.0
+  }
+]

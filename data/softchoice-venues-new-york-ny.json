@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.74652099609375,
+    "longitude": -73.98805236816406,
+    "reservations": 207,
+    "spend": 101758.0
+  },
+  {
+    "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
+    "venue_name": "Blender Workspace",
+    "latitude": 40.745994567871094,
+    "longitude": -73.98397827148438,
+    "reservations": 29,
+    "spend": 4150.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 10,
+    "spend": 3275.0
+  },
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.74280548095703,
+    "longitude": -73.98406219482422,
+    "reservations": 7,
+    "spend": 3175.0
+  },
+  {
+    "venue_id": "edf7d0a3-4efe-466b-b842-c1b73e69f19a",
+    "venue_name": "Emerge212 - 1185 Avenue of the Americas",
+    "latitude": 40.757877349853516,
+    "longitude": -73.982421875,
+    "reservations": 3,
+    "spend": 2360.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 7,
+    "spend": 2130.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855224609375,
+    "longitude": -74.00897979736328,
+    "reservations": 27,
+    "spend": 1759.0
+  },
+  {
+    "venue_id": "50a8ca07-6698-4e08-8c58-ab3d0818292d",
+    "venue_name": "Executive Offices of New York",
+    "latitude": 40.751953125,
+    "longitude": -73.98945617675781,
+    "reservations": 5,
+    "spend": 1213.0
+  },
+  {
+    "venue_id": "03eb6821-13f2-4924-91d6-6f273595e966",
+    "venue_name": "Select Office Suites - 1115 Broadway Flatiron NYC",
+    "latitude": 40.74293899536133,
+    "longitude": -73.98927307128906,
+    "reservations": 4,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.74631881713867,
+    "longitude": -73.98828887939453,
+    "reservations": 4,
+    "spend": 518.0
+  }
+]

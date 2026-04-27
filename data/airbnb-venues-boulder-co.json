@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "16dcfb42-7244-4adc-b3d2-fdbf33b6a727",
+    "venue_name": "Kiln - Boulder",
+    "latitude": 40.02032470703125,
+    "longitude": -105.2682113647461,
+    "reservations": 32,
+    "spend": 2080.0
+  },
+  {
+    "venue_id": "becd0ba4-a500-4050-92cd-705981cf228c",
+    "venue_name": "Buck Ross",
+    "latitude": 40.01975631713867,
+    "longitude": -105.27030944824219,
+    "reservations": 19,
+    "spend": 1425.0
+  },
+  {
+    "venue_id": "98e8a00b-7df1-4bea-be2c-d8ee7cf2787b",
+    "venue_name": "Office Evolution - Boulder",
+    "latitude": 40.0217399597168,
+    "longitude": -105.24072265625,
+    "reservations": 15,
+    "spend": 1330.0
+  },
+  {
+    "venue_id": "50f71830-5375-489a-bf0f-78971755cc41",
+    "venue_name": "HQ | CO, Boulder - Pearl St.",
+    "latitude": 40.01765060424805,
+    "longitude": -105.27958679199219,
+    "reservations": 2,
+    "spend": 548.5
+  },
+  {
+    "venue_id": "eaeaf5f7-331d-482a-8996-4bf446985ac3",
+    "venue_name": "Strive Boulder",
+    "latitude": 40.016998291015625,
+    "longitude": -105.27574920654297,
+    "reservations": 2,
+    "spend": 60.0
+  }
+]

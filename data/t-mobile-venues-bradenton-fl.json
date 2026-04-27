@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "b44e8f51-1b1a-4db2-abf3-8797c752e5f3",
+    "venue_name": "Connect Central LLC",
+    "latitude": 27.493894577026367,
+    "longitude": -82.57384490966797,
+    "reservations": 6,
+    "spend": 1170.0
+  },
+  {
+    "venue_id": "b4d23ae7-770a-4bc9-aa30-4228fb172ee6",
+    "venue_name": "The Reserve Executive Conference Center of Bradenton",
+    "latitude": 27.495262145996094,
+    "longitude": -82.57396697998047,
+    "reservations": 8,
+    "spend": 650.0
+  }
+]

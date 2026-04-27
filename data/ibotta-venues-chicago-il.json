@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "200cae30-0653-46f9-909d-70006ff2953d",
+    "venue_name": "DeskLabs",
+    "latitude": 41.937294006347656,
+    "longitude": -87.64836120605469,
+    "reservations": 21,
+    "spend": 630.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.88585662841797,
+    "longitude": -87.64905548095703,
+    "reservations": 4,
+    "spend": 260.0
+  }
+]

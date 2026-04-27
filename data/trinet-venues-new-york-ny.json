@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.74652099609375,
+    "longitude": -73.98805236816406,
+    "reservations": 507,
+    "spend": 47536.0
+  },
+  {
+    "venue_id": "3cc3edd7-0d31-4ab2-8576-d9eff002e831",
+    "venue_name": "Studio 1418 | 307 west 38th Street ",
+    "latitude": 40.75514602661133,
+    "longitude": -73.99232482910156,
+    "reservations": 4,
+    "spend": 2715.0
+  },
+  {
+    "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
+    "venue_name": "Jay Suites - Midtown East",
+    "latitude": 40.759788513183594,
+    "longitude": -73.9737548828125,
+    "reservations": 2,
+    "spend": 2000.0
+  },
+  {
+    "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
+    "venue_name": "Serendipity Labs - New York - Grand Central",
+    "latitude": 40.750938415527344,
+    "longitude": -73.97350311279297,
+    "reservations": 4,
+    "spend": 196.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 3,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "98bed0ab-96d5-48f5-bd08-897beda3267d",
+    "venue_name": "WeWork | 750 Lexington",
+    "latitude": 40.762691497802734,
+    "longitude": -73.96826171875,
+    "reservations": 2,
+    "spend": 94.0
+  }
+]

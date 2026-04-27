@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f1dd867d-e856-407a-af35-fc57f1a47722",
+    "venue_name": "Via Avalon",
+    "latitude": 33.94329833984375,
+    "longitude": -117.39204406738281,
+    "reservations": 31,
+    "spend": 6245.0
+  },
+  {
+    "venue_id": "5cd5069f-cda7-4990-9c24-140e8cfd848c",
+    "venue_name": "Riverside Central Business Center",
+    "latitude": 33.952919006347656,
+    "longitude": -117.39154815673828,
+    "reservations": 3,
+    "spend": 575.0
+  }
+]

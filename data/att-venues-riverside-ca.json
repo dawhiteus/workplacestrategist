@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5cd5069f-cda7-4990-9c24-140e8cfd848c",
+    "venue_name": "Riverside Central Business Center",
+    "latitude": 33.952919006347656,
+    "longitude": -117.39154815673828,
+    "reservations": 92,
+    "spend": 16465.0
+  },
+  {
+    "venue_id": "08e0cfa5-59ab-41be-b5cf-9e7a6bf83ca6",
+    "venue_name": "Regus || CA, Riverside - Turner Riverwalk",
+    "latitude": 33.90156555175781,
+    "longitude": -117.49362182617188,
+    "reservations": 35,
+    "spend": 5915.0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "48a1a625-d724-4c58-8c3d-0bd455a1b9a6",
+    "venue_name": "Serendipity Labs - Memphis",
+    "latitude": 35.099403381347656,
+    "longitude": -89.84315490722656,
+    "reservations": 182,
+    "spend": 55101.0
+  },
+  {
+    "venue_id": "da57a71f-2d07-460e-979c-4a5b778414eb",
+    "venue_name": "Roundtable Meetings & Events",
+    "latitude": 35.10422134399414,
+    "longitude": -89.8513412475586,
+    "reservations": 7,
+    "spend": 5800.0
+  },
+  {
+    "venue_id": "79e2d9b1-d2a4-44fb-b951-51f26b01faa2",
+    "venue_name": "Regus | Colonnade",
+    "latitude": 35.103206634521484,
+    "longitude": -89.84883880615234,
+    "reservations": 11,
+    "spend": 2946.52
+  },
+  {
+    "venue_id": "6a466d22-42be-4838-bf03-1f7becf01a0e",
+    "venue_name": "Regus | Clark Tower",
+    "latitude": 35.11298751831055,
+    "longitude": -89.89173126220703,
+    "reservations": 4,
+    "spend": 1345.5
+  },
+  {
+    "venue_id": "f11b9ba9-879b-4f45-a86d-a438213d9fc0",
+    "venue_name": "Regus | Triad Centre I (Office Suites Plus)",
+    "latitude": 35.102699279785156,
+    "longitude": -89.86139678955078,
+    "reservations": 3,
+    "spend": 1239.0
+  },
+  {
+    "venue_id": "e1e5aa0a-75f1-4617-af24-2bae1e257972",
+    "venue_name": "Regus | TN, Memphis - Triad Centre I",
+    "latitude": 35.102699279785156,
+    "longitude": -89.86139678955078,
+    "reservations": 4,
+    "spend": 457.97
+  }
+]

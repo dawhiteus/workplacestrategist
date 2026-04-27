@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a298e1d8-455a-4d78-8bc0-68b3f5927e7e",
+    "venue_name": "1200 S PCH",
+    "latitude": 33.824302673339844,
+    "longitude": -118.3852310180664,
+    "reservations": 103,
+    "spend": 50187.5
+  },
+  {
+    "venue_id": "659d209c-3467-43cd-a2fc-eaf127b86c93",
+    "venue_name": "MESH space",
+    "latitude": 33.81633377075195,
+    "longitude": -118.37610626220703,
+    "reservations": 4,
+    "spend": 2300.0
+  }
+]

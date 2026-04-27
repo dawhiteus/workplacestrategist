@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9054f8f2-3dca-469b-9cf0-0eaf42c573fa",
+    "venue_name": "Green Executive Offices",
+    "latitude": 26.012142181396484,
+    "longitude": -80.1467514038086,
+    "reservations": 5,
+    "spend": 935.0
+  },
+  {
+    "venue_id": "75419ac6-141c-43ac-9d6d-d9e5ba0f4bce",
+    "venue_name": "Alexa's Workspaces at Hollywood",
+    "latitude": 26.010190963745117,
+    "longitude": -80.17729187011719,
+    "reservations": 12,
+    "spend": 655.0
+  }
+]

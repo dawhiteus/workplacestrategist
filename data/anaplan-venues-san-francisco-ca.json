@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "03dbac2d-0388-4c2b-bd29-f247c6c6e6e4",
+    "venue_name": "EcoSystem Coworking",
+    "latitude": 37.78769302368164,
+    "longitude": -122.3973388671875,
+    "reservations": 4,
+    "spend": 2600.0
+  },
+  {
+    "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
+    "venue_name": "Carr Workplaces - Embarcadero Center",
+    "latitude": 37.79469680786133,
+    "longitude": -122.39987182617188,
+    "reservations": 4,
+    "spend": 2500.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.79262161254883,
+    "longitude": -122.39891052246094,
+    "reservations": 7,
+    "spend": 2050.0
+  },
+  {
+    "venue_id": "fb251996-b4fd-4b36-b7b0-eba293fa9934",
+    "venue_name": "WeWork | 44 Montgomery",
+    "latitude": 37.789730072021484,
+    "longitude": -122.40190887451172,
+    "reservations": 7,
+    "spend": 413.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

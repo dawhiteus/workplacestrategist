@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4e82caec-6e1a-4c89-9994-c1cb5dcff0c1",
+    "venue_name": "Edina OffiCenter",
+    "latitude": 44.90925216674805,
+    "longitude": -93.34951782226562,
+    "reservations": 25,
+    "spend": 1125.0
+  },
+  {
+    "venue_id": "c882cdd1-5af3-4b0a-bb9b-cd3ef7828576",
+    "venue_name": "Life Time Work - Edina",
+    "latitude": 44.88162612915039,
+    "longitude": -93.32393646240234,
+    "reservations": 3,
+    "spend": 165.0
+  }
+]

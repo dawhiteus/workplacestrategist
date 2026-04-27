@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "55eadb4a-4b25-498b-ae11-4cb861dd65e0",
+    "venue_name": "Premier Executive Center",
+    "latitude": 26.579299926757812,
+    "longitude": -81.87834930419922,
+    "reservations": 9,
+    "spend": 1600.0
+  },
+  {
+    "venue_id": "6b1c7b9b-ebc0-407f-9c05-fbcd6bff146a",
+    "venue_name": "Studio 1646 LLC",
+    "latitude": 26.596515655517578,
+    "longitude": -81.87858581542969,
+    "reservations": 8,
+    "spend": 770.0
+  }
+]

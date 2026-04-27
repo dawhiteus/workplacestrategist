@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "caa14771-ac69-4c26-a240-ff4874678a73",
+    "venue_name": "The Station, Urban Offices",
+    "latitude": 31.755338668823242,
+    "longitude": -106.49321746826172,
+    "reservations": 5,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "7bb865c3-5669-451e-a48a-5731d9a53b73",
+    "venue_name": "Downtown Spaces",
+    "latitude": 31.757564544677734,
+    "longitude": -106.494140625,
+    "reservations": 3,
+    "spend": 518.0
+  }
+]

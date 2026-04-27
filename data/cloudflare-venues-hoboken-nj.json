@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9237b61d-c3ac-45ca-9fde-82ff8247bf3f",
+    "venue_name": "Sweven Hoboken",
+    "latitude": 40.73640060424805,
+    "longitude": -74.02934265136719,
+    "reservations": 13,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "d060b985-00dd-4397-a42a-eb4a3817b869",
+    "venue_name": "Mission 50 - NJ's Premier Coworking Space",
+    "latitude": 40.73745346069336,
+    "longitude": -74.04318237304688,
+    "reservations": 8,
+    "spend": 200.0
+  }
+]

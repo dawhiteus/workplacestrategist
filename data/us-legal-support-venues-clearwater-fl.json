@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "36bca4ab-3b7d-49d2-a613-6a20d4a1051b",
+    "venue_name": "4 & Co Coworking Spaces Clearwater",
+    "latitude": 28.020418167114258,
+    "longitude": -82.71162414550781,
+    "reservations": 17,
+    "spend": 1810.0
+  },
+  {
+    "venue_id": "30e1c3fe-58fd-4b30-b14f-de9c0f2c77cc",
+    "venue_name": "Oz Net Inc",
+    "latitude": 27.93773651123047,
+    "longitude": -82.72924041748047,
+    "reservations": 4,
+    "spend": 300.0
+  }
+]

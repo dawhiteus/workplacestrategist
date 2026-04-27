@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
+    "venue_name": "Peachtree Offices at Downtown, Inc.",
+    "latitude": 33.760398864746094,
+    "longitude": -84.38746643066406,
+    "reservations": 10,
+    "spend": 3710.0
+  },
+  {
+    "venue_id": "8abfe8ff-f57a-4601-9ca8-de92208bdc71",
+    "venue_name": "Peachtree Offices at 1100, LLC",
+    "latitude": 33.78491973876953,
+    "longitude": -84.38316345214844,
+    "reservations": 12,
+    "spend": 3337.0
+  },
+  {
+    "venue_id": "8b9297d9-d267-495e-95e6-56fecdf37329",
+    "venue_name": "eCeo Suites",
+    "latitude": 33.60665512084961,
+    "longitude": -84.43470001220703,
+    "reservations": 3,
+    "spend": 400.0
+  }
+]

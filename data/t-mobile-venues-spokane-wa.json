@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "fde03d1b-e35a-4c5b-acfb-5725a0618f10",
+    "venue_name": "Crescent Executive Suites",
+    "latitude": 47.65883255004883,
+    "longitude": -117.42256927490234,
+    "reservations": 48,
+    "spend": 8955.0
+  },
+  {
+    "venue_id": "00bcdf24-205b-4cdf-a5b8-c5e2fdbdfdb9",
+    "venue_name": "Regus | Wells Fargo Center",
+    "latitude": 47.65645980834961,
+    "longitude": -117.42129516601562,
+    "reservations": 16,
+    "spend": 2840.0
+  }
+]

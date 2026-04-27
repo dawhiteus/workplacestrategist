@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
+    "venue_name": "Mindspace K St",
+    "latitude": 38.90296173095703,
+    "longitude": -77.03071594238281,
+    "reservations": 10,
+    "spend": 1860.0
+  },
+  {
+    "venue_id": "afc6f147-75b9-4d5b-a261-04eb0cd6be59",
+    "venue_name": "Oval Offices DC",
+    "latitude": 38.90046691894531,
+    "longitude": -77.03853607177734,
+    "reservations": 3,
+    "spend": 1425.0
+  },
+  {
+    "venue_id": "94a7406e-bbb8-4020-aec1-6a19e160c19a",
+    "venue_name": "WeWork | 80 M St SE",
+    "latitude": 38.87702178955078,
+    "longitude": -77.00635528564453,
+    "reservations": 8,
+    "spend": 1421.0
+  },
+  {
+    "venue_id": "3b63c688-f62a-44cf-bb06-bb53bd677395",
+    "venue_name": "WeWork | Midtown Center",
+    "latitude": 38.90393829345703,
+    "longitude": -77.03498840332031,
+    "reservations": 6,
+    "spend": 354.0
+  },
+  {
+    "venue_id": "7de94cd6-abef-4cee-9ecd-6daffd45fe94",
+    "venue_name": "WeWork | 700 K Street NW",
+    "latitude": 38.90196990966797,
+    "longitude": -77.02261352539062,
+    "reservations": 2,
+    "spend": 94.0
+  }
+]

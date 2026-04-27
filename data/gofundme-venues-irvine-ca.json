@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "72111bfb-d9ff-49e1-8d41-4826bc032c02",
+    "venue_name": "WeWork | 400 Spectrum Center",
+    "latitude": 33.65150833129883,
+    "longitude": -117.7462158203125,
+    "reservations": 18,
+    "spend": 630.0
+  },
+  {
+    "venue_id": "198476b0-c90b-4d9c-bfa3-4e0e4357d9d8",
+    "venue_name": "Sol Hub",
+    "latitude": 33.636009216308594,
+    "longitude": -117.7421875,
+    "reservations": 2,
+    "spend": 470.0
+  },
+  {
+    "venue_id": "cda2c1c5-d989-4afd-9d3b-c078e8914ddf",
+    "venue_name": "Colab Space",
+    "latitude": 33.672916412353516,
+    "longitude": -117.86277770996094,
+    "reservations": 12,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "181e210c-598f-48e1-9a7c-997aff451f1c",
+    "venue_name": "WeWork | 2211 Michelson Drive",
+    "latitude": 33.67743682861328,
+    "longitude": -117.85557556152344,
+    "reservations": 11,
+    "spend": 351.0
+  },
+  {
+    "venue_id": "ee836b44-d543-4432-8861-2b9a2d43176e",
+    "venue_name": "WeWork | 200 Spectrum Center",
+    "latitude": 33.6527214050293,
+    "longitude": -117.7479019165039,
+    "reservations": 10,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "37ab46a8-6552-434d-b2a4-a0870b3df3cd",
+    "venue_name": "WorkSpace Irvine",
+    "latitude": 33.69099426269531,
+    "longitude": -117.86475372314453,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

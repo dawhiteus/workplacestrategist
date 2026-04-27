@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "a5166700-b48e-4a2c-96d6-097edb7bfe36",
+    "venue_name": "Serendipity Labs - Alpharetta - North Point",
+    "latitude": 34.04568099975586,
+    "longitude": -84.2990951538086,
+    "reservations": 16,
+    "spend": 5280.0
+  },
+  {
+    "venue_id": "42523a9d-b3da-4094-8a43-f9769fb68e11",
+    "venue_name": "Lucid Private Offices | Alpharetta - Old Milton Parkway",
+    "latitude": 34.073116302490234,
+    "longitude": -84.25808715820312,
+    "reservations": 11,
+    "spend": 745.0
+  },
+  {
+    "venue_id": "96535037-87cf-4c21-9c9c-87330316b034",
+    "venue_name": "Roam Alpharetta",
+    "latitude": 34.08757400512695,
+    "longitude": -84.25578308105469,
+    "reservations": 12,
+    "spend": 550.0
+  }
+]

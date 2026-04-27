@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "298278a2-87c9-4a2b-a94f-51c35cf9bdbe",
+    "venue_name": "BLANKSPACES Long Beach Promenade",
+    "latitude": 33.76974868774414,
+    "longitude": -118.19071960449219,
+    "reservations": 573,
+    "spend": 331691.65
+  },
+  {
+    "venue_id": "ed5a6ef7-b8ec-4d2c-b72a-2b39db7f7ee7",
+    "venue_name": "BLANKSPACES Long Beach",
+    "latitude": 33.770751953125,
+    "longitude": -118.192626953125,
+    "reservations": 242,
+    "spend": 144280.0
+  },
+  {
+    "venue_id": "08c61a40-0c04-429b-97aa-6db995e2b703",
+    "venue_name": "(KIL) Kilroy Airport",
+    "latitude": 33.807411193847656,
+    "longitude": -118.145751953125,
+    "reservations": 2,
+    "spend": 612.0
+  }
+]

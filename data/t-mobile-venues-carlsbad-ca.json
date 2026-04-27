@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "db8d87b2-c3e8-429a-88e1-134f00e15eec",
+    "venue_name": "Downtown Works Carlsbad",
+    "latitude": 33.1198616027832,
+    "longitude": -117.28050994873047,
+    "reservations": 27,
+    "spend": 9165.0
+  },
+  {
+    "venue_id": "ab98536c-4fc1-4d9b-bb49-8fc2e9c6e9ee",
+    "venue_name": "Atria Workspace",
+    "latitude": 33.120506286621094,
+    "longitude": -117.28263854980469,
+    "reservations": 2,
+    "spend": 810.0
+  },
+  {
+    "venue_id": "78898a9c-579a-44d0-bcfd-25739dc47639",
+    "venue_name": "TrueWork",
+    "latitude": 33.1281852722168,
+    "longitude": -117.32698822021484,
+    "reservations": 2,
+    "spend": 275.0
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
+    "venue_name": "Blender Workspace",
+    "latitude": 40.745994567871094,
+    "longitude": -73.98397827148438,
+    "reservations": 6,
+    "spend": 2660.0
+  },
+  {
+    "venue_id": "e4d1cbe7-1840-4c34-8847-7e42e215c8ee",
+    "venue_name": "Jay Suites - Times Square - 10 Times Sq.",
+    "latitude": 40.75497817993164,
+    "longitude": -73.98719024658203,
+    "reservations": 3,
+    "spend": 1475.0
+  },
+  {
+    "venue_id": "602fd624-23b4-4eb8-99ba-ae2c42556794",
+    "venue_name": "Emerge212 - 3 Columbus Circle",
+    "latitude": 40.76688003540039,
+    "longitude": -73.98223876953125,
+    "reservations": 4,
+    "spend": 825.0
+  },
+  {
+    "venue_id": "02a98fda-7480-4a76-abfc-d76bd4e79309",
+    "venue_name": "Regus | 41 Madison Avenue",
+    "latitude": 40.74250030517578,
+    "longitude": -73.98660278320312,
+    "reservations": 3,
+    "spend": 622.5
+  },
+  {
+    "venue_id": "4d739326-7185-4158-829d-4ec91747643e",
+    "venue_name": "Jay Suites - Chelsea",
+    "latitude": 40.74530792236328,
+    "longitude": -73.99393463134766,
+    "reservations": 3,
+    "spend": 460.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 5,
+    "spend": 370.0
+  },
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.7594108581543,
+    "longitude": -73.97814178466797,
+    "reservations": 3,
+    "spend": 265.0
+  },
+  {
+    "venue_id": "db292c72-2173-4f25-a8a4-27505c21bdd8",
+    "venue_name": "The Yard: Flatiron South",
+    "latitude": 40.74427032470703,
+    "longitude": -73.98790740966797,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

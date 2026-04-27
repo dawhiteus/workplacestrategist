@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9da17973-c006-4933-912e-fe7a24903e77",
+    "venue_name": "Intelligent Office - Las Vegas / Henderson",
+    "latitude": 36.01462936401367,
+    "longitude": -115.11715698242188,
+    "reservations": 3,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "f23984e5-afa2-401e-b06d-efb3714ebec0",
+    "venue_name": "Incubase Workspace",
+    "latitude": 36.0938606262207,
+    "longitude": -115.11825561523438,
+    "reservations": 2,
+    "spend": 540.0
+  }
+]

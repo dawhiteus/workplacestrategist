@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "96535037-87cf-4c21-9c9c-87330316b034",
+    "venue_name": "Roam Alpharetta",
+    "latitude": 34.08757400512695,
+    "longitude": -84.25578308105469,
+    "reservations": 32,
+    "spend": 1600.0
+  },
+  {
+    "venue_id": "a18ac80f-1921-43e5-b3c7-35d632731eed",
+    "venue_name": "THRIVE | Alpharetta",
+    "latitude": 34.075443267822266,
+    "longitude": -84.29596710205078,
+    "reservations": 14,
+    "spend": 560.0
+  },
+  {
+    "venue_id": "a5166700-b48e-4a2c-96d6-097edb7bfe36",
+    "venue_name": "Serendipity Labs - Alpharetta - North Point",
+    "latitude": 34.04568099975586,
+    "longitude": -84.2990951538086,
+    "reservations": 6,
+    "spend": 256.0
+  }
+]

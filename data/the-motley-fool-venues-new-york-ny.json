@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.73402404785156,
+    "longitude": -74.00786590576172,
+    "reservations": 20,
+    "spend": 1515.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.75672149658203,
+    "longitude": -73.98004150390625,
+    "reservations": 17,
+    "spend": 1510.0
+  },
+  {
+    "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
+    "venue_name": "Serendipity Labs - New York - Grand Central",
+    "latitude": 40.750938415527344,
+    "longitude": -73.97350311279297,
+    "reservations": 5,
+    "spend": 1311.0
+  },
+  {
+    "venue_id": "75bace0f-4527-43e7-9643-b24478381e9f",
+    "venue_name": "Helix Workspace - 535 Fifth Avenue",
+    "latitude": 40.75490188598633,
+    "longitude": -73.9794921875,
+    "reservations": 4,
+    "spend": 980.0
+  },
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.7594108581543,
+    "longitude": -73.97814178466797,
+    "reservations": 3,
+    "spend": 795.0
+  },
+  {
+    "venue_id": "73df265c-16ac-4177-8d67-b6ffd4f4a0a3",
+    "venue_name": "Industrious - Union Square on Broadway",
+    "latitude": 40.73712158203125,
+    "longitude": -73.9898452758789,
+    "reservations": 6,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.74652099609375,
+    "longitude": -73.98805236816406,
+    "reservations": 3,
+    "spend": 555.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004486083984,
+    "longitude": -74.00139617919922,
+    "reservations": 3,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "98bed0ab-96d5-48f5-bd08-897beda3267d",
+    "venue_name": "WeWork | 750 Lexington",
+    "latitude": 40.762691497802734,
+    "longitude": -73.96826171875,
+    "reservations": 3,
+    "spend": 141.0
+  },
+  {
+    "venue_id": "d1d19c2a-6132-46fd-869d-7917b8b94880",
+    "venue_name": "Margalit Startup City",
+    "latitude": 40.72068405151367,
+    "longitude": -74.00009155273438,
+    "reservations": 4,
+    "spend": 140.0
+  }
+]

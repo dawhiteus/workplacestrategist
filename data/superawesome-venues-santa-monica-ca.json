@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "83411883-6d50-48e6-9ae0-b6a6f5c34e21",
+    "venue_name": "BLANKSPACES Santa Monica",
+    "latitude": 34.013729095458984,
+    "longitude": -118.49600982666016,
+    "reservations": 23,
+    "spend": 2310.0
+  },
+  {
+    "venue_id": "43538958-bb01-443e-b461-fefd24122c55",
+    "venue_name": "WeWork | 312 Arizona Ave",
+    "latitude": 34.01711654663086,
+    "longitude": -118.49724578857422,
+    "reservations": 9,
+    "spend": 531.0
+  }
+]

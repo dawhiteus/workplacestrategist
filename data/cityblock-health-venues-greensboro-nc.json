@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "972a3df9-b7af-43ff-960b-d0f851e06dff",
+    "venue_name": "Byron Office Space Solutions-Greensboro Suburban Office",
+    "latitude": 36.12242126464844,
+    "longitude": -79.79427337646484,
+    "reservations": 16,
+    "spend": 2860.0
+  },
+  {
+    "venue_id": "080022c5-6306-4702-b881-fe3098116727",
+    "venue_name": "Office Evolution - Greensboro",
+    "latitude": 36.09095001220703,
+    "longitude": -79.81592559814453,
+    "reservations": 4,
+    "spend": 310.0
+  }
+]

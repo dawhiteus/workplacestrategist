@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "db8d87b2-c3e8-429a-88e1-134f00e15eec",
+    "venue_name": "Downtown Works Carlsbad",
+    "latitude": 33.1198616027832,
+    "longitude": -117.28050994873047,
+    "reservations": 43,
+    "spend": 1720.0
+  },
+  {
+    "venue_id": "32870ea3-5c9c-4066-b1ec-1a5b3236c7cb",
+    "venue_name": "Kiln - Carlsbad",
+    "latitude": 33.162933349609375,
+    "longitude": -117.35177612304688,
+    "reservations": 10,
+    "spend": 650.0
+  },
+  {
+    "venue_id": "c669d7c9-38f1-4089-a29b-de1853a42551",
+    "venue_name": "CommonGrounds Workplace | Carlsbad",
+    "latitude": 33.10988998413086,
+    "longitude": -117.31807708740234,
+    "reservations": 5,
+    "spend": 250.0
+  }
+]

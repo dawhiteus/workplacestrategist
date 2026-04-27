@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "76a9d596-203d-42e0-a964-6592d95580aa",
+    "venue_name": "Serendipity Labs - Atlanta Buckhead",
+    "latitude": 33.851959228515625,
+    "longitude": -84.36759185791016,
+    "reservations": 7,
+    "spend": 5336.0
+  },
+  {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.84675598144531,
+    "longitude": -84.37248229980469,
+    "reservations": 7,
+    "spend": 1440.0
+  },
+  {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851470947265625,
+    "longitude": -84.36003112792969,
+    "reservations": 3,
+    "spend": 800.0
+  }
+]

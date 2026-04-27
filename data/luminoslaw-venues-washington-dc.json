@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "984118c2-42ae-4c39-8cb6-2233fc944384",
+    "venue_name": "Carr Workplaces - K Street",
+    "latitude": 38.90264892578125,
+    "longitude": -77.04054260253906,
+    "reservations": 8,
+    "spend": 1770.0
+  },
+  {
+    "venue_id": "4e9cbe0e-f0f8-4040-b781-ae6691e709b6",
+    "venue_name": "District Offices Farragut",
+    "latitude": 38.903350830078125,
+    "longitude": -77.03926849365234,
+    "reservations": 3,
+    "spend": 1119.0
+  }
+]

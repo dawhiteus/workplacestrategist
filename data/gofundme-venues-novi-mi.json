@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "acad2b67-c2b0-4d37-85da-5a6f5f6e17ff",
+    "venue_name": "Regus | Crystal Glen",
+    "latitude": 42.443511962890625,
+    "longitude": -83.43746185302734,
+    "reservations": 7,
+    "spend": 603.05
+  },
+  {
+    "venue_id": "96b4d0a9-fbf3-4859-81e8-3c35dc998ebb",
+    "venue_name": "HQ | MI, Novi - Grand River Ave",
+    "latitude": 42.477210998535156,
+    "longitude": -83.45748901367188,
+    "reservations": 3,
+    "spend": 272.0
+  }
+]

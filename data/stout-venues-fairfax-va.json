@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "784d6531-0c22-4cab-ae25-1a5f8790e13a",
+    "venue_name": "HQ | Fair Oaks",
+    "latitude": 38.857460021972656,
+    "longitude": -77.33836364746094,
+    "reservations": 4,
+    "spend": 380.0
+  },
+  {
+    "venue_id": "7392cace-8618-4bae-90c7-2f3b5246fbc1",
+    "venue_name": "Metro Offices - Fairfax",
+    "latitude": 38.865840911865234,
+    "longitude": -77.36517333984375,
+    "reservations": 3,
+    "spend": 295.0
+  }
+]

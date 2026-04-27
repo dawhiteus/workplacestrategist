@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "aa251798-3f9d-4f8a-be00-d2300d153122",
+    "venue_name": "WeWork | 625 Mass Ave.",
+    "latitude": 42.36572265625,
+    "longitude": -71.10314178466797,
+    "reservations": 208,
+    "spend": 9776.0
+  },
+  {
+    "venue_id": "e4d9969b-8cd1-4689-8e53-5f648d9cb024",
+    "venue_name": "Workbar Cambridge",
+    "latitude": 42.36648178100586,
+    "longitude": -71.10369873046875,
+    "reservations": 15,
+    "spend": 1415.0
+  },
+  {
+    "venue_id": "0903d9e8-edfd-4c73-9d31-d5ed4ca5f62a",
+    "venue_name": "Industrious - Harvard Square",
+    "latitude": 42.37227249145508,
+    "longitude": -71.12366485595703,
+    "reservations": 9,
+    "spend": 675.0
+  },
+  {
+    "venue_id": "11bc5742-ddc4-4673-b458-58f0351294a7",
+    "venue_name": "Regus | MA, Cambridge - Harvard Square-Mifflin Place",
+    "latitude": 42.37330627441406,
+    "longitude": -71.12240600585938,
+    "reservations": 2,
+    "spend": 151.25
+  }
+]

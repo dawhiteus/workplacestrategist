@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5124289e-b6b8-482e-86bc-7af3002ee289",
+    "venue_name": "Regus | West Glen Town Center",
+    "latitude": 41.56209945678711,
+    "longitude": -93.7823486328125,
+    "reservations": 17,
+    "spend": 4055.6
+  },
+  {
+    "venue_id": "56280c24-fc72-4125-807d-33282d49d95e",
+    "venue_name": "Regus | IA, West Des Moines - One Corporate Place",
+    "latitude": 41.59280014038086,
+    "longitude": -93.7614974975586,
+    "reservations": 7,
+    "spend": 1540.0
+  },
+  {
+    "venue_id": "16443836-8b59-4565-b2db-a269a33421f5",
+    "venue_name": "Regus | IA, West Des Moines  - West Lakes Parkway",
+    "latitude": 41.59585952758789,
+    "longitude": -93.78421020507812,
+    "reservations": 4,
+    "spend": 542.0
+  }
+]

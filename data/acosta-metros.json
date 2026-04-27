@@ -1,0 +1,130 @@
+[
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 23,
+    "total_spend": 11530.0,
+    "venues": 5,
+    "members": 1
+  },
+  {
+    "city": "Portland",
+    "state": "ME",
+    "reservations": 49,
+    "total_spend": 10545.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 15,
+    "total_spend": 5905.0,
+    "venues": 5,
+    "members": 2
+  },
+  {
+    "city": "Charleston",
+    "state": "SC",
+    "reservations": 10,
+    "total_spend": 4360.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 15,
+    "total_spend": 3128.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Anaheim",
+    "state": "CA",
+    "reservations": 6,
+    "total_spend": 1870.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Princeton",
+    "state": "NJ",
+    "reservations": 5,
+    "total_spend": 1633.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "reservations": 10,
+    "total_spend": 1618.3,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Overland Park",
+    "state": "KS",
+    "reservations": 3,
+    "total_spend": 1293.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Burlington",
+    "state": "MA",
+    "reservations": 3,
+    "total_spend": 1195.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Quincy",
+    "state": "MA",
+    "reservations": 3,
+    "total_spend": 1000.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "reservations": 5,
+    "total_spend": 529.88,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "reservations": 3,
+    "total_spend": 420.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Portsmouth",
+    "state": "NH",
+    "reservations": 4,
+    "total_spend": 415.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "South Portland",
+    "state": "ME",
+    "reservations": 4,
+    "total_spend": 390.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "reservations": 3,
+    "total_spend": 240.0,
+    "venues": 1,
+    "members": 2
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3be5a8cf-3b52-4677-b768-e3e7e640e91b",
+    "venue_name": "Apt CoWork at The Melrose",
+    "latitude": 36.12202453613281,
+    "longitude": -86.77513885498047,
+    "reservations": 3,
+    "spend": 2530.0
+  },
+  {
+    "venue_id": "8e7f7f4b-694a-462c-b37c-7d4a51c30348",
+    "venue_name": "560 Flex by Cummins Station",
+    "latitude": 36.15582275390625,
+    "longitude": -86.78282928466797,
+    "reservations": 3,
+    "spend": 2406.0
+  },
+  {
+    "venue_id": "84031884-5ac9-412f-b0be-272242f89291",
+    "venue_name": "Regus || TN, Nashville - 1 Music Circle",
+    "latitude": 36.15016174316406,
+    "longitude": -86.79007720947266,
+    "reservations": 3,
+    "spend": 949.49
+  }
+]

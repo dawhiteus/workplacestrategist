@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0f2e3975-6fa5-47d3-b1e4-c6a87eaa2b45",
+    "venue_name": "The Mark at Manhattan Laundry",
+    "latitude": 38.91984939575195,
+    "longitude": -77.03076171875,
+    "reservations": 18,
+    "spend": 540.0
+  },
+  {
+    "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
+    "venue_name": "Mindspace K St",
+    "latitude": 38.90296173095703,
+    "longitude": -77.03071594238281,
+    "reservations": 3,
+    "spend": 120.0
+  }
+]

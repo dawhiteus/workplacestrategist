@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "a89b4714-a9d0-42a9-9477-5af1171ccce6",
+    "venue_name": "Enterprise Coworking | Greenwood Village",
+    "latitude": 39.61605453491211,
+    "longitude": -104.89872741699219,
+    "reservations": 166,
+    "spend": 30070.0
+  },
+  {
+    "venue_id": "5a933fec-cdc5-4954-bad4-0e60250d9d60",
+    "venue_name": "Office Evolution - Greenwood Village/Denver Tech Center",
+    "latitude": 39.6208381652832,
+    "longitude": -104.90357208251953,
+    "reservations": 2,
+    "spend": 430.0
+  },
+  {
+    "venue_id": "9ab4dce5-01b6-480e-98c0-d0015e311122",
+    "venue_name": "Executive Business Centers Denver Tech Center",
+    "latitude": 39.61949920654297,
+    "longitude": -104.8910903930664,
+    "reservations": 2,
+    "spend": 350.0
+  }
+]

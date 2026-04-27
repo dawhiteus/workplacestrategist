@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "55a81b63-e3dc-429e-afb1-081ce444437d",
+    "venue_name": "Venture X Dallas - Braniff Center",
+    "latitude": 32.84946823120117,
+    "longitude": -96.84017181396484,
+    "reservations": 80,
+    "spend": 3095.0
+  },
+  {
+    "venue_id": "bdabe831-94b0-4710-ad67-371b54edb4d7",
+    "venue_name": "Venture X | Dallas by the Galleria",
+    "latitude": 32.933677673339844,
+    "longitude": -96.8171615600586,
+    "reservations": 4,
+    "spend": 475.0
+  },
+  {
+    "venue_id": "06ee9527-f27f-43fe-ae6a-ba36003a0000",
+    "venue_name": "Flex at The Gild",
+    "latitude": 32.86389923095703,
+    "longitude": -96.76911926269531,
+    "reservations": 8,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "3fda6d2b-3b77-44d6-919c-335a522ea63a",
+    "venue_name": "Lucid Private Offices | Mockingbird - SMU",
+    "latitude": 32.84000015258789,
+    "longitude": -96.7747573852539,
+    "reservations": 4,
+    "spend": 180.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "7de94cd6-abef-4cee-9ecd-6daffd45fe94",
+    "venue_name": "WeWork | 700 K Street NW",
+    "latitude": 38.90196990966797,
+    "longitude": -77.02261352539062,
+    "reservations": 123,
+    "spend": 5961.0
+  },
+  {
+    "venue_id": "288a0cd0-b01b-4d2f-9fca-e982dc7f2cdd",
+    "venue_name": "District Offices Capitol Hill",
+    "latitude": 38.898990631103516,
+    "longitude": -77.00798797607422,
+    "reservations": 5,
+    "spend": 125.0
+  },
+  {
+    "venue_id": "62bc4b9b-0a97-42ed-b73c-44a46814ce16",
+    "venue_name": "Metro Offices - Dupont Circle",
+    "latitude": 38.907020568847656,
+    "longitude": -77.0422134399414,
+    "reservations": 3,
+    "spend": 105.0
+  }
+]

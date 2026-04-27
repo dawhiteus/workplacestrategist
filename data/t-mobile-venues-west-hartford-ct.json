@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "260b097b-5f55-4d75-ac4e-0203f8b3e484",
+    "venue_name": "SPACES | West Hartford - Spaces Blue Back Square",
+    "latitude": 41.760459899902344,
+    "longitude": -72.73946380615234,
+    "reservations": 13,
+    "spend": 4661.92
+  },
+  {
+    "venue_id": "e77f220d-de71-4af3-93b5-6f878f1487ef",
+    "venue_name": "West Hartford Coworking",
+    "latitude": 41.76396179199219,
+    "longitude": -72.71632385253906,
+    "reservations": 12,
+    "spend": 1950.0
+  },
+  {
+    "venue_id": "4a9b0260-5b55-449d-97ba-75bb4b6514f4",
+    "venue_name": "Regus | West Hartford",
+    "latitude": 41.76302719116211,
+    "longitude": -72.74220275878906,
+    "reservations": 2,
+    "spend": 307.43
+  }
+]

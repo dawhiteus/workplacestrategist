@@ -1,0 +1,218 @@
+[
+  {
+    "city": "The Colony",
+    "state": "TX",
+    "reservations": 29,
+    "total_spend": 7970.0,
+    "venues": 1,
+    "members": 8
+  },
+  {
+    "city": "Frisco",
+    "state": "TX",
+    "reservations": 19,
+    "total_spend": 6116.12,
+    "venues": 5,
+    "members": 8
+  },
+  {
+    "city": "McLean",
+    "state": "VA",
+    "reservations": 14,
+    "total_spend": 3780.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Dublin",
+    "state": "OH",
+    "reservations": 47,
+    "total_spend": 2850.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Tysons",
+    "state": "VA",
+    "reservations": 4,
+    "total_spend": 2722.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Birmingham",
+    "state": "AL",
+    "reservations": 16,
+    "total_spend": 2514.5,
+    "venues": 5,
+    "members": 2
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "reservations": 9,
+    "total_spend": 2247.92,
+    "venues": 6,
+    "members": 6
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 1900.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 1755.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "PA",
+    "reservations": 9,
+    "total_spend": 1681.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 1552.23,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Franklin",
+    "state": "TN",
+    "reservations": 3,
+    "total_spend": 1380.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Arlington",
+    "state": "VA",
+    "reservations": 4,
+    "total_spend": 1182.5,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Cranberry Township",
+    "state": "PA",
+    "reservations": 5,
+    "total_spend": 974.18,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Gilbert",
+    "state": "AZ",
+    "reservations": 6,
+    "total_spend": 970.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Cary",
+    "state": "NC",
+    "reservations": 7,
+    "total_spend": 924.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Allen",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 915.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "reservations": 4,
+    "total_spend": 647.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Irving",
+    "state": "TX",
+    "reservations": 4,
+    "total_spend": 620.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 600.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "reservations": 4,
+    "total_spend": 587.5,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Lewisville",
+    "state": "TX",
+    "reservations": 4,
+    "total_spend": 433.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "reservations": 3,
+    "total_spend": 360.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Grapevine",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 280.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 4,
+    "total_spend": 270.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 3,
+    "total_spend": 270.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 210.0,
+    "venues": 1,
+    "members": 1
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0915ba44-b21e-40d8-ba05-f545e730380c",
+    "venue_name": "Gather | Newport News",
+    "latitude": 37.099849700927734,
+    "longitude": -76.48599243164062,
+    "reservations": 49,
+    "spend": 8370.0
+  },
+  {
+    "venue_id": "4dcbc73e-dbc0-41e8-8f91-14f5d5fc4831",
+    "venue_name": "Regus | Oyster Point",
+    "latitude": 37.08610153198242,
+    "longitude": -76.47330474853516,
+    "reservations": 4,
+    "spend": 506.0
+  }
+]

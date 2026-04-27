@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6ca18d29-88e2-4a97-85fd-2ca349f13764",
+    "venue_name": "Cloudport CoWorking MultiSpace | Federal Street",
+    "latitude": 43.66169738769531,
+    "longitude": -70.25118255615234,
+    "reservations": 14,
+    "spend": 710.0
+  },
+  {
+    "venue_id": "d9245876-2539-4e6a-94dd-9016379929c8",
+    "venue_name": "Cloudport | Middle Street",
+    "latitude": 43.66074752807617,
+    "longitude": -70.24884033203125,
+    "reservations": 3,
+    "spend": 160.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0e9e75be-5414-4809-aac4-d94209c3ac9b",
+    "venue_name": "Brick House Blue: Headquarters - Dublin/Bridge Park",
+    "latitude": 40.101966857910156,
+    "longitude": -83.10985565185547,
+    "reservations": 26,
+    "spend": 885.0
+  },
+  {
+    "venue_id": "5c22990d-445b-4bf1-a7fe-939af2f54be5",
+    "venue_name": "Brick House Blue: The Loop - Dublin/Bridge Park",
+    "latitude": 40.1002197265625,
+    "longitude": -83.10816955566406,
+    "reservations": 7,
+    "spend": 185.0
+  }
+]

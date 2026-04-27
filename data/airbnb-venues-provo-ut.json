@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2a9bfdaa-7785-4430-933e-2a1f94138e5f",
+    "venue_name": "Regus || Zions Bank Financial Center",
+    "latitude": 40.23619842529297,
+    "longitude": -111.65799713134766,
+    "reservations": 5,
+    "spend": 603.0
+  },
+  {
+    "venue_id": "a253dcdc-93fe-4cc9-aa4b-920077e2f87c",
+    "venue_name": "Kiln - Provo",
+    "latitude": 40.26499938964844,
+    "longitude": -111.66820526123047,
+    "reservations": 15,
+    "spend": 600.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e37e82be-be58-4344-9a4a-aab32c8de029",
+    "venue_name": "The Pearl Works",
+    "latitude": 36.59772491455078,
+    "longitude": -121.89303588867188,
+    "reservations": 8,
+    "spend": 3750.0
+  },
+  {
+    "venue_id": "1e97b247-8408-42f7-a122-c7dc7fff5894",
+    "venue_name": "Hellodesk Monterey",
+    "latitude": 36.59693145751953,
+    "longitude": -121.89215087890625,
+    "reservations": 14,
+    "spend": 3500.0
+  }
+]

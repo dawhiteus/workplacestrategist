@@ -84,6 +84,19 @@ export function ContextBar({
                 </div>
               </div>
 
+              {/* New Customer action — always visible at top, above the scrollable list */}
+              <button
+                onClick={() => {
+                  setEnterpriseOpen(false)
+                  setEnterpriseSearch('')
+                  window.dispatchEvent(new CustomEvent('open-intake-modal'))
+                }}
+                className="w-full text-left px-3 py-2 text-xs font-medium text-ls-600 hover:bg-ls-50 transition-colors flex items-center gap-2 border-b border-border"
+              >
+                <Plus size={11} className="flex-shrink-0" />
+                New Customer
+              </button>
+
               {/* Enterprise list */}
               <div className="max-h-64 overflow-y-auto">
                 {filteredEnterprises.slice(0, 80).map(name => (
@@ -183,13 +196,6 @@ export function ContextBar({
       </div>
 
       <div className="flex items-center gap-3">
-        <button
-          onClick={() => window.dispatchEvent(new CustomEvent('open-intake-modal'))}
-          className="flex items-center gap-1.5 px-2.5 py-1 rounded-pill bg-ls-500 hover:bg-ls-600 text-white text-xs font-semibold transition-colors"
-        >
-          <Plus size={11} />
-          New Analysis
-        </button>
         <span className="text-subtle text-xs">Data as of {dateStr} · {timeStr}</span>
       </div>
     </div>

@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "bf4dbbb5-f21f-44d3-93b2-2b53b5722dfe",
+    "venue_name": "HQ | WI, Madison - Corporate Dr",
+    "latitude": 43.102699279785156,
+    "longitude": -89.31759643554688,
+    "reservations": 85,
+    "spend": 26928.75
+  },
+  {
+    "venue_id": "e66abbec-bb4b-4e6c-a124-e97b9569a402",
+    "venue_name": "Regus | Park Bank Plaza",
+    "latitude": 43.13462448120117,
+    "longitude": -89.29075622558594,
+    "reservations": 26,
+    "spend": 6769.57
+  },
+  {
+    "venue_id": "c073f054-a4a4-4a63-864c-1cfffb3f8c60",
+    "venue_name": "Serendipity Labs - Madison",
+    "latitude": 43.07228088378906,
+    "longitude": -89.52408599853516,
+    "reservations": 16,
+    "spend": 4757.0
+  },
+  {
+    "venue_id": "c62164c2-d930-48f6-b1c4-8ae9ed471644",
+    "venue_name": "Expansive - The Capitol",
+    "latitude": 43.071327209472656,
+    "longitude": -89.38800811767578,
+    "reservations": 8,
+    "spend": 3010.5
+  },
+  {
+    "venue_id": "8e3cc8f9-2f76-4be2-a3e8-e95df2275282",
+    "venue_name": "Office Evolution - Madison Arboretum",
+    "latitude": 43.032630920410156,
+    "longitude": -89.4276123046875,
+    "reservations": 8,
+    "spend": 1731.0
+  },
+  {
+    "venue_id": "2c7bf576-08f3-45ec-b6b4-30345209faa2",
+    "venue_name": "EmployAbility & EmpowerAbility ",
+    "latitude": 43.12630844116211,
+    "longitude": -89.3488540649414,
+    "reservations": 2,
+    "spend": 165.0
+  }
+]

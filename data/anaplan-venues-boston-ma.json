@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3f791a67-e47e-48d9-81c8-d2f408d964bf",
+    "venue_name": "Staples Coworking Boston (Government Center)",
+    "latitude": 42.35929489135742,
+    "longitude": -71.05799102783203,
+    "reservations": 88,
+    "spend": 3732.0
+  },
+  {
+    "venue_id": "74d712f5-cc68-4d25-afc5-d8f11d52d442",
+    "venue_name": "Workbar Downtown",
+    "latitude": 42.35727310180664,
+    "longitude": -71.05896759033203,
+    "reservations": 6,
+    "spend": 836.0
+  }
+]

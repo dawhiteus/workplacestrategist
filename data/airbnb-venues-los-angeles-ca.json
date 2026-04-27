@@ -1,0 +1,194 @@
+[
+  {
+    "venue_id": "9e6dc2b0-453c-44ac-85ca-35f54acae35a",
+    "venue_name": "moss",
+    "latitude": 33.991668701171875,
+    "longitude": -118.46834564208984,
+    "reservations": 136,
+    "spend": 30480.0
+  },
+  {
+    "venue_id": "67c70736-ac11-4a6f-9c02-650e0dc24ab1",
+    "venue_name": "CENTRL Office - Downtown Los Angeles",
+    "latitude": 34.047889709472656,
+    "longitude": -118.24014282226562,
+    "reservations": 36,
+    "spend": 8295.0
+  },
+  {
+    "venue_id": "5f74ceb5-87ac-4a2b-b38b-624b942191c8",
+    "venue_name": "(ETO) Executive Tower",
+    "latitude": 34.03559875488281,
+    "longitude": -118.44232177734375,
+    "reservations": 73,
+    "spend": 6962.0
+  },
+  {
+    "venue_id": "b99d1555-1eda-45e4-aabc-f34508db3c9c",
+    "venue_name": "WeWork | 12130 Millennium Drive",
+    "latitude": 33.97998046875,
+    "longitude": -118.40636444091797,
+    "reservations": 75,
+    "spend": 4415.0
+  },
+  {
+    "venue_id": "7e7c885b-81fa-4a6e-9c83-6d02b8dcf078",
+    "venue_name": "SPACES || La Brea",
+    "latitude": 34.08811569213867,
+    "longitude": -118.34465026855469,
+    "reservations": 10,
+    "spend": 3574.84
+  },
+  {
+    "venue_id": "970dc4dc-1d74-4eca-ae06-7a112a1b5a01",
+    "venue_name": "The Preserve",
+    "latitude": 34.09641647338867,
+    "longitude": -118.31062316894531,
+    "reservations": 75,
+    "spend": 3347.0
+  },
+  {
+    "venue_id": "66232db0-a90c-4605-81a4-202d39358a1f",
+    "venue_name": "Ethos Society",
+    "latitude": 34.0622673034668,
+    "longitude": -118.2984848022461,
+    "reservations": 54,
+    "spend": 2965.0
+  },
+  {
+    "venue_id": "5b32c1d3-f162-4747-b1b5-707da8090989",
+    "venue_name": "SPACES || Hollywood",
+    "latitude": 34.10405349731445,
+    "longitude": -118.32622528076172,
+    "reservations": 6,
+    "spend": 2517.13
+  },
+  {
+    "venue_id": "34fb838d-7ca9-475c-99b2-42f95c9a365b",
+    "venue_name": "Union Cowork Los Angeles - Downtown/Arts District",
+    "latitude": 34.040374755859375,
+    "longitude": -118.23128509521484,
+    "reservations": 38,
+    "spend": 2310.0
+  },
+  {
+    "venue_id": "7378eeb7-3263-4104-8314-0432a42a5289",
+    "venue_name": "Village Workspaces LLC",
+    "latitude": 34.033443450927734,
+    "longitude": -118.45217895507812,
+    "reservations": 37,
+    "spend": 2232.0
+  },
+  {
+    "venue_id": "7a7a0967-3980-48f4-ba7e-b61edf6edb1f",
+    "venue_name": "Rita House",
+    "latitude": 34.07011413574219,
+    "longitude": -118.35055541992188,
+    "reservations": 4,
+    "spend": 2215.0
+  },
+  {
+    "venue_id": "e07b81c1-1c6a-4ff7-9144-86bc235d6dc8",
+    "venue_name": "WeWork | Pacific Design Center - Red Building",
+    "latitude": 34.083858489990234,
+    "longitude": -118.38249206542969,
+    "reservations": 10,
+    "spend": 1690.0
+  },
+  {
+    "venue_id": "74840d6d-436d-4f0b-a3c5-ae42ce150d61",
+    "venue_name": "Regus || US Bank Tower",
+    "latitude": 34.05116653442383,
+    "longitude": -118.2545394897461,
+    "reservations": 4,
+    "spend": 1040.0
+  },
+  {
+    "venue_id": "0c4d30a4-e4bf-4615-8bf7-99c46ffa2726",
+    "venue_name": "BLANKSPACES Venice",
+    "latitude": 33.98903274536133,
+    "longitude": -118.46156311035156,
+    "reservations": 26,
+    "spend": 910.0
+  },
+  {
+    "venue_id": "128c7e0d-59f0-4379-aa87-d451739c67da",
+    "venue_name": "Serendipity Labs - Downtown Los Angeles - Wilshire",
+    "latitude": 34.05100631713867,
+    "longitude": -118.2601089477539,
+    "reservations": 5,
+    "spend": 809.0
+  },
+  {
+    "venue_id": "b49e9251-09bf-427a-bc55-5d7a27b95148",
+    "venue_name": "SPACES || El Segundo LAX",
+    "latitude": 33.921302795410156,
+    "longitude": -118.39588928222656,
+    "reservations": 4,
+    "spend": 341.23
+  },
+  {
+    "venue_id": "aec6b871-2ff1-46da-8f40-693443eac0c5",
+    "venue_name": "Studious Coworking Space",
+    "latitude": 34.06592559814453,
+    "longitude": -118.2374267578125,
+    "reservations": 2,
+    "spend": 278.0
+  },
+  {
+    "venue_id": "5e080182-9688-4f3b-9939-79904d6a5cbf",
+    "venue_name": "The Collection-Monthly Private Offices & Event Location",
+    "latitude": 34.04728698730469,
+    "longitude": -118.25608825683594,
+    "reservations": 6,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "d1739414-935b-46a6-b599-5864655149c9",
+    "venue_name": "(WC2) Warner Center Towers",
+    "latitude": 34.178810119628906,
+    "longitude": -118.59982299804688,
+    "reservations": 2,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "b02081e1-2387-4ef2-a4d5-d649b3d99226",
+    "venue_name": "(PAN) Panorama City",
+    "latitude": 34.221195220947266,
+    "longitude": -118.4491958618164,
+    "reservations": 2,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "067d1720-1a65-4379-934a-34fb3e4f4620",
+    "venue_name": "W Suites at Warner Center",
+    "latitude": 34.19400405883789,
+    "longitude": -118.5997543334961,
+    "reservations": 4,
+    "spend": 196.0
+  },
+  {
+    "venue_id": "a66b4fa4-73d6-4c1c-8f80-990e8d9798a2",
+    "venue_name": "Alfi Trade Inc.",
+    "latitude": 34.02558898925781,
+    "longitude": -118.33978271484375,
+    "reservations": 6,
+    "spend": 165.0
+  },
+  {
+    "venue_id": "9e46b78c-dd0a-4ed8-b4cf-b9cc9b195f89",
+    "venue_name": "SPACES || Fairfax",
+    "latitude": 34.073001861572266,
+    "longitude": -118.36199951171875,
+    "reservations": 2,
+    "spend": 113.58
+  },
+  {
+    "venue_id": "227f860d-207b-4c13-941e-f86b16d094fb",
+    "venue_name": "BLANKSPACES Hollywood Sunset",
+    "latitude": 34.09772872924805,
+    "longitude": -118.33345794677734,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

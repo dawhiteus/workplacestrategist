@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a9e7d874-ccc1-4c63-9b69-fc1ca44aaa52",
+    "venue_name": "Carr Workplaces - Reston Town Center",
+    "latitude": 38.958560943603516,
+    "longitude": -77.35862731933594,
+    "reservations": 8,
+    "spend": 680.0
+  },
+  {
+    "venue_id": "62ad0f0f-58f8-45f7-ba2e-af93330dc856",
+    "venue_name": "Metro Offices - Reston",
+    "latitude": 38.95323181152344,
+    "longitude": -77.34999084472656,
+    "reservations": 4,
+    "spend": 640.0
+  }
+]

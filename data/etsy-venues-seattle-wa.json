@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.66591262817383,
+    "longitude": -122.37410736083984,
+    "reservations": 29,
+    "spend": 2045.0
+  },
+  {
+    "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
+    "venue_name": "The Cloud Room",
+    "latitude": 47.6136589050293,
+    "longitude": -122.3177490234375,
+    "reservations": 43,
+    "spend": 1720.0
+  },
+  {
+    "venue_id": "fe7c09e6-0ece-4b22-b834-aaa369c25b3d",
+    "venue_name": "Expansive - Pioneer Building",
+    "latitude": 47.60219955444336,
+    "longitude": -122.33348083496094,
+    "reservations": 15,
+    "spend": 860.0
+  },
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.61172866821289,
+    "longitude": -122.34436798095703,
+    "reservations": 20,
+    "spend": 620.0
+  },
+  {
+    "venue_id": "b8ed54f3-97b1-49b2-8c8a-a30160d6ac86",
+    "venue_name": "CENTRL Office - Capitol Hill",
+    "latitude": 47.61480712890625,
+    "longitude": -122.31840515136719,
+    "reservations": 4,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "a0ae547b-07f9-464e-9494-dcb1c8f6ee2d",
+    "venue_name": "West Seattle Coworking",
+    "latitude": 47.521873474121094,
+    "longitude": -122.37633514404297,
+    "reservations": 3,
+    "spend": 117.0
+  },
+  {
+    "venue_id": "f54644e0-e12e-0132-2e14-46f49f6b5ea9",
+    "venue_name": "WeWork | Holyoke Building",
+    "latitude": 47.605506896972656,
+    "longitude": -122.33633422851562,
+    "reservations": 2,
+    "spend": 84.0
+  },
+  {
+    "venue_id": "557128b3-c5a6-4328-8a24-d8c2448f89f0",
+    "venue_name": "WeWork | Hawk Tower",
+    "latitude": 47.597957611083984,
+    "longitude": -122.33099365234375,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

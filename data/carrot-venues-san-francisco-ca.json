@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.78984832763672,
+    "longitude": -122.40069580078125,
+    "reservations": 13,
+    "spend": 605.0
+  },
+  {
+    "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
+    "venue_name": "WeWork | Salesforce Tower",
+    "latitude": 37.789817810058594,
+    "longitude": -122.39690399169922,
+    "reservations": 5,
+    "spend": 401.0
+  },
+  {
+    "venue_id": "fb251996-b4fd-4b36-b7b0-eba293fa9934",
+    "venue_name": "WeWork | 44 Montgomery",
+    "latitude": 37.789730072021484,
+    "longitude": -122.40190887451172,
+    "reservations": 4,
+    "spend": 236.0
+  },
+  {
+    "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
+    "venue_name": "WeWork | Two Embarcadero Center",
+    "latitude": 37.7947883605957,
+    "longitude": -122.39840698242188,
+    "reservations": 4,
+    "spend": 221.0
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.78120040893555,
+    "longitude": -122.4081039428711,
+    "reservations": 4,
+    "spend": 124.0
+  }
+]

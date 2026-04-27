@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "32870ea3-5c9c-4066-b1ec-1a5b3236c7cb",
+    "venue_name": "Kiln - Carlsbad",
+    "latitude": 33.162933349609375,
+    "longitude": -117.35177612304688,
+    "reservations": 5,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "ec6724a2-d76c-4a54-9459-650107ffa751",
+    "venue_name": "WorkSpace Carlsbad",
+    "latitude": 33.13534927368164,
+    "longitude": -117.27698516845703,
+    "reservations": 2,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "78898a9c-579a-44d0-bcfd-25739dc47639",
+    "venue_name": "TrueWork",
+    "latitude": 33.1281852722168,
+    "longitude": -117.32698822021484,
+    "reservations": 2,
+    "spend": 100.0
+  }
+]

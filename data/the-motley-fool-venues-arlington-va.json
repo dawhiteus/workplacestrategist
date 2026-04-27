@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "2d2798fa-16f3-4ff4-95f5-7d2408aa6fe2",
+    "venue_name": "Life Time Work - Clarendon",
+    "latitude": 38.88886642456055,
+    "longitude": -77.09190368652344,
+    "reservations": 17,
+    "spend": 5415.0
+  },
+  {
+    "venue_id": "b8f7cb16-aae5-4bef-9660-223e71ceb9c0",
+    "venue_name": "Venture X | Arlington - Courthouse Metro",
+    "latitude": 38.89046859741211,
+    "longitude": -77.08722686767578,
+    "reservations": 6,
+    "spend": 4800.0
+  },
+  {
+    "venue_id": "20886df7-9a24-4cc0-990a-1c44416947fb",
+    "venue_name": "SPACES | VA, Arlington- 2451 Crystal Drive",
+    "latitude": 38.85209274291992,
+    "longitude": -77.04912567138672,
+    "reservations": 5,
+    "spend": 312.56
+  }
+]

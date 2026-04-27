@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "bbf9e0eb-9ba0-483f-ac36-403f986ea89f",
+    "venue_name": "WeWork | West Trinity Place",
+    "latitude": 33.77342224121094,
+    "longitude": -84.29693603515625,
+    "reservations": 7,
+    "spend": 377.0
+  },
+  {
+    "venue_id": "f6f9b4c3-ef36-4180-bccd-41079f7c1ba5",
+    "venue_name": "Regus | Clairemont",
+    "latitude": 33.77763748168945,
+    "longitude": -84.29686737060547,
+    "reservations": 3,
+    "spend": 92.4
+  }
+]

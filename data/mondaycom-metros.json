@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 7,
+    "total_spend": 11200.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "reservations": 10,
+    "total_spend": 8931.0,
+    "venues": 2,
+    "members": 1
+  }
+]

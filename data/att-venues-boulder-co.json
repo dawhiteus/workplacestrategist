@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "98e8a00b-7df1-4bea-be2c-d8ee7cf2787b",
+    "venue_name": "Office Evolution - Boulder",
+    "latitude": 40.0217399597168,
+    "longitude": -105.24072265625,
+    "reservations": 16,
+    "spend": 4413.0
+  },
+  {
+    "venue_id": "dbbf6aec-0732-4e4d-a693-de5b10f1ad86",
+    "venue_name": "Intelligent Office Boulder",
+    "latitude": 40.01456069946289,
+    "longitude": -105.23919677734375,
+    "reservations": 32,
+    "spend": 4276.0
+  }
+]

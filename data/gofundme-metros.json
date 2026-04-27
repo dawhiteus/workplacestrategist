@@ -1,0 +1,594 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 236,
+    "total_spend": 37144.82,
+    "venues": 46,
+    "members": 38
+  },
+  {
+    "city": "Colorado Springs",
+    "state": "CO",
+    "reservations": 89,
+    "total_spend": 7488.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 37,
+    "total_spend": 7408.0,
+    "venues": 10,
+    "members": 11
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "reservations": 87,
+    "total_spend": 5291.0,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 145,
+    "total_spend": 5241.0,
+    "venues": 11,
+    "members": 6
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "reservations": 98,
+    "total_spend": 5087.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "San Jose",
+    "state": "CA",
+    "reservations": 65,
+    "total_spend": 5080.81,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 5000.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Bellevue",
+    "state": "WA",
+    "reservations": 82,
+    "total_spend": 4736.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "reservations": 20,
+    "total_spend": 4608.18,
+    "venues": 6,
+    "members": 7
+  },
+  {
+    "city": "Park City",
+    "state": "UT",
+    "reservations": 12,
+    "total_spend": 4275.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "North Hollywood",
+    "state": "CA",
+    "reservations": 88,
+    "total_spend": 4135.6,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "reservations": 56,
+    "total_spend": 4080.56,
+    "venues": 7,
+    "members": 9
+  },
+  {
+    "city": "Yardley",
+    "state": "PA",
+    "reservations": 9,
+    "total_spend": 3600.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 39,
+    "total_spend": 2874.06,
+    "venues": 15,
+    "members": 11
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 47,
+    "total_spend": 2813.0,
+    "venues": 9,
+    "members": 2
+  },
+  {
+    "city": "Richmond",
+    "state": "TX",
+    "reservations": 9,
+    "total_spend": 2700.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "reservations": 56,
+    "total_spend": 2629.0,
+    "venues": 7,
+    "members": 8
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "reservations": 22,
+    "total_spend": 2590.0,
+    "venues": 3,
+    "members": 7
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 3,
+    "total_spend": 2490.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Glen Allen",
+    "state": "VA",
+    "reservations": 41,
+    "total_spend": 2050.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 10,
+    "total_spend": 1868.0,
+    "venues": 7,
+    "members": 3
+  },
+  {
+    "city": "Miami Beach",
+    "state": "FL",
+    "reservations": 3,
+    "total_spend": 1652.5,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Midlothian",
+    "state": "VA",
+    "reservations": 30,
+    "total_spend": 1500.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Riverside",
+    "state": "CA",
+    "reservations": 9,
+    "total_spend": 1240.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 7,
+    "total_spend": 1225.0,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 1096.6,
+    "venues": 7,
+    "members": 5
+  },
+  {
+    "city": "Virginia Beach",
+    "state": "VA",
+    "reservations": 23,
+    "total_spend": 1090.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Aston",
+    "state": "PA",
+    "reservations": 5,
+    "total_spend": 1075.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 1048.0,
+    "venues": 5,
+    "members": 7
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "reservations": 13,
+    "total_spend": 945.0,
+    "venues": 5,
+    "members": 3
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "reservations": 9,
+    "total_spend": 887.1,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Novi",
+    "state": "MI",
+    "reservations": 10,
+    "total_spend": 875.05,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Alexandria",
+    "state": "VA",
+    "reservations": 21,
+    "total_spend": 870.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Portland",
+    "state": "ME",
+    "reservations": 17,
+    "total_spend": 870.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "reservations": 19,
+    "total_spend": 845.76,
+    "venues": 5,
+    "members": 2
+  },
+  {
+    "city": "Meridian",
+    "state": "ID",
+    "reservations": 13,
+    "total_spend": 845.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Mountain View",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 799.22,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Boulder",
+    "state": "CO",
+    "reservations": 21,
+    "total_spend": 785.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Costa Mesa",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 669.85,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "reservations": 9,
+    "total_spend": 655.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Campbell",
+    "state": "CA",
+    "reservations": 8,
+    "total_spend": 520.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Davis",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 430.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Greenville",
+    "state": "SC",
+    "reservations": 14,
+    "total_spend": 408.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Huntsville",
+    "state": "AL",
+    "reservations": 4,
+    "total_spend": 407.29,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Arlington",
+    "state": "VA",
+    "reservations": 8,
+    "total_spend": 402.44,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 396.88,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Cupertino",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 385.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 4,
+    "total_spend": 341.75,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Coral Gables",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 300.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Rockville",
+    "state": "MD",
+    "reservations": 3,
+    "total_spend": 289.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Bellingham",
+    "state": "WA",
+    "reservations": 3,
+    "total_spend": 285.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "New York City",
+    "state": "NY",
+    "reservations": 4,
+    "total_spend": 281.61,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Folsom",
+    "state": "CA",
+    "reservations": 11,
+    "total_spend": 275.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Chandler",
+    "state": "AZ",
+    "reservations": 7,
+    "total_spend": 259.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Franklin",
+    "state": "TN",
+    "reservations": 5,
+    "total_spend": 250.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Milpitas",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 245.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "reservations": 7,
+    "total_spend": 222.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Holly Springs",
+    "state": "NC",
+    "reservations": 7,
+    "total_spend": 210.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Lee's Summit",
+    "state": "MO",
+    "reservations": 3,
+    "total_spend": 207.34,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Indianapolis",
+    "state": "IN",
+    "reservations": 4,
+    "total_spend": 196.57,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Grand Rapids",
+    "state": "MI",
+    "reservations": 5,
+    "total_spend": 175.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Marlborough",
+    "state": "MA",
+    "reservations": 5,
+    "total_spend": 150.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Lehi",
+    "state": "UT",
+    "reservations": 3,
+    "total_spend": 150.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Gilbert",
+    "state": "AZ",
+    "reservations": 3,
+    "total_spend": 143.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Eagle",
+    "state": "ID",
+    "reservations": 4,
+    "total_spend": 140.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "reservations": 4,
+    "total_spend": 140.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "reservations": 3,
+    "total_spend": 117.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Temecula",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 105.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Murrieta",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 100.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Worthington",
+    "state": "OH",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Boise",
+    "state": "ID",
+    "reservations": 3,
+    "total_spend": 85.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Forest Hills",
+    "state": "MI",
+    "reservations": 3,
+    "total_spend": 75.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 61.25,
+    "venues": 3,
+    "members": 1
+  }
+]

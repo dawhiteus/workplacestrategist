@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "cdbf6b15-a818-492d-9a56-6d5cac01de74",
+    "venue_name": "The One Cowork",
+    "latitude": 26.39362907409668,
+    "longitude": -80.07601928710938,
+    "reservations": 150,
+    "spend": 39977.0
+  },
+  {
+    "venue_id": "eaf2f06f-40bc-48d2-aa6a-c4b234ab9927",
+    "venue_name": "Zen in Boca Raton",
+    "latitude": 26.350149154663086,
+    "longitude": -80.08432006835938,
+    "reservations": 30,
+    "spend": 7800.0
+  },
+  {
+    "venue_id": "24689e9c-b3d4-4e68-b1ca-d2cc549db71a",
+    "venue_name": "CoSuite Boca Raton",
+    "latitude": 26.367517471313477,
+    "longitude": -80.12244415283203,
+    "reservations": 6,
+    "spend": 2410.0
+  },
+  {
+    "venue_id": "2f023a3c-ad88-49a4-80ae-66da8267caee",
+    "venue_name": "Office Evolution Boca Raton",
+    "latitude": 26.349031448364258,
+    "longitude": -80.15899658203125,
+    "reservations": 7,
+    "spend": 1900.0
+  },
+  {
+    "venue_id": "8e9566d2-62a8-4c17-b4ea-afaeaf55fb9f",
+    "venue_name": "Quest Workspaces- Boca Raton",
+    "latitude": 26.36213493347168,
+    "longitude": -80.0811767578125,
+    "reservations": 4,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "69a706c6-8fe1-4738-a4a3-bf8973396cb5",
+    "venue_name": "980 Spaces - Boca Raton",
+    "latitude": 26.359289169311523,
+    "longitude": -80.082763671875,
+    "reservations": 4,
+    "spend": 1065.0
+  }
+]

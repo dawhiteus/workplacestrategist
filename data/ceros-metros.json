@@ -1,0 +1,282 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 895,
+    "total_spend": 165701.48,
+    "venues": 52,
+    "members": 73
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 115,
+    "total_spend": 13326.0,
+    "venues": 8,
+    "members": 14
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 13,
+    "total_spend": 9130.0,
+    "venues": 5,
+    "members": 5
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 100,
+    "total_spend": 6081.23,
+    "venues": 13,
+    "members": 9
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 67,
+    "total_spend": 3380.0,
+    "venues": 5,
+    "members": 6
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 7,
+    "total_spend": 2121.26,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "reservations": 5,
+    "total_spend": 1945.4,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 45,
+    "total_spend": 1916.0,
+    "venues": 12,
+    "members": 14
+  },
+  {
+    "city": "Oakland",
+    "state": "CA",
+    "reservations": 44,
+    "total_spend": 1800.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 19,
+    "total_spend": 1376.2,
+    "venues": 8,
+    "members": 6
+  },
+  {
+    "city": "Manchester",
+    "state": "NH",
+    "reservations": 5,
+    "total_spend": 1250.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "reservations": 12,
+    "total_spend": 920.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "reservations": 8,
+    "total_spend": 812.73,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "New York City",
+    "state": "NY",
+    "reservations": 3,
+    "total_spend": 644.4,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "reservations": 14,
+    "total_spend": 555.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Arlington",
+    "state": "MA",
+    "reservations": 6,
+    "total_spend": 472.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Greenwood Village",
+    "state": "CO",
+    "reservations": 4,
+    "total_spend": 449.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Cohasset",
+    "state": "MA",
+    "reservations": 11,
+    "total_spend": 440.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "reservations": 5,
+    "total_spend": 390.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Boca Raton",
+    "state": "FL",
+    "reservations": 6,
+    "total_spend": 371.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Quincy",
+    "state": "MA",
+    "reservations": 6,
+    "total_spend": 354.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "reservations": 6,
+    "total_spend": 335.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Loveland",
+    "state": "CO",
+    "reservations": 5,
+    "total_spend": 320.11,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "reservations": 8,
+    "total_spend": 278.25,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "reservations": 4,
+    "total_spend": 260.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Sandy Springs",
+    "state": "GA",
+    "reservations": 4,
+    "total_spend": 260.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "reservations": 6,
+    "total_spend": 249.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Alexandria",
+    "state": "VA",
+    "reservations": 5,
+    "total_spend": 175.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Queens",
+    "state": "NY",
+    "reservations": 5,
+    "total_spend": 165.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Kingston",
+    "state": "NY",
+    "reservations": 3,
+    "total_spend": 165.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Cambridge",
+    "state": "MA",
+    "reservations": 3,
+    "total_spend": 141.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Mill Valley",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 141.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "New Orleans",
+    "state": "LA",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Westlake",
+    "state": "OH",
+    "reservations": 4,
+    "total_spend": 80.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "White River Junction",
+    "state": "VT",
+    "reservations": 3,
+    "total_spend": 60.0,
+    "venues": 1,
+    "members": 1
+  }
+]

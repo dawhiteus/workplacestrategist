@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "328304be-42f5-450e-8327-20f7585d87e0",
+    "venue_name": "Preferred Tiny Homes",
+    "latitude": 37.64618682861328,
+    "longitude": -121.00698852539062,
+    "reservations": 436,
+    "spend": 148905.0
+  },
+  {
+    "venue_id": "7dda3f5b-fc75-44b8-b8ef-fff812dccb06",
+    "venue_name": "Nine3One",
+    "latitude": 37.639854431152344,
+    "longitude": -121.00006866455078,
+    "reservations": 151,
+    "spend": 37330.0
+  },
+  {
+    "venue_id": "0ea3a54e-bce8-4aab-a9be-96d2b7e62de5",
+    "venue_name": "Aura Office",
+    "latitude": 37.70310974121094,
+    "longitude": -121.0719985961914,
+    "reservations": 80,
+    "spend": 14550.0
+  },
+  {
+    "venue_id": "528b009c-fd8e-4fa2-85ef-81b904aded35",
+    "venue_name": "Modesto Conference/Office/Meeting Rooms",
+    "latitude": 37.641990661621094,
+    "longitude": -120.99064636230469,
+    "reservations": 22,
+    "spend": 5170.0
+  }
+]

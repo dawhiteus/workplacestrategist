@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "cb5b6511-d665-4625-84c9-a9a6143dffd0",
+    "venue_name": "Downtown Works Pacific Beach",
+    "latitude": 32.79862594604492,
+    "longitude": -117.24076843261719,
+    "reservations": 37,
+    "spend": 3820.0
+  },
+  {
+    "venue_id": "b8e13b11-20ee-4366-99d6-265684b20ed2",
+    "venue_name": "SPACES || University Town Center",
+    "latitude": 32.874698638916016,
+    "longitude": -117.20700073242188,
+    "reservations": 18,
+    "spend": 3592.69
+  },
+  {
+    "venue_id": "c4146c35-8824-43bb-9f2d-6420bc51aed5",
+    "venue_name": "Venture X | San Diego Scripps Ranch",
+    "latitude": 32.9008674621582,
+    "longitude": -117.10950469970703,
+    "reservations": 18,
+    "spend": 1345.0
+  },
+  {
+    "venue_id": "a421ce28-cd9a-4919-a1a4-32c46d79ab60",
+    "venue_name": "Union Cowork North Park",
+    "latitude": 32.74895095825195,
+    "longitude": -117.12989044189453,
+    "reservations": 29,
+    "spend": 1025.0
+  },
+  {
+    "venue_id": "755ed122-7a11-4685-b67d-166de376b7cf",
+    "venue_name": "WeWork | Aventine",
+    "latitude": 32.87080764770508,
+    "longitude": -117.2268295288086,
+    "reservations": 19,
+    "spend": 893.0
+  },
+  {
+    "venue_id": "50cec7e4-a532-4116-a028-7bc97e1b9c94",
+    "venue_name": "Regus || Liberty Station",
+    "latitude": 32.73419952392578,
+    "longitude": -117.21600341796875,
+    "reservations": 4,
+    "spend": 571.33
+  },
+  {
+    "venue_id": "3fc5a08c-7b5b-4da5-a5a8-bf5fffaad2af",
+    "venue_name": "Mission Cowork",
+    "latitude": 32.764129638671875,
+    "longitude": -117.15290069580078,
+    "reservations": 5,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "cf5869c0-dbff-4e7a-9996-3053518c12e5",
+    "venue_name": "Downtown Works San Diego",
+    "latitude": 32.718013763427734,
+    "longitude": -117.16799926757812,
+    "reservations": 5,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "88345dc2-b3a0-49ca-b20d-b3b16a54360c",
+    "venue_name": "Cowork + Connect",
+    "latitude": 32.74903869628906,
+    "longitude": -117.15277862548828,
+    "reservations": 4,
+    "spend": 160.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "7a37c66f-dbe9-4fca-9e87-1269b561e4bb",
+    "venue_name": "Venture X | Grapevine - DFW Airport North",
+    "latitude": 32.96879577636719,
+    "longitude": -97.04517364501953,
+    "reservations": 4,
+    "spend": 1250.0
+  },
+  {
+    "venue_id": "14685103-b49c-438f-857c-0944a5b4fe75",
+    "venue_name": "BOSS Office & Coworking",
+    "latitude": 32.94007110595703,
+    "longitude": -97.07815551757812,
+    "reservations": 3,
+    "spend": 1200.0
+  }
+]

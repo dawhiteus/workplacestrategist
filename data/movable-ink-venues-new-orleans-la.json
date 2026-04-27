@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2af1d6f0-0868-402d-a295-b8863a2b64d7",
+    "venue_name": "The Shop at CAC",
+    "latitude": 29.943588256835938,
+    "longitude": -90.07051849365234,
+    "reservations": 14,
+    "spend": 560.0
+  },
+  {
+    "venue_id": "65a3efb6-59d6-47ec-8361-5d48248d5936",
+    "venue_name": "Scale New Orleans",
+    "latitude": 29.943016052246094,
+    "longitude": -90.07145690917969,
+    "reservations": 3,
+    "spend": 75.0
+  }
+]

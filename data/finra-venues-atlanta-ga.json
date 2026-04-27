@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c39f2b81-3a3e-411c-9b3b-8ee43c1eb2e8",
+    "venue_name": "Regus | City View",
+    "latitude": 33.873958587646484,
+    "longitude": -84.45865631103516,
+    "reservations": 26,
+    "spend": 5056.69
+  },
+  {
+    "venue_id": "038c7481-0839-47e1-a557-890637b58104",
+    "venue_name": "Regus | Sterling Pointe",
+    "latitude": 33.92829895019531,
+    "longitude": -84.33370208740234,
+    "reservations": 7,
+    "spend": 1132.14
+  }
+]

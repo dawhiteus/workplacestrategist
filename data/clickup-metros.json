@@ -1,0 +1,178 @@
+[
+  {
+    "city": "Boston",
+    "state": "MA",
+    "reservations": 101,
+    "total_spend": 10897.0,
+    "venues": 7,
+    "members": 17
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "reservations": 127,
+    "total_spend": 9063.0,
+    "venues": 34,
+    "members": 18
+  },
+  {
+    "city": "San Mateo",
+    "state": "CA",
+    "reservations": 65,
+    "total_spend": 4740.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "reservations": 11,
+    "total_spend": 3829.25,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "reservations": 49,
+    "total_spend": 2459.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "reservations": 37,
+    "total_spend": 2020.0,
+    "venues": 10,
+    "members": 7
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 1343.0,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "reservations": 19,
+    "total_spend": 1257.6,
+    "venues": 6,
+    "members": 2
+  },
+  {
+    "city": "Bellevue",
+    "state": "WA",
+    "reservations": 4,
+    "total_spend": 1148.92,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "San Ramon",
+    "state": "CA",
+    "reservations": 15,
+    "total_spend": 926.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Mooresville",
+    "state": "NC",
+    "reservations": 5,
+    "total_spend": 705.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Berkeley",
+    "state": "CA",
+    "reservations": 10,
+    "total_spend": 644.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "reservations": 5,
+    "total_spend": 581.8,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Frisco",
+    "state": "TX",
+    "reservations": 20,
+    "total_spend": 570.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "reservations": 11,
+    "total_spend": 549.86,
+    "venues": 5,
+    "members": 7
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "reservations": 5,
+    "total_spend": 335.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "reservations": 4,
+    "total_spend": 289.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Hickory",
+    "state": "NC",
+    "reservations": 3,
+    "total_spend": 266.52,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Scottsdale",
+    "state": "AZ",
+    "reservations": 3,
+    "total_spend": 236.81,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "reservations": 4,
+    "total_spend": 221.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "reservations": 3,
+    "total_spend": 158.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "reservations": 4,
+    "total_spend": 136.0,
+    "venues": 1,
+    "members": 1
+  }
+]

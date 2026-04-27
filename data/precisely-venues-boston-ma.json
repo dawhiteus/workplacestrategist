@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2439de9a-3b24-4848-b837-4abc2bd5d70c",
+    "venue_name": "Regus | Seaport - One Marina Park",
+    "latitude": 42.35319900512695,
+    "longitude": -71.04540252685547,
+    "reservations": 3,
+    "spend": 2184.7
+  },
+  {
+    "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
+    "venue_name": "Idea Space - Back Bay",
+    "latitude": 42.34859848022461,
+    "longitude": -71.08344268798828,
+    "reservations": 4,
+    "spend": 1848.0
+  }
+]

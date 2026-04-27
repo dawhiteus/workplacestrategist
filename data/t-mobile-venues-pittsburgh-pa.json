@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ff2ab9dc-9117-47dc-8b93-f3b8ace394d3",
+    "venue_name": "OneValley at the Roundhouse",
+    "latitude": 40.4209098815918,
+    "longitude": -79.95079040527344,
+    "reservations": 110,
+    "spend": 43470.0
+  },
+  {
+    "venue_id": "30465a71-37e9-42fb-9f5a-8662c4b01664",
+    "venue_name": "Regus | Foster Plaza",
+    "latitude": 40.422000885009766,
+    "longitude": -80.06069946289062,
+    "reservations": 19,
+    "spend": 8034.64
+  },
+  {
+    "venue_id": "942b9148-29ce-4360-9537-0475a2f1a728",
+    "venue_name": "HQ | PA, Pittsburgh - Cliff Mine Rd",
+    "latitude": 40.45695114135742,
+    "longitude": -80.19198608398438,
+    "reservations": 2,
+    "spend": 902.5
+  }
+]

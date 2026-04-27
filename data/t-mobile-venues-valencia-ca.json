@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ac23fa17-b62c-4f64-ba69-c15929dfa437",
+    "venue_name": "Regus | Gateway Plaza",
+    "latitude": 34.42340850830078,
+    "longitude": -118.57767486572266,
+    "reservations": 166,
+    "spend": 51712.28
+  },
+  {
+    "venue_id": "7cbd5b35-df72-4808-a2eb-e9e8f901fb75",
+    "venue_name": "Barrister Executive Suites | Valencia",
+    "latitude": 34.44279479980469,
+    "longitude": -118.6115951538086,
+    "reservations": 19,
+    "spend": 6745.0
+  }
+]

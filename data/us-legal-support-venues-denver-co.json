@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741546630859375,
+    "longitude": -104.98779296875,
+    "reservations": 2,
+    "spend": 1000.0
+  },
+  {
+    "venue_id": "b0b59cc8-7292-49cb-a21f-136dbbba5a3d",
+    "venue_name": "Office Evolution - One Cherry Creek",
+    "latitude": 39.70690155029297,
+    "longitude": -104.93441009521484,
+    "reservations": 2,
+    "spend": 700.0
+  },
+  {
+    "venue_id": "ecc9eb17-9a1d-49a1-8ab1-eb99012fa607",
+    "venue_name": "Runway Workspaces (formerly SmartSpace)",
+    "latitude": 39.751220703125,
+    "longitude": -104.88986206054688,
+    "reservations": 3,
+    "spend": 385.0
+  }
+]

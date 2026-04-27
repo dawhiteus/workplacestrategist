@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "23da23da-e224-4dfc-bdd6-519a359c9778",
+    "venue_name": "Bond Collective - Center City (Station House)",
+    "latitude": 39.95418930053711,
+    "longitude": -75.16766357421875,
+    "reservations": 3,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "b5acc1e9-5305-4e53-8092-0909b1270e9d",
+    "venue_name": "Mindspace Philadelphia",
+    "latitude": 39.9512939453125,
+    "longitude": -75.16192626953125,
+    "reservations": 3,
+    "spend": 90.0
+  }
+]

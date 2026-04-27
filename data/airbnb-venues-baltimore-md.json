@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cd196b3a-732a-4bab-8686-9b4c3e53b5a3",
+    "venue_name": "The Cube",
+    "latitude": 39.34329605102539,
+    "longitude": -76.56812286376953,
+    "reservations": 3,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "8ee007e4-6e7a-47c5-b239-85e7a086582e",
+    "venue_name": "Spark Baltimore",
+    "latitude": 39.28929901123047,
+    "longitude": -76.60720825195312,
+    "reservations": 3,
+    "spend": 75.0
+  }
+]

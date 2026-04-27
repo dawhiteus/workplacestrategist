@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c8babd61-3fe9-4c84-98e8-35bedf1c9e8f",
+    "venue_name": "Regus | Grand Boulevard",
+    "latitude": 30.379514694213867,
+    "longitude": -86.31491088867188,
+    "reservations": 11,
+    "spend": 2894.22
+  },
+  {
+    "venue_id": "0981195d-8c2d-4350-9118-5666a0d15276",
+    "venue_name": "SPACES | FL, Miramar Beach - 495 Grand Blvd",
+    "latitude": 30.379514694213867,
+    "longitude": -86.31491088867188,
+    "reservations": 2,
+    "spend": 1253.0
+  }
+]

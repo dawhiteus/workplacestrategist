@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "080022c5-6306-4702-b881-fe3098116727",
+    "venue_name": "Office Evolution - Greensboro",
+    "latitude": 36.09095001220703,
+    "longitude": -79.81592559814453,
+    "reservations": 36,
+    "spend": 6800.0
+  },
+  {
+    "venue_id": "33837483-bfe0-42cd-a496-0a48ad2268c5",
+    "venue_name": "Venture X | Greensboro",
+    "latitude": 36.090187072753906,
+    "longitude": -79.82506561279297,
+    "reservations": 10,
+    "spend": 3608.0
+  },
+  {
+    "venue_id": "a8cb3975-e51d-47dc-a4fd-ecd0d13a0991",
+    "venue_name": "Regus | Green Valley Office Park",
+    "latitude": 36.09235763549805,
+    "longitude": -79.82190704345703,
+    "reservations": 8,
+    "spend": 1263.0
+  },
+  {
+    "venue_id": "972a3df9-b7af-43ff-960b-d0f851e06dff",
+    "venue_name": "Byron Office Space Solutions-Greensboro Suburban Office",
+    "latitude": 36.12242126464844,
+    "longitude": -79.79427337646484,
+    "reservations": 5,
+    "spend": 630.0
+  }
+]
