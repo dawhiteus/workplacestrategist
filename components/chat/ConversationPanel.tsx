@@ -68,7 +68,9 @@ export function ConversationPanel({
 
     const reply = action.type === 'answer'
       ? action.text
-      : `I can answer questions about any market, compare cities, or summarize the portfolio. Try "How many reservations in Atlanta?" or "Compare Atlanta and New York."`
+      : action.type === 'off_topic'
+      ? `That's outside my scope. I'm focused on flex workspace and booking data — reservations, spend, market viability, and hub economics for ${enterprise}.\n\nTry: "How many bookings in Chicago?" or "Which markets have the highest spend?"`
+      : `I didn't find a match for that. I can answer questions about specific markets, compare cities, or summarize the portfolio.\n\nTry: "How many reservations in Atlanta?" or "Compare Atlanta and New York."`
 
     onAddMessage({
       id: (Date.now() + 1).toString(),

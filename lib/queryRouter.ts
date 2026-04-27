@@ -3,7 +3,29 @@ import { formatCurrency } from './utils'
 
 export type RouterAction =
   | { type: 'answer'; text: string }
+  | { type: 'off_topic' }
   | { type: 'none' }
+
+// Terms that signal a workplace/flex data question
+const RELEVANT_TERMS = [
+  'booking', 'reservation', 'spend', 'market', 'city', 'hub', 'venue',
+  'member', 'portfolio', 'workplace', 'office', 'flex', 'demand', 'viability',
+  'score', 'hvs', 'dvi', 'dci', 'eri', 'commute', 'headcount', 'quarter',
+  'month', 'year', 'week', 'trend', 'concentration', 'compare', 'rank',
+  'top', 'best', 'worst', 'highest', 'lowest', 'cost', 'roi', 'economic',
+  'enterprise', 'account', 'employee', 'worker', 'remote', 'hybrid',
+]
+
+function isRelevant(text: string, metros: MetroSummary[]): boolean {
+  const lower = normalize(text)
+  // Relevant if it contains a known workplace term
+  if (RELEVANT_TERMS.some(t => lower.includes(t))) return true
+  // Relevant if it mentions a city in the portfolio
+  if (metros.some(m => matchesAlias(lower, normalize(m.city)))) return true
+  // Relevant if it mentions a known alias
+  if (Object.keys(ALIASES).some(a => matchesAlias(lower, a))) return true
+  return false
+}
 
 // City aliases — matched with word boundaries to avoid substring false-positives
 const ALIASES: Record<string, string> = {
@@ -95,6 +117,11 @@ export function routeQuery(query: string, metros: MetroSummary[], enterprise = '
       type: 'answer',
       text: `You're currently viewing **${enterprise}** data. I can only answer questions scoped to the active enterprise.\n\nTo look up ${mentionedOther.toUpperCase()} data, switch the enterprise using the dropdown in the context bar.`,
     }
+  }
+
+  // --- Relevance gate — decline anything not about flex/workplace data ---
+  if (!isRelevant(query, metros)) {
+    return { type: 'off_topic' }
   }
 
   // --- Compare ---
