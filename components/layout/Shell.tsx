@@ -7,6 +7,7 @@ import { ConversationPanel } from '@/components/chat/ConversationPanel'
 import { RightRail } from './RightRail'
 import { ContextBar } from './ContextBar'
 import type { MetroHubAnalysis, MetroSummary } from '@/lib/types'
+import { MarketIntakeModal } from '@/components/hub-locator/MarketIntakeModal'
 
 // Lazy-load the heavy metro analysis canvas to avoid SSR issues with leaflet
 const MetroAnalysisCanvas = dynamic(
@@ -57,6 +58,7 @@ export function Shell({ children }: ShellProps) {
   const [selectedMetro, setSelectedMetro] = useState<{ city: string; state: string } | null>(null)
   const [metroLoading, setMetroLoading] = useState(false)
   const [sessionHistory, setSessionHistory] = useState<SessionEntry[]>([])
+  const [intakeOpen, setIntakeOpen] = useState(false)
 
   // Track real session history whenever a canvas loads
   useEffect(() => {
@@ -106,17 +108,22 @@ export function Shell({ children }: ShellProps) {
       setSelectedMetro({ city: data.metro?.city ?? '', state: data.metro?.state ?? '' })
       setCanvasData({ tool: 'get_metro_analysis', data })
     }
+    function onOpenIntakeModal() {
+      setIntakeOpen(true)
+    }
     window.addEventListener('load-canvas', onLoadCanvas)
     window.addEventListener('load-compare', onLoadCompare)
     window.addEventListener('load-ranking', onLoadRanking)
     window.addEventListener('load-budget', onLoadBudget)
     window.addEventListener('load-intake-analysis', onLoadIntakeAnalysis)
+    window.addEventListener('open-intake-modal', onOpenIntakeModal)
     return () => {
       window.removeEventListener('load-canvas', onLoadCanvas)
       window.removeEventListener('load-compare', onLoadCompare)
       window.removeEventListener('load-ranking', onLoadRanking)
       window.removeEventListener('load-budget', onLoadBudget)
       window.removeEventListener('load-intake-analysis', onLoadIntakeAnalysis)
+      window.removeEventListener('open-intake-modal', onOpenIntakeModal)
     }
   }, []) // eslint-disable-line
 
@@ -256,6 +263,8 @@ export function Shell({ children }: ShellProps) {
 
       {/* Right: insights rail */}
       <RightRail canvasData={canvasData} sessionHistory={sessionHistory} />
+
+      {intakeOpen && <MarketIntakeModal onClose={() => setIntakeOpen(false)} />}
     </div>
   )
 }

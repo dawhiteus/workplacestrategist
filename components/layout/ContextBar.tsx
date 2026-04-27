@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
-import { ChevronDown, MapPin, Search } from 'lucide-react'
+import { ChevronDown, MapPin, Search, Plus } from 'lucide-react'
 import type { MetroSummary } from '@/lib/types'
 
 interface ContextBarProps {
@@ -110,7 +110,16 @@ export function ContextBar({ metros, selectedMetro, onMetroSelect }: ContextBarP
 
       </div>
 
-      <div className="text-subtle text-xs">Data as of {dateStr} · {timeStr}</div>
+      <div className="flex items-center gap-3">
+        <button
+          onClick={() => window.dispatchEvent(new CustomEvent('open-intake-modal'))}
+          className="flex items-center gap-1.5 px-2.5 py-1 rounded-pill bg-ls-500 hover:bg-ls-600 text-white text-xs font-semibold transition-colors"
+        >
+          <Plus size={11} />
+          New Analysis
+        </button>
+        <span className="text-subtle text-xs">Data as of {dateStr} · {timeStr}</span>
+      </div>
     </div>
   )
 }

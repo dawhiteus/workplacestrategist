@@ -8,7 +8,6 @@ import {
 } from 'lucide-react'
 import type { MetroSummary } from '@/lib/types'
 import { formatCurrency } from '@/lib/utils'
-import { MarketIntakeModal } from '@/components/hub-locator/MarketIntakeModal'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -255,7 +254,6 @@ function CompareCard({ metros, defaultMarkets, onCompare }: {
 export default function HubLocatorPage() {
   const [metros, setMetros] = useState<MetroSummary[]>([])
   const [loading, setLoading] = useState(true)
-  const [intakeOpen, setIntakeOpen] = useState(false)
 
   useEffect(() => {
     fetch('/api/pulse/metros?enterprise=Allstate')
@@ -418,7 +416,7 @@ export default function HubLocatorPage() {
 
           {/* New Market Intake card */}
           <button
-            onClick={() => setIntakeOpen(true)}
+            onClick={() => window.dispatchEvent(new CustomEvent('open-intake-modal'))}
             className="flex items-center gap-3 p-3.5 bg-card rounded-xl border border-dashed border-ls-300 hover:border-ls-500 hover:bg-ls-50 transition-colors text-left group"
           >
             <div className="w-7 h-7 rounded-lg bg-ls-50 border border-ls-200 flex items-center justify-center flex-shrink-0 group-hover:bg-ls-100 transition-colors">
@@ -473,8 +471,6 @@ export default function HubLocatorPage() {
       </div>
 
     </div>
-
-    {intakeOpen && <MarketIntakeModal onClose={() => setIntakeOpen(false)} />}
     </>
   )
 }

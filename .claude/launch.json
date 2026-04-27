@@ -2,10 +2,11 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "workplace-strategist",
+      "name": "Workplace Strategist",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["run", "dev"],
-      "port": 3007
+      "runtimeArgs": ["run", "dev", "--", "-p", "3007"],
+      "port": 3007,
+      "cwd": "/Users/davidwhite/Desktop/Workplace Strategist"
     }
   ]
 }
