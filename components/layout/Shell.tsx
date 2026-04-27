@@ -46,6 +46,7 @@ interface ShellProps {
 export interface SessionEntry {
   label: string
   timestamp: Date
+  canvasData: CanvasData
 }
 
 export function Shell({ children }: ShellProps) {
@@ -64,24 +65,27 @@ export function Shell({ children }: ShellProps) {
   // Ref so event-listener callbacks (registered once) always read the current enterprise
   const enterpriseRef = useRef('Allstate')
 
-  // Track real session history whenever a canvas loads
+  // Track real session history whenever a canvas loads — skip if restoring an existing entry
   useEffect(() => {
     if (!canvasData) return
-    let label = ''
-    if (canvasData.tool === 'get_metro_analysis') {
-      const d = canvasData.data as MetroHubAnalysis
-      label = `${d.metro?.city}, ${d.metro?.state} — Hub Viability`
-    } else if (canvasData.tool === 'compare_metros') {
-      const comp = (canvasData.data as Record<string, unknown>).comparison as Array<Record<string, unknown>>
-      const names = (comp || []).map(m => m.city).join(', ')
-      label = `Comparison: ${names}`
-    } else if (canvasData.tool === 'portfolio_ranking') {
-      const sortBy = (canvasData.data as Record<string, unknown>).sortBy
-      label = sortBy === 'concentration' ? 'Demand Concentration Ranking' : 'Portfolio Ranking by Spend'
-    }
-    if (label) {
-      setSessionHistory(prev => [{ label, timestamp: new Date() }, ...prev].slice(0, 8))
-    }
+    setSessionHistory(prev => {
+      // If this exact canvasData object is already in history, don't duplicate it
+      if (prev.some(e => e.canvasData === canvasData)) return prev
+      let label = ''
+      if (canvasData.tool === 'get_metro_analysis') {
+        const d = canvasData.data as MetroHubAnalysis
+        label = `${d.metro?.city}, ${d.metro?.state} — Hub Viability`
+      } else if (canvasData.tool === 'compare_metros') {
+        const comp = (canvasData.data as Record<string, unknown>).comparison as Array<Record<string, unknown>>
+        const names = (comp || []).map(m => m.city).join(', ')
+        label = `Comparison: ${names}`
+      } else if (canvasData.tool === 'portfolio_ranking') {
+        const sortBy = (canvasData.data as Record<string, unknown>).sortBy
+        label = sortBy === 'concentration' ? 'Demand Concentration Ranking' : 'Portfolio Ranking by Spend'
+      }
+      if (!label) return prev
+      return [{ label, timestamp: new Date(), canvasData }, ...prev].slice(0, 8)
+    })
   }, [canvasData])
 
   useEffect(() => {
@@ -286,7 +290,11 @@ export function Shell({ children }: ShellProps) {
       </div>
 
       {/* Right: insights rail */}
-      <RightRail canvasData={canvasData} sessionHistory={sessionHistory} />
+      <RightRail
+        canvasData={canvasData}
+        sessionHistory={sessionHistory}
+        onRestoreSession={(entry) => setCanvasData(entry.canvasData)}
+      />
 
       {intakeOpen && <MarketIntakeModal onClose={() => setIntakeOpen(false)} />}
     </div>

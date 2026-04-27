@@ -9,6 +9,7 @@ import { cn } from '@/lib/utils'
 interface RightRailProps {
   canvasData: CanvasData | null
   sessionHistory: SessionEntry[]
+  onRestoreSession: (entry: SessionEntry) => void
 }
 
 // ── Insight derivation ────────────────────────────────────────────────────────
@@ -249,7 +250,7 @@ function timeAgo(date: Date): string {
 
 // ── Main component ────────────────────────────────────────────────────────────
 
-export function RightRail({ canvasData, sessionHistory }: RightRailProps) {
+export function RightRail({ canvasData, sessionHistory, onRestoreSession }: RightRailProps) {
   const [originatedEvents, setOriginatedEvents] = useState<OriginatedEvent[]>([])
 
   useEffect(() => {
@@ -343,15 +344,28 @@ export function RightRail({ canvasData, sessionHistory }: RightRailProps) {
           <div>
             <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider mb-2">This Session</div>
             <div className="flex flex-col gap-0.5">
-              {sessionHistory.map((s, i) => (
-                <div key={i} className="flex items-start gap-2 px-2 py-1.5 rounded-lg text-left">
-                  <Clock size={10} className="text-subtle mt-0.5 flex-shrink-0" />
-                  <div>
-                    <div className="text-xs text-body leading-tight">{s.label}</div>
-                    <div className="text-[10px] text-subtle">{timeAgo(s.timestamp)}</div>
-                  </div>
-                </div>
-              ))}
+              {sessionHistory.map((s, i) => {
+                const isActive = canvasData === s.canvasData
+                return (
+                  <button
+                    key={i}
+                    onClick={() => onRestoreSession(s)}
+                    className={`w-full flex items-start gap-2 px-2 py-1.5 rounded-lg text-left transition-colors ${
+                      isActive
+                        ? 'bg-ls-50 text-ls-700'
+                        : 'hover:bg-page text-body'
+                    }`}
+                  >
+                    <Clock size={10} className={`mt-0.5 flex-shrink-0 ${isActive ? 'text-ls-500' : 'text-subtle'}`} />
+                    <div>
+                      <div className={`text-xs leading-tight ${isActive ? 'font-medium text-ls-700' : 'text-body'}`}>
+                        {s.label}
+                      </div>
+                      <div className="text-[10px] text-subtle">{timeAgo(s.timestamp)}</div>
+                    </div>
+                  </button>
+                )
+              })}
             </div>
           </div>
         )}
