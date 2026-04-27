@@ -14,6 +14,11 @@ function metroKey(city: string, state: string): string {
   return `${city.toLowerCase().replace(/\s+/g, '-')}-${state.toLowerCase()}`
 }
 
+// Escape single quotes to prevent SQL injection
+function esc(s: string): string {
+  return s.replace(/'/g, "''")
+}
+
 export async function getMetroPortfolio(enterprise: string): Promise<Array<{
   city: string
   state: string
@@ -22,7 +27,31 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
   venues: number
   members: number
 }>> {
-  // Only Allstate seeded for now
+  const parquetDir = process.env.PULSE_DATA_PATH
+  const parquetPath = parquetDir ? `${parquetDir}/HourlyDailyReservations.parquet` : null
+
+  if (parquetPath && fs.existsSync(parquetPath)) {
+    try {
+      return await queryParquet<{ city: string; state: string; reservations: number; total_spend: number; venues: number; members: number }>(`
+        SELECT City as city, State as state,
+          COUNT(*) as reservations,
+          SUM(DiscountedPriceUSD) as total_spend,
+          COUNT(DISTINCT VenueId) as venues,
+          COUNT(DISTINCT EnterpriseMemberId) as members
+        FROM read_parquet('${parquetPath}')
+        WHERE EnterpriseAccount = '${esc(enterprise)}'
+          AND Country = 'US'
+          AND Status IN ('Completed', 'CancellationPolicy')
+        GROUP BY City, State
+        HAVING COUNT(*) >= 3
+        ORDER BY total_spend DESC
+      `)
+    } catch (err) {
+      console.error('[getMetroPortfolio] DuckDB query failed:', err)
+    }
+  }
+
+  // Seeded fallback — only Allstate has seeded data
   if (enterprise === 'Allstate') {
     return readJson('allstate-metros.json')
   }
@@ -37,6 +66,34 @@ export async function getMetroVenues(enterprise: string, city: string, state: st
   reservations: number
   spend: number
 }>> {
+  const parquetDir = process.env.PULSE_DATA_PATH
+  const reservationsPath = parquetDir ? `${parquetDir}/HourlyDailyReservations.parquet` : null
+  const venuesPath = parquetDir ? `${parquetDir}/Venues.parquet` : null
+
+  if (reservationsPath && venuesPath && fs.existsSync(reservationsPath) && fs.existsSync(venuesPath)) {
+    try {
+      return await queryParquet<{ venue_id: string; venue_name: string; latitude: number; longitude: number; reservations: number; spend: number }>(`
+        SELECT r.VenueId as venue_id, r.Venue as venue_name,
+          v.Latitude as latitude, v.Longitude as longitude,
+          COUNT(*) as reservations,
+          SUM(r.DiscountedPriceUSD) as spend
+        FROM read_parquet('${reservationsPath}') r
+        LEFT JOIN read_parquet('${venuesPath}') v ON r.VenueId = v.ID
+        WHERE r.EnterpriseAccount = '${esc(enterprise)}'
+          AND r.City = '${esc(city)}'
+          AND r.State = '${esc(state)}'
+          AND r.Country = 'US'
+          AND r.Status IN ('Completed', 'CancellationPolicy')
+          AND v.Latitude IS NOT NULL AND v.Longitude IS NOT NULL
+        GROUP BY r.VenueId, r.Venue, v.Latitude, v.Longitude
+        ORDER BY spend DESC
+      `)
+    } catch (err) {
+      console.error('[getMetroVenues] DuckDB query failed:', err)
+    }
+  }
+
+  // Seeded fallback — file-based JSON per enterprise/metro
   const key = metroKey(city, state)
   const filename = `${enterprise.toLowerCase()}-venues-${key}.json`
   const filePath = path.join(DATA_DIR, filename)
@@ -53,6 +110,30 @@ export async function getDailyDemand(
   state: string,
   _lookbackDays = 365
 ): Promise<Array<{ day: string; bookings: number; spend: number }>> {
+  const parquetDir = process.env.PULSE_DATA_PATH
+  const parquetPath = parquetDir ? `${parquetDir}/HourlyDailyReservations.parquet` : null
+
+  if (parquetPath && fs.existsSync(parquetPath)) {
+    try {
+      return await queryParquet<{ day: string; bookings: number; spend: number }>(`
+        SELECT CAST(StartTime AS DATE)::VARCHAR as day,
+          COUNT(*) as bookings,
+          SUM(DiscountedPriceUSD) as spend
+        FROM read_parquet('${parquetPath}')
+        WHERE EnterpriseAccount = '${esc(enterprise)}'
+          AND City = '${esc(city)}'
+          AND State = '${esc(state)}'
+          AND Country = 'US'
+          AND Status IN ('Completed', 'CancellationPolicy')
+        GROUP BY CAST(StartTime AS DATE)
+        ORDER BY day
+      `)
+    } catch (err) {
+      console.error('[getDailyDemand] DuckDB query failed:', err)
+    }
+  }
+
+  // Seeded fallback — file-based JSON per enterprise/metro
   const key = metroKey(city, state)
   const filename = `${enterprise.toLowerCase()}-demand-${key}.json`
   const filePath = path.join(DATA_DIR, filename)
@@ -65,10 +146,33 @@ export async function getDailyDemand(
 export async function getPeerBenchmarks(
   city: string,
   state: string,
-  _excludeEnterprise: string
+  excludeEnterprise: string
 ): Promise<Array<{ enterprise: string; reservations: number; members: number }>> {
-  // Peer benchmark data is anonymized — we synthesize plausible values
-  // based on the market tier (NYC and Atlanta are major markets)
+  const parquetDir = process.env.PULSE_DATA_PATH
+  const parquetPath = parquetDir ? `${parquetDir}/HourlyDailyReservations.parquet` : null
+
+  if (parquetPath && fs.existsSync(parquetPath)) {
+    try {
+      return await queryParquet<{ enterprise: string; reservations: number; members: number }>(`
+        SELECT EnterpriseAccount as enterprise,
+          COUNT(*) as reservations,
+          COUNT(DISTINCT EnterpriseMemberId) as members
+        FROM read_parquet('${parquetPath}')
+        WHERE City = '${esc(city)}' AND State = '${esc(state)}'
+          AND Country = 'US'
+          AND Status IN ('Completed', 'CancellationPolicy')
+          AND EnterpriseAccount != '${esc(excludeEnterprise)}'
+        GROUP BY EnterpriseAccount
+        HAVING COUNT(*) >= 3
+        ORDER BY reservations DESC
+        LIMIT 25
+      `)
+    } catch (err) {
+      console.error('[getPeerBenchmarks] DuckDB query failed:', err)
+    }
+  }
+
+  // Fallback — synthesize plausible values for known major markets
   const majorMarkets: Record<string, Array<{ enterprise: string; reservations: number; members: number }>> = {
     'new-york-ny': Array.from({ length: 12 }, (_, i) => ({
       enterprise: `ENTERPRISE_${i + 1}`,
@@ -86,6 +190,25 @@ export async function getPeerBenchmarks(
 }
 
 export async function getEnterpriseList(): Promise<string[]> {
+  const parquetDir = process.env.PULSE_DATA_PATH
+  const parquetPath = parquetDir ? `${parquetDir}/EnterpriseEngagementSummary.parquet` : null
+
+  if (parquetPath && fs.existsSync(parquetPath)) {
+    try {
+      const rows = await queryParquet<{ name: string }>(`
+        SELECT AccountName as name
+        FROM read_parquet('${parquetPath}')
+        WHERE Status = 'Launched'
+        ORDER BY AccountName
+      `)
+      if (rows.length > 0) {
+        return rows.map(r => r.name)
+      }
+    } catch (err) {
+      console.error('[getEnterpriseList] DuckDB query failed:', err)
+    }
+  }
+
   return ['Allstate']
 }
 

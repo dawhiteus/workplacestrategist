@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import dynamic from 'next/dynamic'
 import { Navigation } from './Navigation'
 import { ConversationPanel } from '@/components/chat/ConversationPanel'
@@ -59,6 +59,10 @@ export function Shell({ children }: ShellProps) {
   const [metroLoading, setMetroLoading] = useState(false)
   const [sessionHistory, setSessionHistory] = useState<SessionEntry[]>([])
   const [intakeOpen, setIntakeOpen] = useState(false)
+  const [enterprise, setEnterprise] = useState('Allstate')
+  const [enterprises, setEnterprises] = useState<string[]>(['Allstate'])
+  // Ref so event-listener callbacks (registered once) always read the current enterprise
+  const enterpriseRef = useRef('Allstate')
 
   // Track real session history whenever a canvas loads
   useEffect(() => {
@@ -81,11 +85,18 @@ export function Shell({ children }: ShellProps) {
   }, [canvasData])
 
   useEffect(() => {
-    fetch('/api/pulse/metros?enterprise=Allstate')
+    fetch('/api/pulse/enterprises')
+      .then(r => r.json())
+      .then(d => setEnterprises(d.enterprises || ['Allstate']))
+      .catch(() => {})
+  }, [])
+
+  useEffect(() => {
+    fetch(`/api/pulse/metros?enterprise=${encodeURIComponent(enterprise)}`)
       .then(r => r.json())
       .then(d => setMetros(d.metros || []))
       .catch(() => {})
-  }, [])
+  }, [enterprise])
 
   useEffect(() => {
     function onLoadCanvas(e: Event) {
@@ -136,7 +147,8 @@ export function Shell({ children }: ShellProps) {
     setSelectedMetro({ city, state })
     setMetroLoading(true)
     try {
-      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=Allstate&hubCost=8000&uplift=25&radius=30`)
+      const ent = enterpriseRef.current
+      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=${encodeURIComponent(ent)}&hubCost=8000&uplift=25&radius=30`)
       if (res.ok) {
         const data = await res.json()
         setCanvasData({ tool: 'get_metro_analysis', data })
@@ -149,7 +161,8 @@ export function Shell({ children }: ShellProps) {
     setSelectedMetro({ city, state })
     setMetroLoading(true)
     try {
-      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=Allstate&hubCost=${hubCost}&uplift=25&radius=30`)
+      const ent = enterpriseRef.current
+      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=${encodeURIComponent(ent)}&hubCost=${hubCost}&uplift=25&radius=30`)
       if (res.ok) {
         const data = await res.json()
         setCanvasData({ tool: 'get_metro_analysis', data })
@@ -162,7 +175,8 @@ export function Shell({ children }: ShellProps) {
     setMetroLoading(true)
     setCanvasData(null)
     try {
-      const res = await fetch('/api/pulse/metros?enterprise=Allstate')
+      const ent = enterpriseRef.current
+      const res = await fetch(`/api/pulse/metros?enterprise=${encodeURIComponent(ent)}`)
       if (res.ok) {
         const { metros } = await res.json()
         setCanvasData({ tool: 'budget_simulator', data: { metros } })
@@ -175,7 +189,8 @@ export function Shell({ children }: ShellProps) {
     setMetroLoading(true)
     setCanvasData(null)
     try {
-      const res = await fetch('/api/pulse/metros?enterprise=Allstate')
+      const ent = enterpriseRef.current
+      const res = await fetch(`/api/pulse/metros?enterprise=${encodeURIComponent(ent)}`)
       if (res.ok) {
         const { metros } = await res.json()
         setCanvasData({ tool: 'portfolio_ranking', data: { metros, sortBy, minSpend: minSpend ?? null } })
@@ -188,9 +203,10 @@ export function Shell({ children }: ShellProps) {
     setMetroLoading(true)
     setCanvasData(null)
     try {
+      const ent = enterpriseRef.current
       const results = await Promise.all(
         metroList.map(({ city, state }) =>
-          fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=Allstate&hubCost=8000&uplift=25&radius=30`)
+          fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=${encodeURIComponent(ent)}&hubCost=8000&uplift=25&radius=30`)
             .then(r => r.ok ? r.json() : null)
         )
       )
@@ -246,6 +262,14 @@ export function Shell({ children }: ShellProps) {
           metros={metros}
           selectedMetro={selectedMetro}
           onMetroSelect={handleMetroSelect}
+          enterprises={enterprises}
+          selectedEnterprise={enterprise}
+          onEnterpriseSelect={(name) => {
+            enterpriseRef.current = name
+            setEnterprise(name)
+            setCanvasData(null)
+            setSelectedMetro(null)
+          }}
         />
         <main className="flex-1 overflow-y-auto">
           {canvasData ? (
@@ -338,7 +362,7 @@ function RankingCanvas({ data, onBack }: { data: Record<string, unknown>; onBack
     ? `${sorted.length} markets where hub economics are most likely to work`
     : sortBy === 'concentration'
       ? 'Markets ranked by bookings-per-venue ratio — higher = more concentrated demand'
-      : 'Markets ranked by total Allstate spend'
+      : 'Markets ranked by total spend'
 
   const maxVal = sorted[0]
     ? (sortBy === 'concentration'
