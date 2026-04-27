@@ -262,6 +262,7 @@ export function Shell({ children }: ShellProps) {
           onCanvasData={setCanvasData}
           activeTool={activeTool}
           metros={metros}
+          enterprise={enterprise}
         />
       </aside>
 

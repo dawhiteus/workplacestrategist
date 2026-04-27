@@ -72,8 +72,30 @@ function metroLine(m: MetroSummary): string {
   return `${m.city}, ${m.state} — ${formatCurrency(m.total_spend, true)}/yr · ${m.reservations} bookings · ${m.venues} venues`
 }
 
-export function routeQuery(query: string, metros: MetroSummary[]): RouterAction {
+export function routeQuery(query: string, metros: MetroSummary[], enterprise = 'Allstate'): RouterAction {
   const lower = normalize(query)
+
+  // --- Guard: query mentions a different enterprise by name ---
+  // Simple heuristic: if the query contains a recognisable company name that
+  // doesn't match the active enterprise, decline rather than silently answer
+  // with the wrong company's data.
+  const knownEnterprises = [
+    'at&t', 'att', 't-mobile', 'tmobile', 'verizon', 'airbnb', 'salesforce',
+    'gitlab', 'spotify', 'allstate', 'amazon', 'comcast', 'gartner', 'etsy',
+    'trinet', 'zscaler', 'cloudflare', 'ibotta', 'instacart', 'moderna',
+    'roche', 'genentech', 'broadridge', 'cvs', 'smartsheet', 'wrike',
+  ]
+  const enterpriseLower = normalize(enterprise)
+  const mentionedOther = knownEnterprises.find(e => {
+    if (e === enterpriseLower || e === normalize(enterprise)) return false
+    return new RegExp(`\\b${e.replace(/[^a-z0-9]/g, '.?')}\\b`).test(lower)
+  })
+  if (mentionedOther) {
+    return {
+      type: 'answer',
+      text: `You're currently viewing **${enterprise}** data. I can only answer questions scoped to the active enterprise.\n\nTo look up ${mentionedOther.toUpperCase()} data, switch the enterprise using the dropdown in the context bar.`,
+    }
+  }
 
   // --- Compare ---
   if (/\b(compare|vs|versus|side by side|next to)\b/.test(lower)) {
@@ -82,7 +104,7 @@ export function routeQuery(query: string, metros: MetroSummary[]): RouterAction 
       const lines = found.map(m => `• ${metroLine(m)}`).join('\n')
       return {
         type: 'answer',
-        text: `Here's a quick comparison:\n\n${lines}\n\nFor the full side-by-side HVS analysis, use the Market Comparison card on the main page.`,
+        text: `**${enterprise}** — market comparison:\n\n${lines}\n\nFor the full side-by-side HVS analysis, use the Market Comparison card on the main page.`,
       }
     }
   }
@@ -103,7 +125,7 @@ export function routeQuery(query: string, metros: MetroSummary[]): RouterAction 
     }).join('\n')
     return {
       type: 'answer',
-      text: `Top 5 markets by ${label}:\n\n${lines}\n\n${metros.length - 5} more markets in the portfolio. Use Portfolio Ranking for the full list.`,
+      text: `**${enterprise}** — top 5 markets by ${label}:\n\n${lines}\n\n${metros.length - 5} more markets in the portfolio. Use Portfolio Ranking for the full list.`,
     }
   }
 
@@ -116,7 +138,7 @@ export function routeQuery(query: string, metros: MetroSummary[]): RouterAction 
     const lines = top3.map(m => `• ${m.city}, ${m.state} — ${(m.reservations / m.venues).toFixed(1)} bookings/venue`).join('\n')
     return {
       type: 'answer',
-      text: `Most concentrated markets (bookings per venue):\n\n${lines}\n\nHigh concentration = demand clustered around a few locations = stronger hub signal.`,
+      text: `**${enterprise}** — most concentrated markets (bookings per venue):\n\n${lines}\n\nHigh concentration = demand clustered around a few locations = stronger hub signal.`,
     }
   }
 
@@ -126,7 +148,7 @@ export function routeQuery(query: string, metros: MetroSummary[]): RouterAction 
     const spendPerBooking = metro.reservations > 0 ? Math.round(metro.total_spend / metro.reservations) : 0
     return {
       type: 'answer',
-      text: `${metro.city}, ${metro.state} — past 12 months:\n\n• Reservations: ${metro.reservations}\n• Annual spend: ${formatCurrency(metro.total_spend, true)}\n• Avg per booking: $${spendPerBooking}\n• Active venues: ${metro.venues}\n• Members: ${metro.members}\n\nFor hub viability scoring, load the full analysis from the market dropdown.`,
+      text: `**${enterprise}** · ${metro.city}, ${metro.state}:\n\n• Reservations: ${metro.reservations}\n• Annual spend: ${formatCurrency(metro.total_spend, true)}\n• Avg per booking: $${spendPerBooking}\n• Active venues: ${metro.venues}\n• Members: ${metro.members}\n\nFor hub viability scoring, load the full analysis from the market dropdown.`,
     }
   }
 

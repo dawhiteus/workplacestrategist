@@ -15,6 +15,7 @@ interface ConversationPanelProps {
   onCanvasData: (data: CanvasData) => void
   activeTool: ActiveTool
   metros: MetroSummary[]
+  enterprise: string
 }
 
 export function ConversationPanel({
@@ -26,6 +27,7 @@ export function ConversationPanel({
   onCanvasData,
   activeTool,
   metros,
+  enterprise,
 }: ConversationPanelProps) {
   const [input, setInput] = useState('')
   const [streamingText, setStreamingText] = useState('')
@@ -62,7 +64,7 @@ export function ConversationPanel({
     onAddMessage(userMsg)
 
     // --- Data-driven routing — answers appear in chat only, no canvas side-effects ---
-    const action = routeQuery(query, metros)
+    const action = routeQuery(query, metros, enterprise)
 
     const reply = action.type === 'answer'
       ? action.text
