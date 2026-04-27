@@ -2,14 +2,12 @@
 
 import { useEffect, useState } from 'react'
 import {
-  MapPin, TrendingUp, DollarSign, BarChart3, Scale, X,
-  Building2, Globe, Users, AlertTriangle, GitFork, Zap,
+  MapPin, TrendingUp, DollarSign, BarChart3, Scale, X, Plus,
+  Building2, Globe, Users, AlertTriangle, GitFork,
   type LucideIcon,
 } from 'lucide-react'
 import type { MetroSummary } from '@/lib/types'
 import { formatCurrency } from '@/lib/utils'
-import { useEnterprise } from '@/lib/enterprise-context'
-import { PLATFORM_STATS } from '@/lib/prospect-constants'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -254,19 +252,16 @@ function CompareCard({ metros, defaultMarkets, onCompare }: {
 // ── Page ──────────────────────────────────────────────────────────────────────
 
 export default function HubLocatorPage() {
-  const enterprise = useEnterprise()
-  const isProspect = enterprise === 'PROSPECT'
   const [metros, setMetros] = useState<MetroSummary[]>([])
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    setLoading(true)
-    fetch(`/api/pulse/metros?enterprise=${enterprise}`)
+    fetch('/api/pulse/metros?enterprise=Allstate')
       .then(r => r.json())
       .then(d => setMetros(d.metros ?? []))
       .catch(() => {})
       .finally(() => setLoading(false))
-  }, [enterprise])
+  }, [])
 
   const stats = deriveStats(metros)
 
@@ -278,99 +273,6 @@ export default function HubLocatorPage() {
     } else {
       window.dispatchEvent(new CustomEvent('load-ranking', { detail: { sortBy: action.sortBy } }))
     }
-  }
-
-  // ── Benchmark Mode portfolio ─────────────────────────────────────────────────
-  if (isProspect) {
-    return (
-      <div className="p-6 max-w-5xl">
-        {/* Prospect header */}
-        <div className="mb-5">
-          <div className="flex items-center gap-2 mb-1">
-            <h1 className="text-lg font-semibold text-body">Hub Market Intelligence</h1>
-            <span className="text-xs px-2 py-0.5 rounded-pill bg-purple-50 border border-purple-200 text-purple-700 font-medium">
-              Benchmark Mode
-            </span>
-          </div>
-          <p className="text-sm text-subtle mt-0.5">
-            Explore hub viability across markets where enterprise clients are actively booking on the LiquidSpace platform.
-            Scores represent a per-enterprise average based on real booking data.
-          </p>
-        </div>
-
-        {/* Platform KPI tiles */}
-        <div className="grid grid-cols-4 gap-3 mb-5">
-          <StatTile icon={Globe}     label="Platform Markets"    value={`${PLATFORM_STATS.marketsWithData}+`}  sub="Markets with 3+ enterprise clients" accent="blue" />
-          <StatTile icon={Building2} label="Enterprise Clients"  value={PLATFORM_STATS.totalEnterprises.toString()} sub="Active enterprise accounts" accent="purple" />
-          <StatTile icon={Users}     label="Members Active"      value={PLATFORM_STATS.totalMembers.toLocaleString()} sub="Across all enterprise accounts" accent="amber" />
-          <StatTile icon={DollarSign} label="Platform Bookings" value={`${Math.round(PLATFORM_STATS.totalBookings / 1000)}K+`} sub="Annual enterprise reservations" accent="green" />
-        </div>
-
-        {/* Prospect insight banner */}
-        <div className="mb-5 flex flex-col gap-2">
-          <div className="text-[10px] font-semibold text-disabled uppercase tracking-widest mb-1">How Benchmark Mode Works</div>
-          <div className="bg-purple-50 border border-purple-200 rounded-xl p-4 flex items-start gap-3">
-            <Zap size={14} className="text-purple-600 mt-0.5 flex-shrink-0" />
-            <div>
-              <div className="text-xs font-semibold text-purple-700 mb-1">Benchmarks from real enterprise data</div>
-              <p className="text-xs text-purple-700/80 leading-relaxed">
-                Each market below shows a <strong>per-enterprise average</strong> — what a typical enterprise client books in that city.
-                Select a market to see a full Hub Viability Score based on those benchmarks. Use the Stress Test panel
-                inside any market to model your company's actual headcount and budget.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        {/* Market grid */}
-        <div className="mb-3">
-          <div className="text-[10px] font-semibold text-disabled uppercase tracking-widest mb-2">
-            Top Markets by Enterprise Activity
-          </div>
-          {loading ? (
-            <div className="grid grid-cols-3 gap-2">
-              {[...Array(9)].map((_, i) => (
-                <div key={i} className="bg-card rounded-xl border border-border p-4 h-24 animate-pulse" />
-              ))}
-            </div>
-          ) : (
-            <div className="grid grid-cols-3 gap-2">
-              {metros.map((m, i) => (
-                <button
-                  key={`${m.city}-${m.state}`}
-                  onClick={() => window.dispatchEvent(new CustomEvent('load-canvas', { detail: { city: m.city, state: m.state, hubCost: 8000 } }))}
-                  className="flex flex-col gap-1.5 p-3.5 bg-card rounded-xl border border-border hover:border-purple-300 hover:bg-purple-50 transition-colors text-left group"
-                >
-                  <div className="flex items-center justify-between">
-                    <div className="flex items-center gap-1.5">
-                      <span className="text-[10px] font-semibold text-disabled w-4">#{i + 1}</span>
-                      <span className="text-sm font-medium text-body group-hover:text-purple-700 transition-colors">
-                        {m.city}, {m.state}
-                      </span>
-                    </div>
-                    <span className="text-subtle group-hover:text-purple-500 transition-colors text-xs">→</span>
-                  </div>
-                  <div className="flex gap-3 pl-5">
-                    <div>
-                      <div className="text-[10px] text-disabled uppercase tracking-wider">Avg bkgs/yr</div>
-                      <div className="text-xs font-semibold text-body">{m.reservations}</div>
-                    </div>
-                    <div>
-                      <div className="text-[10px] text-disabled uppercase tracking-wider">Avg spend/yr</div>
-                      <div className="text-xs font-semibold text-body">{formatCurrency(m.total_spend, true)}</div>
-                    </div>
-                    <div>
-                      <div className="text-[10px] text-disabled uppercase tracking-wider">Venues</div>
-                      <div className="text-xs font-semibold text-body">{m.venues}</div>
-                    </div>
-                  </div>
-                </button>
-              ))}
-            </div>
-          )}
-        </div>
-      </div>
-    )
   }
 
   return (

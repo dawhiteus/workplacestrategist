@@ -6,7 +6,6 @@ import { Navigation } from './Navigation'
 import { ConversationPanel } from '@/components/chat/ConversationPanel'
 import { RightRail } from './RightRail'
 import { ContextBar } from './ContextBar'
-import { EnterpriseContext } from '@/lib/enterprise-context'
 import type { MetroHubAnalysis, MetroSummary } from '@/lib/types'
 
 // Lazy-load the heavy metro analysis canvas to avoid SSR issues with leaflet
@@ -50,7 +49,6 @@ export interface SessionEntry {
 
 export function Shell({ children }: ShellProps) {
   const [activeTool, setActiveTool] = useState<ActiveTool>('hub-locator')
-  const [enterprise, setEnterprise] = useState<string>('Allstate')
   const [messages, setMessages] = useState<ChatMessage[]>([])
   const [insights, setInsights] = useState<RailInsight[]>([])
   const [isStreaming, setIsStreaming] = useState(false)
@@ -81,17 +79,11 @@ export function Shell({ children }: ShellProps) {
   }, [canvasData])
 
   useEffect(() => {
-    fetch(`/api/pulse/metros?enterprise=${enterprise}`)
+    fetch('/api/pulse/metros?enterprise=Allstate')
       .then(r => r.json())
       .then(d => setMetros(d.metros || []))
       .catch(() => {})
-  }, [enterprise])
-
-  function handleEnterpriseChange(newEnterprise: string) {
-    setEnterprise(newEnterprise)
-    setSelectedMetro(null)
-    setCanvasData(null)
-  }
+  }, [])
 
   useEffect(() => {
     function onLoadCanvas(e: Event) {
@@ -130,7 +122,7 @@ export function Shell({ children }: ShellProps) {
     setSelectedMetro({ city, state })
     setMetroLoading(true)
     try {
-      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=${enterprise}&hubCost=8000&uplift=25&radius=30`)
+      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=Allstate&hubCost=8000&uplift=25&radius=30`)
       if (res.ok) {
         const data = await res.json()
         setCanvasData({ tool: 'get_metro_analysis', data })
@@ -143,7 +135,7 @@ export function Shell({ children }: ShellProps) {
     setSelectedMetro({ city, state })
     setMetroLoading(true)
     try {
-      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=${enterprise}&hubCost=${hubCost}&uplift=25&radius=30`)
+      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=Allstate&hubCost=${hubCost}&uplift=25&radius=30`)
       if (res.ok) {
         const data = await res.json()
         setCanvasData({ tool: 'get_metro_analysis', data })
@@ -156,7 +148,7 @@ export function Shell({ children }: ShellProps) {
     setMetroLoading(true)
     setCanvasData(null)
     try {
-      const res = await fetch(`/api/pulse/metros?enterprise=${enterprise}`)
+      const res = await fetch('/api/pulse/metros?enterprise=Allstate')
       if (res.ok) {
         const { metros } = await res.json()
         setCanvasData({ tool: 'budget_simulator', data: { metros } })
@@ -169,7 +161,7 @@ export function Shell({ children }: ShellProps) {
     setMetroLoading(true)
     setCanvasData(null)
     try {
-      const res = await fetch(`/api/pulse/metros?enterprise=${enterprise}`)
+      const res = await fetch('/api/pulse/metros?enterprise=Allstate')
       if (res.ok) {
         const { metros } = await res.json()
         setCanvasData({ tool: 'portfolio_ranking', data: { metros, sortBy, minSpend: minSpend ?? null } })
@@ -184,7 +176,7 @@ export function Shell({ children }: ShellProps) {
     try {
       const results = await Promise.all(
         metroList.map(({ city, state }) =>
-          fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=${enterprise}&hubCost=8000&uplift=25&radius=30`)
+          fetch(`/api/pulse/metro/${encodeURIComponent(city)}/${encodeURIComponent(state)}?enterprise=Allstate&hubCost=8000&uplift=25&radius=30`)
             .then(r => r.ok ? r.json() : null)
         )
       )
@@ -218,58 +210,52 @@ export function Shell({ children }: ShellProps) {
   }
 
   return (
-    <EnterpriseContext.Provider value={enterprise}>
-      <div className="flex h-screen overflow-hidden bg-page">
-        {/* Left: nav + conversation */}
-        <aside className="no-print flex flex-col w-64 min-w-64 bg-sidebar border-r border-border">
-          <Navigation activeTool={activeTool} onToolChange={setActiveTool} />
-          <ConversationPanel
-            messages={messages}
-            isStreaming={isStreaming}
-            onAddMessage={addMessage}
-            onAddInsight={addInsight}
-            onStreamingChange={setIsStreaming}
-            onCanvasData={setCanvasData}
-            activeTool={activeTool}
-            metros={metros}
-          />
-        </aside>
+    <div className="flex h-screen overflow-hidden bg-page">
+      {/* Left: nav + conversation */}
+      <aside className="no-print flex flex-col w-64 min-w-64 bg-sidebar border-r border-border">
+        <Navigation activeTool={activeTool} onToolChange={setActiveTool} />
+        <ConversationPanel
+          messages={messages}
+          isStreaming={isStreaming}
+          onAddMessage={addMessage}
+          onAddInsight={addInsight}
+          onStreamingChange={setIsStreaming}
+          onCanvasData={setCanvasData}
+          activeTool={activeTool}
+          metros={metros}
+        />
+      </aside>
 
-        {/* Middle: context bar + canvas */}
-        <div className="flex-1 flex flex-col overflow-hidden min-w-0">
-          <ContextBar
-            enterprise={enterprise}
-            metros={metros}
-            selectedMetro={selectedMetro}
-            onMetroSelect={handleMetroSelect}
-            onEnterpriseChange={handleEnterpriseChange}
-          />
-          <main className="flex-1 overflow-y-auto">
-            {canvasData ? (
-              <CanvasRenderer
-                canvasData={canvasData}
-                metroLoading={metroLoading}
-                enterprise={enterprise}
-                onBack={() => { setCanvasData(null); setSelectedMetro(null) }}
-                onDataUpdate={(data) => setCanvasData({ tool: 'get_metro_analysis', data })}
-              />
-            ) : (
-              children
-            )}
-          </main>
-        </div>
-
-        {/* Right: insights rail */}
-        <RightRail canvasData={canvasData} sessionHistory={sessionHistory} />
+      {/* Middle: context bar + canvas */}
+      <div className="flex-1 flex flex-col overflow-hidden min-w-0">
+        <ContextBar
+          metros={metros}
+          selectedMetro={selectedMetro}
+          onMetroSelect={handleMetroSelect}
+        />
+        <main className="flex-1 overflow-y-auto">
+          {canvasData ? (
+            <CanvasRenderer
+              canvasData={canvasData}
+              metroLoading={metroLoading}
+              onBack={() => { setCanvasData(null); setSelectedMetro(null) }}
+              onDataUpdate={(data) => setCanvasData({ tool: 'get_metro_analysis', data })}
+            />
+          ) : (
+            children
+          )}
+        </main>
       </div>
-    </EnterpriseContext.Provider>
+
+      {/* Right: insights rail */}
+      <RightRail canvasData={canvasData} sessionHistory={sessionHistory} />
+    </div>
   )
 }
 
-function CanvasRenderer({ canvasData, metroLoading, enterprise, onBack, onDataUpdate }: {
+function CanvasRenderer({ canvasData, metroLoading, onBack, onDataUpdate }: {
   canvasData: CanvasData
   metroLoading: boolean
-  enterprise: string
   onBack: () => void
   onDataUpdate?: (data: MetroHubAnalysis) => void
 }) {
@@ -287,7 +273,7 @@ function CanvasRenderer({ canvasData, metroLoading, enterprise, onBack, onDataUp
   if (canvasData.tool === 'get_metro_analysis') {
     const d = canvasData.data as MetroHubAnalysis
     if (!d.hvs) return null
-    return <MetroAnalysisCanvas data={d} enterprise={enterprise} onBack={onBack} onDataUpdate={onDataUpdate} />
+    return <MetroAnalysisCanvas data={d} onBack={onBack} onDataUpdate={onDataUpdate} />
   }
 
   if (canvasData.tool === 'compare_metros') {

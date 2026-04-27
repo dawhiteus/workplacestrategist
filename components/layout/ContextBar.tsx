@@ -1,49 +1,23 @@
 'use client'
 
 import { useState, useRef, useEffect } from 'react'
-import { ChevronDown, MapPin, Search, Users, Building2 } from 'lucide-react'
+import { ChevronDown, MapPin, Search } from 'lucide-react'
 import type { MetroSummary } from '@/lib/types'
 
 interface ContextBarProps {
-  enterprise: string
   metros: MetroSummary[]
   selectedMetro: { city: string; state: string } | null
   onMetroSelect: (city: string, state: string) => void
-  onEnterpriseChange: (enterprise: string) => void
 }
 
-const ENTERPRISE_OPTIONS = [
-  {
-    id: 'Allstate',
-    label: 'Allstate Enterprise',
-    sub: 'Your account data',
-    icon: Building2,
-    dot: 'bg-ls-500',
-    ring: 'border-ls-500 text-ls-600',
-    bg: 'hover:bg-ls-50',
-  },
-  {
-    id: 'PROSPECT',
-    label: 'Benchmark Mode',
-    sub: 'Platform benchmark data',
-    icon: Users,
-    dot: 'bg-purple-500',
-    ring: 'border-purple-500 text-purple-700',
-    bg: 'hover:bg-purple-50',
-  },
-]
-
-export function ContextBar({ enterprise, metros, selectedMetro, onMetroSelect, onEnterpriseChange }: ContextBarProps) {
-  const [metroOpen, setMetroOpen] = useState(false)
-  const [enterpriseOpen, setEnterpriseOpen] = useState(false)
+export function ContextBar({ metros, selectedMetro, onMetroSelect }: ContextBarProps) {
+  const [open, setOpen] = useState(false)
   const [search, setSearch] = useState('')
-  const metroRef = useRef<HTMLDivElement>(null)
-  const enterpriseRef = useRef<HTMLDivElement>(null)
+  const ref = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     function handleClick(e: MouseEvent) {
-      if (metroRef.current && !metroRef.current.contains(e.target as Node)) setMetroOpen(false)
-      if (enterpriseRef.current && !enterpriseRef.current.contains(e.target as Node)) setEnterpriseOpen(false)
+      if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false)
     }
     document.addEventListener('mousedown', handleClick)
     return () => document.removeEventListener('mousedown', handleClick)
@@ -53,9 +27,7 @@ export function ContextBar({ enterprise, metros, selectedMetro, onMetroSelect, o
     `${m.city} ${m.state}`.toLowerCase().includes(search.toLowerCase())
   )
 
-  const metroLabel = selectedMetro ? `${selectedMetro.city}, ${selectedMetro.state}` : 'All Markets'
-  const activeOption = ENTERPRISE_OPTIONS.find(o => o.id === enterprise) ?? ENTERPRISE_OPTIONS[0]
-  const isProspect = enterprise === 'PROSPECT'
+  const label = selectedMetro ? `${selectedMetro.city}, ${selectedMetro.state}` : 'All Markets'
 
   const now = new Date()
   const dateStr = now.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
@@ -66,66 +38,29 @@ export function ContextBar({ enterprise, metros, selectedMetro, onMetroSelect, o
       <div className="text-xs font-medium text-subtle uppercase tracking-wider">Context</div>
 
       <div className="flex items-center gap-2">
+        {/* Enterprise chip */}
+        <button className="flex items-center gap-1.5 px-2.5 py-1 rounded-pill border border-ls-500 text-ls-600 text-xs font-medium hover:bg-ls-50 transition-colors">
+          <span className="w-1.5 h-1.5 rounded-full bg-ls-500 inline-block" />
+          Allstate Enterprise
+          <ChevronDown size={11} />
+        </button>
 
-        {/* ── Enterprise / Mode switcher ───────────────────────────────── */}
-        <div className="relative" ref={enterpriseRef}>
+        {/* Market dropdown */}
+        <div className="relative" ref={ref}>
           <button
-            onClick={() => setEnterpriseOpen(o => !o)}
-            className={`flex items-center gap-1.5 px-2.5 py-1 rounded-pill border text-xs font-medium transition-colors ${activeOption.ring} ${activeOption.bg}`}
-          >
-            <span className={`w-1.5 h-1.5 rounded-full inline-block ${activeOption.dot}`} />
-            {activeOption.label}
-            <ChevronDown size={11} />
-          </button>
-
-          {enterpriseOpen && (
-            <div className="absolute top-full mt-1.5 left-0 z-50 w-52 bg-card border border-border rounded-xl shadow-modal overflow-hidden">
-              <div className="px-3 py-2 border-b border-border">
-                <div className="text-[10px] font-semibold text-disabled uppercase tracking-widest">Mode</div>
-              </div>
-              {ENTERPRISE_OPTIONS.map(opt => {
-                const Icon = opt.icon
-                const isActive = opt.id === enterprise
-                return (
-                  <button
-                    key={opt.id}
-                    onClick={() => { onEnterpriseChange(opt.id); setEnterpriseOpen(false) }}
-                    className={`w-full text-left px-3 py-2.5 flex items-center gap-2.5 transition-colors ${
-                      isActive ? 'bg-ls-50' : 'hover:bg-page'
-                    }`}
-                  >
-                    <span className={`w-1.5 h-1.5 rounded-full flex-shrink-0 ${opt.dot}`} />
-                    <Icon size={12} className={isActive ? 'text-ls-500' : 'text-subtle'} />
-                    <div>
-                      <div className={`text-xs font-medium ${isActive ? 'text-ls-600' : 'text-body'}`}>{opt.label}</div>
-                      <div className="text-[10px] text-subtle">{opt.sub}</div>
-                    </div>
-                    {isActive && <span className="ml-auto text-[10px] text-ls-500 font-semibold">✓</span>}
-                  </button>
-                )
-              })}
-            </div>
-          )}
-        </div>
-
-        {/* ── Market dropdown ──────────────────────────────────────────── */}
-        <div className="relative" ref={metroRef}>
-          <button
-            onClick={() => setMetroOpen(o => !o)}
+            onClick={() => setOpen(o => !o)}
             className={`flex items-center gap-1.5 px-2.5 py-1 rounded-pill border text-xs font-medium transition-colors ${
               selectedMetro
-                ? isProspect
-                  ? 'border-purple-400 text-purple-700 bg-purple-50'
-                  : 'border-ls-500 text-ls-600 bg-ls-50'
+                ? 'border-ls-500 text-ls-600 bg-ls-50'
                 : 'border-border text-body hover:bg-page'
             }`}
           >
             <MapPin size={11} />
-            {metroLabel}
+            {label}
             <ChevronDown size={11} />
           </button>
 
-          {metroOpen && (
+          {open && (
             <div className="absolute top-full mt-1.5 left-0 z-50 w-64 bg-card border border-border rounded-xl shadow-modal overflow-hidden">
               {/* Search */}
               <div className="px-3 py-2 border-b border-border">
@@ -135,7 +70,7 @@ export function ContextBar({ enterprise, metros, selectedMetro, onMetroSelect, o
                     autoFocus
                     value={search}
                     onChange={e => setSearch(e.target.value)}
-                    placeholder={isProspect ? 'Search platform markets…' : 'Search markets…'}
+                    placeholder="Search markets…"
                     className="text-xs bg-transparent outline-none text-body placeholder-subtle w-full"
                   />
                 </div>
@@ -143,10 +78,10 @@ export function ContextBar({ enterprise, metros, selectedMetro, onMetroSelect, o
 
               {/* All Markets option */}
               <button
-                onClick={() => { onMetroSelect('', ''); setMetroOpen(false); setSearch('') }}
+                onClick={() => { onMetroSelect('', ''); setOpen(false); setSearch('') }}
                 className="w-full text-left px-3 py-2 text-xs text-subtle hover:bg-page border-b border-border transition-colors"
               >
-                {isProspect ? 'All Platform Markets' : 'All Markets'}
+                All Markets
               </button>
 
               {/* Metro list */}
@@ -154,17 +89,15 @@ export function ContextBar({ enterprise, metros, selectedMetro, onMetroSelect, o
                 {filtered.slice(0, 40).map(m => (
                   <button
                     key={`${m.city}-${m.state}`}
-                    onClick={() => { onMetroSelect(m.city, m.state); setMetroOpen(false); setSearch('') }}
+                    onClick={() => { onMetroSelect(m.city, m.state); setOpen(false); setSearch('') }}
                     className={`w-full text-left px-3 py-2 text-xs transition-colors flex items-center justify-between ${
                       selectedMetro?.city === m.city && selectedMetro?.state === m.state
-                        ? isProspect ? 'bg-purple-50 text-purple-700 font-medium' : 'bg-ls-50 text-ls-600 font-medium'
+                        ? 'bg-ls-50 text-ls-600 font-medium'
                         : 'text-body hover:bg-page'
                     }`}
                   >
                     <span>{m.city}, {m.state}</span>
-                    <span className="text-subtle">
-                      {isProspect ? `${m.reservations} bkgs avg` : `$${Math.round(m.total_spend / 1000)}K`}
-                    </span>
+                    <span className="text-subtle">${Math.round(m.total_spend / 1000)}K</span>
                   </button>
                 ))}
                 {filtered.length === 0 && (
@@ -177,12 +110,7 @@ export function ContextBar({ enterprise, metros, selectedMetro, onMetroSelect, o
 
       </div>
 
-      <div className="text-subtle text-xs">
-        {isProspect
-          ? <span className="text-purple-600 font-medium">Platform Benchmark Mode</span>
-          : `Data as of ${dateStr} · ${timeStr}`
-        }
-      </div>
+      <div className="text-subtle text-xs">Data as of {dateStr} · {timeStr}</div>
     </div>
   )
 }

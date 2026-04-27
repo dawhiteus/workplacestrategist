@@ -10,8 +10,6 @@ import { RecommendationCard } from './RecommendationCard'
 import { HubPurposePanel } from './HubPurposePanel'
 import { ThresholdAlertBadge } from './ThresholdAlertBadge'
 import { ExportDialog } from './ExportDialog'
-import { ProspectModeBanner } from './ProspectModeBanner'
-import { getProspectEnterpriseCount } from '@/lib/prospect-constants'
 import type { MetroHubAnalysis, StressTestParams } from '@/lib/types'
 import { ArrowLeft } from 'lucide-react'
 
@@ -19,7 +17,6 @@ interface Props {
   data: MetroHubAnalysis
   onBack: () => void
   onDataUpdate?: (data: MetroHubAnalysis) => void
-  enterprise?: string
 }
 
 const DEFAULT_STRESS: StressTestParams = {
@@ -28,12 +25,11 @@ const DEFAULT_STRESS: StressTestParams = {
   commuteRadiusMiles: 30,
 }
 
-export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate, enterprise = 'Allstate' }: Props) {
+export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }: Props) {
   const [data, setData] = useState(initialData)
   const [stressParams, setStressParams] = useState<StressTestParams>(DEFAULT_STRESS)
   const [stressLoading, setStressLoading] = useState(false)
 
-  const isProspect = enterprise === 'PROSPECT'
   const metroLabel = `${data.metro.city}, ${data.metro.state}`
   const dateStr = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
 
@@ -42,7 +38,7 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate, e
     setStressLoading(true)
     try {
       const qs = new URLSearchParams({
-        enterprise,
+        enterprise: 'Allstate',
         hubCost: String(p.hubCostMonthly),
         uplift: String(p.inducedDemandUpliftPct),
         radius: String(p.commuteRadiusMiles),
@@ -74,7 +70,7 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate, e
         </div>
         <div className="print-header-meta">
           <div className="print-header-title">Hub Viability Report</div>
-          <div>{isProspect ? 'Platform Benchmark' : 'Allstate Insurance'} · {metroLabel}</div>
+          <div>Allstate Insurance · {metroLabel}</div>
           <div>{dateStr}</div>
           <div className="print-header-confidential">CONFIDENTIAL — STRATEGIC USE ONLY</div>
         </div>
@@ -91,22 +87,12 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate, e
           </button>
           <span className="text-border-strong">/</span>
           <span className="text-sm font-semibold text-body">{metroLabel}</span>
-          <span className={`text-xs px-2 py-0.5 rounded-pill border font-medium ${
-            isProspect ? 'bg-purple-50 border-purple-200 text-purple-700' : 'bg-ls-50 border-ls-100 text-ls-600'
-          }`}>
-            {isProspect ? 'Platform Benchmark' : 'Hub Viability Analysis'}
+          <span className="text-xs px-2 py-0.5 rounded-pill bg-ls-50 border border-ls-100 text-ls-600 font-medium">
+            Hub Viability Analysis
           </span>
         </div>
-        <ExportDialog hvs={data.hvs} metro={data.metro} enterprise={isProspect ? 'Platform Benchmark' : enterprise} />
+        <ExportDialog hvs={data.hvs} metro={data.metro} enterprise="Allstate" />
       </div>
-
-      {/* Benchmark Mode banner */}
-      {isProspect && (
-        <ProspectModeBanner
-          city={data.metro.city}
-          enterpriseCount={getProspectEnterpriseCount(data.metro.city, data.metro.state)}
-        />
-      )}
 
       {/* Alerts */}
       {data.alerts?.length > 0 && (
