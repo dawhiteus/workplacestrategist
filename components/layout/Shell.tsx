@@ -101,15 +101,22 @@ export function Shell({ children }: ShellProps) {
     function onLoadBudget() {
       handleLoadBudget()
     }
+    function onLoadIntakeAnalysis(e: Event) {
+      const { data } = (e as CustomEvent).detail
+      setSelectedMetro({ city: data.metro?.city ?? '', state: data.metro?.state ?? '' })
+      setCanvasData({ tool: 'get_metro_analysis', data })
+    }
     window.addEventListener('load-canvas', onLoadCanvas)
     window.addEventListener('load-compare', onLoadCompare)
     window.addEventListener('load-ranking', onLoadRanking)
     window.addEventListener('load-budget', onLoadBudget)
+    window.addEventListener('load-intake-analysis', onLoadIntakeAnalysis)
     return () => {
       window.removeEventListener('load-canvas', onLoadCanvas)
       window.removeEventListener('load-compare', onLoadCompare)
       window.removeEventListener('load-ranking', onLoadRanking)
       window.removeEventListener('load-budget', onLoadBudget)
+      window.removeEventListener('load-intake-analysis', onLoadIntakeAnalysis)
     }
   }, []) // eslint-disable-line
 

@@ -8,6 +8,7 @@ import {
 } from 'lucide-react'
 import type { MetroSummary } from '@/lib/types'
 import { formatCurrency } from '@/lib/utils'
+import { MarketIntakeModal } from '@/components/hub-locator/MarketIntakeModal'
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -254,6 +255,7 @@ function CompareCard({ metros, defaultMarkets, onCompare }: {
 export default function HubLocatorPage() {
   const [metros, setMetros] = useState<MetroSummary[]>([])
   const [loading, setLoading] = useState(true)
+  const [intakeOpen, setIntakeOpen] = useState(false)
 
   useEffect(() => {
     fetch('/api/pulse/metros?enterprise=Allstate')
@@ -276,6 +278,7 @@ export default function HubLocatorPage() {
   }
 
   return (
+    <>
     <div className="p-6 max-w-5xl">
 
       {/* Header */}
@@ -413,6 +416,26 @@ export default function HubLocatorPage() {
             <span className="text-subtle group-hover:text-ls-500 transition-colors flex-shrink-0 text-sm">→</span>
           </button>
 
+          {/* New Market Intake card */}
+          <button
+            onClick={() => setIntakeOpen(true)}
+            className="flex items-center gap-3 p-3.5 bg-card rounded-xl border border-dashed border-ls-300 hover:border-ls-500 hover:bg-ls-50 transition-colors text-left group"
+          >
+            <div className="w-7 h-7 rounded-lg bg-ls-50 border border-ls-200 flex items-center justify-center flex-shrink-0 group-hover:bg-ls-100 transition-colors">
+              <Plus size={13} className="text-ls-500" />
+            </div>
+            <div className="flex-1 min-w-0">
+              <div className="text-[10px] font-semibold text-ls-500 uppercase tracking-wider mb-0.5">New Market Analysis</div>
+              <div className="text-xs font-medium text-body leading-snug">
+                Analyze a market with your own spend data
+              </div>
+              <div className="text-[10px] text-subtle mt-0.5">
+                Enter monthly flex spend or headcount · get a full Hub Viability Score
+              </div>
+            </div>
+            <span className="text-subtle group-hover:text-ls-500 transition-colors flex-shrink-0 text-sm">→</span>
+          </button>
+
           {/* Static analyses */}
           {STATIC_CARDS.map(card => {
             const Icon = card.icon
@@ -450,5 +473,8 @@ export default function HubLocatorPage() {
       </div>
 
     </div>
+
+    {intakeOpen && <MarketIntakeModal onClose={() => setIntakeOpen(false)} />}
+    </>
   )
 }
