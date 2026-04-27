@@ -280,7 +280,7 @@ export default function HubLocatorPage() {
     }
   }
 
-  // ── Prospect Mode portfolio ─────────────────────────────────────────────────
+  // ── Benchmark Mode portfolio ─────────────────────────────────────────────────
   if (isProspect) {
     return (
       <div className="p-6 max-w-5xl">
@@ -289,7 +289,7 @@ export default function HubLocatorPage() {
           <div className="flex items-center gap-2 mb-1">
             <h1 className="text-lg font-semibold text-body">Hub Market Intelligence</h1>
             <span className="text-xs px-2 py-0.5 rounded-pill bg-purple-50 border border-purple-200 text-purple-700 font-medium">
-              Prospect Mode
+              Benchmark Mode
             </span>
           </div>
           <p className="text-sm text-subtle mt-0.5">
@@ -308,7 +308,7 @@ export default function HubLocatorPage() {
 
         {/* Prospect insight banner */}
         <div className="mb-5 flex flex-col gap-2">
-          <div className="text-[10px] font-semibold text-disabled uppercase tracking-widest mb-1">How Prospect Mode Works</div>
+          <div className="text-[10px] font-semibold text-disabled uppercase tracking-widest mb-1">How Benchmark Mode Works</div>
           <div className="bg-purple-50 border border-purple-200 rounded-xl p-4 flex items-start gap-3">
             <Zap size={14} className="text-purple-600 mt-0.5 flex-shrink-0" />
             <div>

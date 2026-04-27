@@ -15,7 +15,7 @@ export function ProspectModeBanner({ city, enterpriseCount }: ProspectModeBanner
       </div>
       <div className="flex-1 min-w-0">
         <div className="flex items-center gap-2 mb-0.5">
-          <span className="text-xs font-semibold text-purple-700 uppercase tracking-wider">Prospect Mode</span>
+          <span className="text-xs font-semibold text-purple-700 uppercase tracking-wider">Benchmark Mode</span>
           <span className="text-[10px] font-medium text-purple-600 bg-purple-100 border border-purple-200 px-1.5 py-0.5 rounded-pill">
             Platform Benchmark
           </span>

@@ -100,7 +100,7 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate, e
         <ExportDialog hvs={data.hvs} metro={data.metro} enterprise={isProspect ? 'Platform Benchmark' : enterprise} />
       </div>
 
-      {/* Prospect Mode banner */}
+      {/* Benchmark Mode banner */}
       {isProspect && (
         <ProspectModeBanner
           city={data.metro.city}

@@ -24,8 +24,8 @@ const ENTERPRISE_OPTIONS = [
   },
   {
     id: 'PROSPECT',
-    label: 'Prospect Mode',
-    sub: 'Platform benchmarks',
+    label: 'Benchmark Mode',
+    sub: 'Platform benchmark data',
     icon: Users,
     dot: 'bg-purple-500',
     ring: 'border-purple-500 text-purple-700',
