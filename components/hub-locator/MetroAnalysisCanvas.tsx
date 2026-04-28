@@ -125,32 +125,35 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
         />
       </div>
 
-      {/* Row 2: Map + Controls */}
-      <div className="print-row-2 grid grid-cols-[1fr_300px] gap-4 mb-4">
+      {/* Row 2: Map + Peer Benchmark */}
+      <div className="print-row-2 grid grid-cols-[1fr_260px] gap-4 mb-4">
         <HubLocationMap venues={data.venues} hvs={data.hvs} metro={metroLabel} />
-        <div className="print-row-2-right flex flex-col gap-4">
-          <StressTestPanel
-            params={stressParams}
-            onParamsChange={handleStressChange}
-            annualSpend={data.metro.total_spend}
-            eriScore={data.hvs.eri?.score}
-            serverNetSaving={data.hvs.economic_roi?.net_saving}
-            serverBaseline={data.hvs.economic_roi?.annual_spend_baseline}
-            venues={data.venues}
-            hubCentroid={data.hvs.recommended_hub_location}
-            isLoading={stressLoading}
-            breakevenSeats={data.hvs.breakeven_seats}
-            city={data.metro.city}
-            state={data.metro.state}
-            baselineParams={baselineParams}
-          />
-          <PeerBenchmarkPanel
-            peers={data.peers}
-            yourScore={data.hvs.hvs_composite}
-            metro={metroLabel}
-            hubPurpose={data.hvs.hub_purpose ?? null}
-          />
-        </div>
+        <PeerBenchmarkPanel
+          peers={data.peers}
+          yourScore={data.hvs.hvs_composite}
+          metro={metroLabel}
+          hubPurpose={data.hvs.hub_purpose ?? null}
+        />
+      </div>
+
+      {/* Row 2b: Stress Test — full-width horizontal strip */}
+      <div className="print-avoid-break mb-4">
+        <StressTestPanel
+          params={stressParams}
+          onParamsChange={handleStressChange}
+          annualSpend={data.metro.total_spend}
+          eriScore={data.hvs.eri?.score}
+          serverNetSaving={data.hvs.economic_roi?.net_saving}
+          serverBaseline={data.hvs.economic_roi?.annual_spend_baseline}
+          venues={data.venues}
+          hubCentroid={data.hvs.recommended_hub_location}
+          isLoading={stressLoading}
+          breakevenSeats={data.hvs.breakeven_seats}
+          city={data.metro.city}
+          state={data.metro.state}
+          baselineParams={baselineParams}
+          horizontal
+        />
       </div>
 
       {/* Row 3: Recommendation */}
