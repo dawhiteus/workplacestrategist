@@ -101,7 +101,9 @@ function DistributionChart({
   height?: number
 }) {
   return (
-    <div style={{ height }}>
+    // pointer-events:none prevents the recharts SVG from swallowing mouse events
+    // that belong to sibling/parent sliders
+    <div style={{ height, pointerEvents: 'none', overflow: 'hidden' }}>
       <ResponsiveContainer width="100%" height="100%">
         <AreaChart data={curveData} margin={{ top: 2, right: 2, bottom: 0, left: 2 }}>
           <defs>
@@ -268,8 +270,8 @@ export function StressTestPanel({
           </div>
         </div>
 
-        {/* 4-column grid */}
-        <div className="grid grid-cols-[200px_1fr_200px_180px] gap-5 items-start">
+        {/* 4-column grid — chart col is bounded so it doesn't over-expand */}
+        <div className="grid grid-cols-[200px_minmax(0,300px)_210px_1fr] gap-5 items-start">
 
           {/* ── Col 1: Primary levers ── */}
           <div className="flex flex-col gap-4">

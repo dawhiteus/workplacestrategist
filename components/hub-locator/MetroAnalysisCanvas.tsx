@@ -126,7 +126,7 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
       </div>
 
       {/* Row 2: Map + Peer Benchmark */}
-      <div className="print-row-2 grid grid-cols-[1fr_260px] gap-4 mb-4">
+      <div className="print-row-2 grid grid-cols-[1fr_260px] gap-4 mb-4 items-start">
         <HubLocationMap venues={data.venues} hvs={data.hvs} metro={metroLabel} />
         <PeerBenchmarkPanel
           peers={data.peers}
