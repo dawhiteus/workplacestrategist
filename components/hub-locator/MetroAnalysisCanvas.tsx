@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { HVSScorecard } from './HVSScorecard'
 import { DemandSignaturePanel } from './DemandSignaturePanel'
 import { HubLocationMap } from './HubLocationMap'
@@ -37,29 +37,35 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
   const [baselineParams] = useState<StressTestParams>(() => buildDefaultStress(initialBreakeven))
   const [stressParams, setStressParams] = useState<StressTestParams>(() => buildDefaultStress(initialBreakeven))
   const [stressLoading, setStressLoading] = useState(false)
+  const stressDebounceRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   const metroLabel = `${data.metro.city}, ${data.metro.state}`
   const dateStr = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
 
-  async function handleStressChange(p: StressTestParams) {
+  function handleStressChange(p: StressTestParams) {
+    // Update params immediately so sliders feel responsive
     setStressParams(p)
-    setStressLoading(true)
-    try {
-      const qs = new URLSearchParams({
-        enterprise: 'Allstate',
-        hubCapacitySeats: String(p.hubCapacitySeats),
-        costPerSeat: String(p.costPerSeatMonthly),
-        uplift: String(p.inducedDemandUpliftPct),
-        radius: String(p.commuteRadiusMiles),
-      })
-      const res = await fetch(`/api/pulse/metro/${encodeURIComponent(data.metro.city)}/${encodeURIComponent(data.metro.state)}?${qs}`)
-      if (res.ok) {
-        const newData = await res.json()
-        setData(newData)
-        onDataUpdate?.(newData)
-      }
-    } catch {}
-    setStressLoading(false)
+    // Debounce the expensive API call — fire only after 350ms of no changes
+    if (stressDebounceRef.current) clearTimeout(stressDebounceRef.current)
+    stressDebounceRef.current = setTimeout(async () => {
+      setStressLoading(true)
+      try {
+        const qs = new URLSearchParams({
+          enterprise: 'Allstate',
+          hubCapacitySeats: String(p.hubCapacitySeats),
+          costPerSeat: String(p.costPerSeatMonthly),
+          uplift: String(p.inducedDemandUpliftPct),
+          radius: String(p.commuteRadiusMiles),
+        })
+        const res = await fetch(`/api/pulse/metro/${encodeURIComponent(data.metro.city)}/${encodeURIComponent(data.metro.state)}?${qs}`)
+        if (res.ok) {
+          const newData = await res.json()
+          setData(newData)
+          onDataUpdate?.(newData)
+        }
+      } catch {}
+      setStressLoading(false)
+    }, 350)
   }
 
   function handleOriginate(reqId: string) {
@@ -125,35 +131,39 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
         />
       </div>
 
-      {/* Row 2: Map + Peer Benchmark */}
-      <div className="print-row-2 grid grid-cols-[1fr_260px] gap-4 mb-4 items-start">
+      {/* Row 2: Map — full width */}
+      <div className="print-row-2 mb-4">
         <HubLocationMap venues={data.venues} hvs={data.hvs} metro={metroLabel} />
-        <PeerBenchmarkPanel
-          peers={data.peers}
-          yourScore={data.hvs.hvs_composite}
-          metro={metroLabel}
-          hubPurpose={data.hvs.hub_purpose ?? null}
-        />
       </div>
 
-      {/* Row 2b: Stress Test — full-width horizontal strip */}
-      <div className="print-avoid-break mb-4">
-        <StressTestPanel
-          params={stressParams}
-          onParamsChange={handleStressChange}
-          annualSpend={data.metro.total_spend}
-          eriScore={data.hvs.eri?.score}
-          serverNetSaving={data.hvs.economic_roi?.net_saving}
-          serverBaseline={data.hvs.economic_roi?.annual_spend_baseline}
-          venues={data.venues}
-          hubCentroid={data.hvs.recommended_hub_location}
-          isLoading={stressLoading}
-          breakevenSeats={data.hvs.breakeven_seats}
-          city={data.metro.city}
-          state={data.metro.state}
-          baselineParams={baselineParams}
-          horizontal
-        />
+      {/* Row 2b: Stress Test (flex-1) + Peer Benchmark (fixed width) — same row */}
+      <div className="print-avoid-break flex gap-4 items-start mb-4">
+        <div className="flex-1 min-w-0">
+          <StressTestPanel
+            params={stressParams}
+            onParamsChange={handleStressChange}
+            annualSpend={data.metro.total_spend}
+            eriScore={data.hvs.eri?.score}
+            serverNetSaving={data.hvs.economic_roi?.net_saving}
+            serverBaseline={data.hvs.economic_roi?.annual_spend_baseline}
+            venues={data.venues}
+            hubCentroid={data.hvs.recommended_hub_location}
+            isLoading={stressLoading}
+            breakevenSeats={data.hvs.breakeven_seats}
+            city={data.metro.city}
+            state={data.metro.state}
+            baselineParams={baselineParams}
+            horizontal
+          />
+        </div>
+        <div className="w-[240px] flex-shrink-0">
+          <PeerBenchmarkPanel
+            peers={data.peers}
+            yourScore={data.hvs.hvs_composite}
+            metro={metroLabel}
+            hubPurpose={data.hvs.hub_purpose ?? null}
+          />
+        </div>
       </div>
 
       {/* Row 3: Recommendation */}
