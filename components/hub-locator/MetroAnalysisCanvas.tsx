@@ -61,7 +61,9 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
         if (res.ok) {
           const newData = await res.json()
           setData(newData)
-          onDataUpdate?.(newData)
+          // NOTE: intentionally NOT calling onDataUpdate here — that would update
+          // canvasData in Shell, trigger setActiveSessionId, change CanvasRenderer's
+          // key, and remount the canvas, resetting all slider state to defaults.
         }
       } catch {}
       setStressLoading(false)
@@ -136,8 +138,9 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
         <HubLocationMap venues={data.venues} hvs={data.hvs} metro={metroLabel} />
       </div>
 
-      {/* Row 2b: Stress Test (flex-1) + Peer Benchmark (fixed width) — same row */}
+      {/* Row 2b: Stress Test + Peer Benchmark — same row, equal professional layout */}
       <div className="print-avoid-break flex gap-4 items-start mb-4">
+        {/* Stress test takes remaining space after peer benchmark */}
         <div className="flex-1 min-w-0">
           <StressTestPanel
             params={stressParams}
@@ -156,7 +159,8 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
             horizontal
           />
         </div>
-        <div className="w-[240px] flex-shrink-0">
+        {/* Peer Benchmark — fixed width, same height as stress test card */}
+        <div className="w-[230px] flex-shrink-0 self-stretch">
           <PeerBenchmarkPanel
             peers={data.peers}
             yourScore={data.hvs.hvs_composite}

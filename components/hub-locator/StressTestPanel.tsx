@@ -272,11 +272,11 @@ export function StressTestPanel({
           </div>
         </div>
 
-        {/* Sections separated by vertical rules — each column is fixed-width */}
+        {/* 4 equal flex columns separated by dividers */}
         <div className="flex items-stretch min-w-0">
 
-          {/* ── Col 1: Primary levers — 185px ── */}
-          <div className="w-[185px] flex-shrink-0 flex flex-col gap-4 pr-5">
+          {/* ── Col 1: Primary Levers — flex-1 ── */}
+          <div className="flex-1 min-w-0 flex flex-col gap-3 pr-4">
             <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Primary Levers</div>
             <SliderRow
               label="Hub Capacity" sub="seats"
@@ -294,15 +294,15 @@ export function StressTestPanel({
                 primary
               />
               {coverage && (
-                <div className={`flex justify-between mt-1.5 text-[10px] px-0.5 ${coverage.allCaptured ? 'text-subtle' : 'text-warning'}`}>
+                <div className={`flex justify-between mt-1 text-[10px] px-0.5 ${coverage.allCaptured ? 'text-subtle' : 'text-warning'}`}>
                   <span>{coverage.venuesIn}/{coverage.venuesTotal} venues</span>
                   <span className="font-semibold">{coverage.spendPct}% spend</span>
                 </div>
               )}
             </div>
-            <div className="pt-3 border-t border-border">
+            <div className="pt-2 border-t border-border">
               <SliderRow
-                label="Demand Uplift" sub="(optional)"
+                label="Demand Uplift" sub="optional"
                 value={local.inducedDemandUpliftPct} min={0} max={100} step={5}
                 format={v => `+${v}%`}
                 onChange={v => update({ inducedDemandUpliftPct: v })}
@@ -311,21 +311,23 @@ export function StressTestPanel({
           </div>
 
           {/* Divider */}
-          <div className="w-px bg-border flex-shrink-0 self-stretch mx-0" />
+          <div className="w-px bg-border flex-shrink-0 mx-0" />
 
-          {/* ── Col 2: Cost distribution — 260px ── */}
-          <div className="w-[260px] flex-shrink-0 flex flex-col px-5">
-            <div className="flex items-center justify-between mb-1.5">
-              <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Cost / Seat / Mo</div>
+          {/* ── Col 2: Cost Distribution — flex-[1.4] (chart needs extra breathing room) ── */}
+          <div className="flex-[1.4] min-w-0 flex flex-col px-4">
+            <div className="flex items-center justify-between mb-1">
+              <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Cost / Seat / Month</div>
               {distLoading
                 ? <Loader2 size={10} className="animate-spin text-subtle" />
                 : <span className="text-[10px] text-subtle">{effectiveDist.listing_count > 0 ? `${effectiveDist.listing_count} listings` : 'National'}</span>
               }
             </div>
-            <DistributionChart curveData={curveData} pctLines={pctLines} selectedCost={local.costPerSeatMonthly} height={72} />
-            <div className="flex justify-between text-[9px] text-subtle my-1.5 px-0.5">
+            <DistributionChart curveData={curveData} pctLines={pctLines} selectedCost={local.costPerSeatMonthly} height={68} />
+            <div className="flex justify-between text-[9px] text-subtle my-1 px-0.5">
               <span>P10 ${effectiveDist.p10}</span>
+              <span>P25 ${effectiveDist.p25}</span>
               <span className="font-semibold text-ls-600">Med ${effectiveDist.median}</span>
+              <span>P75 ${effectiveDist.p75}</span>
               <span>P90 ${effectiveDist.p90}</span>
             </div>
             <SliderRow
@@ -338,48 +340,51 @@ export function StressTestPanel({
           </div>
 
           {/* Divider */}
-          <div className="w-px bg-border flex-shrink-0 self-stretch mx-0" />
+          <div className="w-px bg-border flex-shrink-0 mx-0" />
 
-          {/* ── Col 3: Hub cost + Breakeven — 185px ── */}
-          <div className="w-[185px] flex-shrink-0 flex flex-col gap-2 px-5">
-            <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Hub Cost</div>
-            <div className="bg-page rounded-lg px-3 py-2.5">
-              <div className="text-[11px] text-subtle">Hub Annual Cost</div>
-              <div className="text-base font-bold text-body mt-0.5">{formatCurrency(hubAnnual, true)}</div>
+          {/* ── Col 3: Hub Economics (cost + breakeven combined) — flex-1 ── */}
+          <div className="flex-1 min-w-0 flex flex-col gap-2 px-4">
+            <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Hub Economics</div>
+            <div className="bg-page rounded-lg px-2.5 py-2">
+              <div className="text-[10px] text-subtle">Hub Annual Cost</div>
+              <div className="text-sm font-bold text-body mt-0.5">{formatCurrency(hubAnnual, true)}</div>
               <div className="text-[9px] text-subtle mt-0.5">{local.hubCapacitySeats} × ${local.costPerSeatMonthly} × 12</div>
             </div>
-            {breakevenSeats != null && (
-              <div className={`rounded-lg px-3 py-2.5 border ${breakevenOk ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
-                <div className={`text-[11px] font-semibold ${breakevenOk ? 'text-success' : 'text-danger'}`}>
-                  {breakevenOk ? '✓ Above breakeven' : '✗ Below breakeven'}
+            {breakevenSeats != null ? (
+              <div className={`flex-1 rounded-lg px-2.5 py-2 border flex flex-col justify-between ${breakevenOk ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
+                <div>
+                  <div className={`text-[10px] font-semibold ${breakevenOk ? 'text-success' : 'text-danger'}`}>
+                    {breakevenOk ? '✓ Above breakeven' : '✗ Below breakeven'}
+                  </div>
+                  <div className="text-[10px] text-subtle mt-0.5">Breakeven: {breakevenSeats} seats</div>
+                  <div className="text-[10px] text-subtle">Your hub: {local.hubCapacitySeats} seats</div>
                 </div>
-                <div className="text-[10px] text-subtle mt-0.5">Req: {breakevenSeats} · Hub: {local.hubCapacitySeats}</div>
-                <div className={`text-xl font-bold mt-1 leading-none ${breakevenOk ? 'text-success' : 'text-danger'}`}>
+                <div className={`text-2xl font-bold leading-none mt-1 ${breakevenOk ? 'text-success' : 'text-danger'}`}>
                   {breakevenDelta !== null && breakevenDelta > 0 ? '+' : ''}{breakevenDelta}
                 </div>
+              </div>
+            ) : (
+              <div className="flex-1 bg-page rounded-lg px-2.5 py-2 border border-border text-[10px] text-subtle italic">
+                Breakeven data unavailable
               </div>
             )}
           </div>
 
           {/* Divider */}
-          <div className="w-px bg-border flex-shrink-0 self-stretch mx-0" />
+          <div className="w-px bg-border flex-shrink-0 mx-0" />
 
-          {/* ── Col 4: Net Economics — fills remaining ── */}
-          <div className="flex-1 min-w-[160px] flex flex-col gap-2 pl-5">
+          {/* ── Col 4: Net Economics — flex-1 ── */}
+          <div className="flex-1 min-w-0 flex flex-col gap-2 pl-4">
             <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Net Economics</div>
-            <div className="bg-page rounded-lg px-3 py-2.5">
-              <div className="text-[11px] text-subtle">Annual Flex Spend</div>
-              <div className="text-base font-bold text-body mt-0.5">
-                {formatCurrency(displayBaseline, true)}
-              </div>
+            <div className="bg-page rounded-lg px-2.5 py-2">
+              <div className="text-[10px] text-subtle">Annual Flex Spend</div>
+              <div className="text-sm font-bold text-body mt-0.5">{formatCurrency(displayBaseline, true)}</div>
             </div>
-            <div className={`rounded-lg px-3 py-2.5 ${isLoading ? 'bg-page' : savingBg}`}>
-              <div className="text-[11px] text-subtle flex items-center gap-1">
+            <div className={`flex-1 rounded-lg px-2.5 py-2 flex flex-col justify-between ${isLoading ? 'bg-page border border-border' : savingBg}`}>
+              <div className="text-[10px] text-subtle flex items-center gap-1">
                 Net Saving
                 {!isLoading && baselineNet < 0 && displayNetSaving > 0 && (
-                  <span className="text-[9px] font-semibold text-warning bg-orange-100 border border-orange-200 px-1 rounded">
-                    uplift
-                  </span>
+                  <span className="text-[9px] font-semibold text-warning bg-orange-100 border border-orange-200 px-1 rounded">uplift</span>
                 )}
               </div>
               {isLoading ? (
@@ -388,16 +393,14 @@ export function StressTestPanel({
                   <span className="text-xs text-subtle">…</span>
                 </div>
               ) : (
-                <>
-                  <div className={`text-base font-bold mt-0.5 ${savingText}`}>
+                <div>
+                  <div className={`text-sm font-bold mt-0.5 ${savingText}`}>
                     {displayNetSaving > 0 ? '+' : ''}{formatCurrency(displayNetSaving, true)}
                   </div>
                   {baselineNet < 0 && displayNetSaving > 0 && (
-                    <div className="text-[9px] text-warning mt-0.5">
-                      –${Math.round(Math.abs(baselineNet) / 1000)}K without uplift
-                    </div>
+                    <div className="text-[9px] text-warning mt-0.5">–${Math.round(Math.abs(baselineNet) / 1000)}K without uplift</div>
                   )}
-                </>
+                </div>
               )}
             </div>
           </div>

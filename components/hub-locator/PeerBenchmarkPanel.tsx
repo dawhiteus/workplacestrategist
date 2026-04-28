@@ -18,7 +18,7 @@ interface Props {
 
 export function PeerBenchmarkPanel({ peers, yourScore, metro, hubPurpose }: Props) {
   if (!peers) return (
-    <div className="bg-card rounded-xl border border-border shadow-card p-4">
+    <div className="bg-card rounded-xl border border-border shadow-card p-4 h-full">
       <div className="text-xs font-semibold text-subtle uppercase tracking-wider mb-2">Peer Benchmark</div>
       {hubPurpose && (
         <div className={`inline-flex items-center px-2 py-0.5 rounded-pill border text-[10px] font-semibold mb-3 ${PURPOSE_LABEL[hubPurpose].color}`}>
@@ -40,7 +40,7 @@ export function PeerBenchmarkPanel({ peers, yourScore, metro, hubPurpose }: Prop
   ]
 
   return (
-    <div className="bg-card rounded-xl border border-border shadow-card p-4">
+    <div className="bg-card rounded-xl border border-border shadow-card p-4 h-full">
       <div className="flex items-center justify-between mb-2">
         <div className="text-xs font-semibold text-subtle uppercase tracking-wider">Peer Benchmark</div>
         <div className="text-xs text-subtle">n={peers.sample_size} · anonymized</div>
