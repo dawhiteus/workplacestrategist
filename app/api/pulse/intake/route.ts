@@ -115,7 +115,11 @@ export async function POST(req: NextRequest) {
   }
 
   // ── Run HVS ────────────────────────────────────────────────────────────────
+  const defaultCostPerSeat = 420
+  const defaultSeats = Math.max(2, Math.round(hubCostMonthly / defaultCostPerSeat))
   const stressParams: StressTestParams = {
+    hubCapacitySeats: defaultSeats,
+    costPerSeatMonthly: defaultCostPerSeat,
     hubCostMonthly,
     inducedDemandUpliftPct: 25,
     commuteRadiusMiles,

@@ -3,14 +3,16 @@
 import { useState, useEffect } from 'react'
 import type { CanvasData, SessionEntry } from './Shell'
 import type { MetroHubAnalysis, MetroSummary } from '@/lib/types'
-import { Download, TrendingUp, Zap, Clock, BarChart3, AlertTriangle, CheckCircle2 } from 'lucide-react'
-import { cn } from '@/lib/utils'
+import { Download, TrendingUp, Zap, Clock, BarChart3, AlertTriangle, CheckCircle2, FlaskConical } from 'lucide-react'
+import { cn, formatCurrency } from '@/lib/utils'
+import type { SavedScenario } from '@/lib/types'
 
 interface RightRailProps {
   canvasData: CanvasData | null
   sessionHistory: SessionEntry[]
   activeSessionId: number | null
   onRestoreSession: (entry: SessionEntry) => void
+  savedScenarios?: SavedScenario[]
 }
 
 // ── Insight derivation ────────────────────────────────────────────────────────
@@ -251,7 +253,7 @@ function timeAgo(date: Date): string {
 
 // ── Main component ────────────────────────────────────────────────────────────
 
-export function RightRail({ canvasData, sessionHistory, activeSessionId, onRestoreSession }: RightRailProps) {
+export function RightRail({ canvasData, sessionHistory, activeSessionId, onRestoreSession, savedScenarios = [] }: RightRailProps) {
   const [originatedEvents, setOriginatedEvents] = useState<OriginatedEvent[]>([])
 
   useEffect(() => {
@@ -335,6 +337,56 @@ export function RightRail({ canvasData, sessionHistory, activeSessionId, onResto
                     <span className="text-[9px] bg-page border border-border px-1.5 py-0.5 rounded-full text-subtle">Soon</span>
                   )}
                 </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Saved Scenarios */}
+        {savedScenarios.length > 0 && (
+          <div>
+            <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider mb-2">
+              Saved Scenarios
+            </div>
+            <div className="flex flex-col gap-2">
+              {savedScenarios.map(s => (
+                <div
+                  key={s.id}
+                  className="rounded-xl border border-border bg-page p-3"
+                >
+                  <div className="flex items-start gap-1.5 mb-1">
+                    <FlaskConical size={10} className="text-ls-500 mt-0.5 flex-shrink-0" />
+                    <div className="text-xs font-medium text-body leading-tight">{s.name}</div>
+                  </div>
+                  <div className="text-[10px] text-subtle mb-2">{timeAgo(s.savedAt)}</div>
+                  <div className="flex items-center justify-between">
+                    <div
+                      className={`text-xs font-semibold ${
+                        s.net_saving > 0 ? 'text-success' : 'text-danger'
+                      }`}
+                    >
+                      {s.net_saving > 0 ? '+' : ''}
+                      {formatCurrency(s.net_saving, true)} net
+                    </div>
+                    <button
+                      onClick={() => {
+                        const blob = new Blob(
+                          [JSON.stringify(s, null, 2)],
+                          { type: 'application/json' }
+                        )
+                        const url = URL.createObjectURL(blob)
+                        const a = document.createElement('a')
+                        a.href = url
+                        a.download = `${s.id}.json`
+                        a.click()
+                        URL.revokeObjectURL(url)
+                      }}
+                      className="flex items-center gap-1 text-[10px] text-ls-600 hover:text-ls-800 transition-colors"
+                    >
+                      <Download size={9} /> Download
+                    </button>
+                  </div>
+                </div>
               ))}
             </div>
           </div>

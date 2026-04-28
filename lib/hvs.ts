@@ -250,12 +250,20 @@ export function buildHVSReasoning(
 
   // ERI computation — annualSpend scaled by catchment so radius affects economics
   const avgDailyBookings = mean
-  const requiredSeats = Math.max(2, Math.ceil(avgDailyBookings * 1.3))
+  const breakeven_seats = Math.max(2, Math.ceil(avgDailyBookings * 1.3))
+
+  // Derive monthly hub cost from new params (capacity × cost-per-seat).
+  // Fall back to legacy hubCostMonthly for backward compat with any callers
+  // that pre-date the capacity-based model.
+  const hubCostMonthly =
+    stressParams.hubCapacitySeats != null && stressParams.costPerSeatMonthly != null
+      ? stressParams.hubCapacitySeats * stressParams.costPerSeatMonthly
+      : stressParams.hubCostMonthly
 
   const eriInputs: ERIInputs = {
     annualSpend: metro.total_spend * catchmentRatio,
-    hubCostMonthly: stressParams.hubCostMonthly,
-    requiredSeats,
+    hubCostMonthly,
+    requiredSeats: breakeven_seats,
     inducedDemandUpliftPct: stressParams.inducedDemandUpliftPct,
   }
   const eriScore = computeERI(eriInputs)
@@ -264,12 +272,12 @@ export function buildHVSReasoning(
   let rec = toRecommendation(composite, metro.reservations)
   const metroLabel = `${metro.city}, ${metro.state}`
 
-  const hubAnnualCost = stressParams.hubCostMonthly * 12
+  const hubAnnualCost = hubCostMonthly * 12
   // Use catchment-adjusted baseline so radius gates both ERI and the economics tile
   const catchmentBaseline = metro.total_spend * catchmentRatio
   const upliftedSpend = catchmentBaseline * (1 + stressParams.inducedDemandUpliftPct / 100)
   const netSaving = upliftedSpend - hubAnnualCost
-  const paybackMonths = netSaving > 0 ? Math.round((hubAnnualCost / (netSaving / 12))) : 999
+  const paybackMonths = netSaving > 0 ? Math.round(hubAnnualCost / (netSaving / 12)) : 999
 
   // ── Behavioral overlay: HWI / CPI / Hub Purpose ───────────────────────────
   const hwi = workTypeData?.hwi ?? null
@@ -285,7 +293,7 @@ export function buildHVSReasoning(
   // Hub configuration — only for actionable hub recommendations
   const buildConfig = (rec === 'STRONG_BUY' || rec === 'BUY') && hubPurpose !== null
   const recommendedHubConfiguration: RecommendedHubConfiguration | null = buildConfig && hubPurpose
-    ? buildHubConfiguration(hubPurpose, requiredSeats, Math.ceil(requiredSeats * 1.5))
+    ? buildHubConfiguration(hubPurpose, breakeven_seats, Math.ceil(breakeven_seats * 1.5))
     : null
 
   // Alternative intervention — only when DISTRIBUTED_WORKFORCE
@@ -301,7 +309,7 @@ export function buildHVSReasoning(
       ]
     : [
         `Demand volume growing beyond ${Math.ceil(metro.reservations * 1.5)} reservations/year would push DVI into green`,
-        `Hub cost below $${Math.round(stressParams.hubCostMonthly * 0.7).toLocaleString()}/month improves ERI significantly`,
+        `Hub cost below $${Math.round(hubCostMonthly * 0.7).toLocaleString()}/month improves ERI significantly`,
         `Geographic consolidation to ≤3 venues would raise DCI by ~15 points`,
         `Reducing CV below 0.6 through policy (required booking days) would improve consistency score`,
       ]
@@ -321,10 +329,11 @@ export function buildHVSReasoning(
         }
       : null,
     recommended_hub_size: {
-      min_seats: requiredSeats,
-      max_seats: Math.ceil(requiredSeats * 1.5),
+      min_seats: breakeven_seats,
+      max_seats: Math.ceil(breakeven_seats * 1.5),
       rationale: `Based on average daily demand of ${mean.toFixed(1)} bookings with 30% headroom, scaling to 50% for peak days.`,
     },
+    breakeven_seats,
     what_would_change_it: whatWouldChangeIt,
     critical_unknowns: [
       'Employee home address distribution for true commute radius validation',

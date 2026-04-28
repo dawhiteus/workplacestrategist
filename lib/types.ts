@@ -135,12 +135,43 @@ export interface HVSReasoningOutput {
   hub_purpose: HubPurposeEnum | null
   recommended_hub_configuration: RecommendedHubConfiguration | null
   alternative_intervention: AlternativeIntervention | null
+  /** ERI-derived seat count at which hub becomes economic (breakeven) */
+  breakeven_seats: number
 }
 
 export interface StressTestParams {
+  /** Primary lever — user-specified seat count */
+  hubCapacitySeats: number
+  /** Cost per seat/month from Pulse supply data; user adjustable via distribution chart */
+  costPerSeatMonthly: number
+  /** Derived: hubCapacitySeats × costPerSeatMonthly. Never user-entered. */
   hubCostMonthly: number
   inducedDemandUpliftPct: number
   commuteRadiusMiles: number
+}
+
+export interface CostDistribution {
+  city: string
+  state: string
+  listing_count: number
+  min: number
+  p10: number
+  p25: number
+  median: number
+  p75: number
+  p90: number
+  max: number
+  avg: number
+  std: number
+}
+
+export interface SavedScenario {
+  id: string
+  name: string
+  savedAt: Date
+  params: StressTestParams
+  hvs_composite: number
+  net_saving: number
 }
 
 export interface PeerBenchmark {

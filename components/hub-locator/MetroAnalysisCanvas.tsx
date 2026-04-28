@@ -19,15 +19,23 @@ interface Props {
   onDataUpdate?: (data: MetroHubAnalysis) => void
 }
 
-const DEFAULT_STRESS: StressTestParams = {
-  hubCostMonthly: 8000,
-  inducedDemandUpliftPct: 25,
-  commuteRadiusMiles: 30,
+const DEFAULT_COST_PER_SEAT = 420 // national median fallback
+
+function buildDefaultStress(breakevenSeats: number): StressTestParams {
+  return {
+    hubCapacitySeats: breakevenSeats,
+    costPerSeatMonthly: DEFAULT_COST_PER_SEAT,
+    hubCostMonthly: breakevenSeats * DEFAULT_COST_PER_SEAT,
+    inducedDemandUpliftPct: 25,
+    commuteRadiusMiles: 50,
+  }
 }
 
 export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }: Props) {
   const [data, setData] = useState(initialData)
-  const [stressParams, setStressParams] = useState<StressTestParams>(DEFAULT_STRESS)
+  const initialBreakeven = initialData.hvs.breakeven_seats ?? 20
+  const [baselineParams] = useState<StressTestParams>(() => buildDefaultStress(initialBreakeven))
+  const [stressParams, setStressParams] = useState<StressTestParams>(() => buildDefaultStress(initialBreakeven))
   const [stressLoading, setStressLoading] = useState(false)
 
   const metroLabel = `${data.metro.city}, ${data.metro.state}`
@@ -39,7 +47,8 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
     try {
       const qs = new URLSearchParams({
         enterprise: 'Allstate',
-        hubCost: String(p.hubCostMonthly),
+        hubCapacitySeats: String(p.hubCapacitySeats),
+        costPerSeat: String(p.costPerSeatMonthly),
         uplift: String(p.inducedDemandUpliftPct),
         radius: String(p.commuteRadiusMiles),
       })
@@ -130,6 +139,10 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
             venues={data.venues}
             hubCentroid={data.hvs.recommended_hub_location}
             isLoading={stressLoading}
+            breakevenSeats={data.hvs.breakeven_seats}
+            city={data.metro.city}
+            state={data.metro.state}
+            baselineParams={baselineParams}
           />
           <PeerBenchmarkPanel
             peers={data.peers}

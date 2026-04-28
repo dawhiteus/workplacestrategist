@@ -14,10 +14,14 @@ import type { MetroHubAnalysis, StressTestParams } from '@/lib/types'
 import { ArrowLeft, RefreshCw, Download } from 'lucide-react'
 import Link from 'next/link'
 
+const DEFAULT_COST_PER_SEAT = 420
+const DEFAULT_CAPACITY = 20
 const DEFAULT_STRESS: StressTestParams = {
-  hubCostMonthly: 8000,
+  hubCapacitySeats: DEFAULT_CAPACITY,
+  costPerSeatMonthly: DEFAULT_COST_PER_SEAT,
+  hubCostMonthly: DEFAULT_CAPACITY * DEFAULT_COST_PER_SEAT,
   inducedDemandUpliftPct: 25,
-  commuteRadiusMiles: 30,
+  commuteRadiusMiles: 50,
 }
 
 export default function MetroPage() {
@@ -38,7 +42,8 @@ export default function MetroPage() {
     else setLoading(true)
     const qs = new URLSearchParams({
       enterprise,
-      hubCost: String(sp.hubCostMonthly),
+      hubCapacitySeats: String(sp.hubCapacitySeats),
+      costPerSeat: String(sp.costPerSeatMonthly),
       uplift: String(sp.inducedDemandUpliftPct),
       radius: String(sp.commuteRadiusMiles),
     })
@@ -122,7 +127,16 @@ export default function MetroPage() {
             params={stressParams}
             onParamsChange={setStressParams}
             annualSpend={data.metro.total_spend}
+            eriScore={data.hvs.eri?.score}
+            serverNetSaving={data.hvs.economic_roi?.net_saving}
+            serverBaseline={data.hvs.economic_roi?.annual_spend_baseline}
+            venues={data.venues}
+            hubCentroid={data.hvs.recommended_hub_location}
             isLoading={stressLoading}
+            breakevenSeats={data.hvs.breakeven_seats}
+            city={city}
+            state={state}
+            baselineParams={DEFAULT_STRESS}
           />
           <PeerBenchmarkPanel peers={data.peers} yourScore={data.hvs.hvs_composite} metro={metroLabel} hubPurpose={data.hvs.hub_purpose ?? null} />
         </div>

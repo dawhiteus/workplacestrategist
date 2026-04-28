@@ -11,9 +11,11 @@ export async function GET(
   { params }: { params: { city: string; state: string } }
 ) {
   const enterprise = req.nextUrl.searchParams.get('enterprise') || 'Allstate'
-  const hubCost = parseInt(req.nextUrl.searchParams.get('hubCost') || '8000')
+  const hubCapacitySeats = parseInt(req.nextUrl.searchParams.get('hubCapacitySeats') || '0')
+  const costPerSeat = parseFloat(req.nextUrl.searchParams.get('costPerSeat') || '0')
+  const legacyHubCost = parseInt(req.nextUrl.searchParams.get('hubCost') || '8000')
   const uplift = parseInt(req.nextUrl.searchParams.get('uplift') || '25')
-  const radius = parseInt(req.nextUrl.searchParams.get('radius') || '30')
+  const radius = parseInt(req.nextUrl.searchParams.get('radius') || '50')
   const city = decodeURIComponent(params.city)
   const state = decodeURIComponent(params.state)
 
@@ -31,8 +33,16 @@ export async function GET(
       return NextResponse.json({ error: 'Metro not found' }, { status: 404 })
     }
 
+    // Derive monthly hub cost from capacity-based params; fall back to legacy param
+    const derivedHubCostMonthly =
+      hubCapacitySeats > 0 && costPerSeat > 0
+        ? hubCapacitySeats * costPerSeat
+        : legacyHubCost
+
     const stressParams: StressTestParams = {
-      hubCostMonthly: hubCost,
+      hubCapacitySeats: hubCapacitySeats > 0 ? hubCapacitySeats : Math.round(derivedHubCostMonthly / Math.max(costPerSeat, 420)),
+      costPerSeatMonthly: costPerSeat > 0 ? costPerSeat : 420,
+      hubCostMonthly: derivedHubCostMonthly,
       inducedDemandUpliftPct: uplift,
       commuteRadiusMiles: radius,
     }

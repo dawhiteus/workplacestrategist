@@ -72,7 +72,15 @@ async function getMetroAnalysis(enterprise: string, city: string, state: string,
   ])
   const metro = portfolio.find(m => m.city === city && m.state === state)
   if (!metro) return { error: `Metro not found: ${city}, ${state}` }
-  const stressParams: StressTestParams = { hubCostMonthly: hubCost, inducedDemandUpliftPct: uplift, commuteRadiusMiles: radius }
+  const defaultCostPerSeat = 420
+  const defaultSeats = Math.max(2, Math.round(hubCost / defaultCostPerSeat))
+  const stressParams: StressTestParams = {
+    hubCapacitySeats: defaultSeats,
+    costPerSeatMonthly: defaultCostPerSeat,
+    hubCostMonthly: hubCost,
+    inducedDemandUpliftPct: uplift,
+    commuteRadiusMiles: radius,
+  }
   const hvs = buildHVSReasoning(metro, venues, dailyDemand, stressParams)
 
   // Build monthly demand buckets so Claude can answer time-specific questions

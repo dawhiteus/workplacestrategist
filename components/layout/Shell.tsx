@@ -6,7 +6,7 @@ import { Navigation } from './Navigation'
 import { ConversationPanel } from '@/components/chat/ConversationPanel'
 import { RightRail } from './RightRail'
 import { ContextBar } from './ContextBar'
-import type { MetroHubAnalysis, MetroSummary } from '@/lib/types'
+import type { MetroHubAnalysis, MetroSummary, SavedScenario } from '@/lib/types'
 import { MarketIntakeModal } from '@/components/hub-locator/MarketIntakeModal'
 
 // Lazy-load the heavy metro analysis canvas to avoid SSR issues with leaflet
@@ -62,6 +62,7 @@ export function Shell({ children }: ShellProps) {
   const [sessionHistory, setSessionHistory] = useState<SessionEntry[]>([])
   const [activeSessionId, setActiveSessionId] = useState<number | null>(null)
   const restoringRef = useRef(false)
+  const [savedScenarios, setSavedScenarios] = useState<SavedScenario[]>([])
   const [intakeOpen, setIntakeOpen] = useState(false)
   const [enterprise, setEnterprise] = useState('Allstate')
   const [enterprises, setEnterprises] = useState<string[]>(['Allstate'])
@@ -92,6 +93,18 @@ export function Shell({ children }: ShellProps) {
     setActiveSessionId(id)
     setSessionHistory(prev => [{ id, label, timestamp: new Date(), canvasData }, ...prev].slice(0, 8))
   }, [canvasData])
+
+  // Listen for saved scenarios from StressTestPanel
+  useEffect(() => {
+    function handleScenarioSaved(e: Event) {
+      const scenario = (e as CustomEvent<SavedScenario>).detail
+      if (scenario?.id) {
+        setSavedScenarios(prev => [scenario, ...prev].slice(0, 20))
+      }
+    }
+    window.addEventListener('scenario-saved', handleScenarioSaved)
+    return () => window.removeEventListener('scenario-saved', handleScenarioSaved)
+  }, [])
 
   useEffect(() => {
     fetch('/api/pulse/enterprises')
@@ -308,6 +321,7 @@ export function Shell({ children }: ShellProps) {
           setActiveSessionId(entry.id)
           setCanvasData({ ...entry.canvasData })
         }}
+        savedScenarios={savedScenarios}
       />
 
       {intakeOpen && <MarketIntakeModal onClose={() => setIntakeOpen(false)} />}
