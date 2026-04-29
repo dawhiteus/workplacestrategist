@@ -6,7 +6,10 @@
     "dev": "next dev -p 3001",
     "build": "next build",
     "start": "next start -p 3001",
-    "lint": "next lint"
+    "lint": "next lint",
+    "seed": "node scripts/seed-enterprises.js",
+    "seed:dry": "DRY_RUN=1 node scripts/seed-enterprises.js",
+    "seed:one": "node scripts/seed-enterprises.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.90.0",
