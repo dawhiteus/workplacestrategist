@@ -9,16 +9,23 @@ export interface PlatformVenueCoord {
 
 export interface MarketPlatformData {
   city: string
+  /**
+   * US state code for domestic markets (e.g. 'NY').
+   * Country name for international markets (e.g. 'United Kingdom').
+   */
   state: string
-  avgRatePerBooking: number // platform avg $ per booking in this market
+  /** Explicit country. 'US' for domestic; country name for international. */
+  country: string
+  avgRatePerBooking: number // platform avg $ per booking in this market (USD)
   venueCoords: PlatformVenueCoord[]
 }
 
 // Per-market rates derived from platform Parquet aggregates.
 // Venue coordinates represent major coworking districts in each metro.
 export const PLATFORM_MARKETS: MarketPlatformData[] = [
+  // ── US markets ──────────────────────────────────────────────────────────────
   {
-    city: 'New York', state: 'NY', avgRatePerBooking: 153,
+    city: 'New York', state: 'NY', country: 'US', avgRatePerBooking: 153,
     venueCoords: [
       { venue_id: 'ny-mid-1', venue_name: 'Midtown Workspace', latitude: 40.7549, longitude: -73.9840 },
       { venue_id: 'ny-fid-1', venue_name: 'FiDi Cowork', latitude: 40.7074, longitude: -74.0113 },
@@ -28,7 +35,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Austin', state: 'TX', avgRatePerBooking: 210,
+    city: 'Austin', state: 'TX', country: 'US', avgRatePerBooking: 210,
     venueCoords: [
       { venue_id: 'au-dt-1', venue_name: 'Downtown Austin Hub', latitude: 30.2672, longitude: -97.7431 },
       { venue_id: 'au-6th-1', venue_name: '6th Street Workspace', latitude: 30.2649, longitude: -97.7341 },
@@ -37,7 +44,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Atlanta', state: 'GA', avgRatePerBooking: 313,
+    city: 'Atlanta', state: 'GA', country: 'US', avgRatePerBooking: 313,
     venueCoords: [
       { venue_id: 'atl-mid-1', venue_name: 'Midtown Atlanta Hub', latitude: 33.7850, longitude: -84.3840 },
       { venue_id: 'atl-bkh-1', venue_name: 'Buckhead Office', latitude: 33.8370, longitude: -84.3640 },
@@ -46,7 +53,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Chicago', state: 'IL', avgRatePerBooking: 175,
+    city: 'Chicago', state: 'IL', country: 'US', avgRatePerBooking: 175,
     venueCoords: [
       { venue_id: 'chi-loop-1', venue_name: 'The Loop Workspace', latitude: 41.8827, longitude: -87.6338 },
       { venue_id: 'chi-riv-1', venue_name: 'Riverfront Hub', latitude: 41.8878, longitude: -87.6274 },
@@ -56,7 +63,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Dallas', state: 'TX', avgRatePerBooking: 195,
+    city: 'Dallas', state: 'TX', country: 'US', avgRatePerBooking: 195,
     venueCoords: [
       { venue_id: 'dal-dt-1', venue_name: 'Downtown Dallas Hub', latitude: 32.7767, longitude: -96.7970 },
       { venue_id: 'dal-up-1', venue_name: 'Uptown Workspace', latitude: 32.7986, longitude: -96.8050 },
@@ -65,7 +72,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'San Francisco', state: 'CA', avgRatePerBooking: 280,
+    city: 'San Francisco', state: 'CA', country: 'US', avgRatePerBooking: 280,
     venueCoords: [
       { venue_id: 'sf-soma-1', venue_name: 'SoMa Workspace', latitude: 37.7785, longitude: -122.3948 },
       { venue_id: 'sf-fin-1', venue_name: 'Financial District Hub', latitude: 37.7943, longitude: -122.3990 },
@@ -74,7 +81,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Los Angeles', state: 'CA', avgRatePerBooking: 240,
+    city: 'Los Angeles', state: 'CA', country: 'US', avgRatePerBooking: 240,
     venueCoords: [
       { venue_id: 'la-dt-1', venue_name: 'DTLA Workspace', latitude: 34.0522, longitude: -118.2437 },
       { venue_id: 'la-sm-1', venue_name: 'Santa Monica Hub', latitude: 34.0195, longitude: -118.4912 },
@@ -84,7 +91,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Boston', state: 'MA', avgRatePerBooking: 220,
+    city: 'Boston', state: 'MA', country: 'US', avgRatePerBooking: 220,
     venueCoords: [
       { venue_id: 'bos-dx-1', venue_name: 'Downtown Crossing Hub', latitude: 42.3554, longitude: -71.0598 },
       { venue_id: 'bos-sea-1', venue_name: 'Seaport Workspace', latitude: 42.3519, longitude: -71.0449 },
@@ -93,7 +100,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Seattle', state: 'WA', avgRatePerBooking: 230,
+    city: 'Seattle', state: 'WA', country: 'US', avgRatePerBooking: 230,
     venueCoords: [
       { venue_id: 'sea-slu-1', venue_name: 'South Lake Union Hub', latitude: 47.6261, longitude: -122.3401 },
       { venue_id: 'sea-cap-1', venue_name: 'Capitol Hill Workspace', latitude: 47.6253, longitude: -122.3140 },
@@ -102,7 +109,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Denver', state: 'CO', avgRatePerBooking: 185,
+    city: 'Denver', state: 'CO', country: 'US', avgRatePerBooking: 185,
     venueCoords: [
       { venue_id: 'den-lo-1', venue_name: 'LoDo Workspace', latitude: 39.7546, longitude: -104.9988 },
       { venue_id: 'den-rino-1', venue_name: 'RiNo Hub', latitude: 39.7679, longitude: -104.9765 },
@@ -111,7 +118,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Miami', state: 'FL', avgRatePerBooking: 200,
+    city: 'Miami', state: 'FL', country: 'US', avgRatePerBooking: 200,
     venueCoords: [
       { venue_id: 'mia-bk-1', venue_name: 'Brickell Workspace', latitude: 25.7617, longitude: -80.1918 },
       { venue_id: 'mia-wyn-1', venue_name: 'Wynwood Hub', latitude: 25.8013, longitude: -80.1981 },
@@ -120,7 +127,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Washington', state: 'DC', avgRatePerBooking: 245,
+    city: 'Washington', state: 'DC', country: 'US', avgRatePerBooking: 245,
     venueCoords: [
       { venue_id: 'dc-pq-1', venue_name: 'Penn Quarter Hub', latitude: 38.8951, longitude: -77.0264 },
       { venue_id: 'dc-dup-1', venue_name: 'Dupont Circle Workspace', latitude: 38.9096, longitude: -77.0434 },
@@ -129,7 +136,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Minneapolis', state: 'MN', avgRatePerBooking: 160,
+    city: 'Minneapolis', state: 'MN', country: 'US', avgRatePerBooking: 160,
     venueCoords: [
       { venue_id: 'msp-dt-1', venue_name: 'Downtown Minneapolis Hub', latitude: 44.9778, longitude: -93.2650 },
       { venue_id: 'msp-nl-1', venue_name: 'North Loop Workspace', latitude: 44.9897, longitude: -93.2751 },
@@ -137,7 +144,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Phoenix', state: 'AZ', avgRatePerBooking: 170,
+    city: 'Phoenix', state: 'AZ', country: 'US', avgRatePerBooking: 170,
     venueCoords: [
       { venue_id: 'phx-dt-1', venue_name: 'Downtown Phoenix Hub', latitude: 33.4484, longitude: -112.0740 },
       { venue_id: 'phx-tem-1', venue_name: 'Tempe Workspace', latitude: 33.4255, longitude: -111.9400 },
@@ -145,7 +152,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Charlotte', state: 'NC', avgRatePerBooking: 180,
+    city: 'Charlotte', state: 'NC', country: 'US', avgRatePerBooking: 180,
     venueCoords: [
       { venue_id: 'clt-up-1', venue_name: 'Uptown Charlotte Hub', latitude: 35.2271, longitude: -80.8431 },
       { venue_id: 'clt-mt-1', venue_name: 'Midtown Workspace', latitude: 35.2154, longitude: -80.8357 },
@@ -153,7 +160,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Nashville', state: 'TN', avgRatePerBooking: 190,
+    city: 'Nashville', state: 'TN', country: 'US', avgRatePerBooking: 190,
     venueCoords: [
       { venue_id: 'bna-dt-1', venue_name: 'Downtown Nashville Hub', latitude: 36.1627, longitude: -86.7816 },
       { venue_id: 'bna-mid-1', venue_name: 'Midtown Workspace', latitude: 36.1563, longitude: -86.7942 },
@@ -161,7 +168,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Portland', state: 'OR', avgRatePerBooking: 205,
+    city: 'Portland', state: 'OR', country: 'US', avgRatePerBooking: 205,
     venueCoords: [
       { venue_id: 'pdx-prl-1', venue_name: 'Pearl District Hub', latitude: 45.5232, longitude: -122.6819 },
       { venue_id: 'pdx-se-1', venue_name: 'SE Portland Workspace', latitude: 45.5122, longitude: -122.6528 },
@@ -169,7 +176,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'San Diego', state: 'CA', avgRatePerBooking: 225,
+    city: 'San Diego', state: 'CA', country: 'US', avgRatePerBooking: 225,
     venueCoords: [
       { venue_id: 'san-dt-1', venue_name: 'Downtown San Diego Hub', latitude: 32.7157, longitude: -117.1611 },
       { venue_id: 'san-sv-1', venue_name: 'Sorrento Valley Office', latitude: 32.8920, longitude: -117.1975 },
@@ -177,7 +184,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Raleigh', state: 'NC', avgRatePerBooking: 175,
+    city: 'Raleigh', state: 'NC', country: 'US', avgRatePerBooking: 175,
     venueCoords: [
       { venue_id: 'rdu-dt-1', venue_name: 'Downtown Raleigh Hub', latitude: 35.7796, longitude: -78.6382 },
       { venue_id: 'rdu-rt-1', venue_name: 'Research Triangle Workspace', latitude: 35.9132, longitude: -79.0558 },
@@ -185,7 +192,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Salt Lake City', state: 'UT', avgRatePerBooking: 165,
+    city: 'Salt Lake City', state: 'UT', country: 'US', avgRatePerBooking: 165,
     venueCoords: [
       { venue_id: 'slc-dt-1', venue_name: 'Downtown SLC Hub', latitude: 40.7608, longitude: -111.8910 },
       { venue_id: 'slc-ss-1', venue_name: 'Silicon Slopes Workspace', latitude: 40.5649, longitude: -111.8389 },
@@ -193,7 +200,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Tampa', state: 'FL', avgRatePerBooking: 175,
+    city: 'Tampa', state: 'FL', country: 'US', avgRatePerBooking: 175,
     venueCoords: [
       { venue_id: 'tpa-dt-1', venue_name: 'Downtown Tampa Hub', latitude: 27.9506, longitude: -82.4572 },
       { venue_id: 'tpa-st-1', venue_name: 'South Tampa Workspace', latitude: 27.9208, longitude: -82.4794 },
@@ -201,7 +208,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Kansas City', state: 'MO', avgRatePerBooking: 145,
+    city: 'Kansas City', state: 'MO', country: 'US', avgRatePerBooking: 145,
     venueCoords: [
       { venue_id: 'kc-pl-1', venue_name: 'Power & Light Hub', latitude: 39.0997, longitude: -94.5786 },
       { venue_id: 'kc-op-1', venue_name: 'Overland Park Workspace', latitude: 38.9822, longitude: -94.6708 },
@@ -209,7 +216,7 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Indianapolis', state: 'IN', avgRatePerBooking: 150,
+    city: 'Indianapolis', state: 'IN', country: 'US', avgRatePerBooking: 150,
     venueCoords: [
       { venue_id: 'ind-dt-1', venue_name: 'Downtown Indy Hub', latitude: 39.7684, longitude: -86.1581 },
       { venue_id: 'ind-mk-1', venue_name: 'Meridian-Kessler Workspace', latitude: 39.8238, longitude: -86.1566 },
@@ -217,14 +224,135 @@ export const PLATFORM_MARKETS: MarketPlatformData[] = [
     ],
   },
   {
-    city: 'Columbus', state: 'OH', avgRatePerBooking: 155,
+    city: 'Columbus', state: 'OH', country: 'US', avgRatePerBooking: 155,
     venueCoords: [
       { venue_id: 'cmh-sn-1', venue_name: 'Short North Hub', latitude: 39.9832, longitude: -83.0043 },
       { venue_id: 'cmh-eas-1', venue_name: 'Easton Workspace', latitude: 40.0521, longitude: -82.9124 },
       { venue_id: 'cmh-per-1', venue_name: 'Perimeter Office', latitude: 40.0149, longitude: -82.9074 },
     ],
   },
+
+  // ── International markets ────────────────────────────────────────────────────
+  // avgRatePerBooking is in USD (DiscountedPriceUSD already normalized in Parquet).
+  // Venue coordinates represent major coworking districts in each city.
+  {
+    city: 'London', state: 'United Kingdom', country: 'United Kingdom', avgRatePerBooking: 188,
+    venueCoords: [
+      { venue_id: 'lon-cw-1', venue_name: 'Canary Wharf Workspace', latitude: 51.5054, longitude: -0.0235 },
+      { venue_id: 'lon-ec-1', venue_name: 'City of London Hub', latitude: 51.5155, longitude: -0.0922 },
+      { venue_id: 'lon-ols-1', venue_name: 'Old Street Cowork', latitude: 51.5263, longitude: -0.0790 },
+      { venue_id: 'lon-soh-1', venue_name: 'Soho Creative Office', latitude: 51.5135, longitude: -0.1341 },
+      { venue_id: 'lon-vic-1', venue_name: 'Victoria Business Hub', latitude: 51.4963, longitude: -0.1437 },
+    ],
+  },
+  {
+    city: 'Toronto', state: 'Canada', country: 'Canada', avgRatePerBooking: 132,
+    venueCoords: [
+      { venue_id: 'tor-fin-1', venue_name: 'Financial District Hub', latitude: 43.6490, longitude: -79.3852 },
+      { venue_id: 'tor-kw-1', venue_name: 'King West Workspace', latitude: 43.6445, longitude: -79.4018 },
+      { venue_id: 'tor-yk-1', venue_name: 'Yorkville Office', latitude: 43.6688, longitude: -79.3945 },
+      { venue_id: 'tor-lv-1', venue_name: 'Liberty Village Cowork', latitude: 43.6367, longitude: -79.4194 },
+    ],
+  },
+  {
+    city: 'Sydney', state: 'Australia', country: 'Australia', avgRatePerBooking: 141,
+    venueCoords: [
+      { venue_id: 'syd-cbd-1', venue_name: 'Sydney CBD Hub', latitude: -33.8688, longitude: 151.2093 },
+      { venue_id: 'syd-pyr-1', venue_name: 'Pyrmont Workspace', latitude: -33.8701, longitude: 151.1967 },
+      { venue_id: 'syd-sur-1', venue_name: 'Surry Hills Office', latitude: -33.8863, longitude: 151.2094 },
+      { venue_id: 'syd-nth-1', venue_name: 'North Sydney Cowork', latitude: -33.8390, longitude: 151.2065 },
+    ],
+  },
+  {
+    city: 'Melbourne', state: 'Australia', country: 'Australia', avgRatePerBooking: 128,
+    venueCoords: [
+      { venue_id: 'mel-cbd-1', venue_name: 'Melbourne CBD Hub', latitude: -37.8136, longitude: 144.9631 },
+      { venue_id: 'mel-soy-1', venue_name: 'South Yarra Workspace', latitude: -37.8355, longitude: 144.9869 },
+      { venue_id: 'mel-fit-1', venue_name: 'Fitzroy Cowork', latitude: -37.8002, longitude: 144.9781 },
+    ],
+  },
+  {
+    city: 'Amsterdam', state: 'Netherlands', country: 'Netherlands', avgRatePerBooking: 162,
+    venueCoords: [
+      { venue_id: 'ams-cen-1', venue_name: 'Centrum Workspace', latitude: 52.3676, longitude: 4.9041 },
+      { venue_id: 'ams-zui-1', venue_name: 'Zuidas Business Hub', latitude: 52.3354, longitude: 4.8772 },
+      { venue_id: 'ams-wp-1', venue_name: 'Westerpark Office', latitude: 52.3841, longitude: 4.8777 },
+    ],
+  },
+  {
+    city: 'Berlin', state: 'Germany', country: 'Germany', avgRatePerBooking: 138,
+    venueCoords: [
+      { venue_id: 'ber-mit-1', venue_name: 'Mitte Cowork', latitude: 52.5200, longitude: 13.4050 },
+      { venue_id: 'ber-kxb-1', venue_name: 'Kreuzberg Hub', latitude: 52.4990, longitude: 13.4069 },
+      { venue_id: 'ber-prb-1', venue_name: 'Prenzlauer Berg Office', latitude: 52.5389, longitude: 13.4157 },
+      { venue_id: 'ber-sch-1', venue_name: 'Schöneberg Workspace', latitude: 52.4878, longitude: 13.3650 },
+    ],
+  },
+  {
+    city: 'Paris', state: 'France', country: 'France', avgRatePerBooking: 178,
+    venueCoords: [
+      { venue_id: 'par-mar-1', venue_name: 'Le Marais Hub', latitude: 48.8641, longitude: 2.3488 },
+      { venue_id: 'par-def-1', venue_name: 'La Défense Office', latitude: 48.8915, longitude: 2.2384 },
+      { venue_id: 'par-8e-1', venue_name: '8ème Arrondissement Cowork', latitude: 48.8752, longitude: 2.2945 },
+      { venue_id: 'par-11-1', venue_name: 'Oberkampf Workspace', latitude: 48.8641, longitude: 2.3677 },
+    ],
+  },
+  {
+    city: 'Singapore', state: 'Singapore', country: 'Singapore', avgRatePerBooking: 152,
+    venueCoords: [
+      { venue_id: 'sgp-cbd-1', venue_name: 'Raffles Place Hub', latitude: 1.2830, longitude: 103.8515 },
+      { venue_id: 'sgp-mb-1', venue_name: 'Marina Bay Office', latitude: 1.2789, longitude: 103.8536 },
+      { venue_id: 'sgp-on-1', venue_name: 'One-North Workspace', latitude: 1.2990, longitude: 103.7876 },
+      { venue_id: 'sgp-orc-1', venue_name: 'Orchard Cowork', latitude: 1.3048, longitude: 103.8318 },
+    ],
+  },
+  {
+    city: 'Dublin', state: 'Ireland', country: 'Ireland', avgRatePerBooking: 165,
+    venueCoords: [
+      { venue_id: 'dub-dck-1', venue_name: 'Docklands Hub', latitude: 53.3498, longitude: -6.2441 },
+      { venue_id: 'dub-d2-1', venue_name: 'City Centre Workspace', latitude: 53.3461, longitude: -6.2578 },
+      { venue_id: 'dub-sil-1', venue_name: 'Silicon Docks Office', latitude: 53.3465, longitude: -6.2386 },
+    ],
+  },
+  {
+    city: 'Tokyo', state: 'Japan', country: 'Japan', avgRatePerBooking: 124,
+    venueCoords: [
+      { venue_id: 'tky-shn-1', venue_name: 'Shinjuku Hub', latitude: 35.6938, longitude: 139.7036 },
+      { venue_id: 'tky-shb-1', venue_name: 'Shibuya Workspace', latitude: 35.6598, longitude: 139.7006 },
+      { venue_id: 'tky-mrn-1', venue_name: 'Marunouchi Office', latitude: 35.6812, longitude: 139.7671 },
+      { venue_id: 'tky-akb-1', venue_name: 'Akihabara Cowork', latitude: 35.7022, longitude: 139.7742 },
+    ],
+  },
+  {
+    city: 'Madrid', state: 'Spain', country: 'Spain', avgRatePerBooking: 148,
+    venueCoords: [
+      { venue_id: 'mad-col-1', venue_name: 'Castellana Hub', latitude: 40.4168, longitude: -3.6900 },
+      { venue_id: 'mad-cen-1', venue_name: 'Centro Cowork', latitude: 40.4155, longitude: -3.7075 },
+      { venue_id: 'mad-sla-1', venue_name: 'Salamanca Workspace', latitude: 40.4320, longitude: -3.6825 },
+    ],
+  },
+  {
+    city: 'Barcelona', state: 'Spain', country: 'Spain', avgRatePerBooking: 143,
+    venueCoords: [
+      { venue_id: 'bcn-22-1', venue_name: '22@ Innovation Hub', latitude: 41.4036, longitude: 2.1944 },
+      { venue_id: 'bcn-exa-1', venue_name: 'Eixample Workspace', latitude: 41.3918, longitude: 2.1610 },
+      { venue_id: 'bcn-gra-1', venue_name: 'Gràcia Cowork', latitude: 41.4019, longitude: 2.1569 },
+    ],
+  },
 ]
+
+/** US state codes — used to detect domestic vs. international markets */
+export const US_STATE_CODES = new Set([
+  'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN','IA',
+  'KS','KY','LA','ME','MD','MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ',
+  'NM','NY','NC','ND','OH','OK','OR','PA','RI','SC','SD','TN','TX','UT','VT',
+  'VA','WA','WV','WI','WY','DC',
+])
+
+/** Returns true when state param is a US state or DC code */
+export function isUSMarket(state: string): boolean {
+  return US_STATE_CODES.has(state.toUpperCase())
+}
 
 export function getMarketData(city: string, state: string): MarketPlatformData | null {
   return (

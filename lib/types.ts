@@ -2,7 +2,17 @@ export type RAGStatus = 'green' | 'amber' | 'red'
 
 export interface MetroSummary {
   city: string
+  /**
+   * For US markets: 2-letter state code (e.g. 'NY', 'CA').
+   * For international markets: country name (e.g. 'United Kingdom', 'Australia').
+   */
   state: string
+  /**
+   * Explicit country identifier. 'US' for domestic markets.
+   * For international, matches the country name used in `state`.
+   * Optional for backward-compat with existing US-only seed files.
+   */
+  country?: string
   reservations: number
   total_spend: number
   venues: number

@@ -46,7 +46,8 @@ export function HubLocationMap({ venues, hvs, metro }: HubLocationMapProps) {
         <div className="text-xs font-semibold text-ls-600 uppercase tracking-wider mb-1">Recommended Hub Location</div>
         {showHub && hub?.lat != null ? (
           <div className="text-sm font-medium text-body">
-            {hub.lat.toFixed(4)}°N, {Math.abs(hub.lng).toFixed(4)}°W
+            {Math.abs(hub.lat).toFixed(4)}{hub.lat >= 0 ? '°N' : '°S'},{' '}
+            {Math.abs(hub.lng).toFixed(4)}{hub.lng >= 0 ? '°E' : '°W'}
           </div>
         ) : null}
         {hub?.description && (

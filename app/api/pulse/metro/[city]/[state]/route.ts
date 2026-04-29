@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getMetroVenues, getDailyDemand, getMetroPortfolio, getPeerBenchmarks, getWorkTypeData } from '@/lib/pulse'
 import { buildHVSReasoning } from '@/lib/hvs'
+import { isUSMarket } from '@/lib/platform-venues'
 import type { StressTestParams, ThresholdAlert } from '@/lib/types'
 import { ragStatus } from '@/lib/utils'
 
@@ -19,16 +20,24 @@ export async function GET(
   const city = decodeURIComponent(params.city)
   const state = decodeURIComponent(params.state)
 
+  // Determine if this is a US domestic market or an international market.
+  // For US: state param = 2-letter state code (e.g. 'NY', 'CA').
+  // For international: state param = country name (e.g. 'United Kingdom', 'Australia').
+  const country = isUSMarket(state) ? 'US' : state
+
   try {
     const [venues, dailyDemand, portfolio, peerRows, workTypeData] = await Promise.all([
-      getMetroVenues(enterprise, city, state),
-      getDailyDemand(enterprise, city, state, 365),
+      getMetroVenues(enterprise, city, state, country),
+      getDailyDemand(enterprise, city, state, 365, country),
       getMetroPortfolio(enterprise),
-      getPeerBenchmarks(city, state, enterprise),
-      getWorkTypeData(enterprise, city, state),
+      getPeerBenchmarks(city, state, enterprise, country),
+      getWorkTypeData(enterprise, city, state, country),
     ])
 
-    const metro = portfolio.find(m => m.city === city && m.state === state)
+    const metro = portfolio.find(m =>
+      m.city.toLowerCase() === city.toLowerCase() &&
+      m.state.toLowerCase() === state.toLowerCase()
+    )
     if (!metro) {
       return NextResponse.json({ error: 'Metro not found' }, { status: 404 })
     }

@@ -15,6 +15,11 @@ function metroKey(city: string, state: string): string {
   return `${city.toLowerCase().replace(/\s+/g, '-')}-${state.toLowerCase()}`
 }
 
+/** Key for international markets uses city + country slug */
+function metroKeyIntl(city: string, country: string): string {
+  return `${city.toLowerCase().replace(/\s+/g, '-')}-${country.toLowerCase().replace(/\s+/g, '-')}`
+}
+
 // Escape single quotes to prevent SQL injection
 function esc(s: string): string {
   return s.replace(/'/g, "''")
@@ -38,6 +43,7 @@ function readEnterpriseMetros(enterprise: string): Array<{
 export async function getMetroPortfolio(enterprise: string): Promise<Array<{
   city: string
   state: string
+  country: string
   reservations: number
   total_spend: number
   venues: number
@@ -48,17 +54,21 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
 
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
-      return await queryParquet<{ city: string; state: string; reservations: number; total_spend: number; venues: number; members: number }>(`
-        SELECT City as city, State as state,
+      // For US records: group by City + State (state code).
+      // For international: group by City + Country (state field varies by region/province).
+      return await queryParquet<{ city: string; state: string; country: string; reservations: number; total_spend: number; venues: number; members: number }>(`
+        SELECT
+          City as city,
+          CASE WHEN Country = 'US' THEN State ELSE Country END as state,
+          Country as country,
           COUNT(*) as reservations,
           SUM(DiscountedPriceUSD) as total_spend,
           COUNT(DISTINCT VenueId) as venues,
           COUNT(DISTINCT EnterpriseMemberId) as members
         FROM read_parquet('${parquetPath}')
         WHERE EnterpriseAccount = '${esc(enterprise)}'
-          AND Country = 'US'
           AND Status IN ('Completed', 'CancellationPolicy')
-        GROUP BY City, State
+        GROUP BY City, CASE WHEN Country = 'US' THEN State ELSE Country END, Country
         HAVING COUNT(*) >= 3
         ORDER BY total_spend DESC
       `)
@@ -72,12 +82,19 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
   const seedFile = enterprise === 'Allstate' ? 'allstate-metros.json' : `${slug}-metros.json`
   const seedPath = path.join(DATA_DIR, seedFile)
   if (fs.existsSync(seedPath)) {
-    return readJson(seedFile)
+    // Inject 'US' as country for seed files that predate the international update
+    const rows = readJson<Array<{ city: string; state: string; country?: string; reservations: number; total_spend: number; venues: number; members: number }>>(seedFile)
+    return rows.map(r => ({ ...r, country: r.country ?? 'US' }))
   }
   return []
 }
 
-export async function getMetroVenues(enterprise: string, city: string, state: string): Promise<Array<{
+export async function getMetroVenues(
+  enterprise: string,
+  city: string,
+  state: string,
+  country = 'US',
+): Promise<Array<{
   venue_id: string
   venue_name: string
   latitude: number
@@ -91,6 +108,11 @@ export async function getMetroVenues(enterprise: string, city: string, state: st
 
   if (reservationsPath && venuesPath && fs.existsSync(reservationsPath) && fs.existsSync(venuesPath)) {
     try {
+      // For US: filter by City + State. For international: filter by City + Country only
+      // (provincial/regional State values in Parquet are inconsistent for non-US markets).
+      const locationFilter = country === 'US'
+        ? `AND r.City = '${esc(city)}' AND r.State = '${esc(state)}' AND r.Country = 'US'`
+        : `AND r.City = '${esc(city)}' AND r.Country = '${esc(country)}'`
       return await queryParquet<{ venue_id: string; venue_name: string; latitude: number; longitude: number; reservations: number; spend: number }>(`
         SELECT r.VenueId as venue_id, r.Venue as venue_name,
           v.Latitude as latitude, v.Longitude as longitude,
@@ -99,9 +121,7 @@ export async function getMetroVenues(enterprise: string, city: string, state: st
         FROM read_parquet('${reservationsPath}') r
         LEFT JOIN read_parquet('${venuesPath}') v ON r.VenueId = v.ID
         WHERE r.EnterpriseAccount = '${esc(enterprise)}'
-          AND r.City = '${esc(city)}'
-          AND r.State = '${esc(state)}'
-          AND r.Country = 'US'
+          ${locationFilter}
           AND r.Status IN ('Completed', 'CancellationPolicy')
           AND v.Latitude IS NOT NULL AND v.Longitude IS NOT NULL
         GROUP BY r.VenueId, r.Venue, v.Latitude, v.Longitude
@@ -113,7 +133,7 @@ export async function getMetroVenues(enterprise: string, city: string, state: st
   }
 
   // Seeded fallback — file-based JSON per enterprise/metro
-  const key = metroKey(city, state)
+  const key = country === 'US' ? metroKey(city, state) : metroKeyIntl(city, country)
   const slug = enterprise === 'Allstate' ? 'allstate' : enterpriseSlug(enterprise)
   const filename = `${slug}-venues-${key}.json`
   const filePath = path.join(DATA_DIR, filename)
@@ -128,22 +148,24 @@ export async function getDailyDemand(
   enterprise: string,
   city: string,
   state: string,
-  _lookbackDays = 365
+  _lookbackDays = 365,
+  country = 'US',
 ): Promise<Array<{ day: string; bookings: number; spend: number }>> {
   const parquetDir = process.env.PULSE_DATA_PATH
   const parquetPath = parquetDir ? `${parquetDir}/HourlyDailyReservations.parquet` : null
 
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
+      const locationFilter = country === 'US'
+        ? `AND City = '${esc(city)}' AND State = '${esc(state)}' AND Country = 'US'`
+        : `AND City = '${esc(city)}' AND Country = '${esc(country)}'`
       return await queryParquet<{ day: string; bookings: number; spend: number }>(`
         SELECT CAST(StartTime AS DATE)::VARCHAR as day,
           COUNT(*) as bookings,
           SUM(DiscountedPriceUSD) as spend
         FROM read_parquet('${parquetPath}')
         WHERE EnterpriseAccount = '${esc(enterprise)}'
-          AND City = '${esc(city)}'
-          AND State = '${esc(state)}'
-          AND Country = 'US'
+          ${locationFilter}
           AND Status IN ('Completed', 'CancellationPolicy')
         GROUP BY CAST(StartTime AS DATE)
         ORDER BY day
@@ -154,7 +176,7 @@ export async function getDailyDemand(
   }
 
   // Seeded fallback — file-based JSON per enterprise/metro
-  const key = metroKey(city, state)
+  const key = country === 'US' ? metroKey(city, state) : metroKeyIntl(city, country)
   const filename = `${enterprise.toLowerCase()}-demand-${key}.json`
   const filePath = path.join(DATA_DIR, filename)
   if (fs.existsSync(filePath)) {
@@ -163,7 +185,7 @@ export async function getDailyDemand(
 
   // Synthetic fallback — derive demand wave from metro-level spend + reservations
   const metros = readEnterpriseMetros(enterprise)
-  const metro = metros.find(m => m.city === city && m.state === state)
+  const metro = metros.find(m => m.city === city && (country === 'US' ? m.state === state : true))
   if (metro && metro.total_spend > 0 && metro.reservations > 0) {
     const avgRatePerBooking = metro.total_spend / metro.reservations
     return generateIntakeDemand(metro.total_spend, avgRatePerBooking)
@@ -174,20 +196,23 @@ export async function getDailyDemand(
 export async function getPeerBenchmarks(
   city: string,
   state: string,
-  excludeEnterprise: string
+  excludeEnterprise: string,
+  country = 'US',
 ): Promise<Array<{ enterprise: string; reservations: number; members: number }>> {
   const parquetDir = process.env.PULSE_DATA_PATH
   const parquetPath = parquetDir ? `${parquetDir}/HourlyDailyReservations.parquet` : null
 
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
+      const locationFilter = country === 'US'
+        ? `City = '${esc(city)}' AND State = '${esc(state)}' AND Country = 'US'`
+        : `City = '${esc(city)}' AND Country = '${esc(country)}'`
       return await queryParquet<{ enterprise: string; reservations: number; members: number }>(`
         SELECT EnterpriseAccount as enterprise,
           COUNT(*) as reservations,
           COUNT(DISTINCT EnterpriseMemberId) as members
         FROM read_parquet('${parquetPath}')
-        WHERE City = '${esc(city)}' AND State = '${esc(state)}'
-          AND Country = 'US'
+        WHERE ${locationFilter}
           AND Status IN ('Completed', 'CancellationPolicy')
           AND EnterpriseAccount != '${esc(excludeEnterprise)}'
         GROUP BY EnterpriseAccount
@@ -460,6 +485,58 @@ const SEEDED_WORK_TYPE: Record<string, WorkTypeSeeded> = {
     hwi: { score: 38, collaboration_seat_days: 15,  concentration_seat_days: 25  },
     cpi: { score: 28, copresence_event_count: 8,   median_group_size: 2.3, total_venue_days: 29  },
   },
+
+  // ── International markets — synthesized from typical enterprise travel patterns ──
+  // Business-travel dominant: HWI moderate-to-low (individual desk bookings), CPI elevated
+  // (visiting employees often co-present in the same venue on the same day).
+  'london-united-kingdom': {
+    hwi: { score: 28, collaboration_seat_days: 142, concentration_seat_days: 365 },
+    cpi: { score: 41, copresence_event_count: 98,  median_group_size: 2.8, total_venue_days: 240 },
+  },
+  'toronto-canada': {
+    hwi: { score: 33, collaboration_seat_days: 88,  concentration_seat_days: 178 },
+    cpi: { score: 36, copresence_event_count: 61,  median_group_size: 2.5, total_venue_days: 170 },
+  },
+  'sydney-australia': {
+    hwi: { score: 31, collaboration_seat_days: 74,  concentration_seat_days: 165 },
+    cpi: { score: 38, copresence_event_count: 57,  median_group_size: 2.6, total_venue_days: 150 },
+  },
+  'melbourne-australia': {
+    hwi: { score: 35, collaboration_seat_days: 61,  concentration_seat_days: 113 },
+    cpi: { score: 34, copresence_event_count: 42,  median_group_size: 2.4, total_venue_days: 124 },
+  },
+  'amsterdam-netherlands': {
+    hwi: { score: 44, collaboration_seat_days: 95,  concentration_seat_days: 121 },
+    cpi: { score: 39, copresence_event_count: 58,  median_group_size: 2.7, total_venue_days: 149 },
+  },
+  'berlin-germany': {
+    hwi: { score: 38, collaboration_seat_days: 82,  concentration_seat_days: 134 },
+    cpi: { score: 35, copresence_event_count: 49,  median_group_size: 2.5, total_venue_days: 140 },
+  },
+  'paris-france': {
+    hwi: { score: 26, collaboration_seat_days: 65,  concentration_seat_days: 185 },
+    cpi: { score: 37, copresence_event_count: 61,  median_group_size: 2.6, total_venue_days: 165 },
+  },
+  'singapore-singapore': {
+    hwi: { score: 42, collaboration_seat_days: 109, concentration_seat_days: 151 },
+    cpi: { score: 43, copresence_event_count: 77,  median_group_size: 2.9, total_venue_days: 179 },
+  },
+  'dublin-ireland': {
+    hwi: { score: 51, collaboration_seat_days: 72,  concentration_seat_days: 69  },
+    cpi: { score: 44, copresence_event_count: 45,  median_group_size: 3.0, total_venue_days: 102 },
+  },
+  'tokyo-japan': {
+    hwi: { score: 18, collaboration_seat_days: 38,  concentration_seat_days: 173 },
+    cpi: { score: 29, copresence_event_count: 44,  median_group_size: 2.2, total_venue_days: 152 },
+  },
+  'madrid-spain': {
+    hwi: { score: 47, collaboration_seat_days: 68,  concentration_seat_days: 77  },
+    cpi: { score: 40, copresence_event_count: 48,  median_group_size: 2.8, total_venue_days: 120 },
+  },
+  'barcelona-spain': {
+    hwi: { score: 45, collaboration_seat_days: 58,  concentration_seat_days: 71  },
+    cpi: { score: 38, copresence_event_count: 41,  median_group_size: 2.7, total_venue_days: 108 },
+  },
 }
 
 // ── DuckDB / Parquet helpers ─────────────────────────────────────────────────
@@ -487,9 +564,10 @@ function queryParquet<T = Record<string, unknown>>(sql: string): Promise<T[]> {
 export async function getWorkTypeData(
   enterprise: string,
   city: string,
-  state: string
+  state: string,
+  country = 'US',
 ): Promise<{ hwi: HWIOutput; cpi: CPIOutput } | null> {
-  const key = metroKey(city, state)
+  const key = country === 'US' ? metroKey(city, state) : metroKeyIntl(city, country)
 
   // ── 1. Try live DuckDB if Parquet file is reachable ──────────────────────
   const parquetDir = process.env.PULSE_DATA_PATH
@@ -498,6 +576,9 @@ export async function getWorkTypeData(
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
       // HWI: collaboration-shaped vs concentration-shaped bookings
+      const locationClause = country === 'US'
+        ? `AND City ILIKE '${esc(city)}' AND State ILIKE '${esc(state)}' AND Country = 'US'`
+        : `AND City ILIKE '${esc(city)}' AND Country = '${esc(country)}'`
       const hwiRows = await queryParquet<{ scenario_type: string; total_booked: number }>(`
         SELECT
           CASE
@@ -512,9 +593,8 @@ export async function getWorkTypeData(
           END AS scenario_type,
           SUM(QuantityBooked) AS total_booked
         FROM read_parquet('${parquetPath}')
-        WHERE EnterpriseAccount ILIKE '%${enterprise}%'
-          AND City ILIKE '${city}'
-          AND State ILIKE '${state}'
+        WHERE EnterpriseAccount ILIKE '%${esc(enterprise)}%'
+          ${locationClause}
         GROUP BY scenario_type
       `)
 
@@ -535,9 +615,8 @@ export async function getWorkTypeData(
             VenueId,
             COUNT(DISTINCT EnterpriseMemberId) AS member_count
           FROM read_parquet('${parquetPath}')
-          WHERE EnterpriseAccount ILIKE '%${enterprise}%'
-            AND City ILIKE '${city}'
-            AND State ILIKE '${state}'
+          WHERE EnterpriseAccount ILIKE '%${esc(enterprise)}%'
+            ${locationClause}
           GROUP BY booking_date, VenueId
         )
         SELECT
@@ -571,7 +650,9 @@ export async function getWorkTypeData(
   // Uses members/reservations ratio as a proxy for collaboration intensity
   // and bookings/venue density as a proxy for co-presence likelihood.
   const metros = readEnterpriseMetros(enterprise)
-  const metro = metros.find(m => m.city === city && m.state === state)
+  const metro = metros.find(m =>
+    m.city === city && (country === 'US' ? m.state === state : true)
+  )
   if (metro && metro.reservations > 0) {
     // HWI: high members-per-booking ratio → more unique people per booking → team/collab
     // Low ratio → repeat individual bookings → concentration work
