@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "van-cf-1",
+    "venue_name": "WeWork Granville Street",
+    "latitude": 49.2820,
+    "longitude": -123.1171,
+    "reservations": 32,
+    "spend": 8904.00
+  },
+  {
+    "venue_id": "van-cf-2",
+    "venue_name": "Spaces Burrard",
+    "latitude": 49.2849,
+    "longitude": -123.1238,
+    "reservations": 23,
+    "spend": 6440.00
+  }
+]

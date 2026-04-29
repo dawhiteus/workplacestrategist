@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "kl-cf-1",
+    "venue_name": "WeWork Equatorial Plaza",
+    "latitude": 3.1477,
+    "longitude": 101.7135,
+    "reservations": 98,
+    "spend": 2521.14
+  },
+  {
+    "venue_id": "kl-cf-2",
+    "venue_name": "Spaces The Vertical",
+    "latitude": 3.1185,
+    "longitude": 101.6681,
+    "reservations": 81,
+    "spend": 2084.67
+  },
+  {
+    "venue_id": "kl-cf-3",
+    "venue_name": "Regus KLCC",
+    "latitude": 3.1570,
+    "longitude": 101.7138,
+    "reservations": 59,
+    "spend": 1527.97
+  }
+]

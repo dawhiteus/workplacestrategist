@@ -2,14 +2,34 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 2179,
     "total_spend": 167551.98,
     "venues": 106,
     "members": 144
   },
   {
+    "city": "Amsterdam",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 1223,
+    "total_spend": 104381.97,
+    "venues": 39,
+    "members": 87
+  },
+  {
+    "city": "Toronto",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 336,
+    "total_spend": 41154.96,
+    "venues": 25,
+    "members": 54
+  },
+  {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 259,
     "total_spend": 20699.86,
     "venues": 19,
@@ -18,145 +38,190 @@
   {
     "city": "Seattle",
     "state": "WA",
-    "reservations": 271,
-    "total_spend": 15830.31,
+    "country": "US",
+    "reservations": 273,
+    "total_spend": 15910.31,
     "venues": 16,
     "members": 22
   },
   {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 55,
+    "total_spend": 15344.00,
+    "venues": 8,
+    "members": 16
+  },
+  {
+    "city": "Kuala Lumpur",
+    "state": "Malaysia",
+    "country": "Malaysia",
+    "reservations": 238,
+    "total_spend": 6133.78,
+    "venues": 11,
+    "members": 38
+  },
+  {
+    "city": "Utrecht",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 27,
+    "total_spend": 5560.26,
+    "venues": 4,
+    "members": 9
+  },
+  {
     "city": "Doral",
     "state": "FL",
+    "country": "US",
     "reservations": 10,
-    "total_spend": 2906.0,
+    "total_spend": 2906.00,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Zurich",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 4,
+    "total_spend": 2801.76,
     "venues": 2,
     "members": 3
   },
   {
     "city": "Bellevue",
     "state": "WA",
+    "country": "US",
     "reservations": 24,
     "total_spend": 2781.44,
     "venues": 8,
     "members": 13
   },
   {
+    "city": "Schiphol",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 13,
+    "total_spend": 2507.28,
+    "venues": 2,
+    "members": 5
+  },
+  {
     "city": "Queens",
     "state": "NY",
+    "country": "US",
     "reservations": 59,
-    "total_spend": 2407.0,
+    "total_spend": 2407.00,
     "venues": 3,
     "members": 11
   },
   {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 14,
-    "total_spend": 2162.0,
+    "total_spend": 2162.00,
     "venues": 8,
     "members": 5
   },
   {
     "city": "Coral Gables",
     "state": "FL",
+    "country": "US",
     "reservations": 13,
     "total_spend": 1920.83,
     "venues": 3,
     "members": 2
   },
   {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 19,
+    "total_spend": 1160.74,
+    "venues": 7,
+    "members": 8
+  },
+  {
     "city": "Jersey City",
     "state": "NJ",
+    "country": "US",
     "reservations": 29,
-    "total_spend": 1360.0,
+    "total_spend": 1360.00,
     "venues": 2,
     "members": 3
   },
   {
     "city": "Miami",
     "state": "FL",
+    "country": "US",
     "reservations": 4,
-    "total_spend": 1326.0,
+    "total_spend": 1326.00,
     "venues": 3,
     "members": 2
   },
   {
     "city": "Williamsburg",
     "state": "NY",
+    "country": "US",
     "reservations": 17,
-    "total_spend": 1225.0,
+    "total_spend": 1225.00,
     "venues": 1,
     "members": 8
   },
   {
     "city": "Bothell",
     "state": "WA",
+    "country": "US",
     "reservations": 3,
-    "total_spend": 1145.0,
+    "total_spend": 1145.00,
     "venues": 1,
     "members": 2
   },
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 4,
-    "total_spend": 982.5,
+    "total_spend": 982.50,
     "venues": 4,
     "members": 4
   },
   {
     "city": "Hoboken",
     "state": "NJ",
+    "country": "US",
     "reservations": 21,
-    "total_spend": 950.0,
+    "total_spend": 950.00,
     "venues": 2,
     "members": 5
   },
   {
     "city": "Miramar",
     "state": "FL",
+    "country": "US",
     "reservations": 3,
-    "total_spend": 683.0,
+    "total_spend": 683.00,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 210.00,
     "venues": 1,
     "members": 1
   },
   {
     "city": "Long Island City",
     "state": "NY",
+    "country": "US",
     "reservations": 4,
-    "total_spend": 264.0,
+    "total_spend": 264.00,
     "venues": 2,
     "members": 2
-  },
-  {
-    "city": "Los Angeles",
-    "state": "CA",
-    "reservations": 3,
-    "total_spend": 210.0,
-    "venues": 1,
-    "members": 1
-  },
-  {
-    "city": "Union City",
-    "state": "NJ",
-    "reservations": 4,
-    "total_spend": 114.0,
-    "venues": 1,
-    "members": 2
-  },
-  {
-    "city": "Baltimore",
-    "state": "MD",
-    "reservations": 4,
-    "total_spend": 110.0,
-    "venues": 1,
-    "members": 1
-  },
-  {
-    "city": "Albany",
-    "state": "NY",
-    "reservations": 3,
-    "total_spend": 88.0,
-    "venues": 2,
-    "members": 1
   }
 ]

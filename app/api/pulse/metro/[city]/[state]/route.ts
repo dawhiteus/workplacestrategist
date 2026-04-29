@@ -22,7 +22,11 @@ export async function GET(
 
   // Determine if this is a US domestic market or an international market.
   // For US: state param = 2-letter state code (e.g. 'NY', 'CA').
-  // For international: state param = country name (e.g. 'United Kingdom', 'Australia').
+  // For international: state param = country name (e.g. 'United Kingdom', 'Netherlands').
+  // Full country names are used in URLs to avoid ISO code conflicts (e.g. CA = Canada vs California).
+  // For US: state = '2-letter code' → country = 'US'
+  // For international: state = country name ('Netherlands', 'Canada') → country = that name.
+  // pulse.ts converts country names to ISO codes internally for Parquet queries.
   const country = isUSMarket(state) ? 'US' : state
 
   try {

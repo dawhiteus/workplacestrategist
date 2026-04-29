@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "ams-cf-1",
+    "venue_name": "Spaces Herengracht",
+    "latitude": 52.3728,
+    "longitude": 4.8938,
+    "reservations": 498,
+    "spend": 42561.42
+  },
+  {
+    "venue_id": "ams-cf-2",
+    "venue_name": "WeWork Weteringschans",
+    "latitude": 52.3614,
+    "longitude": 4.8838,
+    "reservations": 312,
+    "spend": 26644.08
+  },
+  {
+    "venue_id": "ams-cf-3",
+    "venue_name": "IWG Zuidas",
+    "latitude": 52.3387,
+    "longitude": 4.8702,
+    "reservations": 241,
+    "spend": 20573.91
+  },
+  {
+    "venue_id": "ams-cf-4",
+    "venue_name": "B.Amsterdam Science Park",
+    "latitude": 52.3559,
+    "longitude": 4.9477,
+    "reservations": 172,
+    "spend": 14602.56
+  }
+]

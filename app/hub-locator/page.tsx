@@ -43,6 +43,7 @@ const STATIC_CARDS: Array<{
 interface PortfolioStats {
   totalMarkets: number
   totalStates: number
+  intlCountries: number
   totalSpend: number
   totalReservations: number
   totalMembers: number
@@ -61,7 +62,9 @@ function deriveStats(metros: MetroSummary[]): PortfolioStats | null {
   const totalSpend = metros.reduce((s, m) => s + m.total_spend, 0)
   const totalReservations = metros.reduce((s, m) => s + m.reservations, 0)
   const totalMembers = metros.reduce((s, m) => s + m.members, 0)
-  const states = new Set(metros.map(m => m.state)).size
+  const usStates = new Set(metros.filter(m => !m.country || m.country === 'US').map(m => m.state)).size
+  const intlCountries = new Set(metros.filter(m => m.country && m.country !== 'US').map(m => m.country)).size
+  const states = usStates
   const avgSpendPerBooking = totalSpend / totalReservations
 
   const bySpend = [...metros].sort((a, b) => b.total_spend - a.total_spend)
@@ -83,6 +86,7 @@ function deriveStats(metros: MetroSummary[]): PortfolioStats | null {
   return {
     totalMarkets: metros.length,
     totalStates: states,
+    intlCountries,
     totalSpend,
     totalReservations,
     totalMembers,
@@ -301,7 +305,10 @@ export default function HubLocatorPage() {
               icon={Globe}
               label="Portfolio Footprint"
               value={`${stats.totalMarkets} markets`}
-              sub={`Across ${stats.totalStates} states`}
+              sub={stats.intlCountries > 0
+                ? `${stats.totalStates} US states · ${stats.intlCountries} ${stats.intlCountries === 1 ? 'country' : 'countries'}`
+                : `Across ${stats.totalStates} states`
+              }
               accent="blue"
             />
             <StatTile

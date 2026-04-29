@@ -1,7 +1,7 @@
 import path from 'path'
 import fs from 'fs'
 import type { HWIOutput, CPIOutput } from './types'
-import { generateIntakeDemand } from './platform-venues'
+import { generateIntakeDemand, countryNameToCode } from './platform-venues'
 
 // Seeded JSON data lives alongside the project for demo reliability.
 // If PULSE_DATA_PATH is set and accessible, DuckDB runtime queries are used instead.
@@ -54,12 +54,41 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
 
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
-      // For US records: group by City + State (state code).
-      // For international: group by City + Country (state field varies by region/province).
+      // For US records: group by City + State (2-letter state code).
+      // For international: use country name (not ISO code) as the state field so it's
+      // unambiguous in URLs — e.g. 'Netherlands' not 'NL' (which would conflict with nothing,
+      // but 'CA' for Canada would conflict with California).
       return await queryParquet<{ city: string; state: string; country: string; reservations: number; total_spend: number; venues: number; members: number }>(`
         SELECT
           City as city,
-          CASE WHEN Country = 'US' THEN State ELSE Country END as state,
+          CASE
+            WHEN Country = 'US' THEN State
+            WHEN Country IN ('CA','NL','MY','CH','DE','GB','UK','AU','FR','SG','JP','IE','ES','SE','BE','SI','IN','MX','BR','ZA','PH','ID','PL','CZ','RO','HU','PT','NO','DK','FI','AT','NZ','IL','AE','HK','TW','KR','TH','VN')
+            THEN CASE Country
+              WHEN 'CA' THEN 'Canada'         WHEN 'NL' THEN 'Netherlands'
+              WHEN 'MY' THEN 'Malaysia'        WHEN 'CH' THEN 'Switzerland'
+              WHEN 'DE' THEN 'Germany'         WHEN 'GB' THEN 'United Kingdom'
+              WHEN 'UK' THEN 'United Kingdom'  WHEN 'AU' THEN 'Australia'
+              WHEN 'FR' THEN 'France'          WHEN 'SG' THEN 'Singapore'
+              WHEN 'JP' THEN 'Japan'           WHEN 'IE' THEN 'Ireland'
+              WHEN 'ES' THEN 'Spain'           WHEN 'SE' THEN 'Sweden'
+              WHEN 'BE' THEN 'Belgium'         WHEN 'SI' THEN 'Slovenia'
+              WHEN 'IN' THEN 'India'           WHEN 'MX' THEN 'Mexico'
+              WHEN 'BR' THEN 'Brazil'          WHEN 'ZA' THEN 'South Africa'
+              WHEN 'PH' THEN 'Philippines'     WHEN 'ID' THEN 'Indonesia'
+              WHEN 'PL' THEN 'Poland'          WHEN 'CZ' THEN 'Czech Republic'
+              WHEN 'RO' THEN 'Romania'         WHEN 'HU' THEN 'Hungary'
+              WHEN 'PT' THEN 'Portugal'        WHEN 'NO' THEN 'Norway'
+              WHEN 'DK' THEN 'Denmark'         WHEN 'FI' THEN 'Finland'
+              WHEN 'AT' THEN 'Austria'         WHEN 'NZ' THEN 'New Zealand'
+              WHEN 'IL' THEN 'Israel'          WHEN 'AE' THEN 'UAE'
+              WHEN 'HK' THEN 'Hong Kong'       WHEN 'TW' THEN 'Taiwan'
+              WHEN 'KR' THEN 'South Korea'     WHEN 'TH' THEN 'Thailand'
+              WHEN 'VN' THEN 'Vietnam'
+              ELSE Country
+            END
+            ELSE Country
+          END as state,
           Country as country,
           COUNT(*) as reservations,
           SUM(DiscountedPriceUSD) as total_spend,
@@ -68,7 +97,14 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
         FROM read_parquet('${parquetPath}')
         WHERE EnterpriseAccount = '${esc(enterprise)}'
           AND Status IN ('Completed', 'CancellationPolicy')
-        GROUP BY City, CASE WHEN Country = 'US' THEN State ELSE Country END, Country
+        GROUP BY City,
+          CASE
+            WHEN Country = 'US' THEN State
+            WHEN Country IN ('CA','NL','MY','CH','DE','GB','UK','AU','FR','SG','JP','IE','ES','SE','BE','SI','IN','MX','BR','ZA','PH','ID','PL','CZ','RO','HU','PT','NO','DK','FI','AT','NZ','IL','AE','HK','TW','KR','TH','VN')
+            THEN CASE Country WHEN 'CA' THEN 'Canada' WHEN 'NL' THEN 'Netherlands' WHEN 'MY' THEN 'Malaysia' WHEN 'CH' THEN 'Switzerland' WHEN 'DE' THEN 'Germany' WHEN 'GB' THEN 'United Kingdom' WHEN 'UK' THEN 'United Kingdom' WHEN 'AU' THEN 'Australia' WHEN 'FR' THEN 'France' WHEN 'SG' THEN 'Singapore' WHEN 'JP' THEN 'Japan' WHEN 'IE' THEN 'Ireland' WHEN 'ES' THEN 'Spain' WHEN 'SE' THEN 'Sweden' WHEN 'BE' THEN 'Belgium' WHEN 'SI' THEN 'Slovenia' WHEN 'IN' THEN 'India' WHEN 'MX' THEN 'Mexico' WHEN 'BR' THEN 'Brazil' WHEN 'ZA' THEN 'South Africa' WHEN 'PH' THEN 'Philippines' WHEN 'ID' THEN 'Indonesia' WHEN 'PL' THEN 'Poland' WHEN 'CZ' THEN 'Czech Republic' WHEN 'RO' THEN 'Romania' WHEN 'HU' THEN 'Hungary' WHEN 'PT' THEN 'Portugal' WHEN 'NO' THEN 'Norway' WHEN 'DK' THEN 'Denmark' WHEN 'FI' THEN 'Finland' WHEN 'AT' THEN 'Austria' WHEN 'NZ' THEN 'New Zealand' WHEN 'IL' THEN 'Israel' WHEN 'AE' THEN 'UAE' WHEN 'HK' THEN 'Hong Kong' WHEN 'TW' THEN 'Taiwan' WHEN 'KR' THEN 'South Korea' WHEN 'TH' THEN 'Thailand' WHEN 'VN' THEN 'Vietnam' ELSE Country END
+            ELSE Country
+          END,
+          Country
         HAVING COUNT(*) >= 3
         ORDER BY total_spend DESC
       `)
@@ -110,9 +146,11 @@ export async function getMetroVenues(
     try {
       // For US: filter by City + State. For international: filter by City + Country only
       // (provincial/regional State values in Parquet are inconsistent for non-US markets).
+      // countryNameToCode converts display names ('Netherlands') → ISO codes ('NL') for Parquet.
+      const countryCode = countryNameToCode(country)
       const locationFilter = country === 'US'
         ? `AND r.City = '${esc(city)}' AND r.State = '${esc(state)}' AND r.Country = 'US'`
-        : `AND r.City = '${esc(city)}' AND r.Country = '${esc(country)}'`
+        : `AND r.City = '${esc(city)}' AND r.Country = '${esc(countryCode)}'`
       return await queryParquet<{ venue_id: string; venue_name: string; latitude: number; longitude: number; reservations: number; spend: number }>(`
         SELECT r.VenueId as venue_id, r.Venue as venue_name,
           v.Latitude as latitude, v.Longitude as longitude,
@@ -156,9 +194,10 @@ export async function getDailyDemand(
 
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
+      const countryCode = countryNameToCode(country)
       const locationFilter = country === 'US'
         ? `AND City = '${esc(city)}' AND State = '${esc(state)}' AND Country = 'US'`
-        : `AND City = '${esc(city)}' AND Country = '${esc(country)}'`
+        : `AND City = '${esc(city)}' AND Country = '${esc(countryCode)}'`
       return await queryParquet<{ day: string; bookings: number; spend: number }>(`
         SELECT CAST(StartTime AS DATE)::VARCHAR as day,
           COUNT(*) as bookings,
@@ -204,9 +243,10 @@ export async function getPeerBenchmarks(
 
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
+      const countryCode = countryNameToCode(country)
       const locationFilter = country === 'US'
         ? `City = '${esc(city)}' AND State = '${esc(state)}' AND Country = 'US'`
-        : `City = '${esc(city)}' AND Country = '${esc(country)}'`
+        : `City = '${esc(city)}' AND Country = '${esc(countryCode)}'`
       return await queryParquet<{ enterprise: string; reservations: number; members: number }>(`
         SELECT EnterpriseAccount as enterprise,
           COUNT(*) as reservations,
@@ -576,9 +616,10 @@ export async function getWorkTypeData(
   if (parquetPath && fs.existsSync(parquetPath)) {
     try {
       // HWI: collaboration-shaped vs concentration-shaped bookings
+      const countryCode = countryNameToCode(country)
       const locationClause = country === 'US'
         ? `AND City ILIKE '${esc(city)}' AND State ILIKE '${esc(state)}' AND Country = 'US'`
-        : `AND City ILIKE '${esc(city)}' AND Country = '${esc(country)}'`
+        : `AND City ILIKE '${esc(city)}' AND Country = '${esc(countryCode)}'`
       const hwiRows = await queryParquet<{ scenario_type: string; total_booked: number }>(`
         SELECT
           CASE

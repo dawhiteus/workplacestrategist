@@ -349,9 +349,78 @@ export const US_STATE_CODES = new Set([
   'VA','WA','WV','WI','WY','DC',
 ])
 
-/** Returns true when state param is a US state or DC code */
+/**
+ * Maps ISO 3166-1 alpha-2 country codes (as stored in Parquet) → full country names.
+ * Full names are used in URLs and MetroSummary.state for international markets
+ * to avoid conflicts with US state codes (e.g. CA = California vs Canada).
+ */
+export const COUNTRY_CODE_TO_NAME: Record<string, string> = {
+  NL: 'Netherlands',
+  CA: 'Canada',
+  MY: 'Malaysia',
+  CH: 'Switzerland',
+  DE: 'Germany',
+  GB: 'United Kingdom',
+  UK: 'United Kingdom',   // some Parquet records use UK instead of GB
+  AU: 'Australia',
+  FR: 'France',
+  SG: 'Singapore',
+  JP: 'Japan',
+  IE: 'Ireland',
+  ES: 'Spain',
+  SE: 'Sweden',
+  BE: 'Belgium',
+  SI: 'Slovenia',
+  IN: 'India',
+  MX: 'Mexico',
+  BR: 'Brazil',
+  ZA: 'South Africa',
+  PH: 'Philippines',
+  ID: 'Indonesia',
+  PL: 'Poland',
+  CZ: 'Czech Republic',
+  RO: 'Romania',
+  HU: 'Hungary',
+  PT: 'Portugal',
+  NO: 'Norway',
+  DK: 'Denmark',
+  FI: 'Finland',
+  AT: 'Austria',
+  NZ: 'New Zealand',
+  IL: 'Israel',
+  AE: 'UAE',
+  HK: 'Hong Kong',
+  TW: 'Taiwan',
+  KR: 'South Korea',
+  TH: 'Thailand',
+  VN: 'Vietnam',
+}
+
+/** Reverse lookup: full country name → ISO code (for Parquet queries) */
+export const COUNTRY_NAME_TO_CODE: Record<string, string> = Object.fromEntries(
+  Object.entries(COUNTRY_CODE_TO_NAME)
+    .filter(([code]) => code !== 'UK')  // deduplicate — GB is canonical
+    .map(([code, name]) => [name, code])
+)
+
+/**
+ * Returns true when state param is a US state or DC postal code.
+ * Country names ('Netherlands', 'Canada', etc.) are always false.
+ * Note: even though 'CA' is both California and Canada's ISO code, we
+ * never use ISO codes as URL params — we use full country names instead.
+ */
 export function isUSMarket(state: string): boolean {
   return US_STATE_CODES.has(state.toUpperCase())
+}
+
+/**
+ * Given a country name as used in URLs/MetroSummary.state,
+ * returns the ISO code needed for Parquet WHERE Country = '...' filters.
+ * Returns 'US' for US markets.
+ */
+export function countryNameToCode(countryName: string): string {
+  if (countryName === 'US') return 'US'
+  return COUNTRY_NAME_TO_CODE[countryName] ?? countryName
 }
 
 export function getMarketData(city: string, state: string): MarketPlatformData | null {

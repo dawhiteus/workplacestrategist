@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "tor-cf-1",
+    "venue_name": "WeWork Bay Street",
+    "latitude": 43.6487,
+    "longitude": -79.3794,
+    "reservations": 149,
+    "spend": 18234.56
+  },
+  {
+    "venue_id": "tor-cf-2",
+    "venue_name": "Spaces Liberty Village",
+    "latitude": 43.6367,
+    "longitude": -79.4187,
+    "reservations": 108,
+    "spend": 13218.24
+  },
+  {
+    "venue_id": "tor-cf-3",
+    "venue_name": "Regus King West",
+    "latitude": 43.6445,
+    "longitude": -79.4018,
+    "reservations": 79,
+    "spend": 9702.16
+  }
+]

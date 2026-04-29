@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ber-cf-1",
+    "venue_name": "WeWork Unter den Linden",
+    "latitude": 52.5163,
+    "longitude": 13.3777,
+    "reservations": 11,
+    "spend": 674.62
+  },
+  {
+    "venue_id": "ber-cf-2",
+    "venue_name": "Mindspace Moritzplatz",
+    "latitude": 52.4988,
+    "longitude": 13.4102,
+    "reservations": 8,
+    "spend": 486.12
+  }
+]
