@@ -2,17 +2,25 @@
   {
     "venue_id": "641c6ccb-390f-4b6d-b851-95f387c99bb3",
     "venue_name": "WeWork | The Wilson",
-    "latitude": 38.98200607299805,
-    "longitude": -77.09394836425781,
+    "latitude": 38.982006,
+    "longitude": -77.093948,
     "reservations": 4,
     "spend": 188.0
   },
   {
     "venue_id": "2fae5904-a045-484e-b707-4c985de1f37f",
     "venue_name": "Carr Workplaces - Bethesda",
-    "latitude": 38.98247146606445,
-    "longitude": -77.09480285644531,
+    "latitude": 38.982471,
+    "longitude": -77.094803,
     "reservations": 2,
     "spend": 90.0
+  },
+  {
+    "venue_id": "0de47b37-52d2-4015-86e4-b9798cb8c81e",
+    "venue_name": "Regus | MD, Bethesda - Bethesda Metro Ctr",
+    "latitude": 38.983742,
+    "longitude": -77.095497,
+    "reservations": 1,
+    "spend": 41.25
   }
 ]

@@ -1,1 +1,18 @@
-[{"venue_id":"decatur-ga-venue-1","venue_name":"Industrious | Decatur Downtown","latitude":33.6983,"longitude":-84.3788,"reservations":7,"spend":3565.26},{"venue_id":"decatur-ga-venue-2","venue_name":"Firmspace | Decatur North","latitude":33.7191,"longitude":-84.2331,"reservations":4,"spend":1708.24}]
+[
+  {
+    "venue_id": "bbf9e0eb-9ba0-483f-ac36-403f986ea89f",
+    "venue_name": "WeWork | West Trinity Place",
+    "latitude": 33.773422,
+    "longitude": -84.296936,
+    "reservations": 11,
+    "spend": 5297.0
+  },
+  {
+    "venue_id": "f6f9b4c3-ef36-4180-bccd-41079f7c1ba5",
+    "venue_name": "Regus | Clairemont",
+    "latitude": 33.777637,
+    "longitude": -84.296867,
+    "reservations": 3,
+    "spend": 1178.5
+  }
+]

@@ -1,1 +1,10 @@
-[{"venue_id":"sandy-ut-venue-1","venue_name":"Serendipity Labs | Sandy Downtown","latitude":40.5525,"longitude":-111.883,"reservations":54,"spend":10415}]
+[
+  {
+    "venue_id": "415353c2-cd26-4399-91b8-cf10f6e4b5ac",
+    "venue_name": "Salt Mine Productive Coworking Space",
+    "latitude": 40.606598,
+    "longitude": -111.854935,
+    "reservations": 54,
+    "spend": 10415.0
+  }
+]

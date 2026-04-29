@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "842d541f-8466-4dc8-960f-8e6be39d41fd",
+    "venue_name": "SPACES | Miami Beach, The Wynwood Cube",
+    "latitude": 25.799999,
+    "longitude": -80.199501,
+    "reservations": 1,
+    "spend": 44.44
+  },
+  {
+    "venue_id": "400076eb-d767-42c3-9e1a-bae13aa23707",
+    "venue_name": "BrainBox",
+    "latitude": 25.810936,
+    "longitude": -80.198349,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

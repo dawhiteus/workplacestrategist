@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a294908f-0ede-42fb-bdb7-ccf56ce7cb84",
+    "venue_name": "HQ | Nairobi, Pramukh Towers",
+    "latitude": -1.271409,
+    "longitude": 36.810398,
+    "reservations": 6,
+    "spend": 5.21
+  },
+  {
+    "venue_id": "e9a38b3d-b794-4408-ba6e-f7aa341e2b2c",
+    "venue_name": "Regus | NAIROBI, Westlands Museum Hill",
+    "latitude": -1.273019,
+    "longitude": 36.811115,
+    "reservations": 2,
+    "spend": 2.34
+  }
+]

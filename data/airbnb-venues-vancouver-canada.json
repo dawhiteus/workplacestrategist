@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "16130e9d-6052-40f7-b1f0-b79cd1947585",
+    "venue_name": "Regus | Robson Square",
+    "latitude": 49.2831,
+    "longitude": -123.122002,
+    "reservations": 1,
+    "spend": 88.94
+  },
+  {
+    "venue_id": "1e58b83f-0f09-417c-bf33-5f41956c05b6",
+    "venue_name": "WeWork | 2015 Main St",
+    "latitude": 49.267006,
+    "longitude": -123.101234,
+    "reservations": 1,
+    "spend": 50.11
+  },
+  {
+    "venue_id": "460b089d-18e6-430d-b08e-93989cb462c7",
+    "venue_name": "WeWork | 333 Seymour St",
+    "latitude": 49.285343,
+    "longitude": -123.112465,
+    "reservations": 1,
+    "spend": 49.39
+  },
+  {
+    "venue_id": "64193a28-10e3-4d11-bf0d-e6c8fcd1aebf",
+    "venue_name": "WeWork | Bentall II",
+    "latitude": 49.286369,
+    "longitude": -123.119072,
+    "reservations": 1,
+    "spend": 34.87
+  },
+  {
+    "venue_id": "a474b91d-e08c-4731-a664-27bdd38f08ea",
+    "venue_name": "Thrive Cowork",
+    "latitude": 49.285069,
+    "longitude": -123.115128,
+    "reservations": 1,
+    "spend": 28.24
+  }
+]

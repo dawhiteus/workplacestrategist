@@ -2,33 +2,81 @@
   {
     "venue_id": "6ef71116-ac9e-42d4-833b-9b823c6ea7fe",
     "venue_name": "ExecuSuites Southwest  LLC",
-    "latitude": 28.48423194885254,
-    "longitude": -81.45751953125,
+    "latitude": 28.484232,
+    "longitude": -81.45752,
     "reservations": 3,
     "spend": 450.0
   },
   {
+    "venue_id": "68eb0843-2f28-4d86-92a3-678c3a7d7810",
+    "venue_name": "Hotel Landy Orlando Universal Blvd.",
+    "latitude": 28.451672,
+    "longitude": -81.465858,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
     "venue_id": "896d7775-32ad-448e-ab22-fc45bb197dec",
     "venue_name": "Easy Work Space (Saturn)",
-    "latitude": 28.51811408996582,
-    "longitude": -81.48204803466797,
+    "latitude": 28.518114,
+    "longitude": -81.482048,
     "reservations": 2,
     "spend": 380.0
   },
   {
     "venue_id": "8a418dfb-c6a0-4d67-809b-d2326b279dc6",
     "venue_name": "The 5TH Floor",
-    "latitude": 28.51064109802246,
-    "longitude": -81.15431213378906,
+    "latitude": 28.510641,
+    "longitude": -81.154312,
     "reservations": 4,
     "spend": 210.0
   },
   {
+    "venue_id": "d5245fc0-c800-4677-9cd4-e47a5c35ea05",
+    "venue_name": "Coworkers Zone Hunters Creek",
+    "latitude": 28.369251,
+    "longitude": -81.428574,
+    "reservations": 1,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "24056e0d-1144-4d6e-98e7-4a78c9744231",
+    "venue_name": "Regus | Lake Nona Center",
+    "latitude": 28.372463,
+    "longitude": -81.278725,
+    "reservations": 1,
+    "spend": 156.0
+  },
+  {
+    "venue_id": "616d7a6b-3d3c-4fb1-902f-cd7d1fd1fa1e",
+    "venue_name": "Orlando Office Center - Downtown Orlando",
+    "latitude": 28.54707,
+    "longitude": -81.379913,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
     "venue_id": "e038eb04-5073-4f64-aa54-2a2efbba04a8",
     "venue_name": "Coworkers Zone OBT",
-    "latitude": 28.397064208984375,
-    "longitude": -81.40400695800781,
+    "latitude": 28.397064,
+    "longitude": -81.404007,
     "reservations": 2,
     "spend": 140.0
+  },
+  {
+    "venue_id": "e817ec67-1c49-4b34-865c-2b0fa773c86d",
+    "venue_name": "Orlando Office Center at Colonial Town Center/Downtown",
+    "latitude": 28.55983,
+    "longitude": -81.344437,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "9f00401a-e98b-438e-9af1-389530cf79be",
+    "venue_name": "Orlando Office Center at Research Park",
+    "latitude": 28.588551,
+    "longitude": -81.204651,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

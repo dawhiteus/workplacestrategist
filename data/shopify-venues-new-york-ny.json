@@ -2,9 +2,25 @@
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 4,
     "spend": 1120.0
+  },
+  {
+    "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
+    "venue_name": "Blender Workspace",
+    "latitude": 40.745995,
+    "longitude": -73.983978,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 1000.0,
+    "venues": 2,
+    "members": 2
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "83e6f083-c76f-47e2-8883-0dba5f16cb81",
+    "venue_name": "Regus | SoHo - Hudson Square",
+    "latitude": 40.723408,
+    "longitude": -74.005493,
+    "reservations": 1,
+    "spend": 221.24
+  },
+  {
+    "venue_id": "26a0cbfc-d344-4be7-9c4c-2240a9ce16d0",
+    "venue_name": "WeWork | 575 Lexington Avenue",
+    "latitude": 40.757374,
+    "longitude": -73.971504,
+    "reservations": 1,
+    "spend": 47.0
+  }
+]

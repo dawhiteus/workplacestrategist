@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "babe9b89-fc25-4867-8bb9-150217d28106",
+    "venue_name": "WeWork Dedicated Office",
+    "latitude": 39.732246,
+    "longitude": -104.990685,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "d34effe4-cff3-4f94-a9dc-a43e6ca1af1d",
+    "venue_name": "Enterprise Coworking | RiNo",
+    "latitude": 39.761623,
+    "longitude": -104.97963,
+    "reservations": 1,
+    "spend": 20.0
+  }
+]

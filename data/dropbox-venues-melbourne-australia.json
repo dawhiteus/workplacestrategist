@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6280a196-b1bb-4803-aa60-e3fe09f9a3f6",
+    "venue_name": "GPT Space&Co Melbourne Central Tower",
+    "latitude": -37.810894,
+    "longitude": 144.962021,
+    "reservations": 1,
+    "spend": 379.53
+  },
+  {
+    "venue_id": "41576ff3-9cfb-4de2-8e27-f1d642a74023",
+    "venue_name": "Space&Co Level 1, Melbourne Central Tower",
+    "latitude": -37.810894,
+    "longitude": 144.962021,
+    "reservations": 1,
+    "spend": 261.92
+  }
+]

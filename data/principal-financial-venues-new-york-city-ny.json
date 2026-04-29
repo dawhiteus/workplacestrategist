@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "133a500a-53ef-4eea-8a53-b5804a355d40",
+    "venue_name": "Regus | 100 Church Street",
+    "latitude": 40.713379,
+    "longitude": -74.010071,
+    "reservations": 2,
+    "spend": 320.06
+  },
+  {
+    "venue_id": "7c12b7ce-a56c-4442-be61-bcc17367e7d8",
+    "venue_name": "Regus | Bryant Park",
+    "latitude": 40.753567,
+    "longitude": -73.985703,
+    "reservations": 2,
+    "spend": 127.25
+  },
+  {
+    "venue_id": "f2bb065a-f92b-4f66-97d1-60a07c2ce2a1",
+    "venue_name": "Regus | Grand Central",
+    "latitude": 40.751339,
+    "longitude": -73.978767,
+    "reservations": 1,
+    "spend": 112.23
+  }
+]

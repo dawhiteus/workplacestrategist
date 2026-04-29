@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6f057047-60c4-437b-94a9-20af3fd31570",
+    "venue_name": "K-1 BusinessClub Ostend",
+    "latitude": 50.11533,
+    "longitude": 8.724614,
+    "reservations": 3,
+    "spend": 822.0
+  },
+  {
+    "venue_id": "217773ca-2977-4a67-94ff-b6f7133783c4",
+    "venue_name": "Regus | Frankfurt The Squaire Business Centre",
+    "latitude": 50.052727,
+    "longitude": 8.56828,
+    "reservations": 1,
+    "spend": 325.99
+  }
+]

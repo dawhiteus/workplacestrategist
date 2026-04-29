@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "61a4d465-0b92-42c6-ae11-c99e76e79afe",
+    "venue_name": "Landmark | Tottenham Court Road",
+    "latitude": 51.52029,
+    "longitude": -0.133392,
+    "reservations": 1,
+    "spend": 60.97
+  },
+  {
+    "venue_id": "8ebfcef4-84d7-44cd-9f27-25cc72e90029",
+    "venue_name": "Spacemade - Riley Studios",
+    "latitude": 51.564041,
+    "longitude": -0.129378,
+    "reservations": 1,
+    "spend": 52.96
+  },
+  {
+    "venue_id": "4e7d1ae5-1d6d-4be7-8705-379baab9d215",
+    "venue_name": "ARC Club Stratford",
+    "latitude": 51.535797,
+    "longitude": -0.005621,
+    "reservations": 1,
+    "spend": 49.51
+  }
+]

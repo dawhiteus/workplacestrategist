@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "05eb72eb-eac5-47b2-af1f-e3cfb31d4417",
+    "venue_name": "HQ | FL, Fort Lauderdale - Downtown (HQ)",
+    "latitude": 26.121956,
+    "longitude": -80.141945,
+    "reservations": 1,
+    "spend": 808.19
+  },
+  {
+    "venue_id": "be5deaa6-79ad-4ed9-859e-c8dddf845616",
+    "venue_name": "Industrious - Las Olas",
+    "latitude": 26.118607,
+    "longitude": -80.140854,
+    "reservations": 1,
+    "spend": 726.0
+  },
+  {
+    "venue_id": "73553bd6-2639-4b99-a1a5-f020a65e78be",
+    "venue_name": "Axis Space",
+    "latitude": 26.11813,
+    "longitude": -80.141571,
+    "reservations": 2,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "bc642a66-3cb4-4ab8-9e2e-a9dcf0db17a6",
+    "venue_name": "Regus | Galleria",
+    "latitude": 26.137501,
+    "longitude": -80.111107,
+    "reservations": 1,
+    "spend": 98.0
+  },
+  {
+    "venue_id": "8fbb4304-9be4-417d-bed2-1dfb5059e97f",
+    "venue_name": "General Provision Downtown",
+    "latitude": 26.119431,
+    "longitude": -80.144867,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

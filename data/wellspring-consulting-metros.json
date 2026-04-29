@@ -1,0 +1,20 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 60,
+    "total_spend": 3419.5,
+    "venues": 10,
+    "members": 10
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 507.0,
+    "venues": 2,
+    "members": 3
+  }
+]

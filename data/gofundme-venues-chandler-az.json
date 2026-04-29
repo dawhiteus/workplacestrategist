@@ -2,9 +2,17 @@
   {
     "venue_id": "bfc54d9d-c63e-48f7-aa5f-4f73c47c56a1",
     "venue_name": "Workuity Chandler Viridian",
-    "latitude": 33.29661178588867,
-    "longitude": -111.89669799804688,
+    "latitude": 33.296612,
+    "longitude": -111.896698,
     "reservations": 6,
     "spend": 234.0
+  },
+  {
+    "venue_id": "ea0cf6b9-2703-4a0f-a51e-10d1f0482b30",
+    "venue_name": "Fuse Flex Space",
+    "latitude": 33.268829,
+    "longitude": -111.792122,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

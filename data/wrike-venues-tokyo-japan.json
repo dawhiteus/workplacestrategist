@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5d354215-22c7-4b71-898e-5647523a2636",
+    "venue_name": "Regus | TOKYO, Kojimachi",
+    "latitude": 35.683784,
+    "longitude": 139.736603,
+    "reservations": 2,
+    "spend": 117.46
+  },
+  {
+    "venue_id": "48d0e044-19fb-4ab3-b628-290dd4ad17d9",
+    "venue_name": "Open Office | TOKYO, Nihonbashi Central",
+    "latitude": 35.683201,
+    "longitude": 139.773972,
+    "reservations": 1,
+    "spend": 48.28
+  },
+  {
+    "venue_id": "aa339d33-c8a7-444b-8c81-32417d759b32",
+    "venue_name": "Open Office | Tokyo, Tachikawa Eki Minami",
+    "latitude": 35.695984,
+    "longitude": 139.416534,
+    "reservations": 1,
+    "spend": 47.56
+  }
+]

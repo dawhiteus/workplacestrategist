@@ -2,9 +2,17 @@
   {
     "venue_id": "e0b65d13-fa0a-461b-83d1-a58b7a45881a",
     "venue_name": "Werkstatt360 - Franklin",
-    "latitude": 35.90659713745117,
-    "longitude": -86.83544921875,
+    "latitude": 35.906597,
+    "longitude": -86.835449,
     "reservations": 10,
     "spend": 1550.0
+  },
+  {
+    "venue_id": "a8efdb28-0f74-49fe-80aa-7fc0224e2576",
+    "venue_name": "Regus | TN, Franklin - Cool Springs",
+    "latitude": 35.943897,
+    "longitude": -86.806198,
+    "reservations": 1,
+    "spend": 262.0
   }
 ]

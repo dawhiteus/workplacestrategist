@@ -1,1 +1,10 @@
-[{"venue_id":"rocky-hill-ct-venue-1","venue_name":"Industrious | Rocky Hill Downtown","latitude":41.6233,"longitude":-72.7299,"reservations":40,"spend":5087.1}]
+[
+  {
+    "venue_id": "12ed3e3a-d708-413a-89d2-5915876629fc",
+    "venue_name": "Regus | Rocky Hill",
+    "latitude": 41.649048,
+    "longitude": -72.66584,
+    "reservations": 43,
+    "spend": 5462.81
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 2640.0,
+    "venues": 1,
+    "members": 1
+  }
+]

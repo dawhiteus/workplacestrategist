@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "d5e27338-c3aa-4fa8-91ba-230bda57fe28",
+    "venue_name": "Regus | Avalon",
+    "latitude": 34.070435,
+    "longitude": -84.274185,
+    "reservations": 2,
+    "spend": 258.0
+  },
+  {
     "venue_id": "42523a9d-b3da-4094-8a43-f9769fb68e11",
     "venue_name": "Lucid Private Offices | Alpharetta - Old Milton Parkway",
-    "latitude": 34.073116302490234,
-    "longitude": -84.25808715820312,
+    "latitude": 34.073116,
+    "longitude": -84.258087,
     "reservations": 3,
     "spend": 105.0
   }

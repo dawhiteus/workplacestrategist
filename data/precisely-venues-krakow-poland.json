@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3dce0b8c-8b49-42b0-8f19-37fc1e9063c2",
+    "venue_name": "Regus | Krakow, K1",
+    "latitude": 50.057381,
+    "longitude": 19.960941,
+    "reservations": 1,
+    "spend": 263.63
+  },
+  {
+    "venue_id": "309ab38a-ac36-44f2-8dc1-d68ad971c3e3",
+    "venue_name": "SPACES | KRAKOW, Fabryka Kart",
+    "latitude": 50.074932,
+    "longitude": 19.930904,
+    "reservations": 1,
+    "spend": 77.82
+  },
+  {
+    "venue_id": "c19ba5da-c123-4d2e-b467-18dfaabca37f",
+    "venue_name": "Regus | Krakow, Fronton",
+    "latitude": 50.076141,
+    "longitude": 19.941751,
+    "reservations": 1,
+    "spend": 22.56
+  }
+]

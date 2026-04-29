@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "12c018af-9198-4529-97c0-70cd730e52dd",
+    "venue_name": "WeWork | 152 St Georges Terrace",
+    "latitude": -31.953699,
+    "longitude": 115.855682,
+    "reservations": 7,
+    "spend": 4288.17
+  },
+  {
+    "venue_id": "e34e6f99-5200-4e64-9c4d-37bd7ed445b5",
+    "venue_name": "Regus | Perth Forrest Centre",
+    "latitude": -31.953674,
+    "longitude": 115.852119,
+    "reservations": 1,
+    "spend": 67.11
+  }
+]

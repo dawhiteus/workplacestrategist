@@ -1,1 +1,18 @@
-[{"venue_id":"pleasanton-ca-venue-1","venue_name":"Flex by JLL | Pleasanton Downtown","latitude":37.6289,"longitude":-121.967,"reservations":56,"spend":14051.69},{"venue_id":"pleasanton-ca-venue-2","venue_name":"Roam | Pleasanton North","latitude":37.7347,"longitude":-121.8723,"reservations":30,"spend":7600.31}]
+[
+  {
+    "venue_id": "6a52fe26-6afc-4540-8e54-e039f5f7f086",
+    "venue_name": "Pleasanton Workspace",
+    "latitude": 37.695271,
+    "longitude": -121.90062,
+    "reservations": 85,
+    "spend": 18702.0
+  },
+  {
+    "venue_id": "92b2dc9e-c1e6-437c-8fe0-ae03b15016be",
+    "venue_name": "KarPark",
+    "latitude": 37.669209,
+    "longitude": -121.860268,
+    "reservations": 1,
+    "spend": 2950.0
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "370f33b5-ea74-4719-ab5c-1b6f67e370d2",
     "venue_name": "Regus | Crossways Blvd",
-    "latitude": 36.77974319458008,
-    "longitude": -76.23880004882812,
+    "latitude": 36.779743,
+    "longitude": -76.2388,
     "reservations": 33,
     "spend": 6477.4
+  },
+  {
+    "venue_id": "72f8495d-01a2-4a25-aa8d-6d7acb9bc728",
+    "venue_name": "Venture X | Chesapeake – Summit Pointe at Greenbrier",
+    "latitude": 36.768002,
+    "longitude": -76.240219,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

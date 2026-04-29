@@ -2,32 +2,40 @@
   {
     "venue_id": "6a9fbf36-3fc1-434a-a0df-bfa101ac592d",
     "venue_name": "Common Desk - 6th & Congress",
-    "latitude": 30.268146514892578,
-    "longitude": -97.7422866821289,
+    "latitude": 30.268147,
+    "longitude": -97.742287,
     "reservations": 15,
     "spend": 930.0
   },
   {
     "venue_id": "e0317ab1-39a8-4024-ae12-6260b5470295",
     "venue_name": "WeWork | 801 Barton Springs",
-    "latitude": 30.258699417114258,
-    "longitude": -97.75273895263672,
+    "latitude": 30.258699,
+    "longitude": -97.752739,
     "reservations": 6,
     "spend": 342.0
   },
   {
     "venue_id": "f8d5f030-3c4b-0132-29f6-76817799485c",
     "venue_name": "WeWork | Congress",
-    "latitude": 30.26861000061035,
-    "longitude": -97.74317932128906,
+    "latitude": 30.26861,
+    "longitude": -97.743179,
     "reservations": 3,
     "spend": 171.0
   },
   {
+    "venue_id": "de3ed332-a021-44f3-89dc-473da893654d",
+    "venue_name": "fibercove",
+    "latitude": 30.251471,
+    "longitude": -97.766937,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
     "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
     "venue_name": "Common Desk - Anderson Lane",
-    "latitude": 30.355192184448242,
-    "longitude": -97.73033905029297,
+    "latitude": 30.355192,
+    "longitude": -97.730339,
     "reservations": 3,
     "spend": 75.0
   }

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8c43ca84-2518-4283-9eb0-2cb3e8fbe175",
+    "venue_name": "Regus | Regus Porto S. Bento",
+    "latitude": 41.143799,
+    "longitude": -8.6081,
+    "reservations": 7,
+    "spend": 363.69
+  },
+  {
+    "venue_id": "90e2e478-dcaf-4503-a2e7-ed6442e47323",
+    "venue_name": "sitio | Campo Alegre",
+    "latitude": 41.153015,
+    "longitude": -8.637546,
+    "reservations": 1,
+    "spend": 17.22
+  }
+]

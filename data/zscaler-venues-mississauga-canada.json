@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "231ab9ba-b7ed-41ee-adc5-bd3d91e84909",
+    "venue_name": "Venture X | Heartland",
+    "latitude": 43.611736,
+    "longitude": -79.687027,
+    "reservations": 4,
+    "spend": 754.15
+  },
+  {
+    "venue_id": "91cfeb60-4403-49cd-9784-595f3fca17f1",
+    "venue_name": "Greater Toronto Executive Centre-Airport Corporate",
+    "latitude": 43.662712,
+    "longitude": -79.592972,
+    "reservations": 2,
+    "spend": 267.63
+  }
+]

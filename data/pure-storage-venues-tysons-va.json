@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "37256077-c0e0-4e42-898d-0871082227bb",
+    "venue_name": "Refraction Innovation Hub",
+    "latitude": 38.932095,
+    "longitude": -77.219048,
+    "reservations": 2,
+    "spend": 1600.0
+  },
+  {
+    "venue_id": "a565fa81-54ed-4a01-b049-537cb50a2cbe",
+    "venue_name": "Office Evolution - Tysons Corner",
+    "latitude": 38.92844,
+    "longitude": -77.24688,
+    "reservations": 1,
+    "spend": 650.0
+  }
+]

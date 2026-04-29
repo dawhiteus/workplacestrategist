@@ -2,9 +2,17 @@
   {
     "venue_id": "01ad6f0c-c6b4-4fe4-bd57-aee089310266",
     "venue_name": "Industrious - South Station",
-    "latitude": 42.35110092163086,
-    "longitude": -71.0567398071289,
+    "latitude": 42.351101,
+    "longitude": -71.05674,
     "reservations": 3,
     "spend": 225.0
+  },
+  {
+    "venue_id": "6ba2ee5c-e0ae-46f8-9a54-b0659240e88b",
+    "venue_name": "Industrious - Back Bay",
+    "latitude": 42.348862,
+    "longitude": -71.08297,
+    "reservations": 1,
+    "spend": 75.0
   }
 ]

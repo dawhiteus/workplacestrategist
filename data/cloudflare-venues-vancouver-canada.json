@@ -1,18 +1,90 @@
 [
   {
-    "venue_id": "van-cf-1",
-    "venue_name": "WeWork Granville Street",
-    "latitude": 49.2820,
-    "longitude": -123.1171,
-    "reservations": 32,
-    "spend": 8904.00
+    "venue_id": "068f26e2-2cf4-44bb-ab9a-9fed3ebd8687",
+    "venue_name": "iQ Offices | 1055 West Georgia St.",
+    "latitude": 49.285316,
+    "longitude": -123.121635,
+    "reservations": 35,
+    "spend": 12215.49
   },
   {
-    "venue_id": "van-cf-2",
-    "venue_name": "Spaces Burrard",
-    "latitude": 49.2849,
-    "longitude": -123.1238,
-    "reservations": 23,
-    "spend": 6440.00
+    "venue_id": "c2e1f0ce-24be-472f-ac4b-46597195f7d3",
+    "venue_name": "Canada Place Business Centre",
+    "latitude": 49.287426,
+    "longitude": -123.113106,
+    "reservations": 4,
+    "spend": 951.5
+  },
+  {
+    "venue_id": "0b3c15cf-d5a8-45ad-96ea-f0774e6443a9",
+    "venue_name": "Regus | MNP Tower",
+    "latitude": 49.287201,
+    "longitude": -123.116997,
+    "reservations": 3,
+    "spend": 842.66
+  },
+  {
+    "venue_id": "16130e9d-6052-40f7-b1f0-b79cd1947585",
+    "venue_name": "Regus | Robson Square",
+    "latitude": 49.2831,
+    "longitude": -123.122002,
+    "reservations": 2,
+    "spend": 486.93
+  },
+  {
+    "venue_id": "9d27733a-9e0d-453f-823a-9a1735fd1142",
+    "venue_name": "MPS Executive Suites",
+    "latitude": 49.263649,
+    "longitude": -123.12616,
+    "reservations": 1,
+    "spend": 256.15
+  },
+  {
+    "venue_id": "569f93f1-be51-404d-8c6f-b32bc3d50c85",
+    "venue_name": "Optomation Solutions",
+    "latitude": 49.2808,
+    "longitude": -123.122421,
+    "reservations": 2,
+    "spend": 236.66
+  },
+  {
+    "venue_id": "1e58b83f-0f09-417c-bf33-5f41956c05b6",
+    "venue_name": "WeWork | 2015 Main St",
+    "latitude": 49.267006,
+    "longitude": -123.101234,
+    "reservations": 4,
+    "spend": 150.78
+  },
+  {
+    "venue_id": "401a5590-c3c9-43ff-ac35-c98d19d50e83",
+    "venue_name": "SPACES | BC, Vancouver - Green Lamp",
+    "latitude": 49.280602,
+    "longitude": -123.115997,
+    "reservations": 1,
+    "spend": 72.07
+  },
+  {
+    "venue_id": "0588bb5d-8b15-432d-a9c7-dceaf31d2c99",
+    "venue_name": "Regus | Yaletown",
+    "latitude": 49.276402,
+    "longitude": -123.122002,
+    "reservations": 1,
+    "spend": 57.51
+  },
+  {
+    "venue_id": "8bb8ddc7-a162-4bd0-9b0d-ad0078108701",
+    "venue_name": "Regus | West Georgia",
+    "latitude": 49.289799,
+    "longitude": -123.128998,
+    "reservations": 1,
+    "spend": 51.82
+  },
+  {
+    "venue_id": "65420ed2-808e-4f6f-b50e-ca320ff6e02a",
+    "venue_name": "The Pacific Centre - TCC Canada",
+    "latitude": 49.284374,
+    "longitude": -123.11644,
+    "reservations": 1,
+    "spend": 22.44
   }
 ]

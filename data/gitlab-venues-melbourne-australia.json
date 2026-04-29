@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "6280a196-b1bb-4803-aa60-e3fe09f9a3f6",
+    "venue_name": "GPT Space&Co Melbourne Central Tower",
+    "latitude": -37.810894,
+    "longitude": 144.962021,
+    "reservations": 7,
+    "spend": 746.95
+  },
+  {
+    "venue_id": "7f6fb441-b3bf-4e28-bf39-db4ceed7d278",
+    "venue_name": "Hub Australia | St Kilda Road",
+    "latitude": -37.835037,
+    "longitude": 144.974304,
+    "reservations": 2,
+    "spend": 81.14
+  },
+  {
+    "venue_id": "87d305f1-5a5e-49cd-81d6-d8c34644d9f6",
+    "venue_name": "Hub Australia | Flinders Street",
+    "latitude": -37.816696,
+    "longitude": 144.968674,
+    "reservations": 1,
+    "spend": 37.66
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "a8a1487f-3e81-4054-879c-e8005686664a",
+    "venue_name": "Central Park Business Centre",
+    "latitude": 49.232609,
+    "longitude": -123.024178,
+    "reservations": 7,
+    "spend": 1211.19
+  },
+  {
+    "venue_id": "a474b91d-e08c-4731-a664-27bdd38f08ea",
+    "venue_name": "Thrive Cowork",
+    "latitude": 49.285069,
+    "longitude": -123.115128,
+    "reservations": 1,
+    "spend": 175.64
+  },
+  {
+    "venue_id": "c2e1f0ce-24be-472f-ac4b-46597195f7d3",
+    "venue_name": "Canada Place Business Centre",
+    "latitude": 49.287426,
+    "longitude": -123.113106,
+    "reservations": 1,
+    "spend": 145.32
+  },
+  {
+    "venue_id": "27174f8b-f55c-46ba-9fac-4f860e907be2",
+    "venue_name": "OneSpace",
+    "latitude": 49.274158,
+    "longitude": -123.07605,
+    "reservations": 1,
+    "spend": 108.94
+  }
+]

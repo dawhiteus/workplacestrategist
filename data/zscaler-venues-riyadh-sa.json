@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "132f3cfa-6e47-41d5-b812-915f2dac3bb7",
+    "venue_name": "SPACES | Riyadh, Spaces DQ",
+    "latitude": 24.686155,
+    "longitude": 46.62841,
+    "reservations": 2,
+    "spend": 610.65
+  },
+  {
+    "venue_id": "064f1032-3ba3-4397-8307-60201a9c4251",
+    "venue_name": "HQ | Wurud Station",
+    "latitude": 24.73258,
+    "longitude": 46.676899,
+    "reservations": 1,
+    "spend": 114.06
+  }
+]

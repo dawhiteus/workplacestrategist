@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "a1c0c65e-91b3-49aa-a88a-ba91d885a2b8",
+    "venue_name": "WeWork | Kings Place",
+    "latitude": 51.534824,
+    "longitude": -0.121756,
+    "reservations": 4,
+    "spend": 291.46
+  },
+  {
+    "venue_id": "d1bfaaf4-d523-4225-9d9a-279799eaf3ef",
+    "venue_name": "WeWork | 2 Eastbourne Terrace",
+    "latitude": 51.517578,
+    "longitude": -0.180429,
+    "reservations": 1,
+    "spend": 85.63
+  },
+  {
+    "venue_id": "92792f5d-3674-4416-9c9c-59de6f444375",
+    "venue_name": "Landmark | 75 King William Street",
+    "latitude": 51.511612,
+    "longitude": -0.087032,
+    "reservations": 1,
+    "spend": 49.93
+  }
+]

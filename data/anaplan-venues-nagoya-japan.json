@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "885693a6-254d-45b2-82ff-974f4ce33c22",
+    "venue_name": "SPACES | JP Tower Nagoya",
+    "latitude": 35.172798,
+    "longitude": 136.880997,
+    "reservations": 17,
+    "spend": 2273.94
+  },
+  {
+    "venue_id": "598ea1bf-63d2-4d3a-be85-82b8b25aeeff",
+    "venue_name": "Regus | NAGOYA, Dai Nagoya Building",
+    "latitude": 35.172245,
+    "longitude": 136.884628,
+    "reservations": 4,
+    "spend": 848.65
+  }
+]

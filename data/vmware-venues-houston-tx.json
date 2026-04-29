@@ -2,16 +2,32 @@
   {
     "venue_id": "a052f435-32e2-4140-b857-83c00ebe814b",
     "venue_name": "Expansive - Upper Kirby/Greenway",
-    "latitude": 29.730884552001953,
-    "longitude": -95.42627716064453,
+    "latitude": 29.730885,
+    "longitude": -95.426277,
     "reservations": 83,
     "spend": 7870.0
   },
   {
+    "venue_id": "9d5f23e4-31f5-4c55-8f5f-dc5572e93345",
+    "venue_name": "Avalon Suites - Westchase",
+    "latitude": 29.736578,
+    "longitude": -95.541634,
+    "reservations": 2,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "c9b58b55-8dee-442f-9524-be0f8a258d65",
+    "venue_name": "Kefi Spaces",
+    "latitude": 29.782421,
+    "longitude": -95.445267,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
     "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
     "venue_name": "FUSE Workspace-City Centre",
-    "latitude": 29.77901840209961,
-    "longitude": -95.56109619140625,
+    "latitude": 29.779018,
+    "longitude": -95.561096,
     "reservations": 3,
     "spend": 90.0
   }

@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "bf9ccc81-af3c-4ebe-ad14-c9bb765af549",
+    "venue_name": "Landmark | Victoria, Orchard Place",
+    "latitude": 51.498783,
+    "longitude": -0.13304,
+    "reservations": 9,
+    "spend": 4478.38
+  },
+  {
+    "venue_id": "cb16de05-3486-418b-9233-d6c11fc86de8",
+    "venue_name": "beyond | The Bower",
+    "latitude": 51.525925,
+    "longitude": -0.088666,
+    "reservations": 1,
+    "spend": 836.87
+  },
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 2,
+    "spend": 141.27
+  },
+  {
+    "venue_id": "fa075862-93fa-48d2-8e32-75164562f7a8",
+    "venue_name": "Regus | London, Piccadilly Circus",
+    "latitude": 51.5107,
+    "longitude": -0.137757,
+    "reservations": 1,
+    "spend": 83.73
+  },
+  {
+    "venue_id": "f2a39d8a-6ee9-4f75-b741-963d617c045e",
+    "venue_name": "Regus | London, London Bridge - The News Building",
+    "latitude": 51.505104,
+    "longitude": -0.087791,
+    "reservations": 1,
+    "spend": 81.28
+  },
+  {
+    "venue_id": "5281345f-94bd-4ad0-83e0-472c6829fb72",
+    "venue_name": "WeWork | 1 Mark Sq",
+    "latitude": 51.524426,
+    "longitude": -0.08229,
+    "reservations": 1,
+    "spend": 64.16
+  },
+  {
+    "venue_id": "c03c9e5e-50e1-459d-ac19-89e86d06214d",
+    "venue_name": "Shoreditch Exchange",
+    "latitude": 51.530167,
+    "longitude": -0.075507,
+    "reservations": 1,
+    "spend": 38.33
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "d1bfaaf4-d523-4225-9d9a-279799eaf3ef",
+    "venue_name": "WeWork | 2 Eastbourne Terrace",
+    "latitude": 51.517578,
+    "longitude": -0.180429,
+    "reservations": 1,
+    "spend": 1178.92
+  },
+  {
+    "venue_id": "5c55115f-abed-48b6-a449-438c5eaae848",
+    "venue_name": "WeWork | 16 Great Chapel St",
+    "latitude": 51.515347,
+    "longitude": -0.134372,
+    "reservations": 4,
+    "spend": 328.93
+  },
+  {
+    "venue_id": "8706b66a-3c42-4839-b9f7-9bfdcddb9cff",
+    "venue_name": "WeWork | Aldwych House",
+    "latitude": 51.513504,
+    "longitude": -0.116055,
+    "reservations": 1,
+    "spend": 83.45
+  },
+  {
+    "venue_id": "52cbfea7-ac19-43ca-87ff-95cadd3db4e1",
+    "venue_name": "WeWork | 10 York Rd",
+    "latitude": 51.503754,
+    "longitude": -0.115972,
+    "reservations": 1,
+    "spend": 82.72
+  },
+  {
+    "venue_id": "cbcc9f36-b3ac-4bc0-866e-19c65b08b5aa",
+    "venue_name": "WeWork | 8 Devonshire Square",
+    "latitude": 51.516899,
+    "longitude": -0.077955,
+    "reservations": 1,
+    "spend": 82.5
+  },
+  {
+    "venue_id": "a1c0c65e-91b3-49aa-a88a-ba91d885a2b8",
+    "venue_name": "WeWork | Kings Place",
+    "latitude": 51.534824,
+    "longitude": -0.121756,
+    "reservations": 1,
+    "spend": 82.49
+  },
+  {
+    "venue_id": "34955a55-35eb-4b50-9285-be7a04ae4317",
+    "venue_name": "WeWork | Aviation House",
+    "latitude": 51.517208,
+    "longitude": -0.120691,
+    "reservations": 1,
+    "spend": 81.06
+  },
+  {
+    "venue_id": "1db6b888-00b4-4096-bd2e-02d102366789",
+    "venue_name": "WeWork | 123 Buckingham Palace Rd",
+    "latitude": 51.493855,
+    "longitude": -0.146355,
+    "reservations": 1,
+    "spend": 80.89
+  },
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 1,
+    "spend": 70.12
+  },
+  {
+    "venue_id": "acb529fe-2c7a-4d49-ba5d-cc2a1317530f",
+    "venue_name": "Spacemade - Beton",
+    "latitude": 51.522308,
+    "longitude": -0.097725,
+    "reservations": 1,
+    "spend": 67.58
+  },
+  {
+    "venue_id": "dbccfd91-4873-40e3-a9b9-89b7a7b68549",
+    "venue_name": "WeWork | 1 St Katharine's Way",
+    "latitude": 51.507515,
+    "longitude": -0.073805,
+    "reservations": 1,
+    "spend": 63.71
+  },
+  {
+    "venue_id": "47250084-5a02-4473-988b-68ce338f5b71",
+    "venue_name": "Workers League Shoreditch",
+    "latitude": 51.522591,
+    "longitude": -0.08542,
+    "reservations": 1,
+    "spend": 32.45
+  }
+]

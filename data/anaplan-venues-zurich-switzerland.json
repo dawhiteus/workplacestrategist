@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "eb02b905-6b36-4afa-ab76-bd4b4b173f2e",
+    "venue_name": "SPACES | Seefeld",
+    "latitude": 47.362274,
+    "longitude": 8.549293,
+    "reservations": 5,
+    "spend": 3580.88
+  },
+  {
+    "venue_id": "f593c9b6-f429-4848-a291-996ffddc124b",
+    "venue_name": "SPACES | Zurich, The Circle",
+    "latitude": 47.450687,
+    "longitude": 8.563338,
+    "reservations": 3,
+    "spend": 1615.32
+  },
+  {
+    "venue_id": "6e2a1161-8bef-4ee6-a82d-c8b9499f5612",
+    "venue_name": "Regus | Zurich, World Trade Centre",
+    "latitude": 47.418129,
+    "longitude": 8.55836,
+    "reservations": 1,
+    "spend": 1010.01
+  },
+  {
+    "venue_id": "d83c852a-6b1f-4ab8-9cf7-40368278e7f2",
+    "venue_name": "Colab",
+    "latitude": 47.384834,
+    "longitude": 8.533675,
+    "reservations": 1,
+    "spend": 778.32
+  },
+  {
+    "venue_id": "0b8967f3-7b1c-4853-a9c8-21a76195046d",
+    "venue_name": "Regus | Zurich, City West",
+    "latitude": 47.383099,
+    "longitude": 8.49937,
+    "reservations": 2,
+    "spend": 389.76
+  }
+]

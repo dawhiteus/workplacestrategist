@@ -2,17 +2,41 @@
   {
     "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
     "venue_name": "Venture X | LoDo",
-    "latitude": 39.75336456298828,
-    "longitude": -104.99684143066406,
+    "latitude": 39.753365,
+    "longitude": -104.996841,
     "reservations": 6,
     "spend": 6750.0
   },
   {
     "venue_id": "947cf0f4-5dd0-405d-bb49-78bc68dd8e30",
     "venue_name": "SPACES | Denver - Ballpark",
-    "latitude": 39.75756072998047,
-    "longitude": -104.9906005859375,
+    "latitude": 39.757561,
+    "longitude": -104.990601,
     "reservations": 3,
     "spend": 1491.0
+  },
+  {
+    "venue_id": "255bd945-0eae-49b8-b41e-ef1ae0174385",
+    "venue_name": "Industrious - LoHi",
+    "latitude": 39.761871,
+    "longitude": -105.012665,
+    "reservations": 2,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "d34effe4-cff3-4f94-a9dc-a43e6ca1af1d",
+    "venue_name": "Enterprise Coworking | RiNo",
+    "latitude": 39.761623,
+    "longitude": -104.97963,
+    "reservations": 1,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "0346af01-926c-4808-8ff7-c0e2df5cd649",
+    "venue_name": "Shift Workspaces | Corona",
+    "latitude": 39.721779,
+    "longitude": -104.97438,
+    "reservations": 1,
+    "spend": 99.0
   }
 ]

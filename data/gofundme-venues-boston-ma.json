@@ -2,25 +2,65 @@
   {
     "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
     "venue_name": "WeWork | One Seaport Square",
-    "latitude": 42.35343551635742,
-    "longitude": -71.04767608642578,
+    "latitude": 42.353436,
+    "longitude": -71.047676,
     "reservations": 21,
     "spend": 1239.0
   },
   {
     "venue_id": "f67a4d86-a7b3-406a-8c7a-592156345ce7",
     "venue_name": "WeWork | 501 Boylston St",
-    "latitude": 42.35120391845703,
-    "longitude": -71.07452392578125,
+    "latitude": 42.351204,
+    "longitude": -71.074524,
     "reservations": 16,
     "spend": 944.0
   },
   {
     "venue_id": "2b7b7362-8bb9-408e-ad0c-a4564ff56b57",
     "venue_name": "WeWork | One Beacon Street",
-    "latitude": 42.35847854614258,
-    "longitude": -71.06082916259766,
+    "latitude": 42.358479,
+    "longitude": -71.060829,
     "reservations": 3,
     "spend": 141.0
+  },
+  {
+    "venue_id": "6ba2ee5c-e0ae-46f8-9a54-b0659240e88b",
+    "venue_name": "Industrious - Back Bay",
+    "latitude": 42.348862,
+    "longitude": -71.08297,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "74e36fe0-98d9-44f4-a034-8963000a5ff5",
+    "venue_name": "Industrious - Copley",
+    "latitude": 42.347042,
+    "longitude": -71.075356,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "f036d99b-094c-4b12-8c72-4ae1167a0221",
+    "venue_name": "Industrious - Seaport",
+    "latitude": 42.350445,
+    "longitude": -71.046974,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "36313d6b-1824-4ab7-9e5e-79d129d783c2",
+    "venue_name": "Workbar Back Bay",
+    "latitude": 42.35181,
+    "longitude": -71.072182,
+    "reservations": 1,
+    "spend": 69.0
+  },
+  {
+    "venue_id": "53c22bcb-e7aa-4746-b899-f24869fb908c",
+    "venue_name": "WeWork | 33 Arch St",
+    "latitude": 42.356106,
+    "longitude": -71.058228,
+    "reservations": 1,
+    "spend": 45.0
   }
 ]

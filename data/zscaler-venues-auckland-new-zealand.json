@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "bf86dcf7-7306-463a-be79-7234e71e3633",
+    "venue_name": "Regus | Auckland 21 Queen Street",
+    "latitude": -36.84407,
+    "longitude": 174.766724,
+    "reservations": 5,
+    "spend": 327.46
+  },
+  {
+    "venue_id": "e8291d4d-f4e2-481d-9c74-b664cc12cbc6",
+    "venue_name": "Regus | AUCKLAND, 21 Queen Street",
+    "latitude": -36.84407,
+    "longitude": 174.766724,
+    "reservations": 1,
+    "spend": 86.51
+  },
+  {
+    "venue_id": "111bf58d-5827-49ff-9a63-d02f52e57e99",
+    "venue_name": "SPACES | 110 Carlton Gore Rd",
+    "latitude": -36.86512,
+    "longitude": 174.776947,
+    "reservations": 1,
+    "spend": 63.63
+  }
+]

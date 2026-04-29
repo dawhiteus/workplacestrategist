@@ -2,9 +2,17 @@
   {
     "venue_id": "c882cdd1-5af3-4b0a-bb9b-cd3ef7828576",
     "venue_name": "Life Time Work - Edina",
-    "latitude": 44.88162612915039,
-    "longitude": -93.32393646240234,
+    "latitude": 44.881626,
+    "longitude": -93.323936,
     "reservations": 5,
     "spend": 1010.0
+  },
+  {
+    "venue_id": "d6ef506c-7ce0-408f-9ac4-11f862b843b0",
+    "venue_name": "The Reserve - Edina",
+    "latitude": 44.863956,
+    "longitude": -93.347641,
+    "reservations": 1,
+    "spend": 540.0
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "1c7da95c-bb04-40bc-8b11-f7b9aaa9b7bf",
+    "venue_name": "Synergy Station CoWorks",
+    "latitude": 39.549023,
+    "longitude": -104.871597,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "0e251e70-a08a-49c8-8c1c-e62c7c8a7676",
+    "venue_name": "Shift Workspaces | Littleton",
+    "latitude": 39.613972,
+    "longitude": -105.019531,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "a7c57122-0a1a-4fdd-8ce9-c77116d76682",
+    "venue_name": "Regus | Littleton- W Toller Dr",
+    "latitude": 39.55846,
+    "longitude": -105.120781,
+    "reservations": 1,
+    "spend": 23.44
+  }
+]

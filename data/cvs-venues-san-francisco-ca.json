@@ -2,9 +2,25 @@
   {
     "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
     "venue_name": "Carr Workplaces - Embarcadero Center",
-    "latitude": 37.79469680786133,
-    "longitude": -122.39987182617188,
+    "latitude": 37.794697,
+    "longitude": -122.399872,
     "reservations": 18,
     "spend": 6520.0
+  },
+  {
+    "venue_id": "d6d2668b-aa60-4bf4-be44-71f65fa94741",
+    "venue_name": "(OS2) One Sansome",
+    "latitude": 37.790447,
+    "longitude": -122.401154,
+    "reservations": 1,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.792622,
+    "longitude": -122.398911,
+    "reservations": 2,
+    "spend": 720.0
   }
 ]

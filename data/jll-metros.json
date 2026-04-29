@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 225.0,
+    "venues": 2,
+    "members": 1
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "79d8aebe-6690-4c0e-874f-f33f6c143425",
+    "venue_name": "Office Evolution Westport",
+    "latitude": 41.13942,
+    "longitude": -73.34832,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "6074ee6d-7acf-49cb-9501-356dab389199",
+    "venue_name": "Serendipity Labs - Westport",
+    "latitude": 41.139454,
+    "longitude": -73.364838,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

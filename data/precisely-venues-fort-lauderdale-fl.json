@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "73553bd6-2639-4b99-a1a5-f020a65e78be",
+    "venue_name": "Axis Space",
+    "latitude": 26.11813,
+    "longitude": -80.141571,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "b3a7acf5-05a4-49f9-862e-e507299b0770",
+    "venue_name": "Office Edge - Fort Lauderdale",
+    "latitude": 26.122015,
+    "longitude": -80.138741,
+    "reservations": 1,
+    "spend": 24.0
+  }
+]

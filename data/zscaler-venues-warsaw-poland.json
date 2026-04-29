@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c83808dc-bb9e-4d9b-b8e8-b4fa50d4d397",
+    "venue_name": "Regus | Warsaw, Sheraton Plaza",
+    "latitude": 52.227909,
+    "longitude": 21.024614,
+    "reservations": 3,
+    "spend": 322.95
+  },
+  {
+    "venue_id": "d40e3da9-d3ae-4741-a8a3-61eadd29d036",
+    "venue_name": "Regus | Warsaw Financial Centre",
+    "latitude": 52.233601,
+    "longitude": 21.001591,
+    "reservations": 1,
+    "spend": 124.7
+  }
+]

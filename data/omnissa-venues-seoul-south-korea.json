@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "de424e25-7bd3-487b-9ce3-0bddb6bfe830",
+    "venue_name": "SPACES | Seoul, Autoway Tower",
+    "latitude": 37.506168,
+    "longitude": 127.063927,
+    "reservations": 29,
+    "spend": 7608.52
+  },
+  {
+    "venue_id": "70340f84-8642-4c9e-95d0-d5b022b711bd",
+    "venue_name": "Regus | Seoul, World Trade Center",
+    "latitude": 37.510563,
+    "longitude": 127.061058,
+    "reservations": 23,
+    "spend": 6681.06
+  },
+  {
+    "venue_id": "3a8388c7-62aa-4289-bbaf-049ffe369b5a",
+    "venue_name": "HQ | Seoul, Point 23",
+    "latitude": 37.568932,
+    "longitude": 126.985901,
+    "reservations": 26,
+    "spend": 1875.94
+  },
+  {
+    "venue_id": "e19e85e3-6b8f-4283-b9af-3cc6eefcfdb5",
+    "venue_name": "Regus | Seoul, Apgujeong K Building",
+    "latitude": 37.526791,
+    "longitude": 127.027863,
+    "reservations": 11,
+    "spend": 1558.84
+  },
+  {
+    "venue_id": "8dfc0e7a-15c1-4730-9bd2-d9f19dceb703",
+    "venue_name": "Regus | Seoul, Gangnam Station Centre",
+    "latitude": 37.496609,
+    "longitude": 127.025009,
+    "reservations": 7,
+    "spend": 1016.6
+  },
+  {
+    "venue_id": "9b45f0e1-aeb0-493f-a35d-0aae45c9d542",
+    "venue_name": "Regus | Seoul, Itaewon Bluesky",
+    "latitude": 37.541569,
+    "longitude": 126.990067,
+    "reservations": 1,
+    "spend": 98.6
+  }
+]

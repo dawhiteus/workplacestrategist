@@ -2,17 +2,25 @@
   {
     "venue_id": "694d79be-38a3-4786-a8ea-7de5e1595214",
     "venue_name": "Lucid Private Offices | Southlake Town Square",
-    "latitude": 32.94138717651367,
-    "longitude": -97.12689208984375,
+    "latitude": 32.941387,
+    "longitude": -97.126892,
     "reservations": 73,
     "spend": 5395.0
   },
   {
     "venue_id": "51574371-298c-49ae-9f8a-e0b873ed59d3",
     "venue_name": "Regus | Granite Place",
-    "latitude": 32.94748306274414,
-    "longitude": -97.13066864013672,
+    "latitude": 32.947483,
+    "longitude": -97.130669,
     "reservations": 7,
     "spend": 680.52
+  },
+  {
+    "venue_id": "08277fda-3807-40f8-a451-a7a9f8958543",
+    "venue_name": "Office Evolution - Southlake",
+    "latitude": 32.942204,
+    "longitude": -97.131966,
+    "reservations": 1,
+    "spend": 350.0
   }
 ]

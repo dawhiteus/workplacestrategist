@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ce1a63c0-ab7c-4d51-b48c-d52ab7c28cc2",
+    "venue_name": "Regus | Okinawa, JR Kyushu Naha Building",
+    "latitude": 26.215347,
+    "longitude": 127.677277,
+    "reservations": 1,
+    "spend": 71.09
+  },
+  {
+    "venue_id": "87e24b97-6153-41ed-8980-a0fbaf652362",
+    "venue_name": "Regus | OKINAWA, Hawk City Naha",
+    "latitude": 26.212643,
+    "longitude": 127.682304,
+    "reservations": 1,
+    "spend": 70.0
+  }
+]

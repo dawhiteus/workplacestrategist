@@ -1,34 +1,266 @@
 [
   {
-    "venue_id": "ams-cf-1",
-    "venue_name": "Spaces Herengracht",
-    "latitude": 52.3728,
-    "longitude": 4.8938,
-    "reservations": 498,
-    "spend": 42561.42
+    "venue_id": "3eb959aa-a083-4f67-8780-5768f296e2f3",
+    "venue_name": "Buro De Pijp",
+    "latitude": 52.353844,
+    "longitude": 4.890151,
+    "reservations": 222,
+    "spend": 16488.25
   },
   {
-    "venue_id": "ams-cf-2",
-    "venue_name": "WeWork Weteringschans",
-    "latitude": 52.3614,
-    "longitude": 4.8838,
-    "reservations": 312,
-    "spend": 26644.08
+    "venue_id": "b1ce2db2-88f6-41c0-bb9d-9fc1e8888051",
+    "venue_name": "RIVVIA Keizersgracht 127",
+    "latitude": 52.376301,
+    "longitude": 4.887353,
+    "reservations": 365,
+    "spend": 15488.98
   },
   {
-    "venue_id": "ams-cf-3",
-    "venue_name": "IWG Zuidas",
-    "latitude": 52.3387,
-    "longitude": 4.8702,
-    "reservations": 241,
-    "spend": 20573.91
+    "venue_id": "3bf687c3-b740-4266-8f13-cfc4c72c98d8",
+    "venue_name": "SPACES | Amsterdam Zuidas I",
+    "latitude": 52.336433,
+    "longitude": 4.885495,
+    "reservations": 37,
+    "spend": 15234.13
   },
   {
-    "venue_id": "ams-cf-4",
-    "venue_name": "B.Amsterdam Science Park",
-    "latitude": 52.3559,
-    "longitude": 4.9477,
-    "reservations": 172,
-    "spend": 14602.56
+    "venue_id": "c81405c7-4389-4e55-ae72-fbb5e8bd149e",
+    "venue_name": "SPACES | Amsterdam Keizersqracht 555",
+    "latitude": 52.364582,
+    "longitude": 4.889861,
+    "reservations": 27,
+    "spend": 9959.24
+  },
+  {
+    "venue_id": "9c9071e4-5e21-422a-b5c4-3e153af8d04d",
+    "venue_name": "StartDock Coworking - Prins Hendrikkade",
+    "latitude": 52.378529,
+    "longitude": 4.89618,
+    "reservations": 173,
+    "spend": 9714.07
+  },
+  {
+    "venue_id": "a4c7df90-5318-0132-ea50-2261d352f8c5",
+    "venue_name": "WeWork | Weesperstraat 61-105",
+    "latitude": 52.365044,
+    "longitude": 4.906137,
+    "reservations": 75,
+    "spend": 5084.66
+  },
+  {
+    "venue_id": "32994e0c-5f69-47d0-8129-0d3485dcbf21",
+    "venue_name": "Regus | Amsterdam Arena Boulevard 65-71",
+    "latitude": 52.313141,
+    "longitude": 4.942414,
+    "reservations": 69,
+    "spend": 3610.53
+  },
+  {
+    "venue_id": "5350573b-42d1-43cc-9901-e34f8d7f2824",
+    "venue_name": "Regus | Amsterdam NoMa House",
+    "latitude": 52.337029,
+    "longitude": 4.867828,
+    "reservations": 4,
+    "spend": 3188.18
+  },
+  {
+    "venue_id": "1b83e130-2963-4192-88b8-e15bc8048785",
+    "venue_name": "Regus | Amsterdam Vinoly",
+    "latitude": 52.33778,
+    "longitude": 4.872402,
+    "reservations": 12,
+    "spend": 2928.73
+  },
+  {
+    "venue_id": "4a5973ce-6c21-4b8c-995e-c8e55bf71700",
+    "venue_name": "SPACES | Amsterdam Vijzelstraat 68-78",
+    "latitude": 52.3634,
+    "longitude": 4.89199,
+    "reservations": 7,
+    "spend": 1739.93
+  },
+  {
+    "venue_id": "bffe822a-cb02-4582-b36f-7440e332b6db",
+    "venue_name": "SPACES | The Cloud",
+    "latitude": 52.348446,
+    "longitude": 4.914587,
+    "reservations": 5,
+    "spend": 1536.87
+  },
+  {
+    "venue_id": "83d62fec-1170-4448-b2e0-4237d94c4217",
+    "venue_name": "Signature | Amsterdam, Strawinskyhuis",
+    "latitude": 52.34024,
+    "longitude": 4.872361,
+    "reservations": 3,
+    "spend": 1481.02
+  },
+  {
+    "venue_id": "3f28da15-71cc-49d7-865c-7dcc461ef679",
+    "venue_name": "WeWork | Strawinskylaan 4117",
+    "latitude": 52.340313,
+    "longitude": 4.86945,
+    "reservations": 18,
+    "spend": 1061.33
+  },
+  {
+    "venue_id": "2f8389c0-5319-0132-ea52-2261d352f8c5",
+    "venue_name": "WeWork | Weteringschans 165",
+    "latitude": 52.359741,
+    "longitude": 4.891785,
+    "reservations": 15,
+    "spend": 951.21
+  },
+  {
+    "venue_id": "9f592f6a-c5b3-4840-aa4d-45028206e453",
+    "venue_name": "Regus | Amsterdam Sloterdijk Teleport Towers",
+    "latitude": 52.385574,
+    "longitude": 4.843401,
+    "reservations": 2,
+    "spend": 775.97
+  },
+  {
+    "venue_id": "be93da1a-7ac6-4991-b580-30b643963a0d",
+    "venue_name": "Mindspace | Dam",
+    "latitude": 52.374454,
+    "longitude": 4.890906,
+    "reservations": 14,
+    "spend": 623.28
+  },
+  {
+    "venue_id": "3a08dc87-bf07-4793-867a-1d3169a20048",
+    "venue_name": "StartDock Coworking - Keizersgracht",
+    "latitude": 52.366261,
+    "longitude": 4.885163,
+    "reservations": 19,
+    "spend": 562.12
+  },
+  {
+    "venue_id": "f693b096-2060-44a9-9167-3dcae25eb793",
+    "venue_name": "Regus | Amsterdam Atrium",
+    "latitude": 52.340187,
+    "longitude": 4.869848,
+    "reservations": 4,
+    "spend": 467.4
+  },
+  {
+    "venue_id": "21742252-3abb-4ea7-858c-185dcc9b3e3f",
+    "venue_name": "StartDock Coworking - Singel",
+    "latitude": 52.376026,
+    "longitude": 4.890275,
+    "reservations": 13,
+    "spend": 418.84
+  },
+  {
+    "venue_id": "2ec64d8f-b074-4a03-add8-8347a2f32219",
+    "venue_name": "Regus | Amsterdam Haarlemmerweg 331",
+    "latitude": 52.38512,
+    "longitude": 4.863673,
+    "reservations": 3,
+    "spend": 412.76
+  },
+  {
+    "venue_id": "6e7a080f-eab4-4d20-8b94-b8334e03c06f",
+    "venue_name": "beyond | Republica",
+    "latitude": 52.396931,
+    "longitude": 4.907418,
+    "reservations": 12,
+    "spend": 402.14
+  },
+  {
+    "venue_id": "2b740bae-416b-4546-8356-7d7212313411",
+    "venue_name": "Regus | Amsterdam Nieuw West",
+    "latitude": 52.35743,
+    "longitude": 4.84134,
+    "reservations": 9,
+    "spend": 388.61
+  },
+  {
+    "venue_id": "4ac86506-8ca3-406f-a232-30ef12941d94",
+    "venue_name": "SPACES | Amsterdam Herengracht 124-128",
+    "latitude": 52.375702,
+    "longitude": 4.88837,
+    "reservations": 5,
+    "spend": 287.39
+  },
+  {
+    "venue_id": "ef5d07d9-f99b-4dea-91d0-53a6731dfe02",
+    "venue_name": "Regus | AMSTERDAM, Central NS International - Regus Express",
+    "latitude": 52.379223,
+    "longitude": 4.898676,
+    "reservations": 1,
+    "spend": 266.83
+  },
+  {
+    "venue_id": "8cb8adfd-b07a-459d-aade-5c6a2d9becf3",
+    "venue_name": "RIVVIA Keizersgracht 264",
+    "latitude": 52.371567,
+    "longitude": 4.884311,
+    "reservations": 4,
+    "spend": 264.2
+  },
+  {
+    "venue_id": "8f478983-7fe1-40bc-b298-007510773aee",
+    "venue_name": "Regus | Amsterdam Buitenveldert",
+    "latitude": 52.330879,
+    "longitude": 4.888305,
+    "reservations": 1,
+    "spend": 234.42
+  },
+  {
+    "venue_id": "625d045b-cc1e-4c01-9301-4afb781ae4c0",
+    "venue_name": "Regus | Amsterdam Laarderhoogtweg 25",
+    "latitude": 52.301502,
+    "longitude": 4.94687,
+    "reservations": 1,
+    "spend": 219.04
+  },
+  {
+    "venue_id": "cf931c55-f6cd-4aae-bca4-d3b48b07f5fd",
+    "venue_name": "Regus | Amsterdam Arena Business Park",
+    "latitude": 52.306931,
+    "longitude": 4.94187,
+    "reservations": 2,
+    "spend": 72.77
+  },
+  {
+    "venue_id": "a93877b8-dca0-41f9-bea1-b5a6e0a6c9d5",
+    "venue_name": "Regus | Amsterdam Bickerseiland",
+    "latitude": 52.386261,
+    "longitude": 4.88977,
+    "reservations": 1,
+    "spend": 50.11
+  },
+  {
+    "venue_id": "38c92acb-3b5a-47c1-9783-1e4fcfff3028",
+    "venue_name": "Regus | Amsterdam, Amstel",
+    "latitude": 52.335133,
+    "longitude": 4.934784,
+    "reservations": 1,
+    "spend": 45.27
+  },
+  {
+    "venue_id": "d885894c-b40a-4904-8900-e7a369c9c738",
+    "venue_name": "Signature | Amsterdam, Strawinskyhuis",
+    "latitude": 52.34024,
+    "longitude": 4.872361,
+    "reservations": 1,
+    "spend": 40.22
+  },
+  {
+    "venue_id": "4c639ede-0431-45c9-a93c-f9ab2c9ce33d",
+    "venue_name": "Mindspace | House",
+    "latitude": 52.370579,
+    "longitude": 4.889825,
+    "reservations": 1,
+    "spend": 33.61
+  },
+  {
+    "venue_id": "592b0f5a-45a8-463b-97d5-b47a3450a1aa",
+    "venue_name": "Regus | Amsterdam Sarphati Plaza",
+    "latitude": 52.360863,
+    "longitude": 4.907457,
+    "reservations": 1,
+    "spend": 10.74
   }
 ]

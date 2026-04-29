@@ -2,9 +2,17 @@
   {
     "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
     "venue_name": "The New Work Project",
-    "latitude": 40.72095489501953,
-    "longitude": -73.95805358886719,
+    "latitude": 40.720955,
+    "longitude": -73.958054,
     "reservations": 6,
     "spend": 360.0
+  },
+  {
+    "venue_id": "5a4774c6-62dd-4d44-b944-311d892fb24f",
+    "venue_name": "The Yard: Gowanus",
+    "latitude": 40.66877,
+    "longitude": -73.992439,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

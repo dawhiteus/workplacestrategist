@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.7812,
+    "longitude": -122.408104,
+    "reservations": 2,
+    "spend": 1150.0
+  },
+  {
+    "venue_id": "b44a4d96-3605-48f9-8446-af17d1e89845",
+    "venue_name": "Offix Edge LLC",
+    "latitude": 37.75351,
+    "longitude": -122.488632,
+    "reservations": 2,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.792622,
+    "longitude": -122.398911,
+    "reservations": 1,
+    "spend": 420.0
+  }
+]

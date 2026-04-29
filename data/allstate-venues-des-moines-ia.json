@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "aa2d8eea-8f39-4109-b34e-beed867422b3",
+    "venue_name": "Gravitate Coworking Downtown",
+    "latitude": 41.586723,
+    "longitude": -93.623917,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "99b48333-c416-444b-a41d-bf6781e766a4",
+    "venue_name": "Regus | Hub Tower",
+    "latitude": 41.586029,
+    "longitude": -93.625046,
+    "reservations": 1,
+    "spend": 162.0
+  }
+]

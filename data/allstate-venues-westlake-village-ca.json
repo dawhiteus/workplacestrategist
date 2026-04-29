@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "0e4014a6-97ac-4ac3-ae60-7693d942ee70",
+    "venue_name": "(WLV) Premier Workspaces",
+    "latitude": 34.154278,
+    "longitude": -118.823204,
+    "reservations": 11,
+    "spend": 3180.0
+  },
+  {
+    "venue_id": "fba72e5d-2486-471c-a0ca-5af58cff8ba9",
+    "venue_name": "Regus || Westlake Park Place",
+    "latitude": 34.152683,
+    "longitude": -118.822823,
+    "reservations": 3,
+    "spend": 572.0
+  },
+  {
+    "venue_id": "fa46f095-b537-410f-b5d8-32d44e6a24bd",
+    "venue_name": "Regus || Russell Ranch",
+    "latitude": 34.149799,
+    "longitude": -118.793999,
+    "reservations": 1,
+    "spend": 159.0
+  }
+]

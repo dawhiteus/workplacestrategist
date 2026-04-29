@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5a5ace86-e3f3-408c-9055-c645cdb46669",
+    "venue_name": "Lucid Private Offices | Sugar Land",
+    "latitude": 29.622635,
+    "longitude": -95.607773,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "491e9829-697c-4eca-ab30-0a5907e66e97",
+    "venue_name": "Business E Suites",
+    "latitude": 29.645138,
+    "longitude": -95.657104,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

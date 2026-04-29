@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "cdd8d0ef-c1b5-4831-964c-28aff1c13274",
+    "venue_name": "WeWork | Place Ville Marie",
+    "latitude": 45.502056,
+    "longitude": -73.569344,
+    "reservations": 1,
+    "spend": 560.36
+  },
+  {
+    "venue_id": "ad503e76-d563-4a57-8acb-08aa97f96b4a",
+    "venue_name": "WeWork | L'Avenue",
+    "latitude": 45.496441,
+    "longitude": -73.570663,
+    "reservations": 1,
+    "spend": 544.6
+  },
+  {
+    "venue_id": "5535d126-b325-41a4-87b4-b251b0421465",
+    "venue_name": "Regus | QC, Montreal - Boul Cremazie",
+    "latitude": 45.550362,
+    "longitude": -73.628532,
+    "reservations": 2,
+    "spend": 374.98
+  }
+]

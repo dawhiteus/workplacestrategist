@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "2d6d14c0-c204-410c-a592-29e1b8682701",
+    "venue_name": "Regus | London, Oxford Street",
+    "latitude": 51.515999,
+    "longitude": -0.138266,
+    "reservations": 2,
+    "spend": 1436.31
+  },
+  {
+    "venue_id": "a4b200f7-bd34-4232-966a-25f39d50fd29",
+    "venue_name": "Landmark | Wogan House",
+    "latitude": 51.519291,
+    "longitude": -0.142691,
+    "reservations": 7,
+    "spend": 420.25
+  },
+  {
+    "venue_id": "d01e4eae-4178-4346-9e3e-5a6405185585",
+    "venue_name": "Landmark | Regent Street",
+    "latitude": 51.510754,
+    "longitude": -0.138251,
+    "reservations": 6,
+    "spend": 358.75
+  },
+  {
+    "venue_id": "74b5fd86-7e0d-4674-bcde-6311840f1181",
+    "venue_name": "Landmark | Liverpool Street",
+    "latitude": 51.517399,
+    "longitude": -0.080142,
+    "reservations": 2,
+    "spend": 121.62
+  },
+  {
+    "venue_id": "effe01c5-0cfa-4891-b56d-a509bb7a65a7",
+    "venue_name": "Landmark | Cavendish Square",
+    "latitude": 51.515949,
+    "longitude": -0.144023,
+    "reservations": 2,
+    "spend": 119.75
+  }
+]

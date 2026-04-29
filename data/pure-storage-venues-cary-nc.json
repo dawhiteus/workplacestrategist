@@ -2,9 +2,17 @@
   {
     "venue_id": "afefc089-ea51-46cd-8036-59f07401a65c",
     "venue_name": "Regus | Regency",
-    "latitude": 35.734405517578125,
-    "longitude": -78.78836059570312,
+    "latitude": 35.734406,
+    "longitude": -78.788361,
     "reservations": 6,
     "spend": 837.0
+  },
+  {
+    "venue_id": "388ffebf-4149-401f-9c1d-6c7fb0c375fb",
+    "venue_name": "Towerview Office Suites- Maynard",
+    "latitude": 35.794697,
+    "longitude": -78.801498,
+    "reservations": 1,
+    "spend": 87.0
   }
 ]

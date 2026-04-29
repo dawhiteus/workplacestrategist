@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "afd225e5-2b6d-457c-897d-c1bdf16b4dd6",
+    "venue_name": "Regus | WI, Green Bay - Adams St",
+    "latitude": 44.5135,
+    "longitude": -88.015404,
+    "reservations": 1,
+    "spend": 88.61
+  },
+  {
+    "venue_id": "e718da1d-9d3a-4136-88c9-69319a248c6e",
+    "venue_name": "SPACES | WI, Green Bay - Broadway",
+    "latitude": 44.522636,
+    "longitude": -88.017448,
+    "reservations": 1,
+    "spend": 80.55
+  },
+  {
+    "venue_id": "19629311-8e52-4c7d-9999-ee2768d0dc2a",
+    "venue_name": "Regus | WI, Green Bay - Velp Ave.",
+    "latitude": 44.55954,
+    "longitude": -88.06842,
+    "reservations": 1,
+    "spend": 69.81
+  }
+]

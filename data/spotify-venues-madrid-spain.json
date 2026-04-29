@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "71f160dd-934f-4744-8b85-a814b231d316",
+    "venue_name": "WeWork | Madrid Calle Eloy Gonzalo, 27",
+    "latitude": 40.434792,
+    "longitude": -3.700403,
+    "reservations": 11,
+    "spend": 472.8
+  },
+  {
+    "venue_id": "3444d56e-4b96-48e7-b8e9-9a66efc54830",
+    "venue_name": "Regus | Madrid Paseo de Recoletos 5",
+    "latitude": 40.420723,
+    "longitude": -3.693204,
+    "reservations": 6,
+    "spend": 399.65
+  },
+  {
+    "venue_id": "31fac0c9-6390-4e1d-a8b9-87afc15303c6",
+    "venue_name": "SPACES | Madrid Atocha",
+    "latitude": 40.404182,
+    "longitude": -3.689928,
+    "reservations": 3,
+    "spend": 107.28
+  },
+  {
+    "venue_id": "f7bbfbab-6070-48d2-a7b7-4f3973f6593c",
+    "venue_name": "Regus | Madrid Calle de Maria de Molina 41",
+    "latitude": 40.437599,
+    "longitude": -3.6785,
+    "reservations": 2,
+    "spend": 103.06
+  },
+  {
+    "venue_id": "50dc8d24-4093-4f02-a6fb-f95656d5c20b",
+    "venue_name": "SPACES | Madrid San Jeronimo",
+    "latitude": 40.416714,
+    "longitude": -3.699082,
+    "reservations": 1,
+    "spend": 61.42
+  },
+  {
+    "venue_id": "ef6bd793-5f00-4820-941a-bed44bb795d6",
+    "venue_name": "VENTURE X | AZCA",
+    "latitude": 40.447971,
+    "longitude": -3.695202,
+    "reservations": 1,
+    "spend": 35.4
+  }
+]

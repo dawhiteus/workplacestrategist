@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "602ffd7f-ed22-48e8-b11a-c59773842825",
+    "venue_name": "iQ Offices | 1155 Metcalfe Inc.",
+    "latitude": 45.500252,
+    "longitude": -73.570183,
+    "reservations": 1,
+    "spend": 196.77
+  },
+  {
+    "venue_id": "676cce13-c0e1-4bf8-95e0-644abc5262ea",
+    "venue_name": "Regus | University Street",
+    "latitude": 45.504002,
+    "longitude": -73.571503,
+    "reservations": 1,
+    "spend": 70.26
+  },
+  {
+    "venue_id": "46429bc3-715b-48ac-9aca-fa743ebe5711",
+    "venue_name": "WeWork | 1010 Sainte-Catherine Ouest",
+    "latitude": 45.500286,
+    "longitude": -73.572327,
+    "reservations": 2,
+    "spend": 57.87
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9bdb7d1d-efb6-4462-97a4-3325acd43fb3",
+    "venue_name": "K-1 BusinessClub Hauptwache",
+    "latitude": 50.113949,
+    "longitude": 8.68161,
+    "reservations": 15,
+    "spend": 4375.51
+  },
+  {
+    "venue_id": "6f057047-60c4-437b-94a9-20af3fd31570",
+    "venue_name": "K-1 BusinessClub Ostend",
+    "latitude": 50.11533,
+    "longitude": 8.724614,
+    "reservations": 8,
+    "spend": 2239.08
+  },
+  {
+    "venue_id": "64ba8adf-003d-45b8-b987-e411fbca15eb",
+    "venue_name": "SPACES | FRANKFURT, Spaces The Docks",
+    "latitude": 50.111744,
+    "longitude": 8.717152,
+    "reservations": 1,
+    "spend": 448.87
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "6718f0bb-64b7-427a-9b0a-aa0b6278ec60",
+    "venue_name": "SPACES | Milan, San Babila",
+    "latitude": 45.465199,
+    "longitude": 9.19726,
+    "reservations": 23,
+    "spend": 8331.92
+  },
+  {
+    "venue_id": "6d4d247f-20ab-4d90-8b5b-a88fcc09bf2e",
+    "venue_name": "Copernico | Milan, Blend Tower Copernico",
+    "latitude": 45.487617,
+    "longitude": 9.202353,
+    "reservations": 7,
+    "spend": 2924.44
+  },
+  {
+    "venue_id": "726e31fb-ac0e-46cc-8d24-94ecf96530c8",
+    "venue_name": "Copernico | Milan, Zuretti Copernico",
+    "latitude": 45.493874,
+    "longitude": 9.209321,
+    "reservations": 9,
+    "spend": 2686.8
+  },
+  {
+    "venue_id": "44d5f427-e52c-4ddb-a6ae-b6274106abd7",
+    "venue_name": "Signature | Milan, Signature Corso Italia",
+    "latitude": 45.459709,
+    "longitude": 9.1882,
+    "reservations": 8,
+    "spend": 2039.79
+  },
+  {
+    "venue_id": "fa8689b8-6726-484d-afe2-707eb5f45efc",
+    "venue_name": "SPACES | Milan, Spaces Isola",
+    "latitude": 45.488327,
+    "longitude": 9.194908,
+    "reservations": 6,
+    "spend": 1935.31
+  },
+  {
+    "venue_id": "f3e06b1d-c710-4faa-8519-0e7937b06630",
+    "venue_name": "SPACES | Milan, Spaces Gae Aulenti",
+    "latitude": 45.483849,
+    "longitude": 9.18909,
+    "reservations": 1,
+    "spend": 640.02
+  },
+  {
+    "venue_id": "e4c25f9d-81a6-4390-ad44-5ee09b225d59",
+    "venue_name": "Regus | Milan, Central Station",
+    "latitude": 45.482601,
+    "longitude": 9.20451,
+    "reservations": 2,
+    "spend": 395.68
+  },
+  {
+    "venue_id": "a2d1ccbe-a5ab-4044-8c6e-f7320fa9a80c",
+    "venue_name": "Regus | Milan, Porta Venezia",
+    "latitude": 45.4725,
+    "longitude": 9.21129,
+    "reservations": 1,
+    "spend": 220.72
+  }
+]

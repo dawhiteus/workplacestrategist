@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "97e56fa8-11c1-4ff0-9355-4a5e90ebc766",
+    "venue_name": "Regus | Manila, Joy Nostalg Ortigas",
+    "latitude": 14.587536,
+    "longitude": 121.060097,
+    "reservations": 1,
+    "spend": 82.5
+  },
+  {
+    "venue_id": "a33b6fa3-fede-408b-a94d-c0cf488455db",
+    "venue_name": "Regus | Manila, Marco Polo - Pasig City",
+    "latitude": 14.58756,
+    "longitude": 121.063332,
+    "reservations": 1,
+    "spend": 42.58
+  }
+]

@@ -2,17 +2,33 @@
   {
     "venue_id": "77933c5b-a4d3-425b-b35a-11aade7f4de7",
     "venue_name": "COhatch - Easton",
-    "latitude": 40.0553092956543,
-    "longitude": -82.90742492675781,
+    "latitude": 40.055309,
+    "longitude": -82.907425,
     "reservations": 7,
     "spend": 210.0
   },
   {
     "venue_id": "464c07ba-2722-45f4-9d30-74dd006ffbf5",
     "venue_name": "COhatch - Polaris",
-    "latitude": 40.14573287963867,
-    "longitude": -82.9780502319336,
+    "latitude": 40.145733,
+    "longitude": -82.97805,
     "reservations": 4,
     "spend": 125.0
+  },
+  {
+    "venue_id": "1b8708fe-ebc6-4d0b-8817-de92d3a50ce4",
+    "venue_name": "Office Evolution - Columbus | Worthington",
+    "latitude": 40.119411,
+    "longitude": -83.010368,
+    "reservations": 2,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "dc4f9780-43d9-4496-b2e8-92dadb02519f",
+    "venue_name": "Versa Grandview",
+    "latitude": 39.974251,
+    "longitude": -83.053604,
+    "reservations": 1,
+    "spend": 27.5
   }
 ]

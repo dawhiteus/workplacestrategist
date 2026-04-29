@@ -2,33 +2,41 @@
   {
     "venue_id": "f63ba835-389e-4e0b-a8d3-6a3fd144e8d2",
     "venue_name": "Industrious - West 30th",
-    "latitude": 40.74946212768555,
-    "longitude": -73.99427032470703,
+    "latitude": 40.749462,
+    "longitude": -73.99427,
     "reservations": 7,
     "spend": 4860.0
   },
   {
     "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
     "venue_name": "Jay Suites - Midtown East",
-    "latitude": 40.759788513183594,
-    "longitude": -73.9737548828125,
+    "latitude": 40.759789,
+    "longitude": -73.973755,
     "reservations": 3,
     "spend": 2100.0
   },
   {
     "venue_id": "42c247ea-a225-4575-a0b7-6ca49f421643",
     "venue_name": "SPACES | Midtown South",
-    "latitude": 40.74296188354492,
-    "longitude": -73.98375701904297,
+    "latitude": 40.742962,
+    "longitude": -73.983757,
     "reservations": 4,
     "spend": 2023.2
   },
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 3,
     "spend": 995.0
+  },
+  {
+    "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
+    "venue_name": "Emerge212 - 125 Park Avenue",
+    "latitude": 40.751789,
+    "longitude": -73.977364,
+    "reservations": 1,
+    "spend": 680.0
   }
 ]

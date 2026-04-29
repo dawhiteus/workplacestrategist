@@ -2,16 +2,24 @@
   {
     "venue_id": "325f2672-e6e5-4592-9f07-cdf1ff9e2464",
     "venue_name": "Regus | 1325 Avenue of Americas",
-    "latitude": 40.76308822631836,
-    "longitude": -73.98077392578125,
+    "latitude": 40.763088,
+    "longitude": -73.980774,
     "reservations": 3,
     "spend": 3658.0
   },
   {
+    "venue_id": "3cc3edd7-0d31-4ab2-8576-d9eff002e831",
+    "venue_name": "Studio 1418 | 307 west 38th Street ",
+    "latitude": 40.755146,
+    "longitude": -73.992325,
+    "reservations": 2,
+    "spend": 1615.0
+  },
+  {
     "venue_id": "b69e0a98-f12b-4462-9a55-e55bd97dade8",
     "venue_name": "Carr Workplaces - Central Park",
-    "latitude": 40.76327133178711,
-    "longitude": -73.97354888916016,
+    "latitude": 40.763271,
+    "longitude": -73.973549,
     "reservations": 19,
     "spend": 970.0
   }

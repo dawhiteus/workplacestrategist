@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a052f435-32e2-4140-b857-83c00ebe814b",
+    "venue_name": "Expansive - Upper Kirby/Greenway",
+    "latitude": 29.730885,
+    "longitude": -95.426277,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "a00bbc35-4d8b-4542-a2f3-d5f104414936",
+    "venue_name": "The Village Suites",
+    "latitude": 29.720381,
+    "longitude": -95.417824,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

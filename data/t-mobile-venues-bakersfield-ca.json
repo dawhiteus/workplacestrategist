@@ -2,32 +2,32 @@
   {
     "venue_id": "032e2d63-7b4a-4537-8d33-32a17222baf0",
     "venue_name": "Regus | 4900 California Avenue",
-    "latitude": 35.36526107788086,
-    "longitude": -119.0562973022461,
+    "latitude": 35.365261,
+    "longitude": -119.056297,
     "reservations": 150,
     "spend": 23356.0
   },
   {
     "venue_id": "6e86035b-8b92-4fab-ab6e-58345ee54580",
     "venue_name": "BPI Offices",
-    "latitude": 35.37692642211914,
-    "longitude": -119.01957702636719,
+    "latitude": 35.376926,
+    "longitude": -119.019577,
     "reservations": 12,
     "spend": 10524.92
   },
   {
     "venue_id": "ba1c367f-74ab-4dad-8972-ca4dd8399427",
     "venue_name": "PAS Associates",
-    "latitude": 35.37500762939453,
-    "longitude": -119.0169906616211,
+    "latitude": 35.375008,
+    "longitude": -119.016991,
     "reservations": 4,
     "spend": 865.0
   },
   {
     "venue_id": "683caa29-7dd3-4bd6-8e57-a0ca5280a954",
     "venue_name": "HQ | Bakersfield",
-    "latitude": 35.37369918823242,
-    "longitude": -119.0251693725586,
+    "latitude": 35.373699,
+    "longitude": -119.025169,
     "reservations": 2,
     "spend": 273.0
   }

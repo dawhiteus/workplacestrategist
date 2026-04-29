@@ -2,9 +2,17 @@
   {
     "venue_id": "e66abbec-bb4b-4e6c-a124-e97b9569a402",
     "venue_name": "Regus | Park Bank Plaza",
-    "latitude": 43.13462448120117,
-    "longitude": -89.29075622558594,
+    "latitude": 43.134624,
+    "longitude": -89.290756,
     "reservations": 5,
     "spend": 921.51
+  },
+  {
+    "venue_id": "46e44718-2a55-4b57-8366-5b800a79f834",
+    "venue_name": "HQ | WI, Madison - Eastpark Blvd",
+    "latitude": 43.145424,
+    "longitude": -89.298653,
+    "reservations": 1,
+    "spend": 53.16
   }
 ]

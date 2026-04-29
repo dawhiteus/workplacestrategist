@@ -2,9 +2,33 @@
   {
     "venue_id": "5b4214cc-49ba-469e-b2c0-b83fd5b3f90b",
     "venue_name": "Gather | Norfolk",
-    "latitude": 36.845977783203125,
-    "longitude": -76.28805541992188,
+    "latitude": 36.845978,
+    "longitude": -76.288055,
     "reservations": 15,
     "spend": 1595.0
+  },
+  {
+    "venue_id": "ab62c5c7-55dd-4151-a99a-836bc4095330",
+    "venue_name": "Office Space & Solutions Norfolk",
+    "latitude": 36.85186,
+    "longitude": -76.288109,
+    "reservations": 1,
+    "spend": 270.0
+  },
+  {
+    "venue_id": "fa3aba82-f2ac-4c92-8354-0d378bfe2f7d",
+    "venue_name": "Regus | VA, Norfolk - 25th St.",
+    "latitude": 36.875,
+    "longitude": -76.303619,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "99fded41-b095-459f-8361-24abd62cf4f2",
+    "venue_name": "Regus | Dominion Tower",
+    "latitude": 36.84343,
+    "longitude": -76.294197,
+    "reservations": 1,
+    "spend": 147.0
   }
 ]

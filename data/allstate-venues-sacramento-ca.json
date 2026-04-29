@@ -1,1 +1,42 @@
-[{"venue_id":"sacramento-ca-venue-1","venue_name":"Spaces | Sacramento Downtown","latitude":38.551,"longitude":-121.4688,"reservations":18,"spend":3311.26},{"venue_id":"sacramento-ca-venue-2","venue_name":"Knotel | Sacramento North","latitude":38.6228,"longitude":-121.4207,"reservations":7,"spend":1349.53},{"venue_id":"sacramento-ca-venue-3","venue_name":"WorkSuites | Sacramento West","latitude":38.6339,"longitude":-121.5605,"reservations":6,"spend":1033.32},{"venue_id":"sacramento-ca-venue-4","venue_name":"CommonGrounds | Sacramento Central","latitude":38.5779,"longitude":-121.4869,"reservations":3,"spend":577.11},{"venue_id":"sacramento-ca-venue-5","venue_name":"Knotel | Sacramento East","latitude":38.6639,"longitude":-121.4311,"reservations":3,"spend":561.74},{"venue_id":"sacramento-ca-venue-6","venue_name":"Novel Coworking | Sacramento Financial District","latitude":38.6194,"longitude":-121.4276,"reservations":1,"spend":262.78}]
+[
+  {
+    "venue_id": "fd72d971-feaf-4f0a-8733-d7f82fe41b1f",
+    "venue_name": "SPACES || R Street",
+    "latitude": 38.568745,
+    "longitude": -121.488449,
+    "reservations": 7,
+    "spend": 4030.74
+  },
+  {
+    "venue_id": "16eb3f87-91e2-4da1-aa8c-9adb2e99d9ba",
+    "venue_name": "CENTRL Office - Sacramento",
+    "latitude": 38.579811,
+    "longitude": -121.490379,
+    "reservations": 24,
+    "spend": 2280.0
+  },
+  {
+    "venue_id": "459e2115-0bb1-4c9b-9b89-8b331ba2be5f",
+    "venue_name": "Pacific Workplaces - Watt",
+    "latitude": 38.574657,
+    "longitude": -121.379616,
+    "reservations": 5,
+    "spend": 660.0
+  },
+  {
+    "venue_id": "34b169a0-d644-4f6d-9433-a35b0b330f4b",
+    "venue_name": "Pacific Workplaces - J Street",
+    "latitude": 38.581963,
+    "longitude": -121.500458,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "78d158b6-0835-4763-9ae9-d0e2ad87c637",
+    "venue_name": "Outlet Coworking - Sacramento",
+    "latitude": 38.574921,
+    "longitude": -121.478638,
+    "reservations": 1,
+    "spend": 60.0
+  }
+]

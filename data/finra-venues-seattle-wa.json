@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "45fcbce5-acee-44ab-96d1-f067f66f02fe",
+    "venue_name": "(SEA) Seattle Downtown",
+    "latitude": 47.614101,
+    "longitude": -122.33535,
+    "reservations": 2,
+    "spend": 1000.0
+  },
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.611729,
+    "longitude": -122.344368,
+    "reservations": 1,
+    "spend": 845.0
+  }
+]

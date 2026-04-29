@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "2b80d81d-e78d-4f1c-89f1-32ca6d984459",
+    "venue_name": "Jay Conference  - Empire",
+    "latitude": 40.751129,
+    "longitude": -73.983597,
+    "reservations": 2,
+    "spend": 3850.0
+  },
+  {
+    "venue_id": "fce75f37-87f6-43b3-88d8-f34896a3101f",
+    "venue_name": "Nomadworks | Madison ",
+    "latitude": 40.751652,
+    "longitude": -73.979095,
+    "reservations": 1,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "b1d6bd96-f117-49bf-889a-9536ce86b9af",
+    "venue_name": "Nomadworks | Times Square",
+    "latitude": 40.755268,
+    "longitude": -73.989586,
+    "reservations": 1,
+    "spend": 490.0
+  },
+  {
+    "venue_id": "439556b2-dad3-4462-834f-db80d3ce635b",
+    "venue_name": "Regus | 31 Penn Plaza",
+    "latitude": 40.748001,
+    "longitude": -73.990837,
+    "reservations": 2,
+    "spend": 424.77
+  },
+  {
+    "venue_id": "f533cbcb-e1d5-4226-a28d-82e1fd479fa9",
+    "venue_name": "WeWork | 33 Irving Pl",
+    "latitude": 40.735138,
+    "longitude": -73.988243,
+    "reservations": 1,
+    "spend": 367.2
+  },
+  {
+    "venue_id": "b49bbf41-37eb-424f-9237-6db21bf78b24",
+    "venue_name": "Industrious - Flatiron",
+    "latitude": 40.744114,
+    "longitude": -73.99321,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "4d739326-7185-4158-829d-4ec91747643e",
+    "venue_name": "Jay Suites - Chelsea",
+    "latitude": 40.745308,
+    "longitude": -73.993935,
+    "reservations": 1,
+    "spend": 200.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ead604bc-9b70-4007-b6a6-53f49268d7ae",
+    "venue_name": "Regus | Mexico City, Carso",
+    "latitude": 19.440323,
+    "longitude": -99.2024,
+    "reservations": 4,
+    "spend": 870.31
+  },
+  {
+    "venue_id": "ceb13bc0-8fcd-4457-b797-35e1216e5e4a",
+    "venue_name": "Regus | Mexico CIty, Masaryk 111",
+    "latitude": 19.4317,
+    "longitude": -99.185699,
+    "reservations": 1,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "adb5b85e-afcf-4d8f-9fbe-6ac63615be65",
+    "venue_name": "Regus | Mexico City, Palmas Torre Esmeralda II",
+    "latitude": 19.428932,
+    "longitude": -99.205284,
+    "reservations": 1,
+    "spend": 12.95
+  }
+]

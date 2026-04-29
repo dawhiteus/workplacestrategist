@@ -2,6 +2,7 @@
   {
     "city": "Braintree",
     "state": "MA",
+    "country": "US",
     "reservations": 15,
     "total_spend": 4950.0,
     "venues": 1,

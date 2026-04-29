@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c72f4861-4366-49ef-b2b7-5482264709ad",
+    "venue_name": "Regus | COSTA RICA, San Jose, Plaza Roble Las Terrazas",
+    "latitude": 9.94332,
+    "longitude": -84.152702,
+    "reservations": 6,
+    "spend": 1.09
+  },
+  {
+    "venue_id": "e832e42f-4473-4923-ab70-943f234bf430",
+    "venue_name": "Regus | COSTA RICA, San Jose, Boulevard Dent",
+    "latitude": 9.933485,
+    "longitude": -84.059196,
+    "reservations": 1,
+    "spend": 0.13
+  }
+]

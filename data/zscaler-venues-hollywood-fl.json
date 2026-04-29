@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "51f6626c-ec08-4f76-baea-9bc0d2163506",
+    "venue_name": "Regus | FL, Hollywood - North Ocean Dr",
+    "latitude": 26.03289,
+    "longitude": -80.114883,
+    "reservations": 1,
+    "spend": 295.0
+  },
+  {
+    "venue_id": "b159cfb3-2793-43b5-8f57-4c4744fa7bb0",
+    "venue_name": "Büro Hollywood",
+    "latitude": 26.010691,
+    "longitude": -80.148201,
+    "reservations": 1,
+    "spend": 60.0
+  }
+]

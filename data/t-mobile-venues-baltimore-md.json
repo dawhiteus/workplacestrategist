@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "eb78986d-9dcc-46f8-84ff-39a1ada8ffaf",
+    "venue_name": "Regus | Stadium Square",
+    "latitude": 39.274471,
+    "longitude": -76.617798,
+    "reservations": 1,
+    "spend": 462.0
+  },
+  {
+    "venue_id": "eaa6effe-ca6e-4a38-acae-264e605b08df",
+    "venue_name": "Mystique Barrel Brewing and Lager House",
+    "latitude": 39.283119,
+    "longitude": -76.631485,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "1cb1a3b0-61e0-4410-945a-ec461ee2534d",
+    "venue_name": "Co-Balt Workspace",
+    "latitude": 39.331215,
+    "longitude": -76.633583,
+    "reservations": 1,
+    "spend": 75.0
+  }
+]

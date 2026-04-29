@@ -2,9 +2,41 @@
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 3,
     "spend": 1350.0
+  },
+  {
+    "venue_id": "2d4adf28-ced4-4722-80c3-63bda895dcb0",
+    "venue_name": "Jay Suites - Fifth Avenue Location",
+    "latitude": 40.751606,
+    "longitude": -73.983688,
+    "reservations": 2,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "439556b2-dad3-4462-834f-db80d3ce635b",
+    "venue_name": "Regus | 31 Penn Plaza",
+    "latitude": 40.748001,
+    "longitude": -73.990837,
+    "reservations": 1,
+    "spend": 139.08
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.746319,
+    "longitude": -73.988289,
+    "reservations": 1,
+    "spend": 39.0
+  },
+  {
+    "venue_id": "d1d19c2a-6132-46fd-869d-7917b8b94880",
+    "venue_name": "Margalit Startup City",
+    "latitude": 40.720684,
+    "longitude": -74.000092,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

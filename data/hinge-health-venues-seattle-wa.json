@@ -2,25 +2,41 @@
   {
     "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
     "venue_name": "The Pioneer Collective - Belltown",
-    "latitude": 47.61172866821289,
-    "longitude": -122.34436798095703,
+    "latitude": 47.611729,
+    "longitude": -122.344368,
     "reservations": 40,
     "spend": 6810.0
   },
   {
     "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
     "venue_name": "The Cloud Room",
-    "latitude": 47.6136589050293,
-    "longitude": -122.3177490234375,
+    "latitude": 47.613659,
+    "longitude": -122.317749,
     "reservations": 63,
     "spend": 4390.0
   },
   {
     "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
     "venue_name": "The Pioneer Collective - Ballard",
-    "latitude": 47.66591262817383,
-    "longitude": -122.37410736083984,
+    "latitude": 47.665913,
+    "longitude": -122.374107,
     "reservations": 24,
     "spend": 1060.0
+  },
+  {
+    "venue_id": "4998ab8e-dca1-4756-8655-216e5ca4dfe4",
+    "venue_name": "WeWork | 1201 3rd Ave.",
+    "latitude": 47.607147,
+    "longitude": -122.335938,
+    "reservations": 1,
+    "spend": 756.0
+  },
+  {
+    "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
+    "venue_name": "SURF Incubator",
+    "latitude": 47.60532,
+    "longitude": -122.333893,
+    "reservations": 2,
+    "spend": 420.0
   }
 ]

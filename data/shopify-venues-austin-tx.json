@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ffcf6a7a-a6f2-465b-a6ad-5c3713ced2ab",
+    "venue_name": "Executive Workspace| West Austin",
+    "latitude": 30.306797,
+    "longitude": -97.826683,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "6b5843d4-1f56-45f2-8754-9878fa92d85f",
+    "venue_name": "Expansive - North Austin",
+    "latitude": 30.443642,
+    "longitude": -97.695786,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
+    "venue_name": "Bond Collective - East Austin",
+    "latitude": 30.261042,
+    "longitude": -97.727951,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

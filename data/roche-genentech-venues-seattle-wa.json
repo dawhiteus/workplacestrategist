@@ -2,25 +2,57 @@
   {
     "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
     "venue_name": "The Pioneer Collective - Belltown",
-    "latitude": 47.61172866821289,
-    "longitude": -122.34436798095703,
+    "latitude": 47.611729,
+    "longitude": -122.344368,
     "reservations": 32,
     "spend": 13160.0
   },
   {
     "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
     "venue_name": "SURF Incubator",
-    "latitude": 47.60531997680664,
-    "longitude": -122.33389282226562,
+    "latitude": 47.60532,
+    "longitude": -122.333893,
     "reservations": 4,
     "spend": 1540.0
   },
   {
     "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
     "venue_name": "The Pioneer Collective - Ballard",
-    "latitude": 47.66591262817383,
-    "longitude": -122.37410736083984,
+    "latitude": 47.665913,
+    "longitude": -122.374107,
     "reservations": 4,
     "spend": 995.0
+  },
+  {
+    "venue_id": "fe7c09e6-0ece-4b22-b834-aaa369c25b3d",
+    "venue_name": "Expansive - Pioneer Building",
+    "latitude": 47.6022,
+    "longitude": -122.333481,
+    "reservations": 2,
+    "spend": 589.0
+  },
+  {
+    "venue_id": "c1670874-3633-453a-9c72-4f9c9b551116",
+    "venue_name": "Greenfire Loft at Melrose Market",
+    "latitude": 47.614777,
+    "longitude": -122.32811,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "aff1ae92-1fc6-4f1c-ae7e-1c05a4c7e746",
+    "venue_name": "Coworking Eastlake",
+    "latitude": 47.63908,
+    "longitude": -122.325829,
+    "reservations": 1,
+    "spend": 195.0
+  },
+  {
+    "venue_id": "a0ae547b-07f9-464e-9494-dcb1c8f6ee2d",
+    "venue_name": "West Seattle Coworking",
+    "latitude": 47.521873,
+    "longitude": -122.376335,
+    "reservations": 1,
+    "spend": 105.0
   }
 ]

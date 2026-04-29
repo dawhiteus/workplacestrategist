@@ -1,10 +1,50 @@
 [
   {
+    "venue_id": "a0ba33ae-d1da-4531-9f4f-03c4f7d024d3",
+    "venue_name": "Regus | Oakland - Tribune Building",
+    "latitude": 37.803082,
+    "longitude": -122.270744,
+    "reservations": 1,
+    "spend": 587.0
+  },
+  {
+    "venue_id": "112f45a2-c901-429c-ad5b-377096779bfc",
+    "venue_name": "Oakstop 1740   ",
+    "latitude": 37.807446,
+    "longitude": -122.269707,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "4f944ccf-26f7-46e6-a519-d07fea84dff7",
+    "venue_name": "Pacific Workplaces - Oakland",
+    "latitude": 37.804722,
+    "longitude": -122.273819,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
     "venue_id": "5a05ffcf-99bb-482e-9578-21ac753a86bd",
     "venue_name": "Port Workspaces @ Uptown Oakland",
-    "latitude": 37.8084716796875,
-    "longitude": -122.26542663574219,
+    "latitude": 37.808472,
+    "longitude": -122.265427,
     "reservations": 7,
     "spend": 175.0
+  },
+  {
+    "venue_id": "c64a11d6-c72d-4c77-a8ff-fb4207b7f877",
+    "venue_name": "Temescal Works",
+    "latitude": 37.831814,
+    "longitude": -122.26313,
+    "reservations": 2,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "73fb5774-fc70-4513-aaf6-c168f2b67818",
+    "venue_name": "(OAK) Lake Merritt Plaza",
+    "latitude": 37.807846,
+    "longitude": -122.265144,
+    "reservations": 1,
+    "spend": 60.0
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "ec9ab7ab-e217-40ca-a597-a0b12034bda7",
     "venue_name": "Gather - Scott's Addition",
-    "latitude": 37.56437683105469,
-    "longitude": -77.4720687866211,
+    "latitude": 37.564377,
+    "longitude": -77.472069,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "f23fb843-ccb2-4654-81ce-326cea85154c",
+    "venue_name": "Expansive - Shockoe Slip",
+    "latitude": 37.535969,
+    "longitude": -77.433937,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

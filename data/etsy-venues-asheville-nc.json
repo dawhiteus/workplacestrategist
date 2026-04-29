@@ -2,9 +2,17 @@
   {
     "venue_id": "15c75b46-b7ad-4069-a3c0-f21bea875301",
     "venue_name": "Focal Point Coworking",
-    "latitude": 35.59103775024414,
-    "longitude": -82.55226135253906,
+    "latitude": 35.591038,
+    "longitude": -82.552261,
     "reservations": 4,
     "spend": 130.0
+  },
+  {
+    "venue_id": "cb6ee038-0cf9-4aad-9ea3-78317de30d9f",
+    "venue_name": "Mojo Coworking",
+    "latitude": 35.597958,
+    "longitude": -82.553001,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

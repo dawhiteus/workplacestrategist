@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "1b774bc0-3486-4894-802c-98ce5332a952",
+    "venue_name": "SPACES | DUSSELDORF, Spaces Kennedydamm",
+    "latitude": 51.245617,
+    "longitude": 6.769845,
+    "reservations": 3,
+    "spend": 884.63
+  },
+  {
+    "venue_id": "4a25146a-5a3d-4660-8558-2e7dc4bcc8bb",
+    "venue_name": "SPACES | Dusseldorf Andreasquartier",
+    "latitude": 51.229176,
+    "longitude": 6.774678,
+    "reservations": 1,
+    "spend": 516.57
+  },
+  {
+    "venue_id": "e8bc24f2-06f1-4210-999d-96f4501cf7e3",
+    "venue_name": "Signature | Dusseldorf Koenigsallee 61",
+    "latitude": 51.218563,
+    "longitude": 6.778833,
+    "reservations": 1,
+    "spend": 380.95
+  },
+  {
+    "venue_id": "a90e8563-baf5-49fe-8f11-5ad539e5b05d",
+    "venue_name": "Regus | Dusseldorf, Koe-Bogen",
+    "latitude": 51.227108,
+    "longitude": 6.780819,
+    "reservations": 1,
+    "spend": 70.42
+  }
+]

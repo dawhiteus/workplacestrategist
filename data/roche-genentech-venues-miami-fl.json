@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9c349202-cf00-43a1-aabb-e3bb0afe15b5",
+    "venue_name": "Regus | Brickell Bayview",
+    "latitude": 25.765656,
+    "longitude": -80.194809,
+    "reservations": 1,
+    "spend": 262.0
+  },
+  {
+    "venue_id": "44832128-77e1-4806-a6e5-c090e0450509",
+    "venue_name": "Group Office Space 24",
+    "latitude": 25.762131,
+    "longitude": -80.192329,
+    "reservations": 1,
+    "spend": 250.0
+  }
+]

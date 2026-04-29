@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "f31be914-ce7c-4880-a327-84bf022c3b22",
+    "venue_name": "Vertical Link",
+    "latitude": 25.801485,
+    "longitude": -80.335327,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "ff582c58-97a8-4f5d-b771-0f5328058f4b",
+    "venue_name": "Quest Workspaces- Doral",
+    "latitude": 25.811066,
+    "longitude": -80.330589,
+    "reservations": 1,
+    "spend": 110.0
+  },
+  {
+    "venue_id": "6b674004-0542-4746-bd5b-06be7f844c09",
+    "venue_name": "Regus | FL, Doral - 107th Ave",
+    "latitude": 25.79208,
+    "longitude": -80.368217,
+    "reservations": 1,
+    "spend": 55.0
+  }
+]

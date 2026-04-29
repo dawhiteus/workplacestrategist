@@ -2,6 +2,7 @@
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 297,
     "total_spend": 14833.0,
     "venues": 11,
@@ -10,6 +11,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 205,
     "total_spend": 12756.0,
     "venues": 29,
@@ -18,14 +20,16 @@
   {
     "city": "Palo Alto",
     "state": "CA",
-    "reservations": 214,
-    "total_spend": 12626.0,
+    "country": "US",
+    "reservations": 215,
+    "total_spend": 12685.0,
     "venues": 1,
     "members": 4
   },
   {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 138,
     "total_spend": 4180.0,
     "venues": 7,
@@ -34,6 +38,7 @@
   {
     "city": "Boulder",
     "state": "CO",
+    "country": "US",
     "reservations": 22,
     "total_spend": 1895.0,
     "venues": 4,
@@ -42,6 +47,7 @@
   {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 51,
     "total_spend": 1791.0,
     "venues": 9,
@@ -50,6 +56,7 @@
   {
     "city": "Ferndale",
     "state": "MI",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1700.0,
     "venues": 1,
@@ -58,6 +65,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 25,
     "total_spend": 1669.0,
     "venues": 4,
@@ -66,6 +74,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 40,
     "total_spend": 1531.0,
     "venues": 10,
@@ -74,6 +83,7 @@
   {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 16,
     "total_spend": 926.0,
     "venues": 3,
@@ -82,6 +92,7 @@
   {
     "city": "Grapevine",
     "state": "TX",
+    "country": "US",
     "reservations": 23,
     "total_spend": 890.0,
     "venues": 2,
@@ -90,14 +101,25 @@
   {
     "city": "Miami",
     "state": "FL",
+    "country": "US",
     "reservations": 12,
     "total_spend": 644.57,
     "venues": 7,
     "members": 1
   },
   {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 3,
+    "total_spend": 641.69,
+    "venues": 3,
+    "members": 3
+  },
+  {
     "city": "Carmel",
     "state": "IN",
+    "country": "US",
     "reservations": 16,
     "total_spend": 515.0,
     "venues": 2,
@@ -106,6 +128,7 @@
   {
     "city": "Noblesville",
     "state": "IN",
+    "country": "US",
     "reservations": 14,
     "total_spend": 445.0,
     "venues": 1,
@@ -114,14 +137,25 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 342.0,
     "venues": 4,
     "members": 3
   },
   {
+    "city": "Wrocaw",
+    "state": "Poland",
+    "country": "Poland",
+    "reservations": 12,
+    "total_spend": 330.53,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Irving",
     "state": "TX",
+    "country": "US",
     "reservations": 9,
     "total_spend": 315.0,
     "venues": 1,
@@ -130,6 +164,7 @@
   {
     "city": "Media",
     "state": "PA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 310.0,
     "venues": 1,
@@ -138,6 +173,7 @@
   {
     "city": "Plano",
     "state": "TX",
+    "country": "US",
     "reservations": 5,
     "total_spend": 295.0,
     "venues": 1,
@@ -146,6 +182,7 @@
   {
     "city": "Southlake",
     "state": "TX",
+    "country": "US",
     "reservations": 7,
     "total_spend": 245.0,
     "venues": 1,
@@ -154,14 +191,25 @@
   {
     "city": "Philadelphia",
     "state": "PA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 200.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Brisbane",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 4,
+    "total_spend": 153.99,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Indianapolis",
     "state": "IN",
+    "country": "US",
     "reservations": 5,
     "total_spend": 150.0,
     "venues": 2,
@@ -170,6 +218,7 @@
   {
     "city": "Detroit",
     "state": "MI",
+    "country": "US",
     "reservations": 4,
     "total_spend": 140.0,
     "venues": 1,
@@ -178,6 +227,7 @@
   {
     "city": "Fort Lauderdale",
     "state": "FL",
+    "country": "US",
     "reservations": 3,
     "total_spend": 130.0,
     "venues": 2,
@@ -186,6 +236,7 @@
   {
     "city": "Marietta",
     "state": "GA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 125.0,
     "venues": 1,
@@ -194,30 +245,34 @@
   {
     "city": "Columbus",
     "state": "OH",
+    "country": "US",
     "reservations": 4,
     "total_spend": 120.0,
     "venues": 1,
     "members": 1
   },
   {
-    "city": "Irvine",
-    "state": "CA",
-    "reservations": 3,
-    "total_spend": 90.0,
-    "venues": 1,
-    "members": 1
-  },
-  {
     "city": "Round Rock",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 90.0,
     "venues": 1,
     "members": 2
   },
   {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Lincoln",
     "state": "NE",
+    "country": "US",
     "reservations": 3,
     "total_spend": 68.88,
     "venues": 1,

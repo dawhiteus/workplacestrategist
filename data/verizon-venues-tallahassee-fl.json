@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0a153b2f-9e93-4e0a-bc51-8dbb318732ba",
+    "venue_name": "Regus | 101 N Monroe St.",
+    "latitude": 30.442492,
+    "longitude": -84.280312,
+    "reservations": 1,
+    "spend": 248.09
+  },
+  {
+    "venue_id": "46728ce7-4471-41d3-95f0-5676f99ad932",
+    "venue_name": "Regus | Alliance Center",
+    "latitude": 30.441099,
+    "longitude": -84.280495,
+    "reservations": 1,
+    "spend": 218.0
+  }
+]

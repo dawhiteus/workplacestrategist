@@ -2,9 +2,57 @@
   {
     "venue_id": "0d2e2090-e7cc-4b42-8e30-bb1b87f4faa9",
     "venue_name": "WeWork | Brickell City Centre",
-    "latitude": 25.767250061035156,
-    "longitude": -80.19366455078125,
+    "latitude": 25.76725,
+    "longitude": -80.193665,
     "reservations": 6,
     "spend": 378.0
+  },
+  {
+    "venue_id": "418bd09b-5156-44cf-a39b-952cc040e86e",
+    "venue_name": "SPACES | FL, Miami - 429 Lenox Ave",
+    "latitude": 25.77409,
+    "longitude": -80.139137,
+    "reservations": 1,
+    "spend": 64.69
+  },
+  {
+    "venue_id": "e232e8c2-70da-4f97-b43c-1b800e43ef2e",
+    "venue_name": "WeWork | Wynwood Garage",
+    "latitude": 25.801878,
+    "longitude": -80.201698,
+    "reservations": 1,
+    "spend": 58.0
+  },
+  {
+    "venue_id": "b8c9834e-2064-4178-81b0-9c1bcdf96261",
+    "venue_name": "Quest Workspaces 777 Brickell Ave",
+    "latitude": 25.76646,
+    "longitude": -80.18972,
+    "reservations": 1,
+    "spend": 49.0
+  },
+  {
+    "venue_id": "2ee5a873-5ca2-45d4-aa94-7c22bebf1431",
+    "venue_name": "Mindspace 100 Biscayne",
+    "latitude": 25.775812,
+    "longitude": -80.188248,
+    "reservations": 1,
+    "spend": 39.0
+  },
+  {
+    "venue_id": "588c7777-d99e-4e11-84d6-36f076287019",
+    "venue_name": "Nimbler Spaces Miami",
+    "latitude": 25.782152,
+    "longitude": -80.19017,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "9c349202-cf00-43a1-aabb-e3bb0afe15b5",
+    "venue_name": "Regus | Brickell Bayview",
+    "latitude": 25.765656,
+    "longitude": -80.194809,
+    "reservations": 1,
+    "spend": 25.88
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "dfd33566-9094-489a-8df3-85ff828f42a2",
     "venue_name": "Regus | Sarasota Courthouse",
-    "latitude": 27.335968017578125,
-    "longitude": -82.5315170288086,
+    "latitude": 27.335968,
+    "longitude": -82.531517,
     "reservations": 2,
     "spend": 450.31
+  },
+  {
+    "venue_id": "962dc63e-a7fe-4604-b709-313ae2a9bddd",
+    "venue_name": "ALW Counseling and Coaching",
+    "latitude": 27.269718,
+    "longitude": -82.502907,
+    "reservations": 1,
+    "spend": 100.0
   }
 ]

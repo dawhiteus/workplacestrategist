@@ -1,10 +1,26 @@
 [
   {
+    "venue_id": "aed40c35-2086-4521-a686-7d1d0f486370",
+    "venue_name": "SPACES | NY, Brooklyn - 115 Myrtle Avenue",
+    "latitude": 40.693989,
+    "longitude": -73.984718,
+    "reservations": 1,
+    "spend": 200.03
+  },
+  {
     "venue_id": "2013c11d-b80c-48a6-b543-908b057cd90c",
     "venue_name": "The Burrow",
-    "latitude": 40.66379165649414,
-    "longitude": -73.99546813964844,
+    "latitude": 40.663792,
+    "longitude": -73.995468,
     "reservations": 3,
     "spend": 150.0
+  },
+  {
+    "venue_id": "4e893f1e-7e98-4e89-b3b8-f0727c3e1976",
+    "venue_name": "Class & Co - Williamsburg",
+    "latitude": 40.713055,
+    "longitude": -73.943649,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

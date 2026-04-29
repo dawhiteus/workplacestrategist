@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "63c74062-0f4f-40c1-8136-69a640f34772",
+    "venue_name": "Hera Hub - San Diego",
+    "latitude": 32.896042,
+    "longitude": -117.187515,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "98945285-ae11-4b3e-872f-7c92c3bbd834",
+    "venue_name": "Regus | Mission Valley - Stonecrest",
+    "latitude": 32.805698,
+    "longitude": -117.120003,
+    "reservations": 1,
+    "spend": 112.23
+  }
+]

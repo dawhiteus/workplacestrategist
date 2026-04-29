@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "607bfaa7-9b1b-400e-8678-4e1ce510e43f",
+    "venue_name": "Work-Collective",
+    "latitude": 44.058659,
+    "longitude": -121.359375,
+    "reservations": 4,
+    "spend": 131.0
+  },
+  {
+    "venue_id": "b8e080b6-9277-4c79-9504-83f6f1c6c157",
+    "venue_name": "Work-Collective Midway",
+    "latitude": 44.045074,
+    "longitude": -121.293655,
+    "reservations": 1,
+    "spend": 38.0
+  }
+]

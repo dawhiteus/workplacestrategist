@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8c533159-ff40-4f93-9659-ec071a210b4f",
+    "venue_name": "Awfis | Coworking-Godrej Waterside Salt Lake",
+    "latitude": 22.57366,
+    "longitude": 88.438774,
+    "reservations": 3,
+    "spend": 308.75
+  },
+  {
+    "venue_id": "e61fd914-c02a-42ce-a6e2-7920228af1f4",
+    "venue_name": "Awfis | Coworking-Godrej Waterside Salt Lake 3",
+    "latitude": 22.57366,
+    "longitude": 88.438774,
+    "reservations": 2,
+    "spend": 205.7
+  }
+]

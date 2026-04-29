@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "47c71aa2-26b0-4551-9d77-35a8498491ab",
+    "venue_name": "SPACES | Manchester Peter House",
+    "latitude": 53.477093,
+    "longitude": -2.243758,
+    "reservations": 2,
+    "spend": 719.88
+  },
+  {
+    "venue_id": "6ceb0e2b-90d8-4daa-9b91-bdd3adc44c38",
+    "venue_name": "Clockwise | Manchester",
+    "latitude": 53.476055,
+    "longitude": -2.240569,
+    "reservations": 1,
+    "spend": 217.84
+  }
+]

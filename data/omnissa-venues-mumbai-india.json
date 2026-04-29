@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "616df9a5-ccab-4f34-9360-096a27948242",
+    "venue_name": "The Executive Centre - The Capital ",
+    "latitude": 19.063288,
+    "longitude": 72.861824,
+    "reservations": 3,
+    "spend": 612.99
+  },
+  {
+    "venue_id": "a186a98a-1ad2-4e2a-9aaa-1a7cec3aed8a",
+    "venue_name": "Regus | Mumbai, Supreme Business Park, Powai",
+    "latitude": 19.111336,
+    "longitude": 72.908035,
+    "reservations": 2,
+    "spend": 269.15
+  },
+  {
+    "venue_id": "2ce20284-ce61-4f11-8221-28702938dbc3",
+    "venue_name": "WeWork Oberoi Commerz II",
+    "latitude": 19.169865,
+    "longitude": 72.859779,
+    "reservations": 1,
+    "spend": 144.11
+  },
+  {
+    "venue_id": "e91862ed-48ba-425b-bdc4-86269d0a378f",
+    "venue_name": "Awfis | Coworking-Vaman Techno Center",
+    "latitude": 19.111435,
+    "longitude": 72.882332,
+    "reservations": 1,
+    "spend": 109.98
+  },
+  {
+    "venue_id": "13b930a5-36f1-4067-9378-c249d89472f5",
+    "venue_name": "Awfis | Coworking-BKC 2",
+    "latitude": 19.061281,
+    "longitude": 72.868385,
+    "reservations": 1,
+    "spend": 79.97
+  }
+]

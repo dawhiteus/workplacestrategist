@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944,
+    "longitude": -87.636009,
+    "reservations": 1,
+    "spend": 312.5
+  },
+  {
+    "venue_id": "1bb8484d-f72f-4f39-a55c-23498f14ed24",
+    "venue_name": "WeWork | 515 N State",
+    "latitude": 41.891422,
+    "longitude": -87.62735,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "a8d3ecf3-e3a7-441b-8799-0522ba404176",
+    "venue_name": "WeWork | Bridgeview Bank - Uptown",
+    "latitude": 41.968765,
+    "longitude": -87.659111,
+    "reservations": 1,
+    "spend": 23.0
+  }
+]

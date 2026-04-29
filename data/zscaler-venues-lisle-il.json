@@ -2,9 +2,17 @@
   {
     "venue_id": "8639ff62-5cec-48e4-93cf-42fa1bebfd1e",
     "venue_name": "Office Evolution - Lisle",
-    "latitude": 41.809207916259766,
-    "longitude": -88.06446075439453,
+    "latitude": 41.809208,
+    "longitude": -88.064461,
     "reservations": 3,
     "spend": 125.0
+  },
+  {
+    "venue_id": "6feae01f-e80d-4db6-986d-9507dd1b7d6a",
+    "venue_name": "Regus | IL, Lisle - 4200 Commerce Ct",
+    "latitude": 41.807499,
+    "longitude": -88.10849,
+    "reservations": 1,
+    "spend": 24.7
   }
 ]

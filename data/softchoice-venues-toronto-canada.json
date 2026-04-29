@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "2d6dc97b-3709-42fd-9306-f895ac7f8ab5",
+    "venue_name": "Regus | Eaton Centre",
+    "latitude": 43.655998,
+    "longitude": -79.381599,
+    "reservations": 5,
+    "spend": 171.15
+  },
+  {
+    "venue_id": "af7169f9-cbe1-4b79-b1ac-fbafb0a7e8bf",
+    "venue_name": "The Village Hive Eglinton",
+    "latitude": 43.707699,
+    "longitude": -79.394875,
+    "reservations": 1,
+    "spend": 55.41
+  },
+  {
+    "venue_id": "409256bf-ef2d-457e-9582-9c5e50ca599e",
+    "venue_name": "The Rostie Group - 20 Bay Street, 11th Floor",
+    "latitude": 43.641724,
+    "longitude": -79.377792,
+    "reservations": 1,
+    "spend": 22.13
+  }
+]

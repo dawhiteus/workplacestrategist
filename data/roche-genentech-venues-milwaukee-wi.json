@@ -2,9 +2,17 @@
   {
     "venue_id": "7490819a-d541-4484-ad88-6b53ba01d281",
     "venue_name": "Expansive - Cathedral Square",
-    "latitude": 43.04099655151367,
-    "longitude": -87.90628051757812,
+    "latitude": 43.040997,
+    "longitude": -87.906281,
     "reservations": 10,
     "spend": 6059.5
+  },
+  {
+    "venue_id": "e85ee105-9ce8-4068-bf2e-d8deceac6eee",
+    "venue_name": "Regus | Third Ward",
+    "latitude": 43.034801,
+    "longitude": -87.908501,
+    "reservations": 1,
+    "spend": 19.0
   }
 ]

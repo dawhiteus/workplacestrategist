@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "bbb27e23-9efa-4ff3-95ee-632712c13e59",
+    "venue_name": "TheSpider, Inc.",
+    "latitude": 37.781315,
+    "longitude": -122.462387,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.7812,
+    "longitude": -122.408104,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

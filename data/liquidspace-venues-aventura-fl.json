@@ -2,9 +2,17 @@
   {
     "venue_id": "d4f08dbc-775f-4616-aa51-764e0aade93f",
     "venue_name": "ICONIC Workspaces",
-    "latitude": 25.96685218811035,
-    "longitude": -80.14228820800781,
+    "latitude": 25.966852,
+    "longitude": -80.142288,
     "reservations": 3,
     "spend": 147.0
+  },
+  {
+    "venue_id": "bd5dbbc4-295e-48b1-9131-a89faf793707",
+    "venue_name": "Khospace Aventura",
+    "latitude": 25.953453,
+    "longitude": -80.128532,
+    "reservations": 1,
+    "spend": 100.0
   }
 ]

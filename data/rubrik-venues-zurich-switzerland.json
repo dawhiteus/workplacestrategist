@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "f593c9b6-f429-4848-a291-996ffddc124b",
+    "venue_name": "SPACES | Zurich, The Circle",
+    "latitude": 47.450687,
+    "longitude": 8.563338,
+    "reservations": 15,
+    "spend": 8212.91
+  },
+  {
+    "venue_id": "226ae8d4-43d5-4ca1-a7af-55de0d3f1f59",
+    "venue_name": "Signature | ZURICH, Signature Bahnhofplatz",
+    "latitude": 47.376801,
+    "longitude": 8.54118,
+    "reservations": 5,
+    "spend": 5208.71
+  },
+  {
+    "venue_id": "442da8ac-ebff-4168-8fa2-993a60da931f",
+    "venue_name": "SPACES | Zurich, Bleicherweg",
+    "latitude": 47.368656,
+    "longitude": 8.536901,
+    "reservations": 10,
+    "spend": 4801.21
+  },
+  {
+    "venue_id": "5033b74a-1b0a-480c-a74d-7de3f5550442",
+    "venue_name": "SPACES | Bahnhofplatz",
+    "latitude": 47.376949,
+    "longitude": 8.541296,
+    "reservations": 7,
+    "spend": 2916.81
+  },
+  {
+    "venue_id": "eb02b905-6b36-4afa-ab76-bd4b4b173f2e",
+    "venue_name": "SPACES | Seefeld",
+    "latitude": 47.362274,
+    "longitude": 8.549293,
+    "reservations": 1,
+    "spend": 1445.38
+  },
+  {
+    "venue_id": "c5bee620-49a0-4915-bac7-be07c2a2d242",
+    "venue_name": "SPACES | Zurich, Ambassador House",
+    "latitude": 47.4217,
+    "longitude": 8.55569,
+    "reservations": 1,
+    "spend": 81.32
+  },
+  {
+    "venue_id": "c2e97be5-f0fe-4ecd-89dd-e03d7887d822",
+    "venue_name": "Regus | Zurich Stauffacher",
+    "latitude": 47.373161,
+    "longitude": 8.528365,
+    "reservations": 1,
+    "spend": 48.11
+  }
+]

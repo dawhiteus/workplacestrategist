@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "d701a713-45b9-4b31-9c6c-e446f2bcfaf1",
+    "venue_name": "WorkHub powered by First Contact",
+    "latitude": -37.815033,
+    "longitude": 144.959183,
+    "reservations": 22,
+    "spend": 5312.05
+  },
+  {
+    "venue_id": "c53de55e-6d5d-4613-8f25-cb3a19b49441",
+    "venue_name": "GPT Space&Co 8 Exhibition",
+    "latitude": -37.815392,
+    "longitude": 144.972794,
+    "reservations": 34,
+    "spend": 2019.09
+  },
+  {
+    "venue_id": "bf1eb570-b4ec-46be-933f-98f595bf918b",
+    "venue_name": "CorporateCubes.Co - 330 Collins Street",
+    "latitude": -37.816322,
+    "longitude": 144.963058,
+    "reservations": 12,
+    "spend": 1796.41
+  },
+  {
+    "venue_id": "0132c6d9-51ad-4ebf-a130-9b892df23e16",
+    "venue_name": "CorporateCubes.Co - 333 Collins",
+    "latitude": -37.8167,
+    "longitude": 144.963043,
+    "reservations": 3,
+    "spend": 747.81
+  },
+  {
+    "venue_id": "6280a196-b1bb-4803-aa60-e3fe09f9a3f6",
+    "venue_name": "GPT Space&Co Melbourne Central Tower",
+    "latitude": -37.810894,
+    "longitude": 144.962021,
+    "reservations": 9,
+    "spend": 607.96
+  },
+  {
+    "venue_id": "19d65ef4-1706-416a-8012-d2cf3b6bcb8d",
+    "venue_name": "CorporateCubes.Co - 607 Bourke Street",
+    "latitude": -37.816849,
+    "longitude": 144.955612,
+    "reservations": 5,
+    "spend": 202.94
+  },
+  {
+    "venue_id": "79787e21-0f69-4134-a5ce-49a9fd4bde37",
+    "venue_name": "Hub Australia | Collins Street",
+    "latitude": -37.814484,
+    "longitude": 144.96788,
+    "reservations": 3,
+    "spend": 119.59
+  },
+  {
+    "venue_id": "aa96ce67-3817-4aec-b77a-3df2e3c4022a",
+    "venue_name": "GPT Space&Co 550 Bourke ",
+    "latitude": -37.815319,
+    "longitude": 144.957062,
+    "reservations": 2,
+    "spend": 78.6
+  },
+  {
+    "venue_id": "7f6fb441-b3bf-4e28-bf39-db4ceed7d278",
+    "venue_name": "Hub Australia | St Kilda Road",
+    "latitude": -37.835037,
+    "longitude": 144.974304,
+    "reservations": 1,
+    "spend": 39.64
+  },
+  {
+    "venue_id": "3d21fa07-74b0-4be2-8399-0cb454ff8303",
+    "venue_name": "Hub Australia | Southern Cross",
+    "latitude": -37.816692,
+    "longitude": 144.953598,
+    "reservations": 1,
+    "spend": 37.67
+  },
+  {
+    "venue_id": "d71e66fd-82d9-4b86-88ac-1c2181deedb2",
+    "venue_name": "The Executive Centre - Collins Square",
+    "latitude": -37.821747,
+    "longitude": 144.950012,
+    "reservations": 1,
+    "spend": 32.6
+  },
+  {
+    "venue_id": "e882cb81-765c-483a-be95-e56052c17689",
+    "venue_name": "Regus | Melbourne, 85 Spring Street",
+    "latitude": -37.812775,
+    "longitude": 144.973083,
+    "reservations": 1,
+    "spend": 18.72
+  }
+]

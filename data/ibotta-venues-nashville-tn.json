@@ -1,10 +1,34 @@
 [
   {
+    "venue_id": "7c8203af-facc-4efb-9067-7d2339a26de2",
+    "venue_name": "Industrious - Downtown Nashville ",
+    "latitude": 36.16494,
+    "longitude": -86.780807,
+    "reservations": 1,
+    "spend": 420.0
+  },
+  {
     "venue_id": "87f97586-8faa-4cc6-8d04-31fa86229597",
     "venue_name": "Oak Barrel Building",
-    "latitude": 36.10749053955078,
-    "longitude": -86.75511932373047,
+    "latitude": 36.107491,
+    "longitude": -86.755119,
     "reservations": 8,
     "spend": 265.0
+  },
+  {
+    "venue_id": "df7d58c7-c242-415a-9d0e-206e49be8717",
+    "venue_name": "Three One Three | East Nashville",
+    "latitude": 36.191879,
+    "longitude": -86.744713,
+    "reservations": 1,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "3be5a8cf-3b52-4677-b768-e3e7e640e91b",
+    "venue_name": "Apt CoWork at The Melrose",
+    "latitude": 36.122025,
+    "longitude": -86.775139,
+    "reservations": 2,
+    "spend": 60.0
   }
 ]

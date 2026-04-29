@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "dd577a4e-3900-490a-acc8-a45fd13028cd",
+    "venue_name": "SPACES | ON, Toronto - Spaces North York",
+    "latitude": 43.770691,
+    "longitude": -79.413559,
+    "reservations": 10,
+    "spend": 1444.88
+  },
+  {
+    "venue_id": "f18de446-eb7b-4c6b-b8b2-79e4ba817190",
+    "venue_name": "The Village Hive Duncan Mill",
+    "latitude": 43.761787,
+    "longitude": -79.356056,
+    "reservations": 2,
+    "spend": 175.32
+  }
+]

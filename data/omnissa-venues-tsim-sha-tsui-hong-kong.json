@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "91f76b79-af7b-4813-87f3-9ce74b2ba05a",
+    "venue_name": "TST | Patio",
+    "latitude": 22.296917,
+    "longitude": 114.173836,
+    "reservations": 1,
+    "spend": 37.26
+  },
+  {
+    "venue_id": "f1f924fa-e2ce-49e1-b777-9b79a106a29b",
+    "venue_name": "Dash Living on Prat",
+    "latitude": 22.29847,
+    "longitude": 114.174927,
+    "reservations": 1,
+    "spend": 19.3
+  }
+]

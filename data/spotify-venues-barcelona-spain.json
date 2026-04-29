@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "25f9144b-ba4c-4347-9546-1c9a61c0ad26",
+    "venue_name": "Cloudworks Sagrada Família",
+    "latitude": 41.400272,
+    "longitude": 2.177037,
+    "reservations": 43,
+    "spend": 1014.69
+  },
+  {
+    "venue_id": "42d5eb77-3f6e-46a5-8a75-a34dd9d474ff",
+    "venue_name": "Cloudworks Passeig de Gràcia",
+    "latitude": 41.390343,
+    "longitude": 2.16847,
+    "reservations": 23,
+    "spend": 746.64
+  },
+  {
+    "venue_id": "409a3dec-b4b5-4caf-bf9c-82a426ce3369",
+    "venue_name": "Casa Les Punxes x Cloudworks",
+    "latitude": 41.397911,
+    "longitude": 2.163908,
+    "reservations": 10,
+    "spend": 291.83
+  },
+  {
+    "venue_id": "4f5e75a1-25fd-4134-b1ff-41ae28db7fdd",
+    "venue_name": "Cloudworks Sant Antoni",
+    "latitude": 41.383068,
+    "longitude": 2.155053,
+    "reservations": 7,
+    "spend": 163.76
+  },
+  {
+    "venue_id": "344436e4-7949-46e8-bc11-6cc8c47bade8",
+    "venue_name": "Cloudworks Sant Joan",
+    "latitude": 41.398949,
+    "longitude": 2.173387,
+    "reservations": 6,
+    "spend": 139.61
+  },
+  {
+    "venue_id": "70309b1d-c61b-41bf-b94c-c5dee4c1786d",
+    "venue_name": "WeWork | Barcelona Passeig de Gracia 17",
+    "latitude": 41.389751,
+    "longitude": 2.1672,
+    "reservations": 1,
+    "spend": 62.22
+  }
+]

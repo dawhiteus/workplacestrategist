@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "de5c51e9-df81-4460-80cd-44d0780bb3b2",
+    "venue_name": "Zen Offices Las Olas",
+    "latitude": 26.120335,
+    "longitude": -80.140144,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "ff5ba085-f10e-4de6-8af8-b42bc4dabf13",
+    "venue_name": "Crown Center Executive Suites (CCESuites)",
+    "latitude": 26.203671,
+    "longitude": -80.163124,
+    "reservations": 1,
+    "spend": 54.0
+  },
+  {
+    "venue_id": "8fbb4304-9be4-417d-bed2-1dfb5059e97f",
+    "venue_name": "General Provision Downtown",
+    "latitude": 26.119431,
+    "longitude": -80.144867,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

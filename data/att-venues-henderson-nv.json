@@ -2,16 +2,16 @@
   {
     "venue_id": "a08b3b05-c6a4-462b-afd7-70e94baccd8e",
     "venue_name": "OFFICENEST HENDERSON",
-    "latitude": 35.982154846191406,
-    "longitude": -115.09971618652344,
+    "latitude": 35.982155,
+    "longitude": -115.099716,
     "reservations": 13,
     "spend": 1640.0
   },
   {
     "venue_id": "80454125-8c55-4b90-be9a-771840608140",
     "venue_name": "Regus | Coronado Parkway",
-    "latitude": 36.000465393066406,
-    "longitude": -115.11103057861328,
+    "latitude": 36.000465,
+    "longitude": -115.111031,
     "reservations": 9,
     "spend": 795.08
   }

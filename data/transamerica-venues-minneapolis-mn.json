@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
+    "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
+    "latitude": 44.977539,
+    "longitude": -93.263641,
+    "reservations": 2,
+    "spend": 2290.0
+  },
+  {
+    "venue_id": "0ef32ff4-8ca7-48fb-94ba-829af5234e40",
+    "venue_name": "Expansive - TriTech Center",
+    "latitude": 44.97858,
+    "longitude": -93.266472,
+    "reservations": 1,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "7edcf090-a391-4435-8a9c-587e3328d53b",
+    "venue_name": "IDS Executive Suites",
+    "latitude": 44.975788,
+    "longitude": -93.272095,
+    "reservations": 1,
+    "spend": 385.0
+  }
+]

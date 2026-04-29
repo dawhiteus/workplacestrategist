@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "69da5924-c895-4601-95b9-03075857f20b",
+    "venue_name": "Greater Toronto Executive Centre- Airport North",
+    "latitude": 43.711044,
+    "longitude": -79.653519,
+    "reservations": 1,
+    "spend": 233.95
+  },
+  {
+    "venue_id": "91cfeb60-4403-49cd-9784-595f3fca17f1",
+    "venue_name": "Greater Toronto Executive Centre-Airport Corporate",
+    "latitude": 43.662712,
+    "longitude": -79.592972,
+    "reservations": 1,
+    "spend": 128.78
+  }
+]

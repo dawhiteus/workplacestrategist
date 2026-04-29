@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "73b070c2-ca8f-4dc4-8499-57720d82e183",
+    "venue_name": "Intelligent Office, Hudson's Bay Centre",
+    "latitude": 43.670723,
+    "longitude": -79.386604,
+    "reservations": 3,
+    "spend": 626.16
+  },
+  {
+    "venue_id": "45d41f8d-61b4-4cda-a4c1-f5cdd591f730",
+    "venue_name": "Acme Works",
+    "latitude": 43.643711,
+    "longitude": -79.40876,
+    "reservations": 13,
+    "spend": 237.53
+  },
+  {
+    "venue_id": "430eee3b-23c4-47c4-8ff9-ac65eba4328b",
+    "venue_name": "iQ Offices | 545 King Street",
+    "latitude": 43.644218,
+    "longitude": -79.398689,
+    "reservations": 1,
+    "spend": 195.65
+  },
+  {
+    "venue_id": "af7169f9-cbe1-4b79-b1ac-fbafb0a7e8bf",
+    "venue_name": "The Village Hive Eglinton",
+    "latitude": 43.707699,
+    "longitude": -79.394875,
+    "reservations": 4,
+    "spend": 152.73
+  },
+  {
+    "venue_id": "527c321e-2940-43c0-867d-20fde24ab6d4",
+    "venue_name": "Regus | Yonge & St. Clair",
+    "latitude": 43.688255,
+    "longitude": -79.394638,
+    "reservations": 1,
+    "spend": 49.23
+  },
+  {
+    "venue_id": "409256bf-ef2d-457e-9582-9c5e50ca599e",
+    "venue_name": "The Rostie Group - 20 Bay Street, 11th Floor",
+    "latitude": 43.641724,
+    "longitude": -79.377792,
+    "reservations": 1,
+    "spend": 22.9
+  }
+]

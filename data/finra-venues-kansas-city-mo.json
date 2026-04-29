@@ -2,9 +2,17 @@
   {
     "venue_id": "899bdf64-ee80-4d42-a5ca-745001e1fc90",
     "venue_name": "Regus | Zona Rosa",
-    "latitude": 39.25318145751953,
-    "longitude": -94.66410827636719,
+    "latitude": 39.253181,
+    "longitude": -94.664108,
     "reservations": 3,
     "spend": 317.0
+  },
+  {
+    "venue_id": "7f01b36c-af84-4fdc-a747-831c666635c9",
+    "venue_name": "Regus | Country Club Plaza",
+    "latitude": 39.0411,
+    "longitude": -94.593399,
+    "reservations": 1,
+    "spend": 307.0
   }
 ]

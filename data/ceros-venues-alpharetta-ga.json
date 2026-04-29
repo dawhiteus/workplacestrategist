@@ -2,9 +2,25 @@
   {
     "venue_id": "d5e27338-c3aa-4fa8-91ba-230bda57fe28",
     "venue_name": "Regus | Avalon",
-    "latitude": 34.0704345703125,
-    "longitude": -84.27418518066406,
+    "latitude": 34.070435,
+    "longitude": -84.274185,
     "reservations": 6,
     "spend": 727.73
+  },
+  {
+    "venue_id": "96535037-87cf-4c21-9c9c-87330316b034",
+    "venue_name": "Roam Alpharetta",
+    "latitude": 34.087574,
+    "longitude": -84.255783,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "a5166700-b48e-4a2c-96d6-097edb7bfe36",
+    "venue_name": "Serendipity Labs - Alpharetta - North Point",
+    "latitude": 34.045681,
+    "longitude": -84.299095,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

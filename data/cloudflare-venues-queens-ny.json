@@ -2,9 +2,17 @@
   {
     "venue_id": "64e912bb-3af3-45b9-8b9f-f0144e5b1fcb",
     "venue_name": "Astoria Coworking",
-    "latitude": 40.76657485961914,
-    "longitude": -73.92030334472656,
+    "latitude": 40.766575,
+    "longitude": -73.920303,
     "reservations": 33,
     "spend": 1245.0
+  },
+  {
+    "venue_id": "f5c11220-b729-4144-a4dd-7aadbef71b6d",
+    "venue_name": "Atelier NY Arch",
+    "latitude": 40.748394,
+    "longitude": -73.945862,
+    "reservations": 2,
+    "spend": 80.0
   }
 ]

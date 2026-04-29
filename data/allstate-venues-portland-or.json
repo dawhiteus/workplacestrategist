@@ -1,1 +1,58 @@
-[{"venue_id":"portland-or-venue-1","venue_name":"WeWork | Portland Downtown","latitude":45.593,"longitude":-122.588,"reservations":17,"spend":2382.59},{"venue_id":"portland-or-venue-2","venue_name":"Lucid Private Offices | Portland North","latitude":45.5621,"longitude":-122.7681,"reservations":16,"spend":2238.31},{"venue_id":"portland-or-venue-3","venue_name":"Regus | Portland West","latitude":45.564,"longitude":-122.6551,"reservations":9,"spend":1203.82},{"venue_id":"portland-or-venue-4","venue_name":"WorkSuites | Portland Central","latitude":45.4735,"longitude":-122.6505,"reservations":4,"spend":575.98},{"venue_id":"portland-or-venue-5","venue_name":"Spaces | Portland East","latitude":45.5937,"longitude":-122.6485,"reservations":3,"spend":368.76},{"venue_id":"portland-or-venue-6","venue_name":"WorkSuites | Portland Financial District","latitude":45.4968,"longitude":-122.6512,"reservations":3,"spend":351.93},{"venue_id":"portland-or-venue-7","venue_name":"Industrious | Portland Midtown","latitude":45.5906,"longitude":-122.5869,"reservations":1,"spend":145.61}]
+[
+  {
+    "venue_id": "3b7bf34b-e2f5-4637-884b-cc0b4c89ac8c",
+    "venue_name": "Life Time Work - Beaverton",
+    "latitude": 45.515884,
+    "longitude": -122.79361,
+    "reservations": 7,
+    "spend": 2545.0
+  },
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.525059,
+    "longitude": -122.684799,
+    "reservations": 15,
+    "spend": 1600.0
+  },
+  {
+    "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
+    "venue_name": "CENTRL Office - West End",
+    "latitude": 45.52071,
+    "longitude": -122.683876,
+    "reservations": 12,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "0c63862a-d693-422f-978e-53eccc6d4ae2",
+    "venue_name": "Urban Office",
+    "latitude": 45.487511,
+    "longitude": -122.675842,
+    "reservations": 15,
+    "spend": 1100.0
+  },
+  {
+    "venue_id": "16ab9354-5d78-4fa6-9753-b65721f37b7d",
+    "venue_name": "Co-Working PDX at Fox Tower",
+    "latitude": 45.518433,
+    "longitude": -122.680359,
+    "reservations": 1,
+    "spend": 660.0
+  },
+  {
+    "venue_id": "fd3fdf91-8059-4536-97c7-2eabb6b2a8ec",
+    "venue_name": "SPACES | Slabtown",
+    "latitude": 45.534515,
+    "longitude": -122.696297,
+    "reservations": 2,
+    "spend": 132.0
+  },
+  {
+    "venue_id": "8aaa8eb9-b992-4a4d-b482-ca8b068b4ec6",
+    "venue_name": "VIDA Coworking Community",
+    "latitude": 45.525719,
+    "longitude": -122.646866,
+    "reservations": 2,
+    "spend": 65.0
+  }
+]

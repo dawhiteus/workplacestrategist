@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "525db050-5a6f-48f2-81df-dd76fa6ef19c",
+    "venue_name": "Regus | Dartmouth",
+    "latitude": 44.66888,
+    "longitude": -63.576557,
+    "reservations": 2,
+    "spend": 659.81
+  },
+  {
+    "venue_id": "65bd5237-dbc6-4b8a-ac62-f22a17563a2f",
+    "venue_name": "SPACES | NS, Dartmouth – Spaces Burnside",
+    "latitude": 44.700687,
+    "longitude": -63.606777,
+    "reservations": 1,
+    "spend": 265.9
+  }
+]

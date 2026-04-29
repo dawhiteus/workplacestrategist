@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
+    "venue_name": "Expansive - Uptown",
+    "latitude": 35.22784,
+    "longitude": -80.846291,
+    "reservations": 1,
+    "spend": 89.0
+  },
+  {
+    "venue_id": "1c78459c-e5df-4bfb-baae-c57312db265e",
+    "venue_name": "WeWork | 615 S College St",
+    "latitude": 35.221382,
+    "longitude": -80.847954,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "921bbd4b-1e08-4c03-8f4c-153f3d8058b3",
     "venue_name": "Metro Offices - Tysons",
-    "latitude": 38.92216110229492,
-    "longitude": -77.23381805419922,
+    "latitude": 38.922161,
+    "longitude": -77.233818,
     "reservations": 3,
     "spend": 720.0
+  },
+  {
+    "venue_id": "df3fa377-4c6f-4b9a-a16b-f7a32d5c735c",
+    "venue_name": "Carr Workplaces - Tysons",
+    "latitude": 38.923958,
+    "longitude": -77.222824,
+    "reservations": 1,
+    "spend": 150.0
   }
 ]

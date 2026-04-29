@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "5033b74a-1b0a-480c-a74d-7de3f5550442",
+    "venue_name": "SPACES | Bahnhofplatz",
+    "latitude": 47.376949,
+    "longitude": 8.541296,
+    "reservations": 23,
+    "spend": 8635.13
+  },
+  {
+    "venue_id": "f593c9b6-f429-4848-a291-996ffddc124b",
+    "venue_name": "SPACES | Zurich, The Circle",
+    "latitude": 47.450687,
+    "longitude": 8.563338,
+    "reservations": 21,
+    "spend": 7910.31
+  },
+  {
+    "venue_id": "226ae8d4-43d5-4ca1-a7af-55de0d3f1f59",
+    "venue_name": "Signature | ZURICH, Signature Bahnhofplatz",
+    "latitude": 47.376801,
+    "longitude": 8.54118,
+    "reservations": 7,
+    "spend": 4040.83
+  },
+  {
+    "venue_id": "eb02b905-6b36-4afa-ab76-bd4b4b173f2e",
+    "venue_name": "SPACES | Seefeld",
+    "latitude": 47.362274,
+    "longitude": 8.549293,
+    "reservations": 12,
+    "spend": 2153.72
+  },
+  {
+    "venue_id": "f8324448-87df-43e1-8bec-f707c54e9b86",
+    "venue_name": "Coworking Lounge Tessinerplatz",
+    "latitude": 47.364178,
+    "longitude": 8.532133,
+    "reservations": 2,
+    "spend": 1865.07
+  },
+  {
+    "venue_id": "442da8ac-ebff-4168-8fa2-993a60da931f",
+    "venue_name": "SPACES | Zurich, Bleicherweg",
+    "latitude": 47.368656,
+    "longitude": 8.536901,
+    "reservations": 1,
+    "spend": 427.03
+  },
+  {
+    "venue_id": "902a9e27-474c-41e4-afb5-adc74d2c5d31",
+    "venue_name": "Regus | ZURICH, Andreaspark",
+    "latitude": 47.413712,
+    "longitude": 8.55493,
+    "reservations": 1,
+    "spend": 115.5
+  }
+]

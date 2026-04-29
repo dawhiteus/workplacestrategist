@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "cbd093b0-ad63-4f12-8677-af4c5fb450b0",
+    "venue_name": "SPACES || Mission & 3rd",
+    "latitude": 37.786613,
+    "longitude": -122.402168,
+    "reservations": 1,
+    "spend": 162.26
+  },
+  {
+    "venue_id": "61030c60-77f3-0132-327d-72b222009680",
+    "venue_name": "WeWork | 535 Mission St",
+    "latitude": 37.788891,
+    "longitude": -122.398094,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.789848,
+    "longitude": -122.400696,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

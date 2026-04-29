@@ -2,9 +2,25 @@
   {
     "venue_id": "e25e695a-a534-45fd-9785-42531b2c4642",
     "venue_name": "Gather - Arts District",
-    "latitude": 37.543453216552734,
-    "longitude": -77.43896484375,
+    "latitude": 37.543453,
+    "longitude": -77.438965,
     "reservations": 9,
     "spend": 5465.0
+  },
+  {
+    "venue_id": "836cb6bb-0b95-481d-bf4b-d1f1f9c9f756",
+    "venue_name": "Venture X | Richmond",
+    "latitude": 37.570332,
+    "longitude": -77.467934,
+    "reservations": 2,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "f23fb843-ccb2-4654-81ce-326cea85154c",
+    "venue_name": "Expansive - Shockoe Slip",
+    "latitude": 37.535969,
+    "longitude": -77.433937,
+    "reservations": 1,
+    "spend": 187.5
   }
 ]

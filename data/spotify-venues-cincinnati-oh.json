@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ebfebe2c-19c9-4e62-bdd9-63cf33f61102",
+    "venue_name": "COhatch - Over The Rhine",
+    "latitude": 39.115501,
+    "longitude": -84.519798,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "79649a51-a691-4c32-8720-4c334db1390b",
+    "venue_name": "COhatch - Hyde Park",
+    "latitude": 39.139896,
+    "longitude": -84.442207,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

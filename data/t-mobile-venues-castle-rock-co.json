@@ -2,8 +2,8 @@
   {
     "venue_id": "e238ca54-55b6-4056-bc40-3361e58f2ea7",
     "venue_name": "Encore @ 20 Wilcox, SQL",
-    "latitude": 39.369911193847656,
-    "longitude": -104.85955047607422,
+    "latitude": 39.369911,
+    "longitude": -104.85955,
     "reservations": 5,
     "spend": 1775.0
   }

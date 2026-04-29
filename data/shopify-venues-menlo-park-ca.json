@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e1237a9c-ac6e-483b-bbfd-d7289ba4ed2b",
+    "venue_name": "MENLO PARK FLOW CREATIVE SPACE",
+    "latitude": 37.453575,
+    "longitude": -122.184563,
+    "reservations": 2,
+    "spend": 1090.0
+  },
+  {
+    "venue_id": "2ab42529-fa23-4063-a9b4-b8cb9a2d8017",
+    "venue_name": "BootUP",
+    "latitude": 37.456158,
+    "longitude": -122.186974,
+    "reservations": 1,
+    "spend": 315.0
+  }
+]

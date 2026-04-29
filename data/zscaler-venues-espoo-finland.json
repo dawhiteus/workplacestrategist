@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "f2e367e5-874a-468f-9bdc-2497a9b60fc3",
+    "venue_name": "Regus | Espoo, Life Science Centre",
+    "latitude": 60.178299,
+    "longitude": 24.834499,
+    "reservations": 4,
+    "spend": 593.15
+  },
+  {
+    "venue_id": "d7397970-611d-4801-babf-eee63d8ed82b",
+    "venue_name": "Regus | Espoo, Alberga Business Center",
+    "latitude": 60.217331,
+    "longitude": 24.81517,
+    "reservations": 5,
+    "spend": 555.18
+  },
+  {
+    "venue_id": "5603fe26-2f6d-4d03-a898-d4e7381086f2",
+    "venue_name": "Regus | Espoo, Iso Omena",
+    "latitude": 60.163101,
+    "longitude": 24.7407,
+    "reservations": 2,
+    "spend": 154.21
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "904f1892-5211-4f6e-a252-d7228123ac85",
+    "venue_name": "SPACES | BARCELONA, Spaces 22 Arroba",
+    "latitude": 41.401207,
+    "longitude": 2.197437,
+    "reservations": 12,
+    "spend": 289.96
+  },
+  {
+    "venue_id": "2dd16e2c-c288-44a3-9550-5275b8a352e3",
+    "venue_name": "Regus | Barcelona Mapfre Tower",
+    "latitude": 41.387798,
+    "longitude": 2.197572,
+    "reservations": 4,
+    "spend": 106.95
+  },
+  {
+    "venue_id": "b8224696-2154-43dd-9105-78629ebc11cf",
+    "venue_name": "Regus | Barcelona Avendia Diagonal 131",
+    "latitude": 41.4062,
+    "longitude": 2.19968,
+    "reservations": 1,
+    "spend": 20.47
+  }
+]

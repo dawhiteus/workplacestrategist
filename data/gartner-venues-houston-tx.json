@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.779018,
+    "longitude": -95.561096,
+    "reservations": 2,
+    "spend": 1495.0
+  },
+  {
+    "venue_id": "4ed16aba-c7d5-4898-bf1e-9bdddd2aa529",
+    "venue_name": "Life Time Work - Green Street",
+    "latitude": 29.75429,
+    "longitude": -95.36541,
+    "reservations": 2,
+    "spend": 1050.0
+  },
+  {
+    "venue_id": "49a3fc82-f23b-418b-9a8f-779e461d4581",
+    "venue_name": "SPACES | TX, Houston - 708 Main Street",
+    "latitude": 29.759039,
+    "longitude": -95.363625,
+    "reservations": 2,
+    "spend": 932.99
+  },
+  {
+    "venue_id": "e51e82fd-6a1a-4e94-a05f-02b527e1ac70",
+    "venue_name": "The Work Well",
+    "latitude": 29.920393,
+    "longitude": -95.615509,
+    "reservations": 2,
+    "spend": 355.0
+  },
+  {
+    "venue_id": "c3ce03aa-b395-454d-b2ef-ee3818ede996",
+    "venue_name": "Lucid Private Offices | Uptown Tanglewood",
+    "latitude": 29.73851,
+    "longitude": -95.478889,
+    "reservations": 2,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "4c5330a9-c27e-40c2-8a7b-51de6ec3b1c3",
+    "venue_name": "Regus | Two Post Oak Central",
+    "latitude": 29.746201,
+    "longitude": -95.462601,
+    "reservations": 1,
+    "spend": 40.56
+  }
+]

@@ -1,15 +1,44 @@
 [
   {
+    "city": "Dublin",
+    "state": "Ireland",
+    "country": "Ireland",
+    "reservations": 740,
+    "total_spend": 59888.37,
+    "venues": 11,
+    "members": 48
+  },
+  {
+    "city": "Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 94,
+    "total_spend": 11013.07,
+    "venues": 12,
+    "members": 14
+  },
+  {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 27,
     "total_spend": 10645.0,
     "venues": 5,
     "members": 8
   },
   {
+    "city": "Dublin 8",
+    "state": "Ireland",
+    "country": "Ireland",
+    "reservations": 20,
+    "total_spend": 5305.77,
+    "venues": 1,
+    "members": 5
+  },
+  {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 12,
     "total_spend": 5174.0,
     "venues": 3,
@@ -18,6 +47,7 @@
   {
     "city": "San Antonio",
     "state": "TX",
+    "country": "US",
     "reservations": 7,
     "total_spend": 3745.0,
     "venues": 1,
@@ -26,6 +56,7 @@
   {
     "city": "Arlington",
     "state": "TX",
+    "country": "US",
     "reservations": 7,
     "total_spend": 3350.0,
     "venues": 1,
@@ -34,6 +65,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 6,
     "total_spend": 2650.0,
     "venues": 1,
@@ -42,14 +74,25 @@
   {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 2565.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 8,
+    "total_spend": 2071.29,
+    "venues": 3,
+    "members": 2
+  },
+  {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 8,
     "total_spend": 2063.08,
     "venues": 5,
@@ -58,6 +101,7 @@
   {
     "city": "Cambridge",
     "state": "MA",
+    "country": "US",
     "reservations": 42,
     "total_spend": 1974.0,
     "venues": 1,
@@ -66,32 +110,153 @@
   {
     "city": "Portland",
     "state": "OR",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1635.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Coburg",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 37,
+    "total_spend": 1472.31,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1139.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Chiyoda City",
+    "state": "Japan",
+    "country": "Japan",
+    "reservations": 11,
+    "total_spend": 677.64,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Osaka",
+    "state": "Japan",
+    "country": "Japan",
+    "reservations": 5,
+    "total_spend": 658.73,
+    "venues": 2,
+    "members": 4
+  },
+  {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 550.0,
     "venues": 2,
     "members": 1
   },
   {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 13,
+    "total_spend": 528.1,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Aix-En-Provence",
+    "state": "France",
+    "country": "France",
+    "reservations": 4,
+    "total_spend": 469.91,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Paris",
+    "state": "France",
+    "country": "France",
+    "reservations": 3,
+    "total_spend": 469.1,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Lehi",
     "state": "UT",
+    "country": "US",
     "reservations": 3,
     "total_spend": 447.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Barcelona",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 17,
+    "total_spend": 417.38,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Leeds",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 9,
+    "total_spend": 332.57,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Tokyo",
+    "state": "Japan",
+    "country": "Japan",
+    "reservations": 4,
+    "total_spend": 213.29,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Chadstone",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 3,
+    "total_spend": 98.92,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Nairobi",
+    "state": "Ke",
+    "country": "Ke",
+    "reservations": 8,
+    "total_spend": 7.55,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Mombasa",
+    "state": "Ke",
+    "country": "Ke",
+    "reservations": 4,
+    "total_spend": 3.46,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "San Jose",
+    "state": "Cr",
+    "country": "Cr",
+    "reservations": 6,
+    "total_spend": 1.09,
     "venues": 1,
     "members": 2
   }

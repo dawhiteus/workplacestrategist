@@ -1,0 +1,137 @@
+[
+  {
+    "city": "Toronto",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 95,
+    "total_spend": 6694.8,
+    "venues": 11,
+    "members": 50
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 14,
+    "total_spend": 5460.0,
+    "venues": 7,
+    "members": 9
+  },
+  {
+    "city": "Ottawa",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 49,
+    "total_spend": 2573.54,
+    "venues": 7,
+    "members": 33
+  },
+  {
+    "city": "Menlo Park",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 1405.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 1125.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "reservations": 14,
+    "total_spend": 713.0,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "Montreal",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 14,
+    "total_spend": 465.0,
+    "venues": 5,
+    "members": 11
+  },
+  {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 14,
+    "total_spend": 392.92,
+    "venues": 3,
+    "members": 7
+  },
+  {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 3,
+    "total_spend": 331.45,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 215.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 3,
+    "total_spend": 157.29,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 125.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Belfast",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 4,
+    "total_spend": 100.56,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Pasadena",
+    "state": "CA",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 100.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Longueuil",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 3,
+    "total_spend": 70.19,
+    "venues": 1,
+    "members": 3
+  }
+]

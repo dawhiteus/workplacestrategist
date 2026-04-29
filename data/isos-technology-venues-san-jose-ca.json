@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
+    "venue_name": "Expansive - North First",
+    "latitude": 37.37727,
+    "longitude": -121.920334,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "2a9efa7e-e69b-415b-a85c-8563c0bce30f",
+    "venue_name": "Pacific Workplaces - San Jose",
+    "latitude": 37.335274,
+    "longitude": -121.891525,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

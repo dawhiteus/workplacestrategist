@@ -2,9 +2,33 @@
   {
     "venue_id": "0d2e2090-e7cc-4b42-8e30-bb1b87f4faa9",
     "venue_name": "WeWork | Brickell City Centre",
-    "latitude": 25.767250061035156,
-    "longitude": -80.19366455078125,
+    "latitude": 25.76725,
+    "longitude": -80.193665,
     "reservations": 4,
     "spend": 240.0
+  },
+  {
+    "venue_id": "566ff86c-3960-4599-b741-3af0800c22b8",
+    "venue_name": "SPACES | Miami - Spaces CocoWalk",
+    "latitude": 25.728579,
+    "longitude": -80.241898,
+    "reservations": 1,
+    "spend": 139.26
+  },
+  {
+    "venue_id": "4b670cdc-c37f-4308-95f1-d7cc092f7b85",
+    "venue_name": "Tedge Mindful Coworking",
+    "latitude": 25.808411,
+    "longitude": -80.194069,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "66128208-7501-422a-ba39-4a5b48386018",
+    "venue_name": "Expansive - Biscayne",
+    "latitude": 25.797972,
+    "longitude": -80.188507,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Harrisburg",
+    "state": "PA",
+    "country": "US",
+    "reservations": 12,
+    "total_spend": 6600.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Grapevine",
+    "state": "TX",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 1380.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "reservations": 17,
+    "total_spend": 455.0,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Fort Worth",
+    "state": "TX",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 75.0,
+    "venues": 1,
+    "members": 1
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "abe61c56-0beb-4328-9a18-2ac8dffe09af",
+    "venue_name": "Hampton Inn Mall of Georgia",
+    "latitude": 34.065628,
+    "longitude": -83.989677,
+    "reservations": 1,
+    "spend": 125.0
+  },
+  {
+    "venue_id": "012f76fd-e9f1-4fcf-8207-1a92e9634200",
+    "venue_name": "SpringHill Suites Buford Mall of Georgia",
+    "latitude": 34.06596,
+    "longitude": -83.989349,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

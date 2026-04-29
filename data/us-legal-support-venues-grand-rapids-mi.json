@@ -2,9 +2,33 @@
   {
     "venue_id": "ca9ed685-0cc9-45b0-afe8-0cb6c2f01fb8",
     "venue_name": "The Factory",
-    "latitude": 42.96446228027344,
-    "longitude": -85.66957092285156,
+    "latitude": 42.964462,
+    "longitude": -85.669571,
     "reservations": 7,
     "spend": 1075.0
+  },
+  {
+    "venue_id": "9b6dc2f8-f5cb-4cdf-b711-10c48c9b4d95",
+    "venue_name": "JW Marriott Grand Rapids",
+    "latitude": 42.965832,
+    "longitude": -85.673981,
+    "reservations": 1,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "011b5341-94ef-47d6-9036-1d20618bc1a7",
+    "venue_name": "Shared: Coworking EGR",
+    "latitude": 42.950886,
+    "longitude": -85.616325,
+    "reservations": 1,
+    "spend": 399.0
+  },
+  {
+    "venue_id": "29427b74-d86e-4393-8229-c71f24a5a442",
+    "venue_name": "AC Hotel by Marrriott - Grand Rapids",
+    "latitude": 42.964241,
+    "longitude": -85.672157,
+    "reservations": 1,
+    "spend": 360.0
   }
 ]

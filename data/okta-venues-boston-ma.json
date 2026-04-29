@@ -2,25 +2,65 @@
   {
     "venue_id": "adfd069a-c949-4a9b-a04a-3b73ecaac9af",
     "venue_name": "Boston Offices - One Boston Place",
-    "latitude": 42.358619689941406,
-    "longitude": -71.05835723876953,
+    "latitude": 42.35862,
+    "longitude": -71.058357,
     "reservations": 15,
     "spend": 7427.0
   },
   {
     "venue_id": "db7f6905-7393-4dc4-a1e6-b4f6c6149deb",
     "venue_name": "Intelligent Office - Boston",
-    "latitude": 42.356529235839844,
-    "longitude": -71.05335235595703,
+    "latitude": 42.356529,
+    "longitude": -71.053352,
     "reservations": 7,
     "spend": 1580.0
   },
   {
+    "venue_id": "2439de9a-3b24-4848-b837-4abc2bd5d70c",
+    "venue_name": "Regus | Seaport - One Marina Park",
+    "latitude": 42.353199,
+    "longitude": -71.045403,
+    "reservations": 2,
+    "spend": 1246.8
+  },
+  {
+    "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
+    "venue_name": "Idea Space - Back Bay",
+    "latitude": 42.348598,
+    "longitude": -71.083443,
+    "reservations": 2,
+    "spend": 356.0
+  },
+  {
     "venue_id": "36313d6b-1824-4ab7-9e5e-79d129d783c2",
     "venue_name": "Workbar Back Bay",
-    "latitude": 42.351810455322266,
-    "longitude": -71.07218170166016,
+    "latitude": 42.35181,
+    "longitude": -71.072182,
     "reservations": 3,
     "spend": 350.0
+  },
+  {
+    "venue_id": "bae5c8a6-100c-4e3f-8444-651dc79e3284",
+    "venue_name": "Regus | Canal Street-North Station",
+    "latitude": 42.364044,
+    "longitude": -71.060013,
+    "reservations": 1,
+    "spend": 321.0
+  },
+  {
+    "venue_id": "3f791a67-e47e-48d9-81c8-d2f408d964bf",
+    "venue_name": "Staples Coworking Boston (Government Center)",
+    "latitude": 42.359295,
+    "longitude": -71.057991,
+    "reservations": 1,
+    "spend": 198.0
+  },
+  {
+    "venue_id": "74d712f5-cc68-4d25-afc5-d8f11d52d442",
+    "venue_name": "Workbar Downtown",
+    "latitude": 42.357273,
+    "longitude": -71.058968,
+    "reservations": 1,
+    "spend": 49.0
   }
 ]

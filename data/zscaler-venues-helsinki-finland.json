@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "b7f84d71-6cd3-49cd-8c5d-351e3e12fdaa",
+    "venue_name": "SPACES  | Helsinki, Tripla",
+    "latitude": 60.198494,
+    "longitude": 24.93055,
+    "reservations": 45,
+    "spend": 6069.86
+  },
+  {
+    "venue_id": "01b1d2f8-c7aa-48dd-9891-2197c2285fa7",
+    "venue_name": "Regus | Helsinki, Graniittitalo",
+    "latitude": 60.170345,
+    "longitude": 24.932556,
+    "reservations": 5,
+    "spend": 643.13
+  },
+  {
+    "venue_id": "e10b0967-05af-4e03-a5d0-93abb4474379",
+    "venue_name": "Regus | Helsinki, Luna House",
+    "latitude": 60.167999,
+    "longitude": 24.9408,
+    "reservations": 4,
+    "spend": 552.41
+  },
+  {
+    "venue_id": "b2b4816b-f67b-45e7-b7b4-b64d429db534",
+    "venue_name": "SPACES | Helsinki, Postitalo",
+    "latitude": 60.1716,
+    "longitude": 24.9375,
+    "reservations": 3,
+    "spend": 272.56
+  },
+  {
+    "venue_id": "72edb629-a2e1-492a-bc33-d1873f021d7c",
+    "venue_name": "Regus | Helsinki, Itis",
+    "latitude": 60.2118,
+    "longitude": 25.0816,
+    "reservations": 5,
+    "spend": 146.75
+  }
+]

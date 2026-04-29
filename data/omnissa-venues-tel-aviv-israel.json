@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "eeaa6657-2acd-48e8-ba38-51d06a97cb14",
+    "venue_name": "SPACES | Tel Aviv, We TLV",
+    "latitude": 32.079262,
+    "longitude": 34.794941,
+    "reservations": 2,
+    "spend": 902.21
+  },
+  {
+    "venue_id": "b39ed0ae-ef97-47bc-9d64-8d957b09bd25",
+    "venue_name": "Regus | Tel Aviv, Ramat Hachayal",
+    "latitude": 32.109901,
+    "longitude": 34.838299,
+    "reservations": 2,
+    "spend": 801.25
+  },
+  {
+    "venue_id": "b312c314-eaf6-414c-8556-23eb1bc05f33",
+    "venue_name": "Regus | Tel Aviv,  Sarona",
+    "latitude": 32.074699,
+    "longitude": 34.7911,
+    "reservations": 2,
+    "spend": 735.89
+  }
+]

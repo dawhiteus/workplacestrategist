@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "fa0a0837-df59-4b87-84c0-ddf7554fb0bd",
+    "venue_name": "WeWork Forum",
+    "latitude": 28.496965,
+    "longitude": 77.091927,
+    "reservations": 3,
+    "spend": 825.27
+  },
+  {
+    "venue_id": "5b7cdff7-27d1-4d18-a788-70fd7e0a4def",
+    "venue_name": "Regus | Gurugram, Tech Garden",
+    "latitude": 28.41972,
+    "longitude": 77.000648,
+    "reservations": 1,
+    "spend": 39.86
+  },
+  {
+    "venue_id": "ac056687-4a54-490e-b4b7-7de1a4c83820",
+    "venue_name": "Regus | Gurugram, M3M Urbana",
+    "latitude": 28.392487,
+    "longitude": 77.065987,
+    "reservations": 1,
+    "spend": 22.67
+  },
+  {
+    "venue_id": "8b14e73f-9876-4935-a6e5-3da6b0d84ecd",
+    "venue_name": "WeWork Blue One square",
+    "latitude": 28.495569,
+    "longitude": 77.08493,
+    "reservations": 1,
+    "spend": 10.54
+  }
+]

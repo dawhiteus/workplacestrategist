@@ -2,9 +2,33 @@
   {
     "venue_id": "0d2e2090-e7cc-4b42-8e30-bb1b87f4faa9",
     "venue_name": "WeWork | Brickell City Centre",
-    "latitude": 25.767250061035156,
-    "longitude": -80.19366455078125,
+    "latitude": 25.76725,
+    "longitude": -80.193665,
     "reservations": 3,
     "spend": 2084.4
+  },
+  {
+    "venue_id": "588c7777-d99e-4e11-84d6-36f076287019",
+    "venue_name": "Nimbler Spaces Miami",
+    "latitude": 25.782152,
+    "longitude": -80.19017,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "2ee5a873-5ca2-45d4-aa94-7c22bebf1431",
+    "venue_name": "Mindspace 100 Biscayne",
+    "latitude": 25.775812,
+    "longitude": -80.188248,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "94abbdc1-d9fc-46ab-b4e5-0a550efc4cf1",
+    "venue_name": "Quest Workspaces - One Biscayne",
+    "latitude": 25.773788,
+    "longitude": -80.187973,
+    "reservations": 1,
+    "spend": 49.0
   }
 ]

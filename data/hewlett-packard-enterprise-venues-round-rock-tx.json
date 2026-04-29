@@ -2,9 +2,17 @@
   {
     "venue_id": "c8904265-a8fe-4146-87bb-8cb2621ea472",
     "venue_name": "Regus | Old Town Square",
-    "latitude": 30.51409912109375,
-    "longitude": -97.68904876708984,
+    "latitude": 30.514099,
+    "longitude": -97.689049,
     "reservations": 6,
     "spend": 718.19
+  },
+  {
+    "venue_id": "d96f6a4b-edf9-4333-b96b-db1b172b91f0",
+    "venue_name": "Office Evolution - Round Rock",
+    "latitude": 30.504196,
+    "longitude": -97.682701,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

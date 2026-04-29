@@ -2,38 +2,43 @@
   {
     "city": "Sandy",
     "state": "UT",
+    "country": "US",
     "reservations": 273,
     "total_spend": 86725.0,
     "venues": 1,
     "members": 1
   },
   {
-    "city": "West Allis",
-    "state": "WI",
-    "reservations": 145,
-    "total_spend": 64130.0,
-    "venues": 1,
-    "members": 1
-  },
-  {
     "city": "Bellevue",
     "state": "WA",
-    "reservations": 93,
-    "total_spend": 63700.0,
+    "country": "US",
+    "reservations": 94,
+    "total_spend": 64550.0,
     "venues": 1,
     "members": 2
   },
   {
+    "city": "West Allis",
+    "state": "WI",
+    "country": "US",
+    "reservations": 146,
+    "total_spend": 64530.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Austin",
     "state": "TX",
-    "reservations": 113,
-    "total_spend": 37850.0,
+    "country": "US",
+    "reservations": 114,
+    "total_spend": 38350.0,
     "venues": 1,
     "members": 1
   },
   {
     "city": "Hillsboro",
     "state": "OR",
+    "country": "US",
     "reservations": 133,
     "total_spend": 24919.0,
     "venues": 1,
@@ -42,6 +47,7 @@
   {
     "city": "Carmel",
     "state": "IN",
+    "country": "US",
     "reservations": 97,
     "total_spend": 17505.0,
     "venues": 1,
@@ -50,6 +56,7 @@
   {
     "city": "Durham",
     "state": "NC",
+    "country": "US",
     "reservations": 42,
     "total_spend": 17244.0,
     "venues": 2,
@@ -58,6 +65,7 @@
   {
     "city": "Fishers",
     "state": "IN",
+    "country": "US",
     "reservations": 78,
     "total_spend": 15280.0,
     "venues": 1,
@@ -66,6 +74,7 @@
   {
     "city": "Arlington",
     "state": "TX",
+    "country": "US",
     "reservations": 34,
     "total_spend": 14970.0,
     "venues": 1,
@@ -74,6 +83,7 @@
   {
     "city": "Marlton",
     "state": "NJ",
+    "country": "US",
     "reservations": 20,
     "total_spend": 8200.0,
     "venues": 1,
@@ -82,6 +92,7 @@
   {
     "city": "Saint Charles",
     "state": "MO",
+    "country": "US",
     "reservations": 38,
     "total_spend": 6902.0,
     "venues": 1,
@@ -90,14 +101,25 @@
   {
     "city": "Overland Park",
     "state": "KS",
+    "country": "US",
     "reservations": 22,
     "total_spend": 4907.0,
     "venues": 3,
     "members": 3
   },
   {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 31,
+    "total_spend": 3376.03,
+    "venues": 3,
+    "members": 4
+  },
+  {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 8,
     "total_spend": 3220.0,
     "venues": 1,
@@ -106,6 +128,7 @@
   {
     "city": "Woodmere",
     "state": "OH",
+    "country": "US",
     "reservations": 18,
     "total_spend": 3169.5,
     "venues": 1,
@@ -114,6 +137,7 @@
   {
     "city": "Richardson",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1485.0,
     "venues": 1,
@@ -122,6 +146,7 @@
   {
     "city": "Livonia",
     "state": "MI",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1450.0,
     "venues": 1,
@@ -130,6 +155,7 @@
   {
     "city": "El Paso",
     "state": "TX",
+    "country": "US",
     "reservations": 8,
     "total_spend": 1418.0,
     "venues": 2,
@@ -138,6 +164,7 @@
   {
     "city": "Frisco",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1170.0,
     "venues": 1,
@@ -146,6 +173,7 @@
   {
     "city": "Beaverton",
     "state": "OR",
+    "country": "US",
     "reservations": 3,
     "total_spend": 930.0,
     "venues": 1,
@@ -154,6 +182,7 @@
   {
     "city": "Chesterfield",
     "state": "MO",
+    "country": "US",
     "reservations": 8,
     "total_spend": 900.0,
     "venues": 1,
@@ -162,6 +191,7 @@
   {
     "city": "Beachwood",
     "state": "OH",
+    "country": "US",
     "reservations": 17,
     "total_spend": 810.0,
     "venues": 1,
@@ -170,6 +200,7 @@
   {
     "city": "Charlotte",
     "state": "NC",
+    "country": "US",
     "reservations": 3,
     "total_spend": 380.0,
     "venues": 2,

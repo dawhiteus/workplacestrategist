@@ -2,6 +2,7 @@
   {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 6,
     "total_spend": 1902.0,
     "venues": 2,

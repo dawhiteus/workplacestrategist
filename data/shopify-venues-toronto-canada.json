@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "430eee3b-23c4-47c4-8ff9-ac65eba4328b",
+    "venue_name": "iQ Offices | 545 King Street",
+    "latitude": 43.644218,
+    "longitude": -79.398689,
+    "reservations": 15,
+    "spend": 2521.79
+  },
+  {
+    "venue_id": "45d41f8d-61b4-4cda-a4c1-f5cdd591f730",
+    "venue_name": "Acme Works",
+    "latitude": 43.643711,
+    "longitude": -79.40876,
+    "reservations": 37,
+    "spend": 1164.4
+  },
+  {
+    "venue_id": "50e93046-7628-41ea-ad35-f485092bd9eb",
+    "venue_name": "Workhaus | Spadina",
+    "latitude": 43.650795,
+    "longitude": -79.396622,
+    "reservations": 4,
+    "spend": 629.72
+  },
+  {
+    "venue_id": "51bfbaea-c588-4b0a-a76d-6ba45962f764",
+    "venue_name": "iQ Offices | 250 University Ave.",
+    "latitude": 43.650356,
+    "longitude": -79.386993,
+    "reservations": 2,
+    "spend": 570.46
+  },
+  {
+    "venue_id": "774677b5-33df-429e-a996-71cf3924ae26",
+    "venue_name": "iQ Offices | 140 Yonge Street",
+    "latitude": 43.651169,
+    "longitude": -79.378906,
+    "reservations": 3,
+    "spend": 536.0
+  },
+  {
+    "venue_id": "409256bf-ef2d-457e-9582-9c5e50ca599e",
+    "venue_name": "The Rostie Group - 20 Bay Street, 11th Floor",
+    "latitude": 43.641724,
+    "longitude": -79.377792,
+    "reservations": 8,
+    "spend": 306.26
+  },
+  {
+    "venue_id": "73b070c2-ca8f-4dc4-8499-57720d82e183",
+    "venue_name": "Intelligent Office, Hudson's Bay Centre",
+    "latitude": 43.670723,
+    "longitude": -79.386604,
+    "reservations": 2,
+    "spend": 252.06
+  },
+  {
+    "venue_id": "2e99e48a-cd86-413a-b89c-ca6bcfb53191",
+    "venue_name": "Intelligent Office First Canadian Place",
+    "latitude": 43.648636,
+    "longitude": -79.381744,
+    "reservations": 1,
+    "spend": 144.25
+  },
+  {
+    "venue_id": "b90c8edb-e898-4aae-b4a5-e8c9d21253ef",
+    "venue_name": "The Professional Centre",
+    "latitude": 43.649906,
+    "longitude": -79.383247,
+    "reservations": 1,
+    "spend": 133.91
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5e730543-6c69-48c8-83b3-3a8e206af7b4",
+    "venue_name": "Signature | FRANKFURT, SIGNATURE OpernTurm",
+    "latitude": 50.116089,
+    "longitude": 8.670498,
+    "reservations": 1,
+    "spend": 730.46
+  },
+  {
+    "venue_id": "e1a2b5b1-ea9b-4f7c-8700-ecd0c75298dc",
+    "venue_name": "SPACES | FRANKFURT, Spaces Omniturm",
+    "latitude": 50.111591,
+    "longitude": 8.6734,
+    "reservations": 1,
+    "spend": 564.41
+  },
+  {
+    "venue_id": "52a0fdf8-a6f2-4e82-85ac-59ba3bea3dc3",
+    "venue_name": "Regus | FRANKFURT, Sachsenhausen",
+    "latitude": 50.0947,
+    "longitude": 8.68958,
+    "reservations": 1,
+    "spend": 316.08
+  }
+]

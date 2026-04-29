@@ -1,10 +1,42 @@
 [
   {
+    "venue_id": "59dff76c-3092-401d-87a1-91b8116d0b37",
+    "venue_name": "Industrious - Willis Tower",
+    "latitude": 41.87888,
+    "longitude": -87.636513,
+    "reservations": 2,
+    "spend": 3026.0
+  },
+  {
     "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
     "venue_name": "Expansive - Wacker",
-    "latitude": 41.886505126953125,
-    "longitude": -87.63457489013672,
+    "latitude": 41.886505,
+    "longitude": -87.634575,
     "reservations": 3,
     "spend": 1412.5
+  },
+  {
+    "venue_id": "96750f60-4917-4b7c-9b9e-e5f48d21536f",
+    "venue_name": "Regus | Fulton Market",
+    "latitude": 41.8848,
+    "longitude": -87.650902,
+    "reservations": 1,
+    "spend": 754.0
+  },
+  {
+    "venue_id": "61baddf1-7d86-484b-8235-c7f7f177333c",
+    "venue_name": "Regus | West Loop 200 S. Wacker",
+    "latitude": 41.879166,
+    "longitude": -87.637352,
+    "reservations": 1,
+    "spend": 637.2
+  },
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944,
+    "longitude": -87.636009,
+    "reservations": 1,
+    "spend": 500.0
   }
 ]

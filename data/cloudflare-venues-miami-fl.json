@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "b8dee293-e85d-482f-9145-9cb779ceab59",
+    "venue_name": "Quest Workspaces- 1395 Brickell",
+    "latitude": 25.76058,
+    "longitude": -80.191208,
+    "reservations": 2,
+    "spend": 675.0
+  },
+  {
+    "venue_id": "94abbdc1-d9fc-46ab-b4e5-0a550efc4cf1",
+    "venue_name": "Quest Workspaces - One Biscayne",
+    "latitude": 25.773788,
+    "longitude": -80.187973,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "c9ee8c93-21c5-4573-a229-994e4fe56ab7",
+    "venue_name": "ICONIC Workspaces",
+    "latitude": 25.772917,
+    "longitude": -80.190582,
+    "reservations": 1,
+    "spend": 276.0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "0cadf2a9-cd47-4da9-98ce-89c7095e7ae2",
+    "venue_name": "The Innovation Centre - TCC Canada",
+    "latitude": 45.344067,
+    "longitude": -75.924522,
+    "reservations": 657,
+    "spend": 41611.15
+  },
+  {
+    "venue_id": "1d03c2df-0163-495f-9910-d2e55373c6da",
+    "venue_name": "The Collaboration Centre - TCC Canada",
+    "latitude": 45.420483,
+    "longitude": -75.692825,
+    "reservations": 38,
+    "spend": 3634.36
+  },
+  {
+    "venue_id": "292f870d-16f3-4a49-a5a2-cfbb2eee3103",
+    "venue_name": "Head Office Ottawa",
+    "latitude": 45.300827,
+    "longitude": -75.882133,
+    "reservations": 3,
+    "spend": 426.56
+  },
+  {
+    "venue_id": "8ce5e346-4c58-4d68-a945-eb01f0b56b5f",
+    "venue_name": "The Queensway Centre - TCC Canada",
+    "latitude": 45.325069,
+    "longitude": -75.836823,
+    "reservations": 1,
+    "spend": 22.49
+  }
+]

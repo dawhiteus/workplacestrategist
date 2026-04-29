@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c328516d-0340-4727-bf6b-13eb666698ce",
+    "venue_name": "Regus | Fredericksburg - Riverside Pkwy",
+    "latitude": 38.358349,
+    "longitude": -77.521248,
+    "reservations": 1,
+    "spend": 127.81
+  },
+  {
+    "venue_id": "3027b00c-b8cf-4b13-8fc7-5d61a11c9134",
+    "venue_name": "Regus | Central Park Corporate Center",
+    "latitude": 38.302834,
+    "longitude": -77.512917,
+    "reservations": 1,
+    "spend": 109.0
+  }
+]

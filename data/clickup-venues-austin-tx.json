@@ -2,33 +2,49 @@
   {
     "venue_id": "f8d5f030-3c4b-0132-29f6-76817799485c",
     "venue_name": "WeWork | Congress",
-    "latitude": 30.26861000061035,
-    "longitude": -97.74317932128906,
+    "latitude": 30.26861,
+    "longitude": -97.743179,
     "reservations": 5,
     "spend": 285.0
   },
   {
+    "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
+    "venue_name": "WeWork | The Domain",
+    "latitude": 30.404854,
+    "longitude": -97.721344,
+    "reservations": 1,
+    "spend": 249.6
+  },
+  {
     "venue_id": "e0317ab1-39a8-4024-ae12-6260b5470295",
     "venue_name": "WeWork | 801 Barton Springs",
-    "latitude": 30.258699417114258,
-    "longitude": -97.75273895263672,
+    "latitude": 30.258699,
+    "longitude": -97.752739,
     "reservations": 4,
     "spend": 228.0
   },
   {
     "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
     "venue_name": "Trick Hat Workway",
-    "latitude": 30.26758575439453,
-    "longitude": -97.75431823730469,
+    "latitude": 30.267586,
+    "longitude": -97.754318,
     "reservations": 4,
     "spend": 220.0
   },
   {
     "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
     "venue_name": "The Malin East Austin",
-    "latitude": 30.258480072021484,
-    "longitude": -97.72895812988281,
+    "latitude": 30.25848,
+    "longitude": -97.728958,
     "reservations": 4,
     "spend": 200.0
+  },
+  {
+    "venue_id": "98d173db-2a0f-4df4-bcc4-811e50159b4d",
+    "venue_name": "Industrious - E 7th St.",
+    "latitude": 30.266298,
+    "longitude": -97.732086,
+    "reservations": 1,
+    "spend": 75.0
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "23736811-6db4-4ab5-90c9-1e7b52067065",
+    "venue_name": "Regus | YOKOHAMA, Landmark Tower",
+    "latitude": 35.454399,
+    "longitude": 139.630997,
+    "reservations": 3,
+    "spend": 272.96
+  },
+  {
+    "venue_id": "847b00a5-f964-4fb9-9c88-23c846a05cfe",
+    "venue_name": "Regus | Yokohama, Yokohama Landmark Plaza",
+    "latitude": 35.454399,
+    "longitude": 139.630997,
+    "reservations": 1,
+    "spend": 198.56
+  },
+  {
+    "venue_id": "fd9ba31f-c141-44e0-8e6c-6c0dd7e95168",
+    "venue_name": "Regus | YOKOHAMA, Sky Building",
+    "latitude": 35.4646,
+    "longitude": 139.625,
+    "reservations": 1,
+    "spend": 73.9
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "5274099f-34e8-4a9b-a451-954e974461c0",
+    "venue_name": "Regus | Irving - 320 Decker Drive",
+    "latitude": 32.860718,
+    "longitude": -96.939514,
+    "reservations": 2,
+    "spend": 332.5
+  },
+  {
+    "venue_id": "4efa519c-823b-4927-988f-b6ae0056d810",
+    "venue_name": "HQ | TX, Irving - Belt Line Rd",
+    "latitude": 32.874191,
+    "longitude": -96.99057,
+    "reservations": 1,
+    "spend": 147.5
+  },
+  {
+    "venue_id": "8369bb6e-c88f-4e5e-8047-f7479f4d3ca8",
+    "venue_name": "Executive Workspace| Las Colinas",
+    "latitude": 32.859257,
+    "longitude": -96.929253,
+    "reservations": 1,
+    "spend": 140.0
+  }
+]

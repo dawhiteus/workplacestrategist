@@ -2,9 +2,17 @@
   {
     "venue_id": "33837483-bfe0-42cd-a496-0a48ad2268c5",
     "venue_name": "Venture X | Greensboro",
-    "latitude": 36.090187072753906,
-    "longitude": -79.82506561279297,
+    "latitude": 36.090187,
+    "longitude": -79.825066,
     "reservations": 6,
     "spend": 190.0
+  },
+  {
+    "venue_id": "080022c5-6306-4702-b881-fe3098116727",
+    "venue_name": "Office Evolution - Greensboro",
+    "latitude": 36.09095,
+    "longitude": -79.815926,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

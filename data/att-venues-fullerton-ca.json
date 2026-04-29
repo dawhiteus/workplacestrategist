@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "12076544-0364-4443-93fb-ed1e1a8a1d17",
+    "venue_name": "ZworkSpace",
+    "latitude": 33.866791,
+    "longitude": -117.947884,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
     "venue_id": "b587db2f-3d16-4600-b7f7-94410d9a84a9",
     "venue_name": "Pro Desk Space",
-    "latitude": 33.87127685546875,
-    "longitude": -117.92366790771484,
+    "latitude": 33.871277,
+    "longitude": -117.923668,
     "reservations": 3,
     "spend": 157.0
   }

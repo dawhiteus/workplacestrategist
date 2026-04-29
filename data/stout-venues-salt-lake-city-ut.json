@@ -2,9 +2,17 @@
   {
     "venue_id": "42fab995-5448-4425-9ece-8b62222374a9",
     "venue_name": "Kiln - Salt Lake City",
-    "latitude": 40.76878356933594,
-    "longitude": -111.90418243408203,
+    "latitude": 40.768784,
+    "longitude": -111.904182,
     "reservations": 3,
     "spend": 145.0
+  },
+  {
+    "venue_id": "faed60fc-ada1-4229-a70d-50445de62a8c",
+    "venue_name": "Workbox Salt Lake City",
+    "latitude": 40.766296,
+    "longitude": -111.888626,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

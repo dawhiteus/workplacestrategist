@@ -2,65 +2,129 @@
   {
     "venue_id": "cb17af79-1aeb-475d-9283-f726ee755628",
     "venue_name": "Expansive - Austin Highland",
-    "latitude": 30.330394744873047,
-    "longitude": -97.7105484008789,
+    "latitude": 30.330395,
+    "longitude": -97.710548,
     "reservations": 19,
     "spend": 4303.0
   },
   {
     "venue_id": "6b5843d4-1f56-45f2-8754-9878fa92d85f",
     "venue_name": "Expansive - North Austin",
-    "latitude": 30.443641662597656,
-    "longitude": -97.69578552246094,
+    "latitude": 30.443642,
+    "longitude": -97.695786,
     "reservations": 19,
     "spend": 2330.0
   },
   {
     "venue_id": "a030b5ba-13c8-40bd-a379-d979841fc46b",
     "venue_name": "FUSE Workspace-Four Points",
-    "latitude": 30.410009384155273,
-    "longitude": -97.85163116455078,
+    "latitude": 30.410009,
+    "longitude": -97.851631,
     "reservations": 27,
     "spend": 810.0
   },
   {
     "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
     "venue_name": "Common Desk - Anderson Lane",
-    "latitude": 30.355192184448242,
-    "longitude": -97.73033905029297,
+    "latitude": 30.355192,
+    "longitude": -97.730339,
     "reservations": 15,
     "spend": 375.0
   },
   {
     "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
     "venue_name": "WeWork | The Domain",
-    "latitude": 30.40485382080078,
-    "longitude": -97.72134399414062,
+    "latitude": 30.404854,
+    "longitude": -97.721344,
     "reservations": 3,
     "spend": 306.6
   },
   {
+    "venue_id": "4c06b4c2-355f-4ebf-9f5b-bb318ad702da",
+    "venue_name": "Office Evolution - Austin",
+    "latitude": 30.386972,
+    "longitude": -97.759666,
+    "reservations": 2,
+    "spend": 290.0
+  },
+  {
+    "venue_id": "6640551d-d18e-44e6-a6ef-50bcaf05996b",
+    "venue_name": "FUSE Workspace-East MLK",
+    "latitude": 30.279993,
+    "longitude": -97.719215,
+    "reservations": 2,
+    "spend": 230.0
+  },
+  {
+    "venue_id": "de3ed332-a021-44f3-89dc-473da893654d",
+    "venue_name": "fibercove",
+    "latitude": 30.251471,
+    "longitude": -97.766937,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "d39b1229-a60c-4c7d-9b5f-6e62f853dff8",
+    "venue_name": "Executive Workspace| NW Austin",
+    "latitude": 30.464371,
+    "longitude": -97.794319,
+    "reservations": 2,
+    "spend": 210.0
+  },
+  {
     "venue_id": "4ad600ec-ff28-4129-ae1a-83c96b616540",
     "venue_name": "Regus | Aspen Lake One",
-    "latitude": 30.463232040405273,
-    "longitude": -97.79309844970703,
+    "latitude": 30.463232,
+    "longitude": -97.793098,
     "reservations": 4,
     "spend": 197.53
   },
   {
     "venue_id": "0e007938-151b-49e1-ad2b-73b3c591d710",
     "venue_name": "Expansive - Plaza on the Lake",
-    "latitude": 30.349681854248047,
-    "longitude": -97.80119323730469,
+    "latitude": 30.349682,
+    "longitude": -97.801193,
     "reservations": 5,
     "spend": 190.0
   },
   {
     "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
     "venue_name": "Trick Hat Workway",
-    "latitude": 30.26758575439453,
-    "longitude": -97.75431823730469,
+    "latitude": 30.267586,
+    "longitude": -97.754318,
     "reservations": 3,
     "spend": 155.0
+  },
+  {
+    "venue_id": "c1bef6f2-332c-405d-a33e-9a403561d4e6",
+    "venue_name": "Regus | Austin - Barton Springs",
+    "latitude": 30.264441,
+    "longitude": -97.781868,
+    "reservations": 1,
+    "spend": 111.0
+  },
+  {
+    "venue_id": "61a45110-64af-46d5-88b3-4df4c5a3903f",
+    "venue_name": "Regus | Arboretum Great Hills",
+    "latitude": 30.395409,
+    "longitude": -97.753563,
+    "reservations": 1,
+    "spend": 109.0
+  },
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.25848,
+    "longitude": -97.728958,
+    "reservations": 2,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "58dc8ab0-fa4a-40ce-b580-9e6debeccd0f",
+    "venue_name": "Regus | Arboretum Plaza",
+    "latitude": 30.390301,
+    "longitude": -97.748596,
+    "reservations": 1,
+    "spend": 60.38
   }
 ]

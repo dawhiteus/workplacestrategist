@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c3f4d43c-5dba-4529-a4c6-6a474611d73d",
+    "venue_name": "Regus | Osaka, Hankyu Terminal Building",
+    "latitude": 34.704227,
+    "longitude": 135.498474,
+    "reservations": 4,
+    "spend": 543.37
+  },
+  {
+    "venue_id": "78153afb-426e-44e9-9b15-9184d117ec46",
+    "venue_name": "Open Office | Osaka, Nishi-hankyu",
+    "latitude": 34.705597,
+    "longitude": 135.496719,
+    "reservations": 1,
+    "spend": 115.36
+  }
+]

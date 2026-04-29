@@ -2,9 +2,33 @@
   {
     "venue_id": "c64a11d6-c72d-4c77-a8ff-fb4207b7f877",
     "venue_name": "Temescal Works",
-    "latitude": 37.83181381225586,
-    "longitude": -122.26313018798828,
+    "latitude": 37.831814,
+    "longitude": -122.26313,
     "reservations": 8,
     "spend": 390.0
+  },
+  {
+    "venue_id": "95f8f876-6b60-4781-b2e3-69a04c617737",
+    "venue_name": "WeWork | 2201 Broadway",
+    "latitude": 37.81115,
+    "longitude": -122.267357,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "6d314e31-b69f-454f-a47e-7de07fcca4c8",
+    "venue_name": "BIG Oakland",
+    "latitude": 37.804871,
+    "longitude": -122.271065,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "812830c5-524f-4c01-a04a-fa3e72735f37",
+    "venue_name": "WeWork | 1111 Broadway",
+    "latitude": 37.802803,
+    "longitude": -122.272919,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

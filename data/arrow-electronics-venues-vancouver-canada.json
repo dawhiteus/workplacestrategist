@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "a8a1487f-3e81-4054-879c-e8005686664a",
+    "venue_name": "Central Park Business Centre",
+    "latitude": 49.232609,
+    "longitude": -123.024178,
+    "reservations": 28,
+    "spend": 3105.45
+  },
+  {
+    "venue_id": "64ef3ecc-627d-4c1a-a0c4-59bf056c7d76",
+    "venue_name": "Forum Workspaces At Airport Square",
+    "latitude": 49.203976,
+    "longitude": -123.133278,
+    "reservations": 2,
+    "spend": 190.53
+  },
+  {
+    "venue_id": "068f26e2-2cf4-44bb-ab9a-9fed3ebd8687",
+    "venue_name": "iQ Offices | 1055 West Georgia St.",
+    "latitude": 49.285316,
+    "longitude": -123.121635,
+    "reservations": 1,
+    "spend": 80.05
+  }
+]

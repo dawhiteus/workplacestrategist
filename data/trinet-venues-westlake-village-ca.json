@@ -2,9 +2,17 @@
   {
     "venue_id": "0e4014a6-97ac-4ac3-ae60-7693d942ee70",
     "venue_name": "(WLV) Premier Workspaces",
-    "latitude": 34.15427780151367,
-    "longitude": -118.82320404052734,
+    "latitude": 34.154278,
+    "longitude": -118.823204,
     "reservations": 16,
     "spend": 6600.0
+  },
+  {
+    "venue_id": "fba72e5d-2486-471c-a0ca-5af58cff8ba9",
+    "venue_name": "Regus || Westlake Park Place",
+    "latitude": 34.152683,
+    "longitude": -118.822823,
+    "reservations": 1,
+    "spend": 209.0
   }
 ]

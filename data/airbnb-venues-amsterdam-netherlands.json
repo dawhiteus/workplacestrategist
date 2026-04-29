@@ -1,0 +1,90 @@
+[
+  {
+    "venue_id": "0ed5f721-29d1-4ca7-948e-2cfa253783e0",
+    "venue_name": "Creative Point Amsterdam",
+    "latitude": 52.361439,
+    "longitude": 4.86036,
+    "reservations": 2,
+    "spend": 1395.22
+  },
+  {
+    "venue_id": "c81405c7-4389-4e55-ae72-fbb5e8bd149e",
+    "venue_name": "SPACES | Amsterdam Keizersqracht 555",
+    "latitude": 52.364582,
+    "longitude": 4.889861,
+    "reservations": 9,
+    "spend": 784.27
+  },
+  {
+    "venue_id": "bffe822a-cb02-4582-b36f-7440e332b6db",
+    "venue_name": "SPACES | The Cloud",
+    "latitude": 52.348446,
+    "longitude": 4.914587,
+    "reservations": 4,
+    "spend": 398.99
+  },
+  {
+    "venue_id": "3eb959aa-a083-4f67-8780-5768f296e2f3",
+    "venue_name": "Buro De Pijp",
+    "latitude": 52.353844,
+    "longitude": 4.890151,
+    "reservations": 7,
+    "spend": 328.54
+  },
+  {
+    "venue_id": "3bf687c3-b740-4266-8f13-cfc4c72c98d8",
+    "venue_name": "SPACES | Amsterdam Zuidas I",
+    "latitude": 52.336433,
+    "longitude": 4.885495,
+    "reservations": 4,
+    "spend": 166.64
+  },
+  {
+    "venue_id": "574eb0f2-ccfb-4b16-ae64-142c2070f191",
+    "venue_name": "Regus | Amsterdam Amsterdamse Bos",
+    "latitude": 52.323349,
+    "longitude": 4.858144,
+    "reservations": 2,
+    "spend": 83.75
+  },
+  {
+    "venue_id": "4a5973ce-6c21-4b8c-995e-c8e55bf71700",
+    "venue_name": "SPACES | Amsterdam Vijzelstraat 68-78",
+    "latitude": 52.3634,
+    "longitude": 4.89199,
+    "reservations": 1,
+    "spend": 43.41
+  },
+  {
+    "venue_id": "6e7a080f-eab4-4d20-8b94-b8334e03c06f",
+    "venue_name": "beyond | Republica",
+    "latitude": 52.396931,
+    "longitude": 4.907418,
+    "reservations": 1,
+    "spend": 32.12
+  },
+  {
+    "venue_id": "6c820095-12bc-408a-8be5-b51962b2c56a",
+    "venue_name": "StartDock Coworking - Herengracht",
+    "latitude": 52.366798,
+    "longitude": 4.887527,
+    "reservations": 1,
+    "spend": 29.11
+  },
+  {
+    "venue_id": "3a08dc87-bf07-4793-867a-1d3169a20048",
+    "venue_name": "StartDock Coworking - Keizersgracht",
+    "latitude": 52.366261,
+    "longitude": 4.885163,
+    "reservations": 1,
+    "spend": 29.11
+  },
+  {
+    "venue_id": "592b0f5a-45a8-463b-97d5-b47a3450a1aa",
+    "venue_name": "Regus | Amsterdam Sarphati Plaza",
+    "latitude": 52.360863,
+    "longitude": 4.907457,
+    "reservations": 1,
+    "spend": 16.23
+  }
+]

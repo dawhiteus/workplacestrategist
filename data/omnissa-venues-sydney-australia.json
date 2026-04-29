@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "2fec2bbc-70cf-4cde-ae3b-867bd4e18cb8",
+    "venue_name": "The Executive Centre - Angel Place",
+    "latitude": -33.866272,
+    "longitude": 151.208374,
+    "reservations": 82,
+    "spend": 36012.64
+  },
+  {
+    "venue_id": "eacc95e1-515b-4fa9-ab60-d5bd2e408242",
+    "venue_name": "Hub Australia | Martin Place",
+    "latitude": -33.867321,
+    "longitude": 151.209549,
+    "reservations": 8,
+    "spend": 4053.85
+  },
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 7,
+    "spend": 2323.1
+  },
+  {
+    "venue_id": "add1b8ad-7cdc-451c-90ad-75084dd3d7d5",
+    "venue_name": "Hub Australia | Wynyard",
+    "latitude": -33.865334,
+    "longitude": 151.206558,
+    "reservations": 2,
+    "spend": 1277.0
+  },
+  {
+    "venue_id": "cde95df0-8cce-4dfc-9218-c2a3bb1616c6",
+    "venue_name": "FlexSpot Macquarie",
+    "latitude": -33.86412,
+    "longitude": 151.212479,
+    "reservations": 1,
+    "spend": 683.76
+  },
+  {
+    "venue_id": "66cb8b20-7d7c-4404-a982-67cded7f04fb",
+    "venue_name": "SPACES | SYDNEY, 60 Martin Place",
+    "latitude": -33.867516,
+    "longitude": 151.211975,
+    "reservations": 1,
+    "spend": 371.89
+  },
+  {
+    "venue_id": "5bc7c0d4-243e-4bff-93f3-9a3602d07566",
+    "venue_name": "Regus | Sydney, 20 Martin Place",
+    "latitude": -33.867397,
+    "longitude": 151.208969,
+    "reservations": 2,
+    "spend": 369.75
+  },
+  {
+    "venue_id": "e9c35ecd-bfec-456c-8733-2b9566d8f99c",
+    "venue_name": "workspace365 - Bond Centre",
+    "latitude": -33.86459,
+    "longitude": 151.208496,
+    "reservations": 1,
+    "spend": 168.08
+  },
+  {
+    "venue_id": "2f700164-bc11-47a1-972c-9d7170976503",
+    "venue_name": "Regus | Sydney, Darling Park",
+    "latitude": -33.872398,
+    "longitude": 151.203995,
+    "reservations": 1,
+    "spend": 115.0
+  },
+  {
+    "venue_id": "766ab367-493c-4f8a-952c-e8cdf88967ed",
+    "venue_name": "WeWork | 161 Castlereagh St",
+    "latitude": -33.872326,
+    "longitude": 151.209061,
+    "reservations": 1,
+    "spend": 55.53
+  }
+]

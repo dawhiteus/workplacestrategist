@@ -2,193 +2,273 @@
   {
     "venue_id": "9e6dc2b0-453c-44ac-85ca-35f54acae35a",
     "venue_name": "moss",
-    "latitude": 33.991668701171875,
-    "longitude": -118.46834564208984,
+    "latitude": 33.991669,
+    "longitude": -118.468346,
     "reservations": 136,
     "spend": 30480.0
   },
   {
     "venue_id": "67c70736-ac11-4a6f-9c02-650e0dc24ab1",
     "venue_name": "CENTRL Office - Downtown Los Angeles",
-    "latitude": 34.047889709472656,
-    "longitude": -118.24014282226562,
+    "latitude": 34.04789,
+    "longitude": -118.240143,
     "reservations": 36,
     "spend": 8295.0
   },
   {
     "venue_id": "5f74ceb5-87ac-4a2b-b38b-624b942191c8",
     "venue_name": "(ETO) Executive Tower",
-    "latitude": 34.03559875488281,
-    "longitude": -118.44232177734375,
+    "latitude": 34.035599,
+    "longitude": -118.442322,
     "reservations": 73,
     "spend": 6962.0
   },
   {
     "venue_id": "b99d1555-1eda-45e4-aabc-f34508db3c9c",
     "venue_name": "WeWork | 12130 Millennium Drive",
-    "latitude": 33.97998046875,
-    "longitude": -118.40636444091797,
+    "latitude": 33.97998,
+    "longitude": -118.406364,
     "reservations": 75,
     "spend": 4415.0
   },
   {
     "venue_id": "7e7c885b-81fa-4a6e-9c83-6d02b8dcf078",
     "venue_name": "SPACES || La Brea",
-    "latitude": 34.08811569213867,
-    "longitude": -118.34465026855469,
+    "latitude": 34.088116,
+    "longitude": -118.34465,
     "reservations": 10,
     "spend": 3574.84
   },
   {
     "venue_id": "970dc4dc-1d74-4eca-ae06-7a112a1b5a01",
     "venue_name": "The Preserve",
-    "latitude": 34.09641647338867,
-    "longitude": -118.31062316894531,
+    "latitude": 34.096416,
+    "longitude": -118.310623,
     "reservations": 75,
     "spend": 3347.0
   },
   {
     "venue_id": "66232db0-a90c-4605-81a4-202d39358a1f",
     "venue_name": "Ethos Society",
-    "latitude": 34.0622673034668,
-    "longitude": -118.2984848022461,
+    "latitude": 34.062267,
+    "longitude": -118.298485,
     "reservations": 54,
     "spend": 2965.0
   },
   {
     "venue_id": "5b32c1d3-f162-4747-b1b5-707da8090989",
     "venue_name": "SPACES || Hollywood",
-    "latitude": 34.10405349731445,
-    "longitude": -118.32622528076172,
+    "latitude": 34.104053,
+    "longitude": -118.326225,
     "reservations": 6,
     "spend": 2517.13
   },
   {
     "venue_id": "34fb838d-7ca9-475c-99b2-42f95c9a365b",
     "venue_name": "Union Cowork Los Angeles - Downtown/Arts District",
-    "latitude": 34.040374755859375,
-    "longitude": -118.23128509521484,
+    "latitude": 34.040375,
+    "longitude": -118.231285,
     "reservations": 38,
     "spend": 2310.0
   },
   {
     "venue_id": "7378eeb7-3263-4104-8314-0432a42a5289",
     "venue_name": "Village Workspaces LLC",
-    "latitude": 34.033443450927734,
-    "longitude": -118.45217895507812,
+    "latitude": 34.033443,
+    "longitude": -118.452179,
     "reservations": 37,
     "spend": 2232.0
   },
   {
     "venue_id": "7a7a0967-3980-48f4-ba7e-b61edf6edb1f",
     "venue_name": "Rita House",
-    "latitude": 34.07011413574219,
-    "longitude": -118.35055541992188,
+    "latitude": 34.070114,
+    "longitude": -118.350555,
     "reservations": 4,
     "spend": 2215.0
   },
   {
     "venue_id": "e07b81c1-1c6a-4ff7-9144-86bc235d6dc8",
     "venue_name": "WeWork | Pacific Design Center - Red Building",
-    "latitude": 34.083858489990234,
-    "longitude": -118.38249206542969,
+    "latitude": 34.083858,
+    "longitude": -118.382492,
     "reservations": 10,
     "spend": 1690.0
   },
   {
     "venue_id": "74840d6d-436d-4f0b-a3c5-ae42ce150d61",
     "venue_name": "Regus || US Bank Tower",
-    "latitude": 34.05116653442383,
-    "longitude": -118.2545394897461,
+    "latitude": 34.051167,
+    "longitude": -118.254539,
     "reservations": 4,
     "spend": 1040.0
   },
   {
     "venue_id": "0c4d30a4-e4bf-4615-8bf7-99c46ffa2726",
     "venue_name": "BLANKSPACES Venice",
-    "latitude": 33.98903274536133,
-    "longitude": -118.46156311035156,
+    "latitude": 33.989033,
+    "longitude": -118.461563,
     "reservations": 26,
     "spend": 910.0
   },
   {
     "venue_id": "128c7e0d-59f0-4379-aa87-d451739c67da",
     "venue_name": "Serendipity Labs - Downtown Los Angeles - Wilshire",
-    "latitude": 34.05100631713867,
-    "longitude": -118.2601089477539,
+    "latitude": 34.051006,
+    "longitude": -118.260109,
     "reservations": 5,
     "spend": 809.0
   },
   {
+    "venue_id": "34430b96-d82b-4c77-855c-11d8b70426f2",
+    "venue_name": "SPACES || Fine Arts DTLA",
+    "latitude": 34.049118,
+    "longitude": -118.259033,
+    "reservations": 1,
+    "spend": 455.0
+  },
+  {
     "venue_id": "b49e9251-09bf-427a-bc55-5d7a27b95148",
     "venue_name": "SPACES || El Segundo LAX",
-    "latitude": 33.921302795410156,
-    "longitude": -118.39588928222656,
+    "latitude": 33.921303,
+    "longitude": -118.395889,
     "reservations": 4,
     "spend": 341.23
   },
   {
+    "venue_id": "a11fafd1-a1e0-4905-88cc-79f398851c4b",
+    "venue_name": "Spark Spaces",
+    "latitude": 34.101166,
+    "longitude": -118.34462,
+    "reservations": 1,
+    "spend": 325.0
+  },
+  {
     "venue_id": "aec6b871-2ff1-46da-8f40-693443eac0c5",
     "venue_name": "Studious Coworking Space",
-    "latitude": 34.06592559814453,
-    "longitude": -118.2374267578125,
+    "latitude": 34.065926,
+    "longitude": -118.237427,
     "reservations": 2,
     "spend": 278.0
   },
   {
     "venue_id": "5e080182-9688-4f3b-9939-79904d6a5cbf",
     "venue_name": "The Collection-Monthly Private Offices & Event Location",
-    "latitude": 34.04728698730469,
-    "longitude": -118.25608825683594,
+    "latitude": 34.047287,
+    "longitude": -118.256088,
     "reservations": 6,
     "spend": 240.0
   },
   {
+    "venue_id": "504e1a75-d3ab-49bd-8b49-64bc7d4dae2a",
+    "venue_name": "The Hive Executive Suites",
+    "latitude": 34.171356,
+    "longitude": -118.604553,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
     "venue_id": "d1739414-935b-46a6-b599-5864655149c9",
     "venue_name": "(WC2) Warner Center Towers",
-    "latitude": 34.178810119628906,
-    "longitude": -118.59982299804688,
+    "latitude": 34.17881,
+    "longitude": -118.599823,
     "reservations": 2,
     "spend": 200.0
   },
   {
     "venue_id": "b02081e1-2387-4ef2-a4d5-d649b3d99226",
     "venue_name": "(PAN) Panorama City",
-    "latitude": 34.221195220947266,
-    "longitude": -118.4491958618164,
+    "latitude": 34.221195,
+    "longitude": -118.449196,
     "reservations": 2,
     "spend": 200.0
   },
   {
     "venue_id": "067d1720-1a65-4379-934a-34fb3e4f4620",
     "venue_name": "W Suites at Warner Center",
-    "latitude": 34.19400405883789,
-    "longitude": -118.5997543334961,
+    "latitude": 34.194004,
+    "longitude": -118.599754,
     "reservations": 4,
     "spend": 196.0
   },
   {
     "venue_id": "a66b4fa4-73d6-4c1c-8f80-990e8d9798a2",
     "venue_name": "Alfi Trade Inc.",
-    "latitude": 34.02558898925781,
-    "longitude": -118.33978271484375,
+    "latitude": 34.025589,
+    "longitude": -118.339783,
     "reservations": 6,
     "spend": 165.0
   },
   {
+    "venue_id": "f9aabd0a-b602-4bcf-a5d2-60126fb7fb73",
+    "venue_name": "Regus || CA, Los Angeles - 12100 Wilshire Blvd",
+    "latitude": 34.043701,
+    "longitude": -118.468002,
+    "reservations": 1,
+    "spend": 128.16
+  },
+  {
+    "venue_id": "3fab11ac-99ff-4e28-bc47-8723c9195b92",
+    "venue_name": "Regus | West Los Angeles - Howard Hughes",
+    "latitude": 33.97826,
+    "longitude": -118.392136,
+    "reservations": 1,
+    "spend": 115.46
+  },
+  {
     "venue_id": "9e46b78c-dd0a-4ed8-b4cf-b9cc9b195f89",
     "venue_name": "SPACES || Fairfax",
-    "latitude": 34.073001861572266,
-    "longitude": -118.36199951171875,
+    "latitude": 34.073002,
+    "longitude": -118.362,
     "reservations": 2,
     "spend": 113.58
   },
   {
+    "venue_id": "7917e5c2-90eb-4070-9361-89543021c50b",
+    "venue_name": "(WH2) QWork Topanga",
+    "latitude": 34.184002,
+    "longitude": -118.607704,
+    "reservations": 1,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "0d28ede1-1a47-4beb-bb7c-0d62cdf5f204",
+    "venue_name": "SPACES | CA, Los Angeles - W Olympic Blvd",
+    "latitude": 34.032841,
+    "longitude": -118.450844,
+    "reservations": 1,
+    "spend": 80.01
+  },
+  {
+    "venue_id": "7b07c265-d19a-4ad7-91e6-f4908f86afbe",
+    "venue_name": "Regus || 1901 Avenue of the Stars",
+    "latitude": 34.059391,
+    "longitude": -118.417519,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
     "venue_id": "227f860d-207b-4c13-941e-f86b16d094fb",
     "venue_name": "BLANKSPACES Hollywood Sunset",
-    "latitude": 34.09772872924805,
-    "longitude": -118.33345794677734,
+    "latitude": 34.097729,
+    "longitude": -118.333458,
     "reservations": 2,
     "spend": 70.0
+  },
+  {
+    "venue_id": "215cfea7-d0f6-49b0-92fb-cef41eaf1fcf",
+    "venue_name": "WeWork | Constellation Place",
+    "latitude": 34.05732,
+    "longitude": -118.418251,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "a5ec1221-4875-4908-9680-43f4897b74c1",
+    "venue_name": "Wilshire 1001 Premium Flex Space & Coworking Solutions",
+    "latitude": 34.051807,
+    "longitude": -118.261391,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

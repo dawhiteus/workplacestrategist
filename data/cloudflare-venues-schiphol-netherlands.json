@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "26f8a652-9d2f-427c-a872-4e69a25110ab",
+    "venue_name": "SPACES | Schiphol Airport",
+    "latitude": 52.303894,
+    "longitude": 4.749793,
+    "reservations": 8,
+    "spend": 1512.64
+  },
+  {
+    "venue_id": "0f1836a5-0166-4f2c-943b-dd115b81711d",
+    "venue_name": "SPACES | Schiphol, Conference Schiphol Airport Terminal 1",
+    "latitude": 52.309029,
+    "longitude": 4.76451,
+    "reservations": 4,
+    "spend": 963.27
+  },
+  {
+    "venue_id": "6379c3de-17d7-4d92-a776-3dc6dd3d3161",
+    "venue_name": "Regus | Schiphol, Rijk",
+    "latitude": 52.277893,
+    "longitude": 4.745422,
+    "reservations": 1,
+    "spend": 31.37
+  }
+]

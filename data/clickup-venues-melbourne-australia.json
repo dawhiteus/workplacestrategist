@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "19d65ef4-1706-416a-8012-d2cf3b6bcb8d",
+    "venue_name": "CorporateCubes.Co - 607 Bourke Street",
+    "latitude": -37.816849,
+    "longitude": 144.955612,
+    "reservations": 2,
+    "spend": 887.56
+  },
+  {
+    "venue_id": "d14c30f6-19b4-459f-9c6e-063973ed8613",
+    "venue_name": "Regus | MELBOURNE, 180 Lonsdale Street",
+    "latitude": -37.8106,
+    "longitude": 144.966003,
+    "reservations": 1,
+    "spend": 346.29
+  },
+  {
+    "venue_id": "bf1eb570-b4ec-46be-933f-98f595bf918b",
+    "venue_name": "CorporateCubes.Co - 330 Collins Street",
+    "latitude": -37.816322,
+    "longitude": 144.963058,
+    "reservations": 1,
+    "spend": 258.16
+  },
+  {
+    "venue_id": "4588ea86-4d3e-4d1e-a759-135e94218a89",
+    "venue_name": "WeWork | 120 Spencer Street",
+    "latitude": -37.818211,
+    "longitude": 144.95433,
+    "reservations": 4,
+    "spend": 209.22
+  },
+  {
+    "venue_id": "907b544e-1575-4d29-9f85-d1d1f77f1b1c",
+    "venue_name": "SPACES | SPACES Box Hill",
+    "latitude": -37.819729,
+    "longitude": 145.119583,
+    "reservations": 1,
+    "spend": 99.18
+  }
+]

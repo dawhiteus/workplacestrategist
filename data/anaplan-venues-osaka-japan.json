@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "2ea01870-33a8-4d68-b260-c8c60e4c6058",
+    "venue_name": "Regus | Osaka, Signature Umeda",
+    "latitude": 34.701607,
+    "longitude": 135.498108,
+    "reservations": 6,
+    "spend": 772.22
+  },
+  {
+    "venue_id": "129d693a-2bd8-4611-9fa5-018c6cfb3260",
+    "venue_name": "Regus | Osaka, Twin Towers North",
+    "latitude": 34.702526,
+    "longitude": 135.499039,
+    "reservations": 3,
+    "spend": 306.16
+  },
+  {
+    "venue_id": "36ccd402-0f60-4758-b6f9-2b4a96949cc9",
+    "venue_name": "Regus | Osaka, Umeda",
+    "latitude": 34.703026,
+    "longitude": 135.49884,
+    "reservations": 2,
+    "spend": 285.29
+  },
+  {
+    "venue_id": "da984654-8d1a-4dc3-8910-4d8a773e6279",
+    "venue_name": "Regus | Osaka,Shin-Osaka Minami",
+    "latitude": 34.729881,
+    "longitude": 135.497513,
+    "reservations": 2,
+    "spend": 271.68
+  },
+  {
+    "venue_id": "dee851e3-2eaf-41e2-bba8-2b3b99e64d42",
+    "venue_name": "Regus | Osaka, Namba Parks",
+    "latitude": 34.661919,
+    "longitude": 135.501465,
+    "reservations": 1,
+    "spend": 217.5
+  },
+  {
+    "venue_id": "7f7241ea-d47c-4bc7-9ce2-fbf77c28ec11",
+    "venue_name": "Signature | Osaka, Signature Daibiru Main Building",
+    "latitude": 34.69334,
+    "longitude": 135.492859,
+    "reservations": 2,
+    "spend": 208.75
+  }
+]

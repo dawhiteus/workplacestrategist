@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "085099a0-9f23-482c-82f6-390cfae50168",
+    "venue_name": "Forge",
+    "latitude": 33.514259,
+    "longitude": -86.808144,
+    "reservations": 11,
+    "spend": 4755.0
+  },
+  {
+    "venue_id": "7d022ec2-1ca6-491d-9b64-0e8baf3b6442",
+    "venue_name": "Regus || SouthBridge Center",
+    "latitude": 33.488007,
+    "longitude": -86.789963,
+    "reservations": 1,
+    "spend": 84.0
+  }
+]

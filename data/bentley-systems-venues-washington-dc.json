@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "4e9cbe0e-f0f8-4040-b781-ae6691e709b6",
+    "venue_name": "District Offices Farragut",
+    "latitude": 38.903351,
+    "longitude": -77.039268,
+    "reservations": 1,
+    "spend": 477.0
+  },
+  {
+    "venue_id": "d46df81f-5431-4578-b81f-61758ded83b7",
+    "venue_name": "Regus | Capitol Riverfront",
+    "latitude": 38.876499,
+    "longitude": -77.005203,
+    "reservations": 1,
+    "spend": 456.0
+  },
+  {
+    "venue_id": "984118c2-42ae-4c39-8cb6-2233fc944384",
+    "venue_name": "Carr Workplaces - K Street",
+    "latitude": 38.902649,
+    "longitude": -77.040543,
+    "reservations": 1,
+    "spend": 320.0
+  },
+  {
+    "venue_id": "afc6f147-75b9-4d5b-a261-04eb0cd6be59",
+    "venue_name": "Oval Offices DC",
+    "latitude": 38.900467,
+    "longitude": -77.038536,
+    "reservations": 1,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "bf2946c2-26c9-43b1-b6f4-c75e645923f5",
+    "venue_name": "Carr Workplaces - Capitol Hill",
+    "latitude": 38.894432,
+    "longitude": -77.011581,
+    "reservations": 1,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "329a5d9b-3940-4ed5-8a6f-4b6fdfed46ec",
+    "venue_name": "Trustpoint One Court Reporting",
+    "latitude": 38.903553,
+    "longitude": -77.032837,
+    "reservations": 1,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "796f43d4-0a91-4719-a601-affc392f1795",
+    "venue_name": "The Yard: Eastern Market",
+    "latitude": 38.884487,
+    "longitude": -76.995438,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

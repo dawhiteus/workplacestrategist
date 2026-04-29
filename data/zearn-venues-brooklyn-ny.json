@@ -2,41 +2,49 @@
   {
     "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
     "venue_name": "Bond Collective Greenpoint",
-    "latitude": 40.73026657104492,
-    "longitude": -73.94893646240234,
+    "latitude": 40.730267,
+    "longitude": -73.948936,
     "reservations": 32,
     "spend": 1055.0
   },
   {
     "venue_id": "9230be32-9347-462d-97c7-697ce8bd8a7b",
     "venue_name": "WeWork | Montague St.",
-    "latitude": 40.694313049316406,
-    "longitude": -73.99110412597656,
+    "latitude": 40.694313,
+    "longitude": -73.991104,
     "reservations": 13,
     "spend": 611.0
   },
   {
     "venue_id": "eedf307c-d603-4e27-b9fb-ee697ffecba4",
     "venue_name": "Bond Collective Bushwick",
-    "latitude": 40.699249267578125,
-    "longitude": -73.93836975097656,
+    "latitude": 40.699249,
+    "longitude": -73.93837,
     "reservations": 11,
     "spend": 295.0
   },
   {
     "venue_id": "27c2f659-0166-46d6-97c5-d31dcdc345c0",
     "venue_name": "Bond Collective - Vinegar Hill",
-    "latitude": 40.70233917236328,
-    "longitude": -73.98157501220703,
+    "latitude": 40.702339,
+    "longitude": -73.981575,
     "reservations": 7,
     "spend": 225.0
   },
   {
     "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
     "venue_name": "Mindspace Williamsburg",
-    "latitude": 40.722930908203125,
-    "longitude": -73.95780181884766,
+    "latitude": 40.722931,
+    "longitude": -73.957802,
     "reservations": 8,
     "spend": 80.0
+  },
+  {
+    "venue_id": "5a4774c6-62dd-4d44-b944-311d892fb24f",
+    "venue_name": "The Yard: Gowanus",
+    "latitude": 40.66877,
+    "longitude": -73.992439,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

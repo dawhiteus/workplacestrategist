@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ebb7a926-fa62-4b39-bc73-4d30158c5ea3",
+    "venue_name": "Regus | NAGOYA, Meieki",
+    "latitude": 35.17115,
+    "longitude": 136.885483,
+    "reservations": 1,
+    "spend": 295.8
+  },
+  {
+    "venue_id": "885693a6-254d-45b2-82ff-974f4ce33c22",
+    "venue_name": "SPACES | JP Tower Nagoya",
+    "latitude": 35.172798,
+    "longitude": 136.880997,
+    "reservations": 2,
+    "spend": 240.87
+  },
+  {
+    "venue_id": "a941196f-d1d5-4843-b21c-fb9cbae82d0e",
+    "venue_name": "Regus | Nagoya KDX Ekimae Building",
+    "latitude": 35.172131,
+    "longitude": 136.885391,
+    "reservations": 1,
+    "spend": 33.56
+  }
+]

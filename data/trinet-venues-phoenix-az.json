@@ -2,9 +2,17 @@
   {
     "venue_id": "8b1b43ff-8c7a-4cc8-aeb5-f0ddaab1dc8a",
     "venue_name": "Expansive - Midtown",
-    "latitude": 33.47997283935547,
-    "longitude": -112.07450866699219,
+    "latitude": 33.479973,
+    "longitude": -112.074509,
     "reservations": 4,
     "spend": 448.0
+  },
+  {
+    "venue_id": "369629a7-4ac1-4258-9816-ef5e849fb5e5",
+    "venue_name": "Workuity",
+    "latitude": 33.509686,
+    "longitude": -112.031685,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

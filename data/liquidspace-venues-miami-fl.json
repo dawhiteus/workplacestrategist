@@ -2,9 +2,41 @@
   {
     "venue_id": "66128208-7501-422a-ba39-4a5b48386018",
     "venue_name": "Expansive - Biscayne",
-    "latitude": 25.797971725463867,
-    "longitude": -80.18850708007812,
+    "latitude": 25.797972,
+    "longitude": -80.188507,
     "reservations": 5,
     "spend": 169.0
+  },
+  {
+    "venue_id": "adce5b7e-1fc9-4486-98f5-a66dc5c2739b",
+    "venue_name": "Work Plus Office",
+    "latitude": 25.764019,
+    "longitude": -80.19178,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "4b670cdc-c37f-4308-95f1-d7cc092f7b85",
+    "venue_name": "Tedge Mindful Coworking",
+    "latitude": 25.808411,
+    "longitude": -80.194069,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "e232e8c2-70da-4f97-b43c-1b800e43ef2e",
+    "venue_name": "WeWork | Wynwood Garage",
+    "latitude": 25.801878,
+    "longitude": -80.201698,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "b24ac095-9b7b-46a6-82ea-45d109fb6cda",
+    "venue_name": "Mindspace Wynwood ",
+    "latitude": 25.804304,
+    "longitude": -80.195572,
+    "reservations": 1,
+    "spend": 45.0
   }
 ]

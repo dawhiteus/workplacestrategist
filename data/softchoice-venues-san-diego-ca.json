@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "f10d0052-5ed7-404b-b6c9-3c1e60704c0c",
+    "venue_name": "655 West Broadway",
+    "latitude": 32.715172,
+    "longitude": -117.168655,
+    "reservations": 1,
+    "spend": 693.0
+  },
+  {
+    "venue_id": "303dd5ed-7451-4ab2-8c08-0515f3273c18",
+    "venue_name": "Downtown Works Mission Valley",
+    "latitude": 32.777435,
+    "longitude": -117.117294,
+    "reservations": 1,
+    "spend": 275.0
+  },
+  {
+    "venue_id": "63c74062-0f4f-40c1-8136-69a640f34772",
+    "venue_name": "Hera Hub - San Diego",
+    "latitude": 32.896042,
+    "longitude": -117.187515,
+    "reservations": 1,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "6d606640-05a7-4749-a9e2-d56d9a58078e",
+    "venue_name": "NEST CoWork",
+    "latitude": 32.724781,
+    "longitude": -117.163589,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "cb5b6511-d665-4625-84c9-a9a6143dffd0",
+    "venue_name": "Downtown Works Pacific Beach",
+    "latitude": 32.798626,
+    "longitude": -117.240768,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

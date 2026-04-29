@@ -2,193 +2,289 @@
   {
     "venue_id": "2d4adf28-ced4-4722-80c3-63bda895dcb0",
     "venue_name": "Jay Suites - Fifth Avenue Location",
-    "latitude": 40.75160598754883,
-    "longitude": -73.98368835449219,
+    "latitude": 40.751606,
+    "longitude": -73.983688,
     "reservations": 45,
     "spend": 56550.0
   },
   {
     "venue_id": "b1d6bd96-f117-49bf-889a-9536ce86b9af",
     "venue_name": "Nomadworks | Times Square",
-    "latitude": 40.75526809692383,
-    "longitude": -73.98958587646484,
-    "reservations": 43,
-    "spend": 39160.0
+    "latitude": 40.755268,
+    "longitude": -73.989586,
+    "reservations": 45,
+    "spend": 41310.0
   },
   {
     "venue_id": "e4d1cbe7-1840-4c34-8847-7e42e215c8ee",
     "venue_name": "Jay Suites - Times Square - 10 Times Sq.",
-    "latitude": 40.75497817993164,
-    "longitude": -73.98719024658203,
-    "reservations": 35,
-    "spend": 30675.0
+    "latitude": 40.754978,
+    "longitude": -73.98719,
+    "reservations": 37,
+    "spend": 32520.0
   },
   {
     "venue_id": "532868a6-52e0-40e2-be4d-74196e01f2e4",
     "venue_name": "Jay Conference - Bryant Park Conference Center",
-    "latitude": 40.75345993041992,
-    "longitude": -73.98589324951172,
+    "latitude": 40.75346,
+    "longitude": -73.985893,
     "reservations": 11,
     "spend": 29200.0
   },
   {
     "venue_id": "bce0be91-251d-4fbd-aa86-3ef51252d1fa",
     "venue_name": "Jay Conference Bryant Park - Conference & Event Space",
-    "latitude": 40.75349044799805,
-    "longitude": -73.98597717285156,
+    "latitude": 40.75349,
+    "longitude": -73.985977,
     "reservations": 19,
     "spend": 18625.0
   },
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 19,
     "spend": 18020.0
   },
   {
+    "venue_id": "1a323ea9-4171-4680-9c1d-ae60a0fadbff",
+    "venue_name": "Jay Suites Bryant Park - 1441 Broadway",
+    "latitude": 40.754822,
+    "longitude": -73.986916,
+    "reservations": 14,
+    "spend": 11580.0
+  },
+  {
     "venue_id": "87e32669-b731-4ff5-8291-42b5d8b67576",
     "venue_name": "ElevatedNY",
-    "latitude": 40.75577163696289,
-    "longitude": -73.9831771850586,
+    "latitude": 40.755772,
+    "longitude": -73.983177,
     "reservations": 17,
     "spend": 11520.0
   },
   {
-    "venue_id": "1a323ea9-4171-4680-9c1d-ae60a0fadbff",
-    "venue_name": "Jay Suites Bryant Park - 1441 Broadway",
-    "latitude": 40.75482177734375,
-    "longitude": -73.9869155883789,
-    "reservations": 13,
-    "spend": 10780.0
-  },
-  {
     "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
     "venue_name": "Emerge212 - 125 Park Avenue",
-    "latitude": 40.75178909301758,
-    "longitude": -73.97736358642578,
+    "latitude": 40.751789,
+    "longitude": -73.977364,
     "reservations": 6,
     "spend": 7250.0
   },
   {
     "venue_id": "405541da-87dd-4847-9f75-f272c9e2c613",
     "venue_name": "OASIS by Workville",
-    "latitude": 40.75334548950195,
-    "longitude": -73.99360656738281,
+    "latitude": 40.753345,
+    "longitude": -73.993607,
     "reservations": 2,
     "spend": 6500.0
   },
   {
     "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
     "venue_name": "Nomadworks",
-    "latitude": 40.74652099609375,
-    "longitude": -73.98805236816406,
+    "latitude": 40.746521,
+    "longitude": -73.988052,
     "reservations": 7,
     "spend": 4905.0
   },
   {
     "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
     "venue_name": "Blender Workspace",
-    "latitude": 40.745994567871094,
-    "longitude": -73.98397827148438,
+    "latitude": 40.745995,
+    "longitude": -73.983978,
     "reservations": 2,
     "spend": 3520.0
   },
   {
     "venue_id": "2b80d81d-e78d-4f1c-89f1-32ca6d984459",
     "venue_name": "Jay Conference  - Empire",
-    "latitude": 40.751129150390625,
-    "longitude": -73.98359680175781,
+    "latitude": 40.751129,
+    "longitude": -73.983597,
     "reservations": 2,
     "spend": 3500.0
   },
   {
     "venue_id": "7d5a14e7-8fdc-4e0c-9d97-7d8d3cb384f3",
     "venue_name": "Grand Central Offices",
-    "latitude": 40.756141662597656,
-    "longitude": -73.98283386230469,
+    "latitude": 40.756142,
+    "longitude": -73.982834,
     "reservations": 7,
     "spend": 3465.0
   },
   {
     "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
     "venue_name": "Serendipity Labs - New York - Grand Central",
-    "latitude": 40.750938415527344,
-    "longitude": -73.97350311279297,
+    "latitude": 40.750938,
+    "longitude": -73.973503,
     "reservations": 5,
     "spend": 3213.0
   },
   {
     "venue_id": "52d81a69-bad3-4148-9fb6-e8684dabc3b5",
     "venue_name": "WeWork | 1460 Broadway",
-    "latitude": 40.755104064941406,
-    "longitude": -73.9862060546875,
+    "latitude": 40.755104,
+    "longitude": -73.986206,
     "reservations": 3,
     "spend": 2684.4
   },
   {
     "venue_id": "edf7d0a3-4efe-466b-b842-c1b73e69f19a",
     "venue_name": "Emerge212 - 1185 Avenue of the Americas",
-    "latitude": 40.757877349853516,
-    "longitude": -73.982421875,
+    "latitude": 40.757877,
+    "longitude": -73.982422,
     "reservations": 2,
     "spend": 2520.0
   },
   {
     "venue_id": "b69e0a98-f12b-4462-9a55-e55bd97dade8",
     "venue_name": "Carr Workplaces - Central Park",
-    "latitude": 40.76327133178711,
-    "longitude": -73.97354888916016,
+    "latitude": 40.763271,
+    "longitude": -73.973549,
     "reservations": 2,
     "spend": 2280.0
   },
   {
     "venue_id": "406f9611-22f1-4a90-a67d-b6453652b272",
     "venue_name": "Jay Suites - Wall Street",
-    "latitude": 40.70626449584961,
-    "longitude": -74.00985717773438,
+    "latitude": 40.706264,
+    "longitude": -74.009857,
     "reservations": 3,
     "spend": 2250.0
   },
   {
+    "venue_id": "74cc3ddd-c504-4d7c-a26f-b4fdf51d1bf9",
+    "venue_name": "Industrious - 261 Madison Ave",
+    "latitude": 40.750504,
+    "longitude": -73.980644,
+    "reservations": 1,
+    "spend": 1840.0
+  },
+  {
     "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
     "venue_name": "Workville",
-    "latitude": 40.753639221191406,
-    "longitude": -73.98652648925781,
+    "latitude": 40.753639,
+    "longitude": -73.986526,
     "reservations": 3,
     "spend": 1725.0
   },
   {
+    "venue_id": "d559069c-8c87-4be8-a009-a6f0603ef003",
+    "venue_name": "WeWork | 500 7th Avenue",
+    "latitude": 40.753208,
+    "longitude": -73.989326,
+    "reservations": 1,
+    "spend": 1699.2
+  },
+  {
+    "venue_id": "8bfb8d8b-0a09-46c5-9762-240af0cbdba9",
+    "venue_name": "NYC Seminar & Conference Center",
+    "latitude": 40.744976,
+    "longitude": -73.992424,
+    "reservations": 1,
+    "spend": 1560.0
+  },
+  {
     "venue_id": "50a8ca07-6698-4e08-8c58-ab3d0818292d",
     "venue_name": "Executive Offices of New York",
-    "latitude": 40.751953125,
-    "longitude": -73.98945617675781,
+    "latitude": 40.751953,
+    "longitude": -73.989456,
     "reservations": 2,
     "spend": 1500.0
   },
   {
     "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
     "venue_name": "Workspace by Rockefeller Group",
-    "latitude": 40.7594108581543,
-    "longitude": -73.97814178466797,
+    "latitude": 40.759411,
+    "longitude": -73.978142,
     "reservations": 2,
     "spend": 1500.0
   },
   {
+    "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
+    "venue_name": "The Malin Flatiron",
+    "latitude": 40.738895,
+    "longitude": -73.98999,
+    "reservations": 1,
+    "spend": 1400.0
+  },
+  {
+    "venue_id": "3cc3edd7-0d31-4ab2-8576-d9eff002e831",
+    "venue_name": "Studio 1418 | 307 west 38th Street ",
+    "latitude": 40.755146,
+    "longitude": -73.992325,
+    "reservations": 1,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "d28472ad-a2c9-4dbb-8242-5190d2d7e289",
+    "venue_name": "Jay Suites - Grand Central",
+    "latitude": 40.75058,
+    "longitude": -73.976433,
+    "reservations": 1,
+    "spend": 1000.0
+  },
+  {
     "venue_id": "066fd252-005a-4b48-ba51-993c42297119",
     "venue_name": "Jay Suites - Madison Avenue",
-    "latitude": 40.752201080322266,
-    "longitude": -73.97914123535156,
+    "latitude": 40.752201,
+    "longitude": -73.979141,
     "reservations": 2,
     "spend": 900.0
   },
   {
+    "venue_id": "651c60d9-d06d-4899-bdf4-941c7a907048",
+    "venue_name": "NYC Office Suites - 1350 6th Ave",
+    "latitude": 40.762791,
+    "longitude": -73.977951,
+    "reservations": 1,
+    "spend": 774.0
+  },
+  {
+    "venue_id": "71dcd609-3551-45cd-8adb-1bd811a52cc0",
+    "venue_name": "Hines | The Square at 205 Hudson Street",
+    "latitude": 40.723728,
+    "longitude": -74.008438,
+    "reservations": 1,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
+    "venue_name": "Jay Suites - Midtown East",
+    "latitude": 40.759789,
+    "longitude": -73.973755,
+    "reservations": 1,
+    "spend": 680.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825,
+    "longitude": -74.013031,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "75bace0f-4527-43e7-9643-b24478381e9f",
+    "venue_name": "Helix Workspace - 535 Fifth Avenue",
+    "latitude": 40.754902,
+    "longitude": -73.979492,
+    "reservations": 1,
+    "spend": 475.0
+  },
+  {
     "venue_id": "03eb6821-13f2-4924-91d6-6f273595e966",
     "venue_name": "Select Office Suites - 1115 Broadway Flatiron NYC",
-    "latitude": 40.74293899536133,
-    "longitude": -73.98927307128906,
+    "latitude": 40.742939,
+    "longitude": -73.989273,
     "reservations": 2,
     "spend": 300.0
+  },
+  {
+    "venue_id": "6e77acc5-52c2-4eb4-951f-8e5066613daa",
+    "venue_name": "TKO Suites  - 307 West 38th Street",
+    "latitude": 40.755146,
+    "longitude": -73.992325,
+    "reservations": 1,
+    "spend": 185.0
   }
 ]

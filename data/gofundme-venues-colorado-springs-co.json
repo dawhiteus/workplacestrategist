@@ -2,9 +2,25 @@
   {
     "venue_id": "8b08e7e8-9efa-4b62-8508-4d1761a9d311",
     "venue_name": "Novellus Digital",
-    "latitude": 38.83478546142578,
-    "longitude": -104.81684875488281,
+    "latitude": 38.834785,
+    "longitude": -104.816849,
     "reservations": 87,
     "spend": 7355.0
+  },
+  {
+    "venue_id": "0c87cbaa-0e96-4432-bf8c-042a4f202efb",
+    "venue_name": "Regus || Colorado Springs Briargate",
+    "latitude": 38.95966,
+    "longitude": -104.797104,
+    "reservations": 1,
+    "spend": 83.0
+  },
+  {
+    "venue_id": "bb4c8df7-b653-40ee-a4ea-0eeddb0b55d9",
+    "venue_name": "Two-One-Nine Working Commons",
+    "latitude": 38.832184,
+    "longitude": -104.820724,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

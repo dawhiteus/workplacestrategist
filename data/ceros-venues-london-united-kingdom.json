@@ -1,0 +1,234 @@
+[
+  {
+    "venue_id": "34955a55-35eb-4b50-9285-be7a04ae4317",
+    "venue_name": "WeWork | Aviation House",
+    "latitude": 51.517208,
+    "longitude": -0.120691,
+    "reservations": 22,
+    "spend": 12856.71
+  },
+  {
+    "venue_id": "61165ffb-a061-4829-adce-e6ff76d1a064",
+    "venue_name": "WeWork | 120 Moorgate",
+    "latitude": 51.518875,
+    "longitude": -0.08759,
+    "reservations": 53,
+    "spend": 12789.15
+  },
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 36,
+    "spend": 3675.24
+  },
+  {
+    "venue_id": "aa7f8ec2-eb17-4e61-bafd-57645a705b0d",
+    "venue_name": "WeWork | 2 Minster Court",
+    "latitude": 51.510757,
+    "longitude": -0.081093,
+    "reservations": 9,
+    "spend": 3575.94
+  },
+  {
+    "venue_id": "939939cd-7c83-4995-94a0-959d4a986abd",
+    "venue_name": "WeWork | 3 Waterhouse Square",
+    "latitude": 51.518215,
+    "longitude": -0.109867,
+    "reservations": 2,
+    "spend": 1750.53
+  },
+  {
+    "venue_id": "4c8b896b-e7a9-4ea1-9a4d-cb12abf972dd",
+    "venue_name": "WeWork | The Monument",
+    "latitude": 51.510559,
+    "longitude": -0.08257,
+    "reservations": 17,
+    "spend": 1092.85
+  },
+  {
+    "venue_id": "b568208e-0d99-447d-8681-5394f636fd60",
+    "venue_name": "Regus | Liverpool Street New Broad Street",
+    "latitude": 51.516933,
+    "longitude": -0.083751,
+    "reservations": 2,
+    "spend": 756.06
+  },
+  {
+    "venue_id": "f2a39d8a-6ee9-4f75-b741-963d617c045e",
+    "venue_name": "Regus | London, London Bridge - The News Building",
+    "latitude": 51.505104,
+    "longitude": -0.087791,
+    "reservations": 2,
+    "spend": 544.76
+  },
+  {
+    "venue_id": "52cbfea7-ac19-43ca-87ff-95cadd3db4e1",
+    "venue_name": "WeWork | 10 York Rd",
+    "latitude": 51.503754,
+    "longitude": -0.115972,
+    "reservations": 2,
+    "spend": 417.13
+  },
+  {
+    "venue_id": "cb16de05-3486-418b-9233-d6c11fc86de8",
+    "venue_name": "beyond | The Bower",
+    "latitude": 51.525925,
+    "longitude": -0.088666,
+    "reservations": 2,
+    "spend": 343.86
+  },
+  {
+    "venue_id": "1da9e8e5-e392-4d14-ae8b-9ad5a18cff21",
+    "venue_name": "beyond | Aldgate Tower",
+    "latitude": 51.514816,
+    "longitude": -0.071754,
+    "reservations": 5,
+    "spend": 323.33
+  },
+  {
+    "venue_id": "a099d3e5-a345-420b-8251-8f9d156e5fd0",
+    "venue_name": "WeWork | 30 Churchill Place",
+    "latitude": 51.503986,
+    "longitude": -0.014964,
+    "reservations": 4,
+    "spend": 215.89
+  },
+  {
+    "venue_id": "5281345f-94bd-4ad0-83e0-472c6829fb72",
+    "venue_name": "WeWork | 1 Mark Sq",
+    "latitude": 51.524426,
+    "longitude": -0.08229,
+    "reservations": 3,
+    "spend": 186.44
+  },
+  {
+    "venue_id": "74b5fd86-7e0d-4674-bcde-6311840f1181",
+    "venue_name": "Landmark | Liverpool Street",
+    "latitude": 51.517399,
+    "longitude": -0.080142,
+    "reservations": 2,
+    "spend": 120.09
+  },
+  {
+    "venue_id": "36e12e41-9d98-4f4f-94bc-2fe081c5915b",
+    "venue_name": "The Factory London",
+    "latitude": 51.531181,
+    "longitude": 0.019685,
+    "reservations": 1,
+    "spend": 115.52
+  },
+  {
+    "venue_id": "4d60c014-1217-4e97-abfb-d7dd66b881b4",
+    "venue_name": "Landmark | Kings Cross",
+    "latitude": 51.530693,
+    "longitude": -0.121266,
+    "reservations": 2,
+    "spend": 112.9
+  },
+  {
+    "venue_id": "6ca1d1fd-7c8d-4219-a9bc-e1e68ca68460",
+    "venue_name": "WeWork | No 1 Poultry",
+    "latitude": 51.513489,
+    "longitude": -0.091183,
+    "reservations": 1,
+    "spend": 88.01
+  },
+  {
+    "venue_id": "cbcc9f36-b3ac-4bc0-866e-19c65b08b5aa",
+    "venue_name": "WeWork | 8 Devonshire Square",
+    "latitude": 51.516899,
+    "longitude": -0.077955,
+    "reservations": 1,
+    "spend": 86.95
+  },
+  {
+    "venue_id": "2d4135f0-c80d-41e3-ac52-77e9aae49962",
+    "venue_name": "Regus | Canary Wharf Cabot Square",
+    "latitude": 51.504799,
+    "longitude": -0.0239,
+    "reservations": 1,
+    "spend": 81.31
+  },
+  {
+    "venue_id": "6818fafa-1b2e-44f9-847b-290013aa5684",
+    "venue_name": "Regus | Victoria Station",
+    "latitude": 51.495285,
+    "longitude": -0.142574,
+    "reservations": 1,
+    "spend": 76.88
+  },
+  {
+    "venue_id": "c2004eae-bf9d-4ce6-b33c-1d7b9d1dd869",
+    "venue_name": "WeWork | North West House",
+    "latitude": 51.521133,
+    "longitude": -0.161224,
+    "reservations": 1,
+    "spend": 71.93
+  },
+  {
+    "venue_id": "88bd4366-da10-4a9a-91fb-1d6e8e206d0d",
+    "venue_name": "WeWork | 184 Shepherds Bush Rd",
+    "latitude": 51.495934,
+    "longitude": -0.223966,
+    "reservations": 1,
+    "spend": 68.89
+  },
+  {
+    "venue_id": "98628c22-679b-40b9-897d-1b336b70b769",
+    "venue_name": "Landmark | Farringdon",
+    "latitude": 51.517365,
+    "longitude": -0.101677,
+    "reservations": 1,
+    "spend": 61.49
+  },
+  {
+    "venue_id": "b7798c14-cc1e-470b-9db7-55e9501c4181",
+    "venue_name": "Landmark | Gracechurch Street",
+    "latitude": 51.511154,
+    "longitude": -0.085847,
+    "reservations": 1,
+    "spend": 59.08
+  },
+  {
+    "venue_id": "753dfcc8-2b37-47e9-8495-a16126da01a9",
+    "venue_name": "Landmark | Bevis Marks",
+    "latitude": 51.515121,
+    "longitude": -0.079501,
+    "reservations": 1,
+    "spend": 54.12
+  },
+  {
+    "venue_id": "4f126724-9932-4750-ac09-71c219313090",
+    "venue_name": "WeWork | 33 Queen St",
+    "latitude": 51.511566,
+    "longitude": -0.093322,
+    "reservations": 1,
+    "spend": 40.09
+  },
+  {
+    "venue_id": "0b930fa3-1e09-4a5f-a7cf-f6b2310852bf",
+    "venue_name": "TYPE Sierra Quebec Bravo",
+    "latitude": 51.500809,
+    "longitude": -0.016609,
+    "reservations": 1,
+    "spend": 39.1
+  },
+  {
+    "venue_id": "c03c9e5e-50e1-459d-ac19-89e86d06214d",
+    "venue_name": "Shoreditch Exchange",
+    "latitude": 51.530167,
+    "longitude": -0.075507,
+    "reservations": 1,
+    "spend": 37.91
+  },
+  {
+    "venue_id": "cddc0d26-e877-4a1d-9363-c3ab1d078183",
+    "venue_name": "easyHub | Chelsea",
+    "latitude": 51.486588,
+    "longitude": -0.180189,
+    "reservations": 1,
+    "spend": 34.02
+  }
+]

@@ -1,26 +1,130 @@
 [
   {
     "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
-    "venue_name": "The Malin Nomad",
-    "latitude": 40.74280548095703,
-    "longitude": -73.98406219482422,
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.742805,
+    "longitude": -73.984062,
     "reservations": 5,
     "spend": 352.5
   },
   {
     "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
     "venue_name": "WeWork | 368 9th Ave",
-    "latitude": 40.751068115234375,
-    "longitude": -73.99771881103516,
+    "latitude": 40.751068,
+    "longitude": -73.997719,
     "reservations": 4,
     "spend": 188.0
   },
   {
     "venue_id": "da075775-0b2b-4bc7-bdda-96b4aa5ffc19",
     "venue_name": "WeWork | 115 Broadway",
-    "latitude": 40.70888137817383,
-    "longitude": -74.01142883300781,
+    "latitude": 40.708881,
+    "longitude": -74.011429,
     "reservations": 5,
     "spend": 175.0
+  },
+  {
+    "venue_id": "e4598564-7418-4413-b1bc-11378963715f",
+    "venue_name": "WeWork | 154 W 14th St",
+    "latitude": 40.738373,
+    "longitude": -73.999573,
+    "reservations": 2,
+    "spend": 118.0
+  },
+  {
+    "venue_id": "98bed0ab-96d5-48f5-bd08-897beda3267d",
+    "venue_name": "WeWork | 750 Lexington",
+    "latitude": 40.762691,
+    "longitude": -73.968262,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004,
+    "longitude": -74.001396,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.734024,
+    "longitude": -74.007866,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "f533cbcb-e1d5-4226-a28d-82e1fd479fa9",
+    "venue_name": "WeWork | 33 Irving Pl",
+    "latitude": 40.735138,
+    "longitude": -73.988243,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "49abea9b-f38a-4f0f-8d9b-06d21bcd4407",
+    "venue_name": "Gravel Road Business Executive Suites",
+    "latitude": 40.750992,
+    "longitude": -73.981125,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "430b1dd9-58b0-47c5-81ea-ec701133c894",
+    "venue_name": "WeWork | 450 Park Ave S",
+    "latitude": 40.745033,
+    "longitude": -73.983154,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "e143208a-de9c-4543-b7bd-e534ad25f34f",
+    "venue_name": "WeWork | 430 Park Avenue",
+    "latitude": 40.760799,
+    "longitude": -73.971764,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "7264e559-cece-4400-b21c-facc38cb69e2",
+    "venue_name": "WeWork | 160 Varick Street",
+    "latitude": 40.726715,
+    "longitude": -74.005272,
+    "reservations": 1,
+    "spend": 45.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.756721,
+    "longitude": -73.980042,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "dc4a9483-dcbc-4d47-92aa-5a3b19d9057d",
+    "venue_name": "Servcorp - Financial District NYC",
+    "latitude": 40.702831,
+    "longitude": -74.013947,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
+    "venue_name": "The Yard: Lower East Side NYC",
+    "latitude": 40.718731,
+    "longitude": -73.989693,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

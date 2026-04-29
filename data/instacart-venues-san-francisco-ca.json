@@ -2,9 +2,33 @@
   {
     "venue_id": "d5fe14f4-1035-4935-9a57-b472b20703b4",
     "venue_name": "Townsend Enterprises",
-    "latitude": 37.77622604370117,
-    "longitude": -122.3965072631836,
+    "latitude": 37.776226,
+    "longitude": -122.396507,
     "reservations": 4,
     "spend": 3500.0
+  },
+  {
+    "venue_id": "f72cde54-9da2-4516-886d-63cd8909b57d",
+    "venue_name": "Regus || Mid-Market",
+    "latitude": 37.777298,
+    "longitude": -122.417015,
+    "reservations": 1,
+    "spend": 1333.55
+  },
+  {
+    "venue_id": "b902ba95-7112-473d-be56-491a85029d66",
+    "venue_name": "Rae Studios",
+    "latitude": 37.787498,
+    "longitude": -122.409721,
+    "reservations": 1,
+    "spend": 1000.0
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.791389,
+    "longitude": -122.392151,
+    "reservations": 1,
+    "spend": 270.0
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ce382482-6ca1-4f1b-94fa-6548f65c4c34",
+    "venue_name": "Regus | Corner Market at Almand Creek",
+    "latitude": 33.643372,
+    "longitude": -84.023376,
+    "reservations": 4,
+    "spend": 204.75
+  },
+  {
+    "venue_id": "b250caa3-80db-459a-ba1c-c5f24c21c647",
+    "venue_name": "My Conyers Office",
+    "latitude": 33.677898,
+    "longitude": -84.008339,
+    "reservations": 2,
+    "spend": 155.0
+  }
+]

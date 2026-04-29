@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ec65b9f1-f3be-42d2-b543-7ee08a2652d6",
+    "venue_name": "WeWork | Hanse Forum",
+    "latitude": 53.552124,
+    "longitude": 9.984469,
+    "reservations": 3,
+    "spend": 168.32
+  },
+  {
+    "venue_id": "ac18eb69-f3fe-4b1e-8149-5d32dbb77056",
+    "venue_name": "WeWork | Gerhofstrasse 1-3",
+    "latitude": 53.55444,
+    "longitude": 9.988632,
+    "reservations": 2,
+    "spend": 111.87
+  }
+]

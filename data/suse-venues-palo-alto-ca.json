@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6bdc09a0-8a25-4358-a3bb-21ef45d4ab08",
+    "venue_name": "Venture Dock",
+    "latitude": 37.449215,
+    "longitude": -122.158775,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "e2dcf6f1-ca8a-4d73-805d-cbe362952916",
+    "venue_name": "Regus || Embarcadero Place",
+    "latitude": 37.450901,
+    "longitude": -122.121002,
+    "reservations": 1,
+    "spend": 29.63
+  }
+]

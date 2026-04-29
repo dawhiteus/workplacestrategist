@@ -2,9 +2,17 @@
   {
     "venue_id": "32107d80-3350-4e59-a159-e92073950451",
     "venue_name": "HQ | TX, San Antonio - Trailcrest",
-    "latitude": 29.609479904174805,
-    "longitude": -98.47477722167969,
+    "latitude": 29.60948,
+    "longitude": -98.474777,
     "reservations": 9,
     "spend": 1168.3
+  },
+  {
+    "venue_id": "0a3bde41-cac9-44c7-bc61-dbc5e67b4c7f",
+    "venue_name": "Office Evolution - San Antonio Sonterra",
+    "latitude": 29.606682,
+    "longitude": -98.521515,
+    "reservations": 1,
+    "spend": 450.0
   }
 ]

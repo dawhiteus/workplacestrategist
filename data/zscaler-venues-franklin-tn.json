@@ -2,17 +2,49 @@
   {
     "venue_id": "e571a0c7-2ff1-4c1c-8f81-732966510aea",
     "venue_name": "SPACES | Mallory",
-    "latitude": 35.940582275390625,
-    "longitude": -86.82262420654297,
+    "latitude": 35.940582,
+    "longitude": -86.822624,
     "reservations": 9,
     "spend": 4785.38
   },
   {
     "venue_id": "a8efdb28-0f74-49fe-80aa-7fc0224e2576",
     "venue_name": "Regus | TN, Franklin - Cool Springs",
-    "latitude": 35.94389724731445,
-    "longitude": -86.80619812011719,
+    "latitude": 35.943897,
+    "longitude": -86.806198,
     "reservations": 11,
     "spend": 2032.64
+  },
+  {
+    "venue_id": "0ef108f8-5689-4ab2-8f2f-2bfe62722fc1",
+    "venue_name": "Spectrum Software, Franklin",
+    "latitude": 35.943336,
+    "longitude": -86.807457,
+    "reservations": 2,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "1b88e6de-f5bd-41d3-b10f-e2b4dbb8171e",
+    "venue_name": "e|spaces Franklin Square",
+    "latitude": 35.925331,
+    "longitude": -86.868286,
+    "reservations": 1,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "1b487359-98ea-4013-b596-4789bb663aa3",
+    "venue_name": "HQ | TN, Franklin - Hospitality Dr",
+    "latitude": 35.910824,
+    "longitude": -86.816307,
+    "reservations": 1,
+    "spend": 238.0
+  },
+  {
+    "venue_id": "bfdaaad1-3508-4166-af4a-b6a7ba7d9cb9",
+    "venue_name": "Regus | TN, Franklin -  Meridian Cool Springs",
+    "latitude": 35.9515,
+    "longitude": -86.809303,
+    "reservations": 1,
+    "spend": 80.82
   }
 ]

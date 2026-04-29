@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "41d5c1e8-3249-462b-8fae-5cd23d3ef4da",
+    "venue_name": "The Executive Centre - JP Tower",
+    "latitude": 35.679844,
+    "longitude": 139.764725,
+    "reservations": 17,
+    "spend": 1116.15
+  },
+  {
+    "venue_id": "daf1ec65-8c88-4235-bdb9-f14e8341bf23",
+    "venue_name": "The Executive Centre - Sanno Park Tower",
+    "latitude": 35.673355,
+    "longitude": 139.740341,
+    "reservations": 8,
+    "spend": 716.86
+  },
+  {
+    "venue_id": "1a4d8d49-c13e-4ce7-a5a3-59bf781c2743",
+    "venue_name": "The Executive Centre - Shin-Marunouchi Center",
+    "latitude": 35.684109,
+    "longitude": 139.766464,
+    "reservations": 4,
+    "spend": 177.55
+  }
+]

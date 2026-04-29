@@ -2,9 +2,17 @@
   {
     "venue_id": "e4afada5-54af-488c-9689-f6fbac88ecf3",
     "venue_name": "Regus | Landmark Center",
-    "latitude": 41.257598876953125,
-    "longitude": -95.93319702148438,
+    "latitude": 41.257599,
+    "longitude": -95.933197,
     "reservations": 8,
     "spend": 2472.0
+  },
+  {
+    "venue_id": "4f834233-a48a-4370-a50b-0733a74f0bb5",
+    "venue_name": "Regus | Linden Place",
+    "latitude": 41.264599,
+    "longitude": -96.137985,
+    "reservations": 1,
+    "spend": 194.0
   }
 ]

@@ -2,49 +2,185 @@
   {
     "venue_id": "4d739326-7185-4158-829d-4ec91747643e",
     "venue_name": "Jay Suites - Chelsea",
-    "latitude": 40.74530792236328,
-    "longitude": -73.99393463134766,
+    "latitude": 40.745308,
+    "longitude": -73.993935,
     "reservations": 11,
     "spend": 9580.0
   },
   {
     "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
     "venue_name": "Emerge212 - 125 Park Avenue",
-    "latitude": 40.75178909301758,
-    "longitude": -73.97736358642578,
+    "latitude": 40.751789,
+    "longitude": -73.977364,
     "reservations": 10,
     "spend": 8535.0
   },
   {
     "venue_id": "7d5a14e7-8fdc-4e0c-9d97-7d8d3cb384f3",
     "venue_name": "Grand Central Offices",
-    "latitude": 40.756141662597656,
-    "longitude": -73.98283386230469,
+    "latitude": 40.756142,
+    "longitude": -73.982834,
     "reservations": 7,
     "spend": 4280.0
   },
   {
+    "venue_id": "532868a6-52e0-40e2-be4d-74196e01f2e4",
+    "venue_name": "Jay Conference - Bryant Park Conference Center",
+    "latitude": 40.75346,
+    "longitude": -73.985893,
+    "reservations": 1,
+    "spend": 2800.0
+  },
+  {
+    "venue_id": "2d4adf28-ced4-4722-80c3-63bda895dcb0",
+    "venue_name": "Jay Suites - Fifth Avenue Location",
+    "latitude": 40.751606,
+    "longitude": -73.983688,
+    "reservations": 2,
+    "spend": 2250.0
+  },
+  {
     "venue_id": "4e1743ac-ca18-487b-aae5-ee3b5d4d8a9b",
     "venue_name": "NYC Office Suites - 1270 Avenue of the Americas",
-    "latitude": 40.7602424621582,
-    "longitude": -73.9798355102539,
+    "latitude": 40.760242,
+    "longitude": -73.979836,
     "reservations": 3,
     "spend": 2029.0
   },
   {
     "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
     "venue_name": "Nomadworks",
-    "latitude": 40.74652099609375,
-    "longitude": -73.98805236816406,
+    "latitude": 40.746521,
+    "longitude": -73.988052,
     "reservations": 7,
     "spend": 1973.0
   },
   {
+    "venue_id": "e4d1cbe7-1840-4c34-8847-7e42e215c8ee",
+    "venue_name": "Jay Suites - Times Square - 10 Times Sq.",
+    "latitude": 40.754978,
+    "longitude": -73.98719,
+    "reservations": 1,
+    "spend": 1800.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.756721,
+    "longitude": -73.980042,
+    "reservations": 2,
+    "spend": 1625.0
+  },
+  {
+    "venue_id": "bce0be91-251d-4fbd-aa86-3ef51252d1fa",
+    "venue_name": "Jay Conference Bryant Park - Conference & Event Space",
+    "latitude": 40.75349,
+    "longitude": -73.985977,
+    "reservations": 2,
+    "spend": 1500.0
+  },
+  {
+    "venue_id": "1a323ea9-4171-4680-9c1d-ae60a0fadbff",
+    "venue_name": "Jay Suites Bryant Park - 1441 Broadway",
+    "latitude": 40.754822,
+    "longitude": -73.986916,
+    "reservations": 2,
+    "spend": 1375.0
+  },
+  {
+    "venue_id": "406f9611-22f1-4a90-a67d-b6453652b272",
+    "venue_name": "Jay Suites - Wall Street",
+    "latitude": 40.706264,
+    "longitude": -74.009857,
+    "reservations": 1,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
+    "venue_name": "The Farm SoHo",
+    "latitude": 40.720596,
+    "longitude": -74.00148,
+    "reservations": 1,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "439556b2-dad3-4462-834f-db80d3ce635b",
+    "venue_name": "Regus | 31 Penn Plaza",
+    "latitude": 40.748001,
+    "longitude": -73.990837,
+    "reservations": 1,
+    "spend": 894.0
+  },
+  {
+    "venue_id": "066fd252-005a-4b48-ba51-993c42297119",
+    "venue_name": "Jay Suites - Madison Avenue",
+    "latitude": 40.752201,
+    "longitude": -73.979141,
+    "reservations": 1,
+    "spend": 800.0
+  },
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.759411,
+    "longitude": -73.978142,
+    "reservations": 1,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "d28472ad-a2c9-4dbb-8242-5190d2d7e289",
+    "venue_name": "Jay Suites - Grand Central",
+    "latitude": 40.75058,
+    "longitude": -73.976433,
+    "reservations": 1,
+    "spend": 700.0
+  },
+  {
     "venue_id": "fe9dc55c-cacf-44f2-bbbe-a8fc790c8b4e",
     "venue_name": "Cre8ive NYC",
-    "latitude": 40.74715042114258,
-    "longitude": -73.99177551269531,
+    "latitude": 40.74715,
+    "longitude": -73.991776,
     "reservations": 3,
     "spend": 654.0
+  },
+  {
+    "venue_id": "83e6f083-c76f-47e2-8883-0dba5f16cb81",
+    "venue_name": "Regus | SoHo - Hudson Square",
+    "latitude": 40.723408,
+    "longitude": -74.005493,
+    "reservations": 1,
+    "spend": 462.0
+  },
+  {
+    "venue_id": "fce75f37-87f6-43b3-88d8-f34896a3101f",
+    "venue_name": "Nomadworks | Madison ",
+    "latitude": 40.751652,
+    "longitude": -73.979095,
+    "reservations": 1,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
+    "venue_name": "The Malin Soho",
+    "latitude": 40.721004,
+    "longitude": -74.001396,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.742805,
+    "longitude": -73.984062,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

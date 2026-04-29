@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "713b01c1-a227-480b-a1a1-27f200aa89e2",
+    "venue_name": "GPT Space&Co Queen and Collins",
+    "latitude": -37.816643,
+    "longitude": 144.961777,
+    "reservations": 42,
+    "spend": 15322.4
+  },
+  {
+    "venue_id": "bf1eb570-b4ec-46be-933f-98f595bf918b",
+    "venue_name": "CorporateCubes.Co - 330 Collins Street",
+    "latitude": -37.816322,
+    "longitude": 144.963058,
+    "reservations": 17,
+    "spend": 1549.54
+  },
+  {
+    "venue_id": "c53de55e-6d5d-4613-8f25-cb3a19b49441",
+    "venue_name": "GPT Space&Co 8 Exhibition",
+    "latitude": -37.815392,
+    "longitude": 144.972794,
+    "reservations": 4,
+    "spend": 972.13
+  },
+  {
+    "venue_id": "41576ff3-9cfb-4de2-8e27-f1d642a74023",
+    "venue_name": "Space&Co Level 1, Melbourne Central Tower",
+    "latitude": -37.810894,
+    "longitude": 144.962021,
+    "reservations": 2,
+    "spend": 511.08
+  },
+  {
+    "venue_id": "2f804e03-428c-4814-9269-4fbfa2a5e780",
+    "venue_name": "GPT Space&Co 530 Collins ",
+    "latitude": -37.818169,
+    "longitude": 144.956955,
+    "reservations": 4,
+    "spend": 157.86
+  },
+  {
+    "venue_id": "6280a196-b1bb-4803-aa60-e3fe09f9a3f6",
+    "venue_name": "GPT Space&Co Melbourne Central Tower",
+    "latitude": -37.810894,
+    "longitude": 144.962021,
+    "reservations": 1,
+    "spend": 39.59
+  },
+  {
+    "venue_id": "19d65ef4-1706-416a-8012-d2cf3b6bcb8d",
+    "venue_name": "CorporateCubes.Co - 607 Bourke Street",
+    "latitude": -37.816849,
+    "longitude": 144.955612,
+    "reservations": 1,
+    "spend": 39.25
+  },
+  {
+    "venue_id": "d71e66fd-82d9-4b86-88ac-1c2181deedb2",
+    "venue_name": "The Executive Centre - Collins Square",
+    "latitude": -37.821747,
+    "longitude": 144.950012,
+    "reservations": 1,
+    "spend": 32.63
+  }
+]

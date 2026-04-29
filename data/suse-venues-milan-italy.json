@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "e4c25f9d-81a6-4390-ad44-5ee09b225d59",
+    "venue_name": "Regus | Milan, Central Station",
+    "latitude": 45.482601,
+    "longitude": 9.20451,
+    "reservations": 3,
+    "spend": 1208.77
+  },
+  {
+    "venue_id": "3c391722-c316-48a8-9a3f-b449001324c7",
+    "venue_name": "Copernico | Milan, Copernico Centrale",
+    "latitude": 45.490887,
+    "longitude": 9.204841,
+    "reservations": 2,
+    "spend": 530.11
+  },
+  {
+    "venue_id": "d8d14ca7-c739-4f5c-ab61-c1b6e6940d0e",
+    "venue_name": "Regus | Milan Missori",
+    "latitude": 45.459805,
+    "longitude": 9.192727,
+    "reservations": 4,
+    "spend": 525.32
+  },
+  {
+    "venue_id": "ffa6c564-8a6f-42d0-9a2e-33d0151c947f",
+    "venue_name": "Regus | Milan, Centro Leoni",
+    "latitude": 45.443493,
+    "longitude": 9.190165,
+    "reservations": 3,
+    "spend": 311.46
+  },
+  {
+    "venue_id": "7eb04638-457c-4ea5-a026-d707991f96ed",
+    "venue_name": "Regus | Milan, Bicocca",
+    "latitude": 45.512238,
+    "longitude": 9.210436,
+    "reservations": 3,
+    "spend": 82.96
+  },
+  {
+    "venue_id": "35bd132e-6b60-476f-8236-320dc27727be",
+    "venue_name": "Regus | Milan, Brera",
+    "latitude": 45.478683,
+    "longitude": 9.181862,
+    "reservations": 1,
+    "spend": 79.7
+  }
+]

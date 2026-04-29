@@ -2,9 +2,17 @@
   {
     "venue_id": "5d51a601-43f2-4318-9a46-62d2e620cad2",
     "venue_name": "Goldfinch Social | Alexandria",
-    "latitude": 38.824485778808594,
-    "longitude": -77.05857849121094,
+    "latitude": 38.824486,
+    "longitude": -77.058578,
     "reservations": 25,
     "spend": 975.0
+  },
+  {
+    "venue_id": "590528ac-1e0b-4858-98ea-9901c2608a61",
+    "venue_name": "Intelligent Office of Alexandria",
+    "latitude": 38.801601,
+    "longitude": -77.081718,
+    "reservations": 1,
+    "spend": 148.0
   }
 ]

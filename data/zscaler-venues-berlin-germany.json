@@ -1,0 +1,122 @@
+[
+  {
+    "venue_id": "7fd07661-36e0-42e4-b10b-7343386a8a2b",
+    "venue_name": "SPACES | BERLIN, Spaces Spittelmarkt",
+    "latitude": 52.511154,
+    "longitude": 13.404677,
+    "reservations": 3,
+    "spend": 1521.13
+  },
+  {
+    "venue_id": "34559da9-a68a-41c7-b7bd-dae4c7545321",
+    "venue_name": "WeWork | Dircksenstraße 3",
+    "latitude": 52.516521,
+    "longitude": 13.417022,
+    "reservations": 20,
+    "spend": 1431.67
+  },
+  {
+    "venue_id": "db464332-9425-4444-8070-67650d75d407",
+    "venue_name": "Regus | Berlin Am Kanzleramt",
+    "latitude": 52.522598,
+    "longitude": 13.368039,
+    "reservations": 3,
+    "spend": 798.56
+  },
+  {
+    "venue_id": "805c72e7-6ac5-4ab0-8487-77267d056454",
+    "venue_name": "WeWork | 43-45 Rosenthaler Straße",
+    "latitude": 52.524029,
+    "longitude": 13.402999,
+    "reservations": 10,
+    "spend": 616.51
+  },
+  {
+    "venue_id": "04e9ef52-24ca-4561-944d-13c9d85b320d",
+    "venue_name": "WeWork | Warschauer Platz 11-13",
+    "latitude": 52.504425,
+    "longitude": 13.449361,
+    "reservations": 6,
+    "spend": 406.32
+  },
+  {
+    "venue_id": "c8f75e8f-1b3a-4842-854e-a5079ed85694",
+    "venue_name": "Regus | Berlin Am Potsdamer Platz",
+    "latitude": 52.50827,
+    "longitude": 13.376909,
+    "reservations": 2,
+    "spend": 395.33
+  },
+  {
+    "venue_id": "7fc990ec-e64d-42db-bf5c-6218e5c61d36",
+    "venue_name": "SPACES | BERLIN, Spaces Gendarmenmarkt",
+    "latitude": 52.51429,
+    "longitude": 13.394118,
+    "reservations": 1,
+    "spend": 389.08
+  },
+  {
+    "venue_id": "af581aaf-f2d2-420b-a2ce-63de05bd06f5",
+    "venue_name": "Regus | Berlin Am Brandenburger Tor",
+    "latitude": 52.51683,
+    "longitude": 13.3797,
+    "reservations": 1,
+    "spend": 186.69
+  },
+  {
+    "venue_id": "3ab99252-b3cc-485e-b0a2-1088a3079978",
+    "venue_name": "Space Shack Coworking",
+    "latitude": 52.486763,
+    "longitude": 13.355595,
+    "reservations": 5,
+    "spend": 170.23
+  },
+  {
+    "venue_id": "92c49a99-59a6-4bd0-a831-79a034265151",
+    "venue_name": "Regus | BERLIN, Bikini Berlin",
+    "latitude": 52.505669,
+    "longitude": 13.33559,
+    "reservations": 1,
+    "spend": 159.49
+  },
+  {
+    "venue_id": "d743378b-877a-4233-a5a4-b9bae7e5294d",
+    "venue_name": "WeWork | Neue Schönhauser Straße 3-5",
+    "latitude": 52.524723,
+    "longitude": 13.40462,
+    "reservations": 2,
+    "spend": 134.42
+  },
+  {
+    "venue_id": "bd79da40-a2be-4bab-910e-e1f72b7e4808",
+    "venue_name": "WeWork | Stresemannstraße 123",
+    "latitude": 52.507519,
+    "longitude": 13.377856,
+    "reservations": 2,
+    "spend": 134.33
+  },
+  {
+    "venue_id": "2ae3e28d-da04-493b-a97f-9b1d595ac006",
+    "venue_name": "WeWork | Kurfürstendamm 11",
+    "latitude": 52.504971,
+    "longitude": 13.333493,
+    "reservations": 2,
+    "spend": 117.76
+  },
+  {
+    "venue_id": "2383a89d-a028-4be0-81ed-da8dbf801263",
+    "venue_name": "SPACES | Berlin Prenzlauer Berg",
+    "latitude": 52.530148,
+    "longitude": 13.425276,
+    "reservations": 1,
+    "spend": 81.73
+  },
+  {
+    "venue_id": "1dd51231-36cd-4a70-9f05-82146de3a069",
+    "venue_name": "EDGE Workspaces | Grand Central Berlin",
+    "latitude": 52.52536,
+    "longitude": 13.366766,
+    "reservations": 2,
+    "spend": 44.06
+  }
+]

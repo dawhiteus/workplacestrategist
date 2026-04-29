@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d0d8df33-f0a0-4def-8afd-c96af94a97f2",
+    "venue_name": "(4MB) 4000 McArthur",
+    "latitude": 33.660141,
+    "longitude": -117.861778,
+    "reservations": 1,
+    "spend": 275.0
+  },
+  {
+    "venue_id": "8589779e-9875-4db7-b7f3-f22ef67135f5",
+    "venue_name": "(23C) 23 Corporate Plaza",
+    "latitude": 33.608551,
+    "longitude": -117.875237,
+    "reservations": 1,
+    "spend": 80.0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "e326846b-774d-460a-9504-1bdb8ebec937",
+    "venue_name": "Maleo Parque das Nações",
+    "latitude": 38.763691,
+    "longitude": -9.09834,
+    "reservations": 3,
+    "spend": 1657.18
+  },
+  {
+    "venue_id": "fe275f30-3ad0-45b8-898b-bf2e3c84bbba",
+    "venue_name": "sitio | Duque de Loulé_Fintech House",
+    "latitude": 38.729069,
+    "longitude": -9.144234,
+    "reservations": 2,
+    "spend": 502.24
+  },
+  {
+    "venue_id": "37058412-ce3a-482a-ac01-080ff553f287",
+    "venue_name": "SPACES | LISBON, Oriente",
+    "latitude": 38.768696,
+    "longitude": -9.100306,
+    "reservations": 2,
+    "spend": 459.66
+  }
+]

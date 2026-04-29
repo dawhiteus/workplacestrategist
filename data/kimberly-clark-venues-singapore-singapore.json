@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "e726b10a-5d7d-4b22-8503-12a7691bf92e",
+    "venue_name": "Regus | Singapore 61 Robinson Road",
+    "latitude": 1.27939,
+    "longitude": 103.849243,
+    "reservations": 15,
+    "spend": 2293.97
+  },
+  {
+    "venue_id": "b0323af7-8516-4b55-8ce9-d6b3a97fa87c",
+    "venue_name": "75 High Street",
+    "latitude": 1.290221,
+    "longitude": 103.849701,
+    "reservations": 3,
+    "spend": 1130.15
+  },
+  {
+    "venue_id": "bbc58eed-2fee-41b9-b026-d150ff68cdf8",
+    "venue_name": "Regus | Singapore Triple One Somerset",
+    "latitude": 1.300408,
+    "longitude": 103.836998,
+    "reservations": 4,
+    "spend": 1068.55
+  },
+  {
+    "venue_id": "47a72c04-28d6-421d-ad87-a52c6c40a606",
+    "venue_name": "Tanjong Pagar | 1 Keong Saik",
+    "latitude": 1.278807,
+    "longitude": 103.841545,
+    "reservations": 5,
+    "spend": 1034.32
+  },
+  {
+    "venue_id": "081a12e3-0eba-486e-9eb2-d19d5811b1b2",
+    "venue_name": "Regus | Singapore One Fullerton",
+    "latitude": 1.285712,
+    "longitude": 103.853958,
+    "reservations": 3,
+    "spend": 729.64
+  }
+]

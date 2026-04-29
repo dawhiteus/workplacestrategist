@@ -2,33 +2,41 @@
   {
     "venue_id": "3432b3cc-797b-4ff7-90e6-4e749f3075a8",
     "venue_name": "Muhr Professional Buildings",
-    "latitude": 38.93463134765625,
-    "longitude": -104.8084487915039,
+    "latitude": 38.934631,
+    "longitude": -104.808449,
     "reservations": 48,
     "spend": 11890.0
   },
   {
     "venue_id": "c2f059c1-3eaf-491d-b113-c0a3f57afa2f",
     "venue_name": "Suite Works, Inc.",
-    "latitude": 38.94622039794922,
-    "longitude": -104.80914306640625,
+    "latitude": 38.94622,
+    "longitude": -104.809143,
     "reservations": 17,
     "spend": 2840.0
   },
   {
     "venue_id": "0c87cbaa-0e96-4432-bf8c-042a4f202efb",
     "venue_name": "Regus || Colorado Springs Briargate",
-    "latitude": 38.959659576416016,
-    "longitude": -104.79710388183594,
+    "latitude": 38.95966,
+    "longitude": -104.797104,
     "reservations": 16,
     "spend": 1295.0
   },
   {
     "venue_id": "85a0f84a-aad9-4480-b3ff-7239a0df0c57",
     "venue_name": "Regus | Downtown Alamo Corporate Center",
-    "latitude": 38.832191467285156,
-    "longitude": -104.82405090332031,
+    "latitude": 38.832191,
+    "longitude": -104.824051,
     "reservations": 2,
     "spend": 342.0
+  },
+  {
+    "venue_id": "bb4c8df7-b653-40ee-a4ea-0eeddb0b55d9",
+    "venue_name": "Two-One-Nine Working Commons",
+    "latitude": 38.832184,
+    "longitude": -104.820724,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

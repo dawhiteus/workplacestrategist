@@ -2,16 +2,16 @@
   {
     "venue_id": "0cdf82b1-5964-4afd-9528-6da844f57451",
     "venue_name": "desk chair",
-    "latitude": 40.395748138427734,
-    "longitude": -105.07432556152344,
+    "latitude": 40.395748,
+    "longitude": -105.074326,
     "reservations": 61,
     "spend": 17050.0
   },
   {
     "venue_id": "732a7b99-a4ba-4b74-a9e1-7627a928c280",
     "venue_name": "Front Range Business Centers, Loveland@Centerra",
-    "latitude": 40.40972137451172,
-    "longitude": -105.0007095336914,
+    "latitude": 40.409721,
+    "longitude": -105.00071,
     "reservations": 4,
     "spend": 475.0
   }

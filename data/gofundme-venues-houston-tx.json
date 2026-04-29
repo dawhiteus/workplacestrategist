@@ -2,25 +2,49 @@
   {
     "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
     "venue_name": "FUSE Workspace-City Centre",
-    "latitude": 29.77901840209961,
-    "longitude": -95.56109619140625,
+    "latitude": 29.779018,
+    "longitude": -95.561096,
     "reservations": 10,
     "spend": 4020.0
   },
   {
     "venue_id": "b006579a-4a7f-4eca-873e-c41bf2503ffd",
     "venue_name": "Local Office",
-    "latitude": 29.72518539428711,
-    "longitude": -95.41943359375,
+    "latitude": 29.725185,
+    "longitude": -95.419434,
     "reservations": 5,
     "spend": 200.0
   },
   {
+    "venue_id": "0b4d05e3-4342-4003-9a01-a097c8c0aa04",
+    "venue_name": "SPACES | Texas, Houston - CityCenter",
+    "latitude": 29.780241,
+    "longitude": -95.560272,
+    "reservations": 1,
+    "spend": 106.86
+  },
+  {
     "venue_id": "49a3fc82-f23b-418b-9a8f-779e461d4581",
     "venue_name": "SPACES | TX, Houston - 708 Main Street",
-    "latitude": 29.7590389251709,
-    "longitude": -95.3636245727539,
+    "latitude": 29.759039,
+    "longitude": -95.363625,
     "reservations": 2,
     "spend": 106.32
+  },
+  {
+    "venue_id": "a00bbc35-4d8b-4542-a2f3-d5f104414936",
+    "venue_name": "The Village Suites",
+    "latitude": 29.720381,
+    "longitude": -95.417824,
+    "reservations": 1,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "089878db-f734-494b-8db3-a3c4cc91bf43",
+    "venue_name": "Hines | The Square at 717 Texas",
+    "latitude": 29.761688,
+    "longitude": -95.364227,
+    "reservations": 1,
+    "spend": 75.0
   }
 ]

@@ -2,17 +2,33 @@
   {
     "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
     "venue_name": "Roam Buckhead - Peachtree",
-    "latitude": 33.851470947265625,
-    "longitude": -84.36003112792969,
+    "latitude": 33.851471,
+    "longitude": -84.360031,
     "reservations": 5,
     "spend": 1100.0
   },
   {
     "venue_id": "b9d23853-b1c1-4a2d-85bd-16f45aa06682",
     "venue_name": "WeWork | 1155 Perimeter Center West",
-    "latitude": 33.93000793457031,
-    "longitude": -84.35108947753906,
+    "latitude": 33.930008,
+    "longitude": -84.351089,
     "reservations": 6,
     "spend": 271.0
+  },
+  {
+    "venue_id": "9890a734-31f0-4d13-8ff3-7acc483d8f89",
+    "venue_name": "WeWork | Coda",
+    "latitude": 33.775307,
+    "longitude": -84.388382,
+    "reservations": 2,
+    "spend": 138.0
+  },
+  {
+    "venue_id": "44c43433-9ae5-4ea6-82cc-0f7f247041eb",
+    "venue_name": "Industrious - Perimeter 7000 Central Parkway",
+    "latitude": 33.927231,
+    "longitude": -84.348709,
+    "reservations": 2,
+    "spend": 126.0
   }
 ]

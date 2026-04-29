@@ -2,33 +2,57 @@
   {
     "venue_id": "ca336e13-3a9f-4bd4-bc6d-021dc87d6e2b",
     "venue_name": "WeWork | 830 NE Holladay St",
-    "latitude": 45.52975082397461,
-    "longitude": -122.65685272216797,
+    "latitude": 45.529751,
+    "longitude": -122.656853,
     "reservations": 33,
     "spend": 2129.0
   },
   {
     "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
     "venue_name": "CENTRL Office - Pearl District",
-    "latitude": 45.52505874633789,
-    "longitude": -122.68479919433594,
+    "latitude": 45.525059,
+    "longitude": -122.684799,
     "reservations": 12,
     "spend": 1160.0
   },
   {
     "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
     "venue_name": "CENTRL Office - Eastside",
-    "latitude": 45.52379608154297,
-    "longitude": -122.66244506835938,
+    "latitude": 45.523796,
+    "longitude": -122.662445,
     "reservations": 3,
     "spend": 440.0
   },
   {
     "venue_id": "8aaa8eb9-b992-4a4d-b482-ca8b068b4ec6",
     "venue_name": "VIDA Coworking Community",
-    "latitude": 45.525718688964844,
-    "longitude": -122.64686584472656,
+    "latitude": 45.525719,
+    "longitude": -122.646866,
     "reservations": 5,
     "spend": 185.0
+  },
+  {
+    "venue_id": "3b7bf34b-e2f5-4637-884b-cc0b4c89ac8c",
+    "venue_name": "Life Time Work - Beaverton",
+    "latitude": 45.515884,
+    "longitude": -122.79361,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "fd3fdf91-8059-4536-97c7-2eabb6b2a8ec",
+    "venue_name": "SPACES | Slabtown",
+    "latitude": 45.534515,
+    "longitude": -122.696297,
+    "reservations": 1,
+    "spend": 51.56
+  },
+  {
+    "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
+    "venue_name": "CENTRL Office - West End",
+    "latitude": 45.52071,
+    "longitude": -122.683876,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "fde48dd2-387c-4cd7-a96a-4750f5170aae",
+    "venue_name": "Regus | COSTA RICA, San Jose, Escazu Corporate Center",
+    "latitude": 9.943579,
+    "longitude": -84.150978,
+    "reservations": 1,
+    "spend": 0.25
+  },
+  {
+    "venue_id": "e832e42f-4473-4923-ab70-943f234bf430",
+    "venue_name": "Regus | COSTA RICA, San Jose, Boulevard Dent",
+    "latitude": 9.933485,
+    "longitude": -84.059196,
+    "reservations": 2,
+    "spend": 0.21
+  }
+]

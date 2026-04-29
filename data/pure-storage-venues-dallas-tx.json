@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ee899417-88f5-40dd-839d-2e95063e763a",
+    "venue_name": "Bo Ex Properties",
+    "latitude": 32.993839,
+    "longitude": -96.796432,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "06ee9527-f27f-43fe-ae6a-ba36003a0000",
+    "venue_name": "Flex at The Gild",
+    "latitude": 32.863899,
+    "longitude": -96.769119,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "d73c947d-30e8-4d2e-9f02-2a5957efb64b",
+    "venue_name": "Intelligent Office Dallas (Las Colinas)",
+    "latitude": 32.898251,
+    "longitude": -96.959846,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

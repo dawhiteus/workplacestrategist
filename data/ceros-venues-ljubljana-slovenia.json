@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "8213fd9b-f26b-4e41-9fcf-6518c2500fb9",
+    "venue_name": "Regus | Ljubljana, Schellenburg Palace",
+    "latitude": 46.05555,
+    "longitude": 14.5024,
+    "reservations": 6,
+    "spend": 492.49
+  },
+  {
+    "venue_id": "87943492-350f-4c97-b990-9cadff77a9b0",
+    "venue_name": "Regus | Ljubljana, City Centre - Republic Square",
+    "latitude": 46.050247,
+    "longitude": 14.499701,
+    "reservations": 2,
+    "spend": 144.09
+  },
+  {
+    "venue_id": "152e3359-f9c9-4cf5-b302-7cfdd369191f",
+    "venue_name": "Regus | Ljubljana City Center",
+    "latitude": 46.062988,
+    "longitude": 14.56609,
+    "reservations": 1,
+    "spend": 68.15
+  }
+]

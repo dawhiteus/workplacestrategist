@@ -2,6 +2,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 12,
     "total_spend": 1728.0,
     "venues": 5,

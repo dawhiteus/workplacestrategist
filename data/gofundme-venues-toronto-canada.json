@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "c5083bab-0d66-46e2-887b-48c00bfde77e",
+    "venue_name": "SPACES | ON, Toronto - Spaces Yorkville",
+    "latitude": 43.6707,
+    "longitude": -79.3918,
+    "reservations": 6,
+    "spend": 2314.46
+  },
+  {
+    "venue_id": "0d9e6b20-1f0f-4c52-9a69-bdc4bbe992f4",
+    "venue_name": "WeWork | 1 University Ave",
+    "latitude": 43.645885,
+    "longitude": -79.383041,
+    "reservations": 1,
+    "spend": 58.9
+  },
+  {
+    "venue_id": "cfccbce2-f670-4183-9388-930d05936379",
+    "venue_name": "WeWork | 240 Richmond St W",
+    "latitude": 43.649715,
+    "longitude": -79.388878,
+    "reservations": 1,
+    "spend": 48.46
+  },
+  {
+    "venue_id": "45d41f8d-61b4-4cda-a4c1-f5cdd591f730",
+    "venue_name": "Acme Works",
+    "latitude": 43.643711,
+    "longitude": -79.40876,
+    "reservations": 2,
+    "spend": 36.13
+  },
+  {
+    "venue_id": "bf0e1b47-e44b-4b0e-ac15-bc6ba4ca9594",
+    "venue_name": "Miraki Life Workspace",
+    "latitude": 43.653904,
+    "longitude": -79.447922,
+    "reservations": 1,
+    "spend": 20.83
+  }
+]

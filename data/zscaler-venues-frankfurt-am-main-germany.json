@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "6f057047-60c4-437b-94a9-20af3fd31570",
+    "venue_name": "K-1 BusinessClub Ostend",
+    "latitude": 50.11533,
+    "longitude": 8.724614,
+    "reservations": 1,
+    "spend": 690.6
+  },
+  {
+    "venue_id": "3c1b9d94-3cf3-4627-b5e4-c364762e841e",
+    "venue_name": "Regus | Frankfurt, THE SQUAIRE Conference Center",
+    "latitude": 50.05267,
+    "longitude": 8.568172,
+    "reservations": 1,
+    "spend": 455.18
+  },
+  {
+    "venue_id": "9bdb7d1d-efb6-4462-97a4-3325acd43fb3",
+    "venue_name": "K-1 BusinessClub Hauptwache",
+    "latitude": 50.113949,
+    "longitude": 8.68161,
+    "reservations": 1,
+    "spend": 208.61
+  },
+  {
+    "venue_id": "52a0fdf8-a6f2-4e82-85ac-59ba3bea3dc3",
+    "venue_name": "Regus | FRANKFURT, Sachsenhausen",
+    "latitude": 50.0947,
+    "longitude": 8.68958,
+    "reservations": 1,
+    "spend": 67.17
+  },
+  {
+    "venue_id": "64ba8adf-003d-45b8-b987-e411fbca15eb",
+    "venue_name": "SPACES | FRANKFURT, Spaces The Docks",
+    "latitude": 50.111744,
+    "longitude": 8.717152,
+    "reservations": 1,
+    "spend": 35.51
+  }
+]

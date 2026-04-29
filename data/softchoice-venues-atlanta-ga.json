@@ -2,97 +2,193 @@
   {
     "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
     "venue_name": "Roam Buckhead - Piedmont",
-    "latitude": 33.84675598144531,
-    "longitude": -84.37248229980469,
-    "reservations": 174,
-    "spend": 201665.0
+    "latitude": 33.846756,
+    "longitude": -84.372482,
+    "reservations": 175,
+    "spend": 202040.0
   },
   {
     "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
     "venue_name": "Roam Buckhead - Peachtree",
-    "latitude": 33.851470947265625,
-    "longitude": -84.36003112792969,
+    "latitude": 33.851471,
+    "longitude": -84.360031,
     "reservations": 43,
     "spend": 23740.0
   },
   {
     "venue_id": "7faad3f8-e4de-4a7e-8977-e2bf7da50cf0",
     "venue_name": "Roam Perimeter Center",
-    "latitude": 33.919551849365234,
-    "longitude": -84.3426742553711,
+    "latitude": 33.919552,
+    "longitude": -84.342674,
     "reservations": 36,
     "spend": 8445.0
   },
   {
     "venue_id": "76a9d596-203d-42e0-a964-6592d95580aa",
     "venue_name": "Serendipity Labs - Atlanta Buckhead",
-    "latitude": 33.851959228515625,
-    "longitude": -84.36759185791016,
+    "latitude": 33.851959,
+    "longitude": -84.367592,
     "reservations": 13,
     "spend": 3435.0
   },
   {
     "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
     "venue_name": "Peachtree Offices at Downtown, Inc.",
-    "latitude": 33.760398864746094,
-    "longitude": -84.38746643066406,
+    "latitude": 33.760399,
+    "longitude": -84.387466,
     "reservations": 12,
     "spend": 3235.0
   },
   {
     "venue_id": "b9d23853-b1c1-4a2d-85bd-16f45aa06682",
     "venue_name": "WeWork | 1155 Perimeter Center West",
-    "latitude": 33.93000793457031,
-    "longitude": -84.35108947753906,
+    "latitude": 33.930008,
+    "longitude": -84.351089,
     "reservations": 19,
     "spend": 2268.2
   },
   {
     "venue_id": "80c6479f-9e52-4f55-9d66-350a30d9369c",
     "venue_name": "Roam Galleria",
-    "latitude": 33.8786506652832,
-    "longitude": -84.45661163330078,
+    "latitude": 33.878651,
+    "longitude": -84.456612,
     "reservations": 22,
     "spend": 1400.0
   },
   {
     "venue_id": "9a16ef1d-67c7-481b-a1b8-6b59617c1eca",
     "venue_name": "Life Time Work - Buckhead",
-    "latitude": 33.853370666503906,
-    "longitude": -84.36360168457031,
+    "latitude": 33.853371,
+    "longitude": -84.363602,
     "reservations": 11,
     "spend": 1300.0
   },
   {
     "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
     "venue_name": "Alkaloid Networks",
-    "latitude": 33.75890350341797,
-    "longitude": -84.36479949951172,
+    "latitude": 33.758904,
+    "longitude": -84.364799,
     "reservations": 10,
     "spend": 800.0
   },
   {
     "venue_id": "0c4239c7-d618-442c-9a8f-3e6ac4b503bf",
     "venue_name": "Lucid Private Offices | Cumberland - Battery",
-    "latitude": 33.89676284790039,
-    "longitude": -84.46166229248047,
+    "latitude": 33.896763,
+    "longitude": -84.461662,
     "reservations": 4,
     "spend": 450.0
   },
   {
+    "venue_id": "70269d46-c061-44bd-b659-5fe37fd36a7e",
+    "venue_name": "Regus | Atlanta - Signature West Midtown",
+    "latitude": 33.783699,
+    "longitude": -84.411301,
+    "reservations": 2,
+    "spend": 438.73
+  },
+  {
+    "venue_id": "207f3ac8-89e0-45de-a8cb-5be55e303dab",
+    "venue_name": "Peachtree Offices at Lenox, Inc.",
+    "latitude": 33.846821,
+    "longitude": -84.358131,
+    "reservations": 2,
+    "spend": 380.0
+  },
+  {
     "venue_id": "5f29755f-19b1-44d5-b163-375ec7986e43",
     "venue_name": "Lucid Private Offices | Buckhead",
-    "latitude": 33.847835540771484,
-    "longitude": -84.36579132080078,
+    "latitude": 33.847836,
+    "longitude": -84.365791,
     "reservations": 5,
     "spend": 335.0
   },
   {
     "venue_id": "c5017954-dc24-4f7a-bafc-15cb1f7786aa",
     "venue_name": "HQ | Galleria 400 ",
-    "latitude": 33.88637924194336,
-    "longitude": -84.4613265991211,
+    "latitude": 33.886379,
+    "longitude": -84.461327,
     "reservations": 3,
     "spend": 231.36
+  },
+  {
+    "venue_id": "faf29229-298a-4846-a604-3d672f98234c",
+    "venue_name": "SPACES | GA, Atlanta - 1372 Peachtree",
+    "latitude": 33.791851,
+    "longitude": -84.38662,
+    "reservations": 1,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "21f51408-875d-4242-b60e-be525684cf5a",
+    "venue_name": "Regus | One Hartsfield",
+    "latitude": 33.654999,
+    "longitude": -84.428398,
+    "reservations": 1,
+    "spend": 168.0
+  },
+  {
+    "venue_id": "b8e128d1-8165-4c90-ae2a-cfa525b23272",
+    "venue_name": "No18 | Atlanta - Buckhead",
+    "latitude": 33.839096,
+    "longitude": -84.378372,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "6e766a1c-4f81-4655-87dd-e8ba6072d1ba",
+    "venue_name": "TKO Suites Midtown Atlanta",
+    "latitude": 33.770813,
+    "longitude": -84.387848,
+    "reservations": 1,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "86141186-529d-4139-b9cc-478751abab4d",
+    "venue_name": "SPACES | The Battery",
+    "latitude": 33.890484,
+    "longitude": -84.46981,
+    "reservations": 2,
+    "spend": 103.5
+  },
+  {
+    "venue_id": "25ae206e-7602-4792-9fb0-fc48dec58215",
+    "venue_name": "Industrious - Downtown - 101 Marietta St.",
+    "latitude": 33.756836,
+    "longitude": -84.392067,
+    "reservations": 1,
+    "spend": 63.0
+  },
+  {
+    "venue_id": "5d7c621f-28a7-48a1-90d7-58a1b5722c46",
+    "venue_name": "Industrious - West Midtown Atlanta",
+    "latitude": 33.781265,
+    "longitude": -84.41375,
+    "reservations": 1,
+    "spend": 63.0
+  },
+  {
+    "venue_id": "f821337a-ab96-4420-86a6-f2125e53cf0a",
+    "venue_name": "Regus | GA, Atlanta - 191 Peachtree Street",
+    "latitude": 33.759121,
+    "longitude": -84.386421,
+    "reservations": 1,
+    "spend": 62.02
+  },
+  {
+    "venue_id": "9890a734-31f0-4d13-8ff3-7acc483d8f89",
+    "venue_name": "WeWork | Coda",
+    "latitude": 33.775307,
+    "longitude": -84.388382,
+    "reservations": 1,
+    "spend": 42.0
+  },
+  {
+    "venue_id": "86ba6415-fe35-4523-85e1-4de0a7def96d",
+    "venue_name": "SPACES | Colony Square",
+    "latitude": 33.787502,
+    "longitude": -84.383041,
+    "reservations": 1,
+    "spend": 29.5
   }
 ]

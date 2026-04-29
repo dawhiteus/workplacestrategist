@@ -2,33 +2,57 @@
   {
     "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
     "venue_name": "Carr Workplaces - Embarcadero Center",
-    "latitude": 37.79469680786133,
-    "longitude": -122.39987182617188,
+    "latitude": 37.794697,
+    "longitude": -122.399872,
     "reservations": 7,
     "spend": 2325.0
   },
   {
     "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
     "venue_name": "Intelligent Office San Francisco",
-    "latitude": 37.79262161254883,
-    "longitude": -122.39891052246094,
+    "latitude": 37.792622,
+    "longitude": -122.398911,
     "reservations": 6,
     "spend": 1100.0
   },
   {
+    "venue_id": "88ef4196-52e3-4139-9bd5-923a98c1fabf",
+    "venue_name": "Raven Office Centers - 388 Market",
+    "latitude": 37.79216,
+    "longitude": -122.398033,
+    "reservations": 1,
+    "spend": 534.0
+  },
+  {
     "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
     "venue_name": "Pacific Workplaces - San Francisco SOMA",
-    "latitude": 37.79138946533203,
-    "longitude": -122.39215087890625,
+    "latitude": 37.791389,
+    "longitude": -122.392151,
     "reservations": 3,
     "spend": 345.0
   },
   {
+    "venue_id": "bbb27e23-9efa-4ff3-95ee-632712c13e59",
+    "venue_name": "TheSpider, Inc.",
+    "latitude": 37.781315,
+    "longitude": -122.462387,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
     "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
     "venue_name": "Trellis Coworking & Events",
-    "latitude": 37.78120040893555,
-    "longitude": -122.4081039428711,
+    "latitude": 37.7812,
+    "longitude": -122.408104,
     "reservations": 3,
     "spend": 145.0
+  },
+  {
+    "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
+    "venue_name": "Mindspace San Francisco",
+    "latitude": 37.789848,
+    "longitude": -122.400696,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

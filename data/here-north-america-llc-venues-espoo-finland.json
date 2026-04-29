@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d8f5346c-dd3c-4fcc-a600-f74db5dc3bd0",
+    "venue_name": "Regus | Espoo, Keilaranta",
+    "latitude": 60.176399,
+    "longitude": 24.8307,
+    "reservations": 3,
+    "spend": 339.92
+  },
+  {
+    "venue_id": "f2e367e5-874a-468f-9bdc-2497a9b60fc3",
+    "venue_name": "Regus | Espoo, Life Science Centre",
+    "latitude": 60.178299,
+    "longitude": 24.834499,
+    "reservations": 2,
+    "spend": 293.42
+  }
+]

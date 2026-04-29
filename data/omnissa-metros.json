@@ -1,42 +1,434 @@
 [
   {
+    "city": "Singapore",
+    "state": "Singapore",
+    "country": "Singapore",
+    "reservations": 173,
+    "total_spend": 63172.58,
+    "venues": 13,
+    "members": 24
+  },
+  {
+    "city": "Paris",
+    "state": "France",
+    "country": "France",
+    "reservations": 186,
+    "total_spend": 61277.07,
+    "venues": 24,
+    "members": 24
+  },
+  {
+    "city": "Sydney",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 106,
+    "total_spend": 45430.61,
+    "venues": 10,
+    "members": 10
+  },
+  {
+    "city": "Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 95,
+    "total_spend": 30347.45,
+    "venues": 19,
+    "members": 19
+  },
+  {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 70,
+    "total_spend": 23855.92,
+    "venues": 21,
+    "members": 17
+  },
+  {
+    "city": "Seoul",
+    "state": "South Korea",
+    "country": "South Korea",
+    "reservations": 98,
+    "total_spend": 18910.86,
+    "venues": 7,
+    "members": 6
+  },
+  {
+    "city": "Puteaux",
+    "state": "France",
+    "country": "France",
+    "reservations": 39,
+    "total_spend": 11334.91,
+    "venues": 2,
+    "members": 9
+  },
+  {
+    "city": "Milan",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 30,
+    "total_spend": 9850.48,
+    "venues": 3,
+    "members": 7
+  },
+  {
+    "city": "Barcelona",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 122,
+    "total_spend": 6810.67,
+    "venues": 4,
+    "members": 21
+  },
+  {
+    "city": "Seoul,",
+    "state": "South Korea",
+    "country": "South Korea",
+    "reservations": 58,
+    "total_spend": 6184.61,
+    "venues": 1,
+    "members": 7
+  },
+  {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 4,
     "total_spend": 4975.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Mumbai",
+    "state": "India",
+    "country": "India",
+    "reservations": 22,
+    "total_spend": 4202.88,
+    "venues": 7,
+    "members": 3
+  },
+  {
+    "city": "Kfar Saba",
+    "state": "Israel",
+    "country": "Israel",
+    "reservations": 22,
+    "total_spend": 3735.93,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Madrid",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 27,
+    "total_spend": 3552.51,
+    "venues": 7,
+    "members": 7
+  },
+  {
+    "city": "La Defense",
+    "state": "France",
+    "country": "France",
+    "reservations": 10,
+    "total_spend": 3213.11,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Docklands",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 9,
+    "total_spend": 3162.59,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "The Hague",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 16,
+    "total_spend": 2788.92,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Utrecht",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 8,
+    "total_spend": 2509.92,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Amsterdam",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 9,
+    "total_spend": 2476.21,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "Kowloon",
+    "state": "Hong Kong",
+    "country": "Hong Kong",
+    "reservations": 19,
+    "total_spend": 2360.03,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Groningen",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 12,
+    "total_spend": 2122.35,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Stockholm",
+    "state": "Sweden",
+    "country": "Sweden",
+    "reservations": 22,
+    "total_spend": 1952.54,
+    "venues": 3,
+    "members": 2
+  },
+  {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 9,
     "total_spend": 1660.0,
     "venues": 4,
     "members": 3
   },
   {
+    "city": "Den Bosch",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 8,
+    "total_spend": 1554.12,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Tel Aviv",
+    "state": "Israel",
+    "country": "Israel",
+    "reservations": 4,
+    "total_spend": 1537.14,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Carlton",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 15,
+    "total_spend": 1292.49,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Frankfurt Am Main",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 4,
+    "total_spend": 1276.73,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Rotterdam",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 3,
+    "total_spend": 1141.24,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Toronto",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 4,
+    "total_spend": 919.38,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Boulogne-Billancourt",
+    "state": "France",
+    "country": "France",
+    "reservations": 3,
+    "total_spend": 834.01,
+    "venues": 1,
+    "members": 3
+  },
+  {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 9,
     "total_spend": 819.0,
     "venues": 5,
     "members": 4
   },
   {
+    "city": "Ringwood",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 5,
+    "total_spend": 709.84,
+    "venues": 1,
+    "members": 3
+  },
+  {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 4,
     "total_spend": 664.0,
     "venues": 3,
     "members": 3
   },
   {
+    "city": "Tel Aviv-Yafo",
+    "state": "Israel",
+    "country": "Israel",
+    "reservations": 3,
+    "total_spend": 651.93,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Canberra",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 6,
+    "total_spend": 612.66,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Zurich",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 15,
+    "total_spend": 595.34,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Causeway Bay",
+    "state": "Hong Kong",
+    "country": "Hong Kong",
+    "reservations": 11,
+    "total_spend": 559.03,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Southbank",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 4,
+    "total_spend": 522.79,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Birmingham",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 3,
+    "total_spend": 495.01,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Cergy",
+    "state": "France",
+    "country": "France",
+    "reservations": 4,
+    "total_spend": 439.9,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Auckland",
+    "state": "New Zealand",
+    "country": "New Zealand",
+    "reservations": 4,
+    "total_spend": 368.64,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Bangkok",
+    "state": "Thailand",
+    "country": "Thailand",
+    "reservations": 9,
+    "total_spend": 353.54,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Plano",
     "state": "TX",
+    "country": "US",
     "reservations": 4,
     "total_spend": 335.8,
     "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Manchester",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 3,
+    "total_spend": 318.76,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "South Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 5,
+    "total_spend": 310.07,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Nieuwegein",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 6,
+    "total_spend": 258.7,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Montreal",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 3,
+    "total_spend": 240.95,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "New Delhi",
+    "state": "India",
+    "country": "India",
+    "reservations": 4,
+    "total_spend": 148.28,
+    "venues": 2,
     "members": 2
   }
 ]

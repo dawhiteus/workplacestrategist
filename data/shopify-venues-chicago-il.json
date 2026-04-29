@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.890244,
+    "longitude": -87.631897,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.903667,
+    "longitude": -87.631096,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

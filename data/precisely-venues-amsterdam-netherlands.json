@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "4a5973ce-6c21-4b8c-995e-c8e55bf71700",
+    "venue_name": "SPACES | Amsterdam Vijzelstraat 68-78",
+    "latitude": 52.3634,
+    "longitude": 4.89199,
+    "reservations": 1,
+    "spend": 997.94
+  },
+  {
+    "venue_id": "be93da1a-7ac6-4991-b580-30b643963a0d",
+    "venue_name": "Mindspace | Dam",
+    "latitude": 52.374454,
+    "longitude": 4.890906,
+    "reservations": 1,
+    "spend": 33.68
+  },
+  {
+    "venue_id": "6c820095-12bc-408a-8be5-b51962b2c56a",
+    "venue_name": "StartDock Coworking - Herengracht",
+    "latitude": 52.366798,
+    "longitude": 4.887527,
+    "reservations": 1,
+    "spend": 28.41
+  }
+]

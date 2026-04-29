@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "96d977ac-3a09-4eaa-a382-8238cd1c659f",
+    "venue_name": "Haven Workspaces",
+    "latitude": -35.276058,
+    "longitude": 149.129211,
+    "reservations": 3,
+    "spend": 1914.19
+  },
+  {
+    "venue_id": "acf249de-ca2e-4902-82a0-d54c75a87498",
+    "venue_name": "Regus | Canberra 121 Marcus Clarke St",
+    "latitude": -35.277901,
+    "longitude": 149.126007,
+    "reservations": 1,
+    "spend": 174.91
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ee295eb7-9346-4b29-b2a4-4c5633df675d",
+    "venue_name": "Regus | 343 Preston",
+    "latitude": 45.402401,
+    "longitude": -75.710503,
+    "reservations": 7,
+    "spend": 1107.21
+  },
+  {
+    "venue_id": "bbab0ab3-8c35-4281-8877-43d410ddc050",
+    "venue_name": "SPACES | ON, Ottawa - Zibi Ottawa",
+    "latitude": 45.419754,
+    "longitude": -75.718842,
+    "reservations": 1,
+    "spend": 115.07
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "reservations": 12,
+    "total_spend": 3309.0,
+    "venues": 3,
+    "members": 2
+  }
+]

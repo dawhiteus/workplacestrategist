@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d0be3f5a-57ae-4ade-870a-fb0d01eafe13",
+    "venue_name": "Awfis | Coworking-Connaught Place",
+    "latitude": 28.613939,
+    "longitude": 77.209023,
+    "reservations": 2,
+    "spend": 421.74
+  },
+  {
+    "venue_id": "1baa837d-0f03-411a-b10a-6598443fa34c",
+    "venue_name": "91Springboard - DEL - Nehru Place",
+    "latitude": 28.549902,
+    "longitude": 77.253532,
+    "reservations": 1,
+    "spend": 98.97
+  }
+]

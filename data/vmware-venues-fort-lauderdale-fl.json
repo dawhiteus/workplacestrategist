@@ -2,9 +2,25 @@
   {
     "venue_id": "ead7f97f-1f05-45f8-a0a1-591ed1fc6b07",
     "venue_name": "Quest Workspaces- Ft. Lauderdale",
-    "latitude": 26.123563766479492,
-    "longitude": -80.14119720458984,
+    "latitude": 26.123564,
+    "longitude": -80.141197,
     "reservations": 3,
     "spend": 273.0
+  },
+  {
+    "venue_id": "2a918f7f-1efe-4f94-882f-ed64ac923e32",
+    "venue_name": "Empire Executive Offices",
+    "latitude": 26.114321,
+    "longitude": -80.141762,
+    "reservations": 1,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "8fbb4304-9be4-417d-bed2-1dfb5059e97f",
+    "venue_name": "General Provision Downtown",
+    "latitude": 26.119431,
+    "longitude": -80.144867,
+    "reservations": 1,
+    "spend": 100.0
   }
 ]

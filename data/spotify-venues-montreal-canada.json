@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "602ffd7f-ed22-48e8-b11a-c59773842825",
+    "venue_name": "iQ Offices | 1155 Metcalfe Inc.",
+    "latitude": 45.500252,
+    "longitude": -73.570183,
+    "reservations": 175,
+    "spend": 13291.89
+  },
+  {
+    "venue_id": "ad503e76-d563-4a57-8acb-08aa97f96b4a",
+    "venue_name": "WeWork | L'Avenue",
+    "latitude": 45.496441,
+    "longitude": -73.570663,
+    "reservations": 97,
+    "spend": 2821.61
+  },
+  {
+    "venue_id": "cdd8d0ef-c1b5-4831-964c-28aff1c13274",
+    "venue_name": "WeWork | Place Ville Marie",
+    "latitude": 45.502056,
+    "longitude": -73.569344,
+    "reservations": 44,
+    "spend": 1564.7
+  },
+  {
+    "venue_id": "46429bc3-715b-48ac-9aca-fa743ebe5711",
+    "venue_name": "WeWork | 1010 Sainte-Catherine Ouest",
+    "latitude": 45.500286,
+    "longitude": -73.572327,
+    "reservations": 48,
+    "spend": 1361.64
+  },
+  {
+    "venue_id": "25702fdc-4690-458c-9a42-2d075063100e",
+    "venue_name": "Halte 24-7 Montreal",
+    "latitude": 45.526928,
+    "longitude": -73.574875,
+    "reservations": 12,
+    "spend": 285.15
+  },
+  {
+    "venue_id": "968ae5b5-ae04-4095-8400-bc625e974036",
+    "venue_name": "Nuage B",
+    "latitude": 45.475151,
+    "longitude": -73.580093,
+    "reservations": 5,
+    "spend": 227.05
+  },
+  {
+    "venue_id": "c959e725-e994-4a8e-ad5b-fbf149fed657",
+    "venue_name": "2727 Coworking",
+    "latitude": 45.478977,
+    "longitude": -73.573013,
+    "reservations": 3,
+    "spend": 125.99
+  }
+]

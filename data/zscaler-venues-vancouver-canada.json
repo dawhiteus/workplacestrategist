@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "e0ed808d-5a42-4faf-ba30-03832d3753af",
+    "venue_name": "SPACES | BC, Vancouver - 525 West 8th Avenue",
+    "latitude": 49.264381,
+    "longitude": -123.116005,
+    "reservations": 5,
+    "spend": 1571.99
+  },
+  {
+    "venue_id": "460b089d-18e6-430d-b08e-93989cb462c7",
+    "venue_name": "WeWork | 333 Seymour St",
+    "latitude": 49.285343,
+    "longitude": -123.112465,
+    "reservations": 3,
+    "spend": 1507.98
+  },
+  {
+    "venue_id": "73ae92a0-3e24-4bcf-adda-670d5cb54000",
+    "venue_name": "The Coal Harbour Centre - TCC Canada",
+    "latitude": 49.28614,
+    "longitude": -123.123268,
+    "reservations": 46,
+    "spend": 994.23
+  },
+  {
+    "venue_id": "0d73d534-d456-41db-be50-53a5c1ca8b96",
+    "venue_name": "HQ | BC, Vancouver - Howe Street",
+    "latitude": 49.279537,
+    "longitude": -123.125084,
+    "reservations": 4,
+    "spend": 990.78
+  },
+  {
+    "venue_id": "65420ed2-808e-4f6f-b50e-ca320ff6e02a",
+    "venue_name": "The Pacific Centre - TCC Canada",
+    "latitude": 49.284374,
+    "longitude": -123.11644,
+    "reservations": 1,
+    "spend": 587.25
+  },
+  {
+    "venue_id": "c2e1f0ce-24be-472f-ac4b-46597195f7d3",
+    "venue_name": "Canada Place Business Centre",
+    "latitude": 49.287426,
+    "longitude": -123.113106,
+    "reservations": 1,
+    "spend": 379.69
+  },
+  {
+    "venue_id": "0b3c15cf-d5a8-45ad-96ea-f0774e6443a9",
+    "venue_name": "Regus | MNP Tower",
+    "latitude": 49.287201,
+    "longitude": -123.116997,
+    "reservations": 4,
+    "spend": 372.14
+  },
+  {
+    "venue_id": "068f26e2-2cf4-44bb-ab9a-9fed3ebd8687",
+    "venue_name": "iQ Offices | 1055 West Georgia St.",
+    "latitude": 49.285316,
+    "longitude": -123.121635,
+    "reservations": 2,
+    "spend": 181.0
+  },
+  {
+    "venue_id": "92465d69-60d5-418f-bc82-3465369ed8fc",
+    "venue_name": "Regus | Pacific Centre",
+    "latitude": 49.283115,
+    "longitude": -123.117882,
+    "reservations": 1,
+    "spend": 178.5
+  },
+  {
+    "venue_id": "a474b91d-e08c-4731-a664-27bdd38f08ea",
+    "venue_name": "Thrive Cowork",
+    "latitude": 49.285069,
+    "longitude": -123.115128,
+    "reservations": 3,
+    "spend": 82.37
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "reservations": 39,
+    "total_spend": 2010.0,
+    "venues": 2,
+    "members": 10
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "reservations": 18,
+    "total_spend": 688.0,
+    "venues": 5,
+    "members": 3
+  },
+  {
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 210.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 119.0,
+    "venues": 1,
+    "members": 1
+  }
+]

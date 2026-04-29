@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "810e5d71-977d-48ca-9888-6f2826619b16",
+    "venue_name": "VenturePoint Dominion",
+    "latitude": 29.6485,
+    "longitude": -98.624451,
+    "reservations": 2,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "4042b934-98e5-4c46-9866-8faf4190e6a9",
+    "venue_name": "Venture X | San Antonio Northwest",
+    "latitude": 29.504156,
+    "longitude": -98.55146,
+    "reservations": 1,
+    "spend": 160.0
+  }
+]

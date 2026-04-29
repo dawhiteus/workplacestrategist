@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "f3bce2e7-7dc8-4d2c-a8f1-a1c85d0e31a0",
+    "venue_name": "Regus | Osaka, Shin Osaka Hankyu Building",
+    "latitude": 34.734024,
+    "longitude": 135.500076,
+    "reservations": 9,
+    "spend": 1227.7
+  },
+  {
+    "venue_id": "36ccd402-0f60-4758-b6f9-2b4a96949cc9",
+    "venue_name": "Regus | Osaka, Umeda",
+    "latitude": 34.703026,
+    "longitude": 135.49884,
+    "reservations": 5,
+    "spend": 716.31
+  },
+  {
+    "venue_id": "129d693a-2bd8-4611-9fa5-018c6cfb3260",
+    "venue_name": "Regus | Osaka, Twin Towers North",
+    "latitude": 34.702526,
+    "longitude": 135.499039,
+    "reservations": 4,
+    "spend": 211.08
+  },
+  {
+    "venue_id": "dee851e3-2eaf-41e2-bba8-2b3b99e64d42",
+    "venue_name": "Regus | Osaka, Namba Parks",
+    "latitude": 34.661919,
+    "longitude": 135.501465,
+    "reservations": 1,
+    "spend": 126.88
+  },
+  {
+    "venue_id": "7827857e-f40c-4635-b9b2-911e8c13719e",
+    "venue_name": "Regus | Osaka, Pacific Marks Nishi-Umeda",
+    "latitude": 34.697411,
+    "longitude": 135.490448,
+    "reservations": 1,
+    "spend": 90.1
+  },
+  {
+    "venue_id": "78153afb-426e-44e9-9b15-9184d117ec46",
+    "venue_name": "Open Office | Osaka, Nishi-hankyu",
+    "latitude": 34.705597,
+    "longitude": 135.496719,
+    "reservations": 2,
+    "spend": 74.85
+  },
+  {
+    "venue_id": "2ea01870-33a8-4d68-b260-c8c60e4c6058",
+    "venue_name": "Regus | Osaka, Signature Umeda",
+    "latitude": 34.701607,
+    "longitude": 135.498108,
+    "reservations": 1,
+    "spend": 47.16
+  },
+  {
+    "venue_id": "a03d3b59-aef1-4705-a81e-3d5479d68349",
+    "venue_name": "Regus | Osaka, Shin-Osaka Kita (Openoffice)",
+    "latitude": 34.733456,
+    "longitude": 135.492752,
+    "reservations": 4,
+    "spend": 46.07
+  },
+  {
+    "venue_id": "ca68f867-4052-43f3-9c7d-94dd32f4a904",
+    "venue_name": "Regus | Osaka, Keihan Yodoyabashi (Open Office)",
+    "latitude": 34.691833,
+    "longitude": 135.503128,
+    "reservations": 1,
+    "spend": 34.39
+  },
+  {
+    "venue_id": "a19faa52-891b-4f05-bf8b-2b9cbb08012f",
+    "venue_name": "Regus | Osaka, Midosuji",
+    "latitude": 34.687405,
+    "longitude": 135.501205,
+    "reservations": 1,
+    "spend": 21.14
+  }
+]

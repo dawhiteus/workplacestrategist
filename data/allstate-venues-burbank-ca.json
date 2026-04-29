@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "d3f191d5-88bf-4942-9b87-b9e868e19978",
+    "venue_name": "(BUR) Burbank Media District",
+    "latitude": 34.15963,
+    "longitude": -118.330292,
+    "reservations": 5,
+    "spend": 898.0
+  },
+  {
+    "venue_id": "88765609-f981-4376-bf1b-68cacdc374ae",
+    "venue_name": "Regus || CA, Burbank - Burbank Business District",
+    "latitude": 34.184601,
+    "longitude": -118.308998,
+    "reservations": 3,
+    "spend": 612.0
+  },
+  {
+    "venue_id": "5354a422-ceac-4eb9-bcb4-1679ef5a6b37",
+    "venue_name": "CML Studios'",
+    "latitude": 34.192829,
+    "longitude": -118.332405,
+    "reservations": 1,
+    "spend": 245.0
+  }
+]

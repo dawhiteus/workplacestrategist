@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cd40aa6d-a031-42fd-9429-d0f0fd3ff7f5",
+    "venue_name": "Regus | Chrysler Building",
+    "latitude": 40.751999,
+    "longitude": -73.9757,
+    "reservations": 2,
+    "spend": 453.6
+  },
+  {
+    "venue_id": "133a500a-53ef-4eea-8a53-b5804a355d40",
+    "venue_name": "Regus | 100 Church Street",
+    "latitude": 40.713379,
+    "longitude": -74.010071,
+    "reservations": 1,
+    "spend": 190.8
+  }
+]

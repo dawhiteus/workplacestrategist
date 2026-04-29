@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "57e89903-545a-4e93-ba13-799da922d127",
+    "venue_name": "1010 North Central, LLC",
+    "latitude": 34.160019,
+    "longitude": -118.256813,
+    "reservations": 1,
+    "spend": 255.0
+  },
+  {
+    "venue_id": "1ac5f2b5-b8bc-43eb-8a70-ab3abc7a894a",
+    "venue_name": "Regus || Downtown Glendale",
+    "latitude": 34.148209,
+    "longitude": -118.255501,
+    "reservations": 1,
+    "spend": 227.5
+  },
+  {
+    "venue_id": "d4c3cf56-b95c-463d-a07e-e8a6e773b938",
+    "venue_name": "Ben Hyatt Corporation",
+    "latitude": 34.157101,
+    "longitude": -118.257454,
+    "reservations": 1,
+    "spend": 175.0
+  }
+]

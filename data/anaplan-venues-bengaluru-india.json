@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "e30cf780-81a8-4fda-9d29-5b5928f1ac35",
+    "venue_name": "WeWork Galaxy",
+    "latitude": 12.973361,
+    "longitude": 77.608765,
+    "reservations": 28,
+    "spend": 5558.36
+  },
+  {
+    "venue_id": "f1eff92e-d0c8-45c9-8c83-6e18c1c26c60",
+    "venue_name": "The Executive Centre - Kaman Amaryllis",
+    "latitude": 12.950604,
+    "longitude": 77.639198,
+    "reservations": 24,
+    "spend": 5219.4
+  },
+  {
+    "venue_id": "87137d6c-7db6-46eb-9dd3-6c97a72f583c",
+    "venue_name": "WeWork The Pavilion",
+    "latitude": 12.974722,
+    "longitude": 77.607025,
+    "reservations": 3,
+    "spend": 31.1
+  },
+  {
+    "venue_id": "6cd850f7-778f-49c6-a50f-d981db273b86",
+    "venue_name": "Awfis | Coworking-Mantri Commerce",
+    "latitude": 12.912022,
+    "longitude": 77.60022,
+    "reservations": 1,
+    "spend": 4.98
+  }
+]

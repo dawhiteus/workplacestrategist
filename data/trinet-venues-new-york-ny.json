@@ -2,49 +2,121 @@
   {
     "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
     "venue_name": "Nomadworks",
-    "latitude": 40.74652099609375,
-    "longitude": -73.98805236816406,
+    "latitude": 40.746521,
+    "longitude": -73.988052,
     "reservations": 507,
     "spend": 47536.0
   },
   {
+    "venue_id": "405541da-87dd-4847-9f75-f272c9e2c613",
+    "venue_name": "OASIS by Workville",
+    "latitude": 40.753345,
+    "longitude": -73.993607,
+    "reservations": 1,
+    "spend": 3800.0
+  },
+  {
     "venue_id": "3cc3edd7-0d31-4ab2-8576-d9eff002e831",
     "venue_name": "Studio 1418 | 307 west 38th Street ",
-    "latitude": 40.75514602661133,
-    "longitude": -73.99232482910156,
+    "latitude": 40.755146,
+    "longitude": -73.992325,
     "reservations": 4,
     "spend": 2715.0
   },
   {
     "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
     "venue_name": "Jay Suites - Midtown East",
-    "latitude": 40.759788513183594,
-    "longitude": -73.9737548828125,
+    "latitude": 40.759789,
+    "longitude": -73.973755,
     "reservations": 2,
     "spend": 2000.0
   },
   {
+    "venue_id": "325f2672-e6e5-4592-9f07-cdf1ff9e2464",
+    "venue_name": "Regus | 1325 Avenue of Americas",
+    "latitude": 40.763088,
+    "longitude": -73.980774,
+    "reservations": 1,
+    "spend": 721.0
+  },
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.759411,
+    "longitude": -73.978142,
+    "reservations": 1,
+    "spend": 575.0
+  },
+  {
+    "venue_id": "edf7d0a3-4efe-466b-b842-c1b73e69f19a",
+    "venue_name": "Emerge212 - 1185 Avenue of the Americas",
+    "latitude": 40.757877,
+    "longitude": -73.982422,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
     "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
     "venue_name": "Serendipity Labs - New York - Grand Central",
-    "latitude": 40.750938415527344,
-    "longitude": -73.97350311279297,
+    "latitude": 40.750938,
+    "longitude": -73.973503,
     "reservations": 4,
     "spend": 196.0
   },
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 3,
     "spend": 120.0
   },
   {
     "venue_id": "98bed0ab-96d5-48f5-bd08-897beda3267d",
     "venue_name": "WeWork | 750 Lexington",
-    "latitude": 40.762691497802734,
-    "longitude": -73.96826171875,
+    "latitude": 40.762691,
+    "longitude": -73.968262,
     "reservations": 2,
     "spend": 94.0
+  },
+  {
+    "venue_id": "b1d6bd96-f117-49bf-889a-9536ce86b9af",
+    "venue_name": "Nomadworks | Times Square",
+    "latitude": 40.755268,
+    "longitude": -73.989586,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855,
+    "longitude": -74.00898,
+    "reservations": 1,
+    "spend": 49.0
+  },
+  {
+    "venue_id": "42c247ea-a225-4575-a0b7-6ca49f421643",
+    "venue_name": "SPACES | Midtown South",
+    "latitude": 40.742962,
+    "longitude": -73.983757,
+    "reservations": 1,
+    "spend": 47.5
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "aeca193f-16ef-41b7-81a9-6df428dfd21b",
+    "venue_name": "The Yard: Lincoln Square",
+    "latitude": 40.774311,
+    "longitude": -73.980797,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

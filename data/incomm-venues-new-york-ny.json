@@ -2,33 +2,97 @@
   {
     "venue_id": "d1d19c2a-6132-46fd-869d-7917b8b94880",
     "venue_name": "Margalit Startup City",
-    "latitude": 40.72068405151367,
-    "longitude": -74.00009155273438,
+    "latitude": 40.720684,
+    "longitude": -74.000092,
     "reservations": 3,
     "spend": 1880.0
   },
   {
+    "venue_id": "71dcd609-3551-45cd-8adb-1bd811a52cc0",
+    "venue_name": "Hines | The Square at 205 Hudson Street",
+    "latitude": 40.723728,
+    "longitude": -74.008438,
+    "reservations": 2,
+    "spend": 990.0
+  },
+  {
     "venue_id": "aeca193f-16ef-41b7-81a9-6df428dfd21b",
     "venue_name": "The Yard: Lincoln Square",
-    "latitude": 40.77431106567383,
-    "longitude": -73.98079681396484,
+    "latitude": 40.774311,
+    "longitude": -73.980797,
     "reservations": 19,
     "spend": 665.0
   },
   {
+    "venue_id": "406f9611-22f1-4a90-a67d-b6453652b272",
+    "venue_name": "Jay Suites - Wall Street",
+    "latitude": 40.706264,
+    "longitude": -74.009857,
+    "reservations": 2,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "edf7d0a3-4efe-466b-b842-c1b73e69f19a",
+    "venue_name": "Emerge212 - 1185 Avenue of the Americas",
+    "latitude": 40.757877,
+    "longitude": -73.982422,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
     "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
     "venue_name": "Luminary",
-    "latitude": 40.74631881713867,
-    "longitude": -73.98828887939453,
+    "latitude": 40.746319,
+    "longitude": -73.988289,
     "reservations": 9,
     "spend": 360.0
   },
   {
+    "venue_id": "654be2b9-cc4d-4f76-90d3-0097805f0a08",
+    "venue_name": "WeWork | 18 West 18th Street",
+    "latitude": 40.742054,
+    "longitude": -74.000237,
+    "reservations": 1,
+    "spend": 244.8
+  },
+  {
+    "venue_id": "2078f5a6-7567-48b7-ab2e-d41c931e5834",
+    "venue_name": "Regus | Madison Square Garden",
+    "latitude": 40.751598,
+    "longitude": -73.993599,
+    "reservations": 2,
+    "spend": 190.0
+  },
+  {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "5ad18402-7154-457e-bc09-32a675eaa843",
+    "venue_name": "The Yard: Columbus Circle",
+    "latitude": 40.769581,
+    "longitude": -73.983192,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.746521,
+    "longitude": -73.988052,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

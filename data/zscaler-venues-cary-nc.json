@@ -2,9 +2,33 @@
   {
     "venue_id": "afefc089-ea51-46cd-8036-59f07401a65c",
     "venue_name": "Regus | Regency",
-    "latitude": 35.734405517578125,
-    "longitude": -78.78836059570312,
+    "latitude": 35.734406,
+    "longitude": -78.788361,
     "reservations": 6,
     "spend": 1042.9
+  },
+  {
+    "venue_id": "c83526e8-bd54-40c4-b7da-e6ff4f8d3caa",
+    "venue_name": "Regus | Cary - 15000 Weston Parkway",
+    "latitude": 35.816322,
+    "longitude": -78.81411,
+    "reservations": 2,
+    "spend": 290.0
+  },
+  {
+    "venue_id": "83e6a027-e9f0-4887-a50c-f6201fb40dd8",
+    "venue_name": "SPACES | Cary - Spaces Centre Green",
+    "latitude": 35.826302,
+    "longitude": -78.7957,
+    "reservations": 1,
+    "spend": 189.0
+  },
+  {
+    "venue_id": "388ffebf-4149-401f-9c1d-6c7fb0c375fb",
+    "venue_name": "Towerview Office Suites- Maynard",
+    "latitude": 35.794697,
+    "longitude": -78.801498,
+    "reservations": 1,
+    "spend": 174.0
   }
 ]

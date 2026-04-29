@@ -2,17 +2,33 @@
   {
     "venue_id": "5cd5069f-cda7-4990-9c24-140e8cfd848c",
     "venue_name": "Riverside Central Business Center",
-    "latitude": 33.952919006347656,
-    "longitude": -117.39154815673828,
+    "latitude": 33.952919,
+    "longitude": -117.391548,
     "reservations": 92,
     "spend": 16465.0
   },
   {
     "venue_id": "08e0cfa5-59ab-41be-b5cf-9e7a6bf83ca6",
     "venue_name": "Regus || CA, Riverside - Turner Riverwalk",
-    "latitude": 33.90156555175781,
-    "longitude": -117.49362182617188,
+    "latitude": 33.901566,
+    "longitude": -117.493622,
     "reservations": 35,
     "spend": 5915.0
+  },
+  {
+    "venue_id": "f1dd867d-e856-407a-af35-fc57f1a47722",
+    "venue_name": "Via Avalon",
+    "latitude": 33.943298,
+    "longitude": -117.392044,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "6841299b-5fcf-4427-9849-2d64e47adb3f",
+    "venue_name": "Jurupa Valley Executive Suites",
+    "latitude": 33.978317,
+    "longitude": -117.461868,
+    "reservations": 1,
+    "spend": 140.0
   }
 ]

@@ -2,17 +2,33 @@
   {
     "venue_id": "58dc8ab0-fa4a-40ce-b580-9e6debeccd0f",
     "venue_name": "Regus | Arboretum Plaza",
-    "latitude": 30.390300750732422,
-    "longitude": -97.74859619140625,
+    "latitude": 30.390301,
+    "longitude": -97.748596,
     "reservations": 3,
     "spend": 1225.0
   },
   {
     "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
     "venue_name": "Trick Hat Workway",
-    "latitude": 30.26758575439453,
-    "longitude": -97.75431823730469,
+    "latitude": 30.267586,
+    "longitude": -97.754318,
     "reservations": 3,
     "spend": 330.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192,
+    "longitude": -97.730339,
+    "reservations": 2,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "a030b5ba-13c8-40bd-a379-d979841fc46b",
+    "venue_name": "FUSE Workspace-Four Points",
+    "latitude": 30.410009,
+    "longitude": -97.851631,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

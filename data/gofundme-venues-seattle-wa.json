@@ -2,9 +2,25 @@
   {
     "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
     "venue_name": "The Cloud Room",
-    "latitude": 47.6136589050293,
-    "longitude": -122.3177490234375,
+    "latitude": 47.613659,
+    "longitude": -122.317749,
     "reservations": 5,
     "spend": 860.0
+  },
+  {
+    "venue_id": "67ada6c5-94d1-4e58-ac1b-c5c6053c0834",
+    "venue_name": "Regus | Smith Tower",
+    "latitude": 47.602066,
+    "longitude": -122.331917,
+    "reservations": 1,
+    "spend": 315.0
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.665913,
+    "longitude": -122.374107,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

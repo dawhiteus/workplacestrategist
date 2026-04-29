@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.756721,
+    "longitude": -73.980042,
+    "reservations": 2,
+    "spend": 430.0
+  },
+  {
+    "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
+    "venue_name": "WeWork | 368 9th Ave",
+    "latitude": 40.751068,
+    "longitude": -73.997719,
+    "reservations": 1,
+    "spend": 144.0
+  },
+  {
+    "venue_id": "03eb6821-13f2-4924-91d6-6f273595e966",
+    "venue_name": "Select Office Suites - 1115 Broadway Flatiron NYC",
+    "latitude": 40.742939,
+    "longitude": -73.989273,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

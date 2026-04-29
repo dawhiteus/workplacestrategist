@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "cdd8d0ef-c1b5-4831-964c-28aff1c13274",
+    "venue_name": "WeWork | Place Ville Marie",
+    "latitude": 45.502056,
+    "longitude": -73.569344,
+    "reservations": 10,
+    "spend": 9642.28
+  },
+  {
+    "venue_id": "ad503e76-d563-4a57-8acb-08aa97f96b4a",
+    "venue_name": "WeWork | L'Avenue",
+    "latitude": 45.496441,
+    "longitude": -73.570663,
+    "reservations": 8,
+    "spend": 5830.86
+  },
+  {
+    "venue_id": "46429bc3-715b-48ac-9aca-fa743ebe5711",
+    "venue_name": "WeWork | 1010 Sainte-Catherine Ouest",
+    "latitude": 45.500286,
+    "longitude": -73.572327,
+    "reservations": 1,
+    "spend": 926.11
+  },
+  {
+    "venue_id": "4bc84fff-0ee5-414d-9184-701675f4443b",
+    "venue_name": "Regus | Cathcart & McGill",
+    "latitude": 45.501301,
+    "longitude": -73.570801,
+    "reservations": 5,
+    "spend": 376.17
+  },
+  {
+    "venue_id": "676cce13-c0e1-4bf8-95e0-644abc5262ea",
+    "venue_name": "Regus | University Street",
+    "latitude": 45.504002,
+    "longitude": -73.571503,
+    "reservations": 1,
+    "spend": 348.85
+  },
+  {
+    "venue_id": "602ffd7f-ed22-48e8-b11a-c59773842825",
+    "venue_name": "iQ Offices | 1155 Metcalfe Inc.",
+    "latitude": 45.500252,
+    "longitude": -73.570183,
+    "reservations": 3,
+    "spend": 213.17
+  },
+  {
+    "venue_id": "301b9319-ad8f-40ed-a553-242085434403",
+    "venue_name": "SPACES | QC, Montreal - Spaces Cité Multimédia",
+    "latitude": 45.497616,
+    "longitude": -73.55439,
+    "reservations": 1,
+    "spend": 197.3
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "83411883-6d50-48e6-9ae0-b6a6f5c34e21",
     "venue_name": "BLANKSPACES Santa Monica",
-    "latitude": 34.013729095458984,
-    "longitude": -118.49600982666016,
+    "latitude": 34.013729,
+    "longitude": -118.49601,
     "reservations": 19,
     "spend": 1000.0
+  },
+  {
+    "venue_id": "10e33bec-af27-4c72-908e-96e3e32eb052",
+    "venue_name": "SPACES || Water Garden",
+    "latitude": 34.029221,
+    "longitude": -118.472061,
+    "reservations": 1,
+    "spend": 104.0
   }
 ]

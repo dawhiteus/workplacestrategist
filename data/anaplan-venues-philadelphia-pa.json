@@ -2,9 +2,25 @@
   {
     "venue_id": "23da23da-e224-4dfc-bdd6-519a359c9778",
     "venue_name": "Bond Collective - Center City (Station House)",
-    "latitude": 39.95418930053711,
-    "longitude": -75.16766357421875,
+    "latitude": 39.954189,
+    "longitude": -75.167664,
     "reservations": 4,
     "spend": 1600.0
+  },
+  {
+    "venue_id": "9da6571c-f8f5-441b-8fdd-390ea885e65d",
+    "venue_name": "Intelligent Office Philadelphia",
+    "latitude": 39.953003,
+    "longitude": -75.16877,
+    "reservations": 2,
+    "spend": 800.0
+  },
+  {
+    "venue_id": "eccb3c79-797d-49e9-94d2-e779659cbaa5",
+    "venue_name": "YourOffice - Philadelphia",
+    "latitude": 39.954189,
+    "longitude": -75.169952,
+    "reservations": 1,
+    "spend": 140.0
   }
 ]

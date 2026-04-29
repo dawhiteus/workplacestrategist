@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "abf4e462-d89a-43b4-8ca9-9781491b9369",
+    "venue_name": "The Executive Centre - Business Bay",
+    "latitude": 18.551523,
+    "longitude": 73.889656,
+    "reservations": 1,
+    "spend": 199.21
+  },
+  {
+    "venue_id": "5e16a025-01b7-40fb-afd0-62f79abb7e6a",
+    "venue_name": "The Executive Centre - World Trade Center",
+    "latitude": 18.55298,
+    "longitude": 73.948265,
+    "reservations": 1,
+    "spend": 136.6
+  },
+  {
+    "venue_id": "61d0e34b-3604-4ed5-bb48-1ff1962d644f",
+    "venue_name": "Awfis | Coworking-Que Spaces",
+    "latitude": 18.515806,
+    "longitude": 73.927162,
+    "reservations": 1,
+    "spend": 5.92
+  }
+]

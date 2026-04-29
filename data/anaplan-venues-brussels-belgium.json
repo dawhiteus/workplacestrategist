@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3261c741-5bd9-406e-b2ba-3f4c870d50d4",
+    "venue_name": "Regus | Brussels IT Tower",
+    "latitude": 50.817299,
+    "longitude": 4.37211,
+    "reservations": 1,
+    "spend": 224.94
+  },
+  {
+    "venue_id": "64ba8dbd-8d97-48d7-8b71-55b66a3b902f",
+    "venue_name": "Regus | Brussels South Station",
+    "latitude": 50.834991,
+    "longitude": 4.337618,
+    "reservations": 1,
+    "spend": 81.64
+  }
+]

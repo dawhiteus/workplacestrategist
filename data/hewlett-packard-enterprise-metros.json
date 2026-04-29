@@ -2,6 +2,7 @@
   {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 107,
     "total_spend": 10002.51,
     "venues": 16,
@@ -10,6 +11,7 @@
   {
     "city": "Round Rock",
     "state": "TX",
+    "country": "US",
     "reservations": 7,
     "total_spend": 748.19,
     "venues": 2,

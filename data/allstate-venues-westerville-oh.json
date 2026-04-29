@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d724abb4-2209-4b23-9c53-76085df02e38",
+    "venue_name": "COhatch - Westerville",
+    "latitude": 40.119656,
+    "longitude": -82.928642,
+    "reservations": 5,
+    "spend": 530.0
+  },
+  {
+    "venue_id": "ad1b26df-e611-42ec-b8f7-722e52eaa603",
+    "venue_name": "Regus | OH, Columbus - Polaris",
+    "latitude": 40.139599,
+    "longitude": -82.964203,
+    "reservations": 1,
+    "spend": 166.0
+  }
+]

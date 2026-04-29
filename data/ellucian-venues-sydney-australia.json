@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "99fa5077-7b9b-4c7a-84b1-ea3f06a456c9",
+    "venue_name": "GPT Space&Co 580 George",
+    "latitude": -33.874798,
+    "longitude": 151.206955,
+    "reservations": 8,
+    "spend": 2940.05
+  },
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 7,
+    "spend": 1806.1
+  },
+  {
+    "venue_id": "a3ec3b52-ba07-4dfc-9963-6aafc9cc31a6",
+    "venue_name": "GPT Space&Co Darling Park",
+    "latitude": -33.872013,
+    "longitude": 151.203705,
+    "reservations": 2,
+    "spend": 864.16
+  },
+  {
+    "venue_id": "add1b8ad-7cdc-451c-90ad-75084dd3d7d5",
+    "venue_name": "Hub Australia | Wynyard",
+    "latitude": -33.865334,
+    "longitude": 151.206558,
+    "reservations": 3,
+    "spend": 791.99
+  },
+  {
+    "venue_id": "66cb8b20-7d7c-4404-a982-67cded7f04fb",
+    "venue_name": "SPACES | SYDNEY, 60 Martin Place",
+    "latitude": -33.867516,
+    "longitude": 151.211975,
+    "reservations": 3,
+    "spend": 603.72
+  },
+  {
+    "venue_id": "b70b2315-425a-4bfd-8536-dd1bfd5b12b1",
+    "venue_name": "The Great Room at 85 Castlereagh St",
+    "latitude": -33.869972,
+    "longitude": 151.209366,
+    "reservations": 1,
+    "spend": 242.97
+  },
+  {
+    "venue_id": "e9c35ecd-bfec-456c-8733-2b9566d8f99c",
+    "venue_name": "workspace365 - Bond Centre",
+    "latitude": -33.86459,
+    "longitude": 151.208496,
+    "reservations": 1,
+    "spend": 150.57
+  },
+  {
+    "venue_id": "eace858a-6fb0-47e8-a91f-f95a8bc120c1",
+    "venue_name": "Regus | SYDNEY 680 George Street",
+    "latitude": -33.877426,
+    "longitude": 151.206604,
+    "reservations": 1,
+    "spend": 115.41
+  },
+  {
+    "venue_id": "2fec2bbc-70cf-4cde-ae3b-867bd4e18cb8",
+    "venue_name": "The Executive Centre - Angel Place",
+    "latitude": -33.866272,
+    "longitude": 151.208374,
+    "reservations": 1,
+    "spend": 60.29
+  },
+  {
+    "venue_id": "6d2aa8ab-f819-4a2a-9476-eadbd40fe91a",
+    "venue_name": "SPACES | Sydney, 1 Denison Street",
+    "latitude": -33.838146,
+    "longitude": 151.208191,
+    "reservations": 1,
+    "spend": 42.65
+  }
+]

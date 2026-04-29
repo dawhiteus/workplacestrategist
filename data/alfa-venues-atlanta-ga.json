@@ -2,9 +2,33 @@
   {
     "venue_id": "b18dcc7a-2b0b-414a-80c7-183efd991de0",
     "venue_name": "WeWork | Terminus 100",
-    "latitude": 33.844425201416016,
-    "longitude": -84.37104797363281,
+    "latitude": 33.844425,
+    "longitude": -84.371048,
     "reservations": 4,
     "spend": 140.0
+  },
+  {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851471,
+    "longitude": -84.360031,
+    "reservations": 2,
+    "spend": 110.0
+  },
+  {
+    "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
+    "venue_name": "Alkaloid Networks",
+    "latitude": 33.758904,
+    "longitude": -84.364799,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "9890a734-31f0-4d13-8ff3-7acc483d8f89",
+    "venue_name": "WeWork | Coda",
+    "latitude": 33.775307,
+    "longitude": -84.388382,
+    "reservations": 1,
+    "spend": 42.0
   }
 ]

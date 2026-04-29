@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f23fa8b2-49a8-4ffb-8c8c-11c585dd3246",
+    "venue_name": "Kiva Cowork",
+    "latitude": 34.422523,
+    "longitude": -119.704086,
+    "reservations": 1,
+    "spend": 520.0
+  },
+  {
+    "venue_id": "f39a0cf3-4e2e-41aa-8dec-d7bdaf7991e3",
+    "venue_name": "THE SANDBOX Santa Barbara",
+    "latitude": 34.4217,
+    "longitude": -119.688911,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

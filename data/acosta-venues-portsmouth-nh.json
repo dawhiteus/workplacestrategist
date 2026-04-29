@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "78d45617-448f-446d-8202-c88d8a924aee",
+    "venue_name": "Regus | Portsmouth",
+    "latitude": 43.090572,
+    "longitude": -70.786591,
+    "reservations": 2,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "1f7f67bd-3bab-469d-baed-04f9ba638957",
+    "venue_name": "Portwalk Place Cowork",
+    "latitude": 43.077454,
+    "longitude": -70.760765,
+    "reservations": 1,
+    "spend": 135.0
+  },
+  {
+    "venue_id": "e2e2180b-ff9f-44e4-b4f0-bb558bfe283b",
+    "venue_name": "Best Western Plus Portsmouth Hotel and Suites",
+    "latitude": 43.073341,
+    "longitude": -70.779221,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

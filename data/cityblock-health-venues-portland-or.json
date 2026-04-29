@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.525059,
+    "longitude": -122.684799,
+    "reservations": 2,
+    "spend": 1920.0
+  },
+  {
+    "venue_id": "751d9c16-1bbb-487b-9283-7b10a44a8cca",
+    "venue_name": "Integrate Architecture & Planning",
+    "latitude": 45.582489,
+    "longitude": -122.686508,
+    "reservations": 2,
+    "spend": 300.0
+  }
+]

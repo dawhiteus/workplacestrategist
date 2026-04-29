@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "328d7f5d-9a9b-4b16-bf91-cadfee83cb95",
+    "venue_name": "WeWork | 368 9th Ave",
+    "latitude": 40.751068,
+    "longitude": -73.997719,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
+    "venue_name": "Blender Workspace",
+    "latitude": 40.745995,
+    "longitude": -73.983978,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855,
+    "longitude": -74.00898,
+    "reservations": 1,
+    "spend": 49.0
+  },
+  {
+    "venue_id": "430b1dd9-58b0-47c5-81ea-ec701133c894",
+    "venue_name": "WeWork | 450 Park Ave S",
+    "latitude": 40.745033,
+    "longitude": -73.983154,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "d5b2c5d3-97ba-493b-b11e-992302b93a33",
+    "venue_name": "WeWork | 408 Broadway",
+    "latitude": 40.71888,
+    "longitude": -74.001854,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

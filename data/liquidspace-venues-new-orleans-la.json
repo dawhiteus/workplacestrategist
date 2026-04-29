@@ -2,9 +2,17 @@
   {
     "venue_id": "2af1d6f0-0868-402d-a295-b8863a2b64d7",
     "venue_name": "The Shop at CAC",
-    "latitude": 29.943588256835938,
-    "longitude": -90.07051849365234,
+    "latitude": 29.943588,
+    "longitude": -90.070518,
     "reservations": 4,
     "spend": 140.0
+  },
+  {
+    "venue_id": "1b09508b-8aa2-4cec-8053-b0da1361d371",
+    "venue_name": "Connect Hub Coworking New Orleans",
+    "latitude": 29.948828,
+    "longitude": -90.067665,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

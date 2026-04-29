@@ -2,6 +2,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 66,
     "total_spend": 47604.0,
     "venues": 7,
@@ -10,14 +11,34 @@
   {
     "city": "Portland",
     "state": "OR",
+    "country": "US",
     "reservations": 23,
     "total_spend": 15295.0,
     "venues": 4,
     "members": 2
   },
   {
+    "city": "Edinburgh",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 50,
+    "total_spend": 15216.87,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Brisbane City",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 24,
+    "total_spend": 12708.95,
+    "venues": 3,
+    "members": 2
+  },
+  {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 10,
     "total_spend": 7379.7,
     "venues": 6,
@@ -26,14 +47,25 @@
   {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 7,
     "total_spend": 5540.0,
     "venues": 2,
     "members": 1
   },
   {
+    "city": "Sofia",
+    "state": "Bulgaria",
+    "country": "Bulgaria",
+    "reservations": 10,
+    "total_spend": 2681.92,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Menlo Park",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2650.0,
     "venues": 1,
@@ -42,6 +74,7 @@
   {
     "city": "Boulder",
     "state": "CO",
+    "country": "US",
     "reservations": 7,
     "total_spend": 2637.5,
     "venues": 1,
@@ -50,6 +83,7 @@
   {
     "city": "Santa Barbara",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2552.0,
     "venues": 1,
@@ -58,6 +92,7 @@
   {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 2160.0,
     "venues": 3,
@@ -66,6 +101,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2137.0,
     "venues": 1,
@@ -74,6 +110,7 @@
   {
     "city": "Phoenix",
     "state": "AZ",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1802.0,
     "venues": 2,
@@ -82,6 +119,7 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1500.0,
     "venues": 1,
@@ -90,6 +128,7 @@
   {
     "city": "Portland",
     "state": "ME",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1488.99,
     "venues": 1,
@@ -98,6 +137,7 @@
   {
     "city": "Palo Alto",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1098.0,
     "venues": 2,

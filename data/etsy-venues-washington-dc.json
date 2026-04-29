@@ -2,33 +2,57 @@
   {
     "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
     "venue_name": "Mindspace K St",
-    "latitude": 38.90296173095703,
-    "longitude": -77.03071594238281,
+    "latitude": 38.902962,
+    "longitude": -77.030716,
     "reservations": 186,
     "spend": 7058.0
   },
   {
     "venue_id": "796f43d4-0a91-4719-a601-affc392f1795",
     "venue_name": "The Yard: Eastern Market",
-    "latitude": 38.88448715209961,
-    "longitude": -76.99543762207031,
+    "latitude": 38.884487,
+    "longitude": -76.995438,
     "reservations": 4,
     "spend": 140.0
   },
   {
     "venue_id": "0f2e3975-6fa5-47d3-b1e4-c6a87eaa2b45",
     "venue_name": "The Mark at Manhattan Laundry",
-    "latitude": 38.91984939575195,
-    "longitude": -77.03076171875,
+    "latitude": 38.919849,
+    "longitude": -77.030762,
     "reservations": 3,
     "spend": 110.0
   },
   {
     "venue_id": "619dad2e-e6bc-4dd1-b6b6-623fbb7c1cca",
     "venue_name": "WeWork | 1701 Rhode Island Ave NW",
-    "latitude": 38.90671157836914,
-    "longitude": -77.03875732421875,
+    "latitude": 38.906712,
+    "longitude": -77.038757,
     "reservations": 2,
     "spend": 94.0
+  },
+  {
+    "venue_id": "7d1cc9fc-a80b-4462-baa0-155e6a53ca27",
+    "venue_name": "Industrious - Union Market",
+    "latitude": 38.908653,
+    "longitude": -77.000511,
+    "reservations": 1,
+    "spend": 63.0
+  },
+  {
+    "venue_id": "984118c2-42ae-4c39-8cb6-2233fc944384",
+    "venue_name": "Carr Workplaces - K Street",
+    "latitude": 38.902649,
+    "longitude": -77.040543,
+    "reservations": 1,
+    "spend": 45.0
+  },
+  {
+    "venue_id": "fe68ca6d-90d4-4298-9afd-79e5080579f1",
+    "venue_name": "WeWork | 200 Massachusetts Ave NW",
+    "latitude": 38.898911,
+    "longitude": -77.014076,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

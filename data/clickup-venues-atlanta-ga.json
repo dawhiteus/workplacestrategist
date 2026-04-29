@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.846756,
+    "longitude": -84.372482,
+    "reservations": 1,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
+    "venue_name": "Alkaloid Networks",
+    "latitude": 33.758904,
+    "longitude": -84.364799,
+    "reservations": 1,
+    "spend": 50.0
+  }
+]

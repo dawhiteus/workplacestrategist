@@ -2,6 +2,7 @@
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 306,
     "total_spend": 19378.54,
     "venues": 12,
@@ -10,6 +11,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 234,
     "total_spend": 8352.0,
     "venues": 34,
@@ -18,6 +20,7 @@
   {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 220,
     "total_spend": 8255.0,
     "venues": 12,
@@ -26,6 +29,7 @@
   {
     "city": "Sunnyvale",
     "state": "CA",
+    "country": "US",
     "reservations": 125,
     "total_spend": 7274.5,
     "venues": 2,
@@ -34,14 +38,16 @@
   {
     "city": "Seattle",
     "state": "WA",
-    "reservations": 132,
-    "total_spend": 6308.0,
+    "country": "US",
+    "reservations": 133,
+    "total_spend": 6347.0,
     "venues": 16,
     "members": 32
   },
   {
     "city": "Hudson",
     "state": "NY",
+    "country": "US",
     "reservations": 99,
     "total_spend": 5825.0,
     "venues": 1,
@@ -50,6 +56,7 @@
   {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 103,
     "total_spend": 5349.0,
     "venues": 9,
@@ -58,14 +65,25 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 91,
     "total_spend": 4414.0,
     "venues": 12,
     "members": 18
   },
   {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 93,
+    "total_spend": 4071.31,
+    "venues": 7,
+    "members": 9
+  },
+  {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 96,
     "total_spend": 3520.6,
     "venues": 15,
@@ -74,6 +92,7 @@
   {
     "city": "Portland",
     "state": "OR",
+    "country": "US",
     "reservations": 80,
     "total_spend": 3507.0,
     "venues": 6,
@@ -82,6 +101,7 @@
   {
     "city": "Los Angeles",
     "state": "CA",
+    "country": "US",
     "reservations": 64,
     "total_spend": 3169.81,
     "venues": 11,
@@ -90,6 +110,7 @@
   {
     "city": "Bellevue",
     "state": "WA",
+    "country": "US",
     "reservations": 43,
     "total_spend": 2767.0,
     "venues": 5,
@@ -98,6 +119,7 @@
   {
     "city": "Alpharetta",
     "state": "GA",
+    "country": "US",
     "reservations": 53,
     "total_spend": 2511.0,
     "venues": 4,
@@ -106,6 +128,7 @@
   {
     "city": "Kingston",
     "state": "NY",
+    "country": "US",
     "reservations": 59,
     "total_spend": 2075.0,
     "venues": 2,
@@ -114,6 +137,7 @@
   {
     "city": "Cambridge",
     "state": "MA",
+    "country": "US",
     "reservations": 34,
     "total_spend": 2052.0,
     "venues": 4,
@@ -122,14 +146,25 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 47,
     "total_spend": 2007.19,
     "venues": 9,
     "members": 9
   },
   {
+    "city": "Toronto",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 24,
+    "total_spend": 1303.58,
+    "venues": 7,
+    "members": 7
+  },
+  {
     "city": "Madison",
     "state": "WI",
+    "country": "US",
     "reservations": 26,
     "total_spend": 1299.75,
     "venues": 5,
@@ -138,6 +173,7 @@
   {
     "city": "San Mateo",
     "state": "CA",
+    "country": "US",
     "reservations": 21,
     "total_spend": 1185.0,
     "venues": 2,
@@ -146,6 +182,7 @@
   {
     "city": "Minneapolis",
     "state": "MN",
+    "country": "US",
     "reservations": 30,
     "total_spend": 1125.0,
     "venues": 4,
@@ -154,6 +191,7 @@
   {
     "city": "Berkeley",
     "state": "CA",
+    "country": "US",
     "reservations": 21,
     "total_spend": 1109.0,
     "venues": 5,
@@ -162,6 +200,7 @@
   {
     "city": "Houston",
     "state": "TX",
+    "country": "US",
     "reservations": 32,
     "total_spend": 932.0,
     "venues": 11,
@@ -170,6 +209,7 @@
   {
     "city": "Saratoga Springs",
     "state": "NY",
+    "country": "US",
     "reservations": 28,
     "total_spend": 886.0,
     "venues": 1,
@@ -178,6 +218,7 @@
   {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 17,
     "total_spend": 770.0,
     "venues": 4,
@@ -186,46 +227,70 @@
   {
     "city": "Culver City",
     "state": "CA",
+    "country": "US",
     "reservations": 16,
     "total_spend": 739.0,
     "venues": 2,
     "members": 5
   },
   {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "reservations": 16,
+    "total_spend": 713.64,
+    "venues": 7,
+    "members": 1
+  },
+  {
     "city": "Oakland",
     "state": "CA",
+    "country": "US",
     "reservations": 22,
     "total_spend": 705.0,
     "venues": 4,
     "members": 10
   },
   {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 16,
+    "total_spend": 693.03,
+    "venues": 6,
+    "members": 4
+  },
+  {
     "city": "Princeton",
     "state": "NJ",
+    "country": "US",
     "reservations": 19,
     "total_spend": 690.0,
     "venues": 2,
     "members": 2
   },
   {
-    "city": "Cincinnati",
-    "state": "OH",
-    "reservations": 15,
-    "total_spend": 674.64,
-    "venues": 6,
-    "members": 1
-  },
-  {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 14,
     "total_spend": 652.25,
     "venues": 6,
     "members": 6
   },
   {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 9,
+    "total_spend": 609.62,
+    "venues": 8,
+    "members": 4
+  },
+  {
     "city": "Albany",
     "state": "NY",
+    "country": "US",
     "reservations": 24,
     "total_spend": 600.0,
     "venues": 3,
@@ -234,6 +299,7 @@
   {
     "city": "Lehi",
     "state": "UT",
+    "country": "US",
     "reservations": 12,
     "total_spend": 580.0,
     "venues": 2,
@@ -242,14 +308,25 @@
   {
     "city": "Boulder",
     "state": "CO",
+    "country": "US",
     "reservations": 11,
     "total_spend": 577.93,
     "venues": 6,
     "members": 4
   },
   {
+    "city": "Guadalajara",
+    "state": "Mexico",
+    "country": "Mexico",
+    "reservations": 17,
+    "total_spend": 540.61,
+    "venues": 2,
+    "members": 9
+  },
+  {
     "city": "Poulsbo",
     "state": "WA",
+    "country": "US",
     "reservations": 15,
     "total_spend": 535.0,
     "venues": 1,
@@ -258,6 +335,7 @@
   {
     "city": "Miami",
     "state": "FL",
+    "country": "US",
     "reservations": 7,
     "total_spend": 444.26,
     "venues": 4,
@@ -266,6 +344,7 @@
   {
     "city": "Pasadena",
     "state": "CA",
+    "country": "US",
     "reservations": 14,
     "total_spend": 430.0,
     "venues": 2,
@@ -274,6 +353,7 @@
   {
     "city": "El Segundo",
     "state": "CA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 400.0,
     "venues": 1,
@@ -282,6 +362,7 @@
   {
     "city": "Gig Harbor",
     "state": "WA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 400.0,
     "venues": 1,
@@ -290,6 +371,7 @@
   {
     "city": "Los Gatos",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 375.0,
     "venues": 1,
@@ -298,6 +380,7 @@
   {
     "city": "Philadelphia",
     "state": "PA",
+    "country": "US",
     "reservations": 12,
     "total_spend": 370.0,
     "venues": 4,
@@ -306,6 +389,7 @@
   {
     "city": "Portland",
     "state": "ME",
+    "country": "US",
     "reservations": 8,
     "total_spend": 335.0,
     "venues": 1,
@@ -314,6 +398,7 @@
   {
     "city": "Santa Barbara",
     "state": "CA",
+    "country": "US",
     "reservations": 12,
     "total_spend": 325.0,
     "venues": 2,
@@ -322,6 +407,7 @@
   {
     "city": "San Jose",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 294.85,
     "venues": 4,
@@ -330,14 +416,25 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 7,
     "total_spend": 290.0,
     "venues": 4,
     "members": 4
   },
   {
+    "city": "Barcelona",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 10,
+    "total_spend": 289.14,
+    "venues": 5,
+    "members": 3
+  },
+  {
     "city": "Lake Oswego",
     "state": "OR",
+    "country": "US",
     "reservations": 7,
     "total_spend": 280.0,
     "venues": 1,
@@ -346,6 +443,7 @@
   {
     "city": "Troy",
     "state": "NY",
+    "country": "US",
     "reservations": 11,
     "total_spend": 275.0,
     "venues": 1,
@@ -354,6 +452,7 @@
   {
     "city": "Santa Monica",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 263.0,
     "venues": 4,
@@ -362,6 +461,7 @@
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 8,
     "total_spend": 260.0,
     "venues": 3,
@@ -370,6 +470,7 @@
   {
     "city": "Needham",
     "state": "MA",
+    "country": "US",
     "reservations": 6,
     "total_spend": 254.0,
     "venues": 2,
@@ -378,6 +479,7 @@
   {
     "city": "Hillsboro",
     "state": "OR",
+    "country": "US",
     "reservations": 7,
     "total_spend": 245.0,
     "venues": 1,
@@ -386,6 +488,7 @@
   {
     "city": "Pittsburgh",
     "state": "PA",
+    "country": "US",
     "reservations": 6,
     "total_spend": 235.0,
     "venues": 3,
@@ -394,6 +497,7 @@
   {
     "city": "Newburgh",
     "state": "NY",
+    "country": "US",
     "reservations": 5,
     "total_spend": 230.0,
     "venues": 1,
@@ -402,22 +506,25 @@
   {
     "city": "Las Vegas",
     "state": "NV",
+    "country": "US",
     "reservations": 7,
     "total_spend": 229.0,
     "venues": 3,
     "members": 3
   },
   {
-    "city": "Bethesda",
-    "state": "MD",
-    "reservations": 3,
-    "total_spend": 205.0,
-    "venues": 2,
-    "members": 3
+    "city": "Burlington",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 7,
+    "total_spend": 226.57,
+    "venues": 1,
+    "members": 1
   },
   {
     "city": "Durham",
     "state": "NC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 200.0,
     "venues": 1,
@@ -426,6 +533,7 @@
   {
     "city": "Asheville",
     "state": "NC",
+    "country": "US",
     "reservations": 6,
     "total_spend": 190.0,
     "venues": 3,
@@ -434,6 +542,7 @@
   {
     "city": "Jersey City",
     "state": "NJ",
+    "country": "US",
     "reservations": 4,
     "total_spend": 182.0,
     "venues": 2,
@@ -442,6 +551,7 @@
   {
     "city": "Quincy",
     "state": "MA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 177.0,
     "venues": 1,
@@ -450,6 +560,7 @@
   {
     "city": "Stamford",
     "state": "CT",
+    "country": "US",
     "reservations": 4,
     "total_spend": 174.0,
     "venues": 2,
@@ -458,14 +569,25 @@
   {
     "city": "Poughkeepsie",
     "state": "NY",
+    "country": "US",
     "reservations": 3,
     "total_spend": 165.0,
     "venues": 1,
     "members": 3
   },
   {
+    "city": "Monterrey",
+    "state": "Mexico",
+    "country": "Mexico",
+    "reservations": 4,
+    "total_spend": 162.07,
+    "venues": 2,
+    "members": 2
+  },
+  {
     "city": "Carlsbad",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 160.0,
     "venues": 1,
@@ -474,30 +596,16 @@
   {
     "city": "Burlington",
     "state": "MA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 156.0,
     "venues": 2,
     "members": 2
   },
   {
-    "city": "Richmond",
-    "state": "VA",
-    "reservations": 4,
-    "total_spend": 150.0,
-    "venues": 2,
-    "members": 1
-  },
-  {
-    "city": "Beacon",
-    "state": "NY",
-    "reservations": 4,
-    "total_spend": 150.0,
-    "venues": 1,
-    "members": 3
-  },
-  {
     "city": "Salt Lake City",
     "state": "UT",
+    "country": "US",
     "reservations": 4,
     "total_spend": 150.0,
     "venues": 3,
@@ -506,14 +614,34 @@
   {
     "city": "Leander",
     "state": "TX",
+    "country": "US",
     "reservations": 6,
     "total_spend": 150.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Beacon",
+    "state": "NY",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 150.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Richmond",
+    "state": "VA",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 150.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Long Beach",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 140.0,
     "venues": 2,
@@ -522,62 +650,97 @@
   {
     "city": "Schaumburg",
     "state": "IL",
+    "country": "US",
     "reservations": 4,
     "total_spend": 140.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "London, Walworth",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 4,
+    "total_spend": 128.75,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Roseville",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 125.0,
     "venues": 1,
     "members": 1
   },
   {
-    "city": "Fort Worth",
-    "state": "TX",
-    "reservations": 3,
-    "total_spend": 125.0,
-    "venues": 2,
-    "members": 1
-  },
-  {
     "city": "Sacramento",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 125.0,
     "venues": 3,
     "members": 5
   },
   {
+    "city": "Fort Worth",
+    "state": "TX",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 125.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Covington",
     "state": "OH",
+    "country": "US",
     "reservations": 3,
     "total_spend": 120.0,
     "venues": 1,
     "members": 1
   },
   {
-    "city": "Redondo Beach",
-    "state": "CA",
-    "reservations": 4,
-    "total_spend": 100.0,
-    "venues": 1,
+    "city": "Madrid",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 3,
+    "total_spend": 113.25,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Montreal",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 3,
+    "total_spend": 104.45,
+    "venues": 3,
     "members": 2
   },
   {
     "city": "New Orleans",
     "state": "LA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 100.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Redondo Beach",
+    "state": "CA",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 100.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Everett",
     "state": "WA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 90.0,
     "venues": 1,
@@ -586,6 +749,7 @@
   {
     "city": "Nashville",
     "state": "TN",
+    "country": "US",
     "reservations": 3,
     "total_spend": 90.0,
     "venues": 1,
@@ -594,17 +758,37 @@
   {
     "city": "Littleton",
     "state": "CO",
+    "country": "US",
     "reservations": 3,
     "total_spend": 83.44,
     "venues": 3,
     "members": 3
   },
   {
+    "city": "Leeds",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 3,
+    "total_spend": 81.57,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Bellflower",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 60.0,
     "venues": 1,
     "members": 2
+  },
+  {
+    "city": "Hamilton",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 3,
+    "total_spend": 43.52,
+    "venues": 1,
+    "members": 1
   }
 ]

@@ -2,25 +2,65 @@
   {
     "venue_id": "3be5a8cf-3b52-4677-b768-e3e7e640e91b",
     "venue_name": "Apt CoWork at The Melrose",
-    "latitude": 36.12202453613281,
-    "longitude": -86.77513885498047,
+    "latitude": 36.122025,
+    "longitude": -86.775139,
     "reservations": 3,
     "spend": 2530.0
   },
   {
     "venue_id": "8e7f7f4b-694a-462c-b37c-7d4a51c30348",
     "venue_name": "560 Flex by Cummins Station",
-    "latitude": 36.15582275390625,
-    "longitude": -86.78282928466797,
+    "latitude": 36.155823,
+    "longitude": -86.782829,
     "reservations": 3,
     "spend": 2406.0
   },
   {
     "venue_id": "84031884-5ac9-412f-b0be-272242f89291",
     "venue_name": "Regus || TN, Nashville - 1 Music Circle",
-    "latitude": 36.15016174316406,
-    "longitude": -86.79007720947266,
+    "latitude": 36.150162,
+    "longitude": -86.790077,
     "reservations": 3,
     "spend": 949.49
+  },
+  {
+    "venue_id": "930febf7-83a1-4327-adbb-71fe7bd61e4d",
+    "venue_name": "Venture X Downtown Nashville",
+    "latitude": 36.163128,
+    "longitude": -86.778763,
+    "reservations": 1,
+    "spend": 476.0
+  },
+  {
+    "venue_id": "76724307-e72d-42b2-85f4-ab07bc29a845",
+    "venue_name": "Werkstatt360 Green Hills",
+    "latitude": 36.099468,
+    "longitude": -86.821342,
+    "reservations": 1,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "1af51b42-829f-4e4e-9a68-1f785107f39c",
+    "venue_name": "The Malin Wedgewood Houston",
+    "latitude": 36.144917,
+    "longitude": -86.767265,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "828dcb4b-f8a7-4b47-9b81-f62547e19732",
+    "venue_name": "3LS Work|Spaces @ Perimeter Park",
+    "latitude": 36.083435,
+    "longitude": -86.697365,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "c45d56dc-0994-4a96-8be4-fe96ab1893f1",
+    "venue_name": "WeWork | 18th & Chet",
+    "latitude": 36.149002,
+    "longitude": -86.794472,
+    "reservations": 1,
+    "spend": 42.0
   }
 ]

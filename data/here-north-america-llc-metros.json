@@ -1,0 +1,56 @@
+[
+  {
+    "city": "Nantes",
+    "state": "France",
+    "country": "France",
+    "reservations": 11,
+    "total_spend": 3032.48,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Sydney",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 59,
+    "total_spend": 2843.74,
+    "venues": 9,
+    "members": 8
+  },
+  {
+    "city": "Warszawa",
+    "state": "Poland",
+    "country": "Poland",
+    "reservations": 30,
+    "total_spend": 1563.77,
+    "venues": 1,
+    "members": 6
+  },
+  {
+    "city": "Espoo",
+    "state": "Finland",
+    "country": "Finland",
+    "reservations": 5,
+    "total_spend": 633.34,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Ryde",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 12,
+    "total_spend": 389.31,
+    "venues": 1,
+    "members": 4
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 200.0,
+    "venues": 1,
+    "members": 3
+  }
+]

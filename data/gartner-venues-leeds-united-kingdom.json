@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5730b8a1-4c14-4c69-a1db-fd98ef6983e4",
+    "venue_name": "Wizu Workspace | One Embankment",
+    "latitude": 53.793686,
+    "longitude": -1.546656,
+    "reservations": 9,
+    "spend": 302.38
+  },
+  {
+    "venue_id": "8b4d9eb5-31d2-4820-9f7c-85c646d4ad39",
+    "venue_name": "Clockwise | Leeds",
+    "latitude": 53.798573,
+    "longitude": -1.54895,
+    "reservations": 1,
+    "spend": 204.13
+  }
+]

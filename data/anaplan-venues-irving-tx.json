@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "490b4ed5-855d-46a3-a748-ce06988f4b48",
+    "venue_name": "Foster Coworking - Las Colinas",
+    "latitude": 32.862453,
+    "longitude": -96.9356,
+    "reservations": 1,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "16a7081c-fa68-4252-9640-c582406316d3",
+    "venue_name": "Cubexec at Las Colinas",
+    "latitude": 32.890739,
+    "longitude": -96.959045,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

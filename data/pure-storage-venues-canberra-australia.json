@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "96d977ac-3a09-4eaa-a382-8238cd1c659f",
+    "venue_name": "Haven Workspaces",
+    "latitude": -35.276058,
+    "longitude": 149.129211,
+    "reservations": 344,
+    "spend": 64867.32
+  },
+  {
+    "venue_id": "963c1508-a9ba-4fad-be14-9ecd95b8be77",
+    "venue_name": "Hub Australia | Civic Quarter",
+    "latitude": -35.276657,
+    "longitude": 149.130234,
+    "reservations": 3,
+    "spend": 1024.27
+  },
+  {
+    "venue_id": "464b2c74-60db-46c7-b9c6-d2d1d2f84f61",
+    "venue_name": "Regus | Canberra 15 Moore Street",
+    "latitude": -35.276188,
+    "longitude": 149.127762,
+    "reservations": 1,
+    "spend": 96.06
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "bc067eba-d866-4de7-9c0a-b74326f50999",
     "venue_name": "Regus | FL, Sarasota - Professional Pky E",
-    "latitude": 27.384109497070312,
-    "longitude": -82.43180847167969,
+    "latitude": 27.384109,
+    "longitude": -82.431808,
     "reservations": 5,
     "spend": 2251.0
+  },
+  {
+    "venue_id": "dfd33566-9094-489a-8df3-85ff828f42a2",
+    "venue_name": "Regus | Sarasota Courthouse",
+    "latitude": 27.335968,
+    "longitude": -82.531517,
+    "reservations": 1,
+    "spend": 100.46
   }
 ]

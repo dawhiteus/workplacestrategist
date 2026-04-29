@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8af8b450-5d8f-4529-a38c-0df91d26d7ef",
+    "venue_name": "Regus || Commerce Corporate Center",
+    "latitude": 33.985401,
+    "longitude": -118.162003,
+    "reservations": 1,
+    "spend": 196.0
+  },
+  {
+    "venue_id": "80f9e370-b31b-4941-b637-4207f80db37b",
+    "venue_name": "Meetawork CoWorking Space",
+    "latitude": 34.006603,
+    "longitude": -118.162811,
+    "reservations": 1,
+    "spend": 180.0
+  }
+]

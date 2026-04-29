@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "556cdc4a-7d4a-4fb5-9d52-70328fdc6f47",
+    "venue_name": "GPT Space&Co 2 Southbank",
+    "latitude": -37.821861,
+    "longitude": 144.962845,
+    "reservations": 1,
+    "spend": 434.08
+  },
+  {
+    "venue_id": "90db29da-42c5-4bf6-b1ab-91ea63fa16a5",
+    "venue_name": "FLEX @ Market Lane",
+    "latitude": -37.829029,
+    "longitude": 144.960052,
+    "reservations": 3,
+    "spend": 88.71
+  }
+]

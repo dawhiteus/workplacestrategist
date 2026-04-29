@@ -2,9 +2,25 @@
   {
     "venue_id": "6c504787-3001-4a91-a3ac-83e3d7613f16",
     "venue_name": "Life Time Work - River North at One Chicago",
-    "latitude": 41.89649963378906,
-    "longitude": -87.62849426269531,
+    "latitude": 41.8965,
+    "longitude": -87.628494,
     "reservations": 4,
     "spend": 2610.0
+  },
+  {
+    "venue_id": "8043f716-d220-481d-958b-2178b338a663",
+    "venue_name": "Regus | John Hancock Center",
+    "latitude": 41.899139,
+    "longitude": -87.623009,
+    "reservations": 1,
+    "spend": 553.0
+  },
+  {
+    "venue_id": "348a8f66-fb0f-4cb6-bc3b-9c03a0fec9d0",
+    "venue_name": "Office Evolution - Chicago/ O'Hare",
+    "latitude": 41.985901,
+    "longitude": -87.845261,
+    "reservations": 1,
+    "spend": 220.0
   }
 ]

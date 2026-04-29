@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "d28472ad-a2c9-4dbb-8242-5190d2d7e289",
+    "venue_name": "Jay Suites - Grand Central",
+    "latitude": 40.75058,
+    "longitude": -73.976433,
+    "reservations": 2,
+    "spend": 1600.0
+  },
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.759411,
+    "longitude": -73.978142,
+    "reservations": 2,
+    "spend": 700.0
+  },
+  {
+    "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
+    "venue_name": "The Malin Flatiron",
+    "latitude": 40.738895,
+    "longitude": -73.98999,
+    "reservations": 1,
+    "spend": 75.0
+  }
+]

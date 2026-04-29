@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "2d07467a-8a66-4677-9dbc-414a725cc17b",
+    "venue_name": "WeWork | Cambridge 50-60 Station Road",
+    "latitude": 52.194237,
+    "longitude": 0.135864,
+    "reservations": 14,
+    "spend": 1141.09
+  },
+  {
+    "venue_id": "58562c5a-ec81-4f9a-9960-9fc9982bf0ce",
+    "venue_name": "The Quad Cambridge",
+    "latitude": 52.213951,
+    "longitude": 0.113884,
+    "reservations": 22,
+    "spend": 814.99
+  },
+  {
+    "venue_id": "7a294432-cb86-4913-a68f-9b0205f63f7e",
+    "venue_name": "Regus | Cambridge, Vision Park",
+    "latitude": 52.243698,
+    "longitude": 0.109812,
+    "reservations": 5,
+    "spend": 276.79
+  },
+  {
+    "venue_id": "6a92cb09-46de-4942-bb1d-45c18a4a22da",
+    "venue_name": "Serendipity Labs - UK - Cambridge North",
+    "latitude": 52.224586,
+    "longitude": 0.157805,
+    "reservations": 4,
+    "spend": 236.42
+  }
+]

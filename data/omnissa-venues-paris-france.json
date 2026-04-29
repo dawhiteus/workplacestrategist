@@ -1,0 +1,226 @@
+[
+  {
+    "venue_id": "34c2d926-1411-4d6d-9d80-4b41e568c629",
+    "venue_name": "SPACES | Paris, Opéra Garnier",
+    "latitude": 48.871838,
+    "longitude": 2.333154,
+    "reservations": 17,
+    "spend": 12545.5
+  },
+  {
+    "venue_id": "46e3bb4e-0435-42d3-85fb-2ff90797af21",
+    "venue_name": "Regus | La Defense, Tour Ariane",
+    "latitude": 48.889305,
+    "longitude": 2.243666,
+    "reservations": 27,
+    "spend": 9394.42
+  },
+  {
+    "venue_id": "2f55e580-8200-445b-aa69-04f5c2acb152",
+    "venue_name": "WeWork | 7 Rue De Madrid",
+    "latitude": 48.878334,
+    "longitude": 2.32107,
+    "reservations": 48,
+    "spend": 6517.91
+  },
+  {
+    "venue_id": "5b372685-0eae-4b75-99b9-e0bf70ef6a02",
+    "venue_name": "SPACES | Paris, Saint Lazare",
+    "latitude": 48.878563,
+    "longitude": 2.325294,
+    "reservations": 14,
+    "spend": 5251.59
+  },
+  {
+    "venue_id": "1e99b8e2-411a-404c-9cd7-9bafdeb501a2",
+    "venue_name": "Signature| Signature, Kleber",
+    "latitude": 48.870461,
+    "longitude": 2.292333,
+    "reservations": 5,
+    "spend": 4641.66
+  },
+  {
+    "venue_id": "248894c1-1afd-4811-a73b-339dbde7067d",
+    "venue_name": "SPACES | Paris, Etoile",
+    "latitude": 48.875099,
+    "longitude": 2.29767,
+    "reservations": 5,
+    "spend": 4187.28
+  },
+  {
+    "venue_id": "2cbd7907-c6cb-4551-82ad-2af61992d53e",
+    "venue_name": "Regus | Paris, 75 BD Haussmann",
+    "latitude": 48.874184,
+    "longitude": 2.322503,
+    "reservations": 5,
+    "spend": 2022.72
+  },
+  {
+    "venue_id": "08e622dc-0c00-4ea3-be75-f95c3eda13a0",
+    "venue_name": "Regus | Paris Gare de Lyon",
+    "latitude": 48.847736,
+    "longitude": 2.370524,
+    "reservations": 5,
+    "spend": 1706.43
+  },
+  {
+    "venue_id": "e1766c75-c6b6-4ae2-b843-4f92b8e005d7",
+    "venue_name": "Regus | Paris, Saint Lazare",
+    "latitude": 48.87751,
+    "longitude": 2.32824,
+    "reservations": 5,
+    "spend": 1566.18
+  },
+  {
+    "venue_id": "981d8446-b3e8-4a8b-9ad3-47855c7e1630",
+    "venue_name": "Regus | Paris, Madeleine",
+    "latitude": 48.872002,
+    "longitude": 2.32161,
+    "reservations": 2,
+    "spend": 1235.01
+  },
+  {
+    "venue_id": "2a94273f-7376-49d2-ab4b-3d61680f9e22",
+    "venue_name": "Regus | Paris, 73 Vaugirard",
+    "latitude": 48.846516,
+    "longitude": 2.325315,
+    "reservations": 1,
+    "spend": 1210.05
+  },
+  {
+    "venue_id": "93798ea1-0810-4c51-9ec8-27ecff9e85c7",
+    "venue_name": "Regus | Paris, Gare du Nord",
+    "latitude": 48.879982,
+    "longitude": 2.355877,
+    "reservations": 3,
+    "spend": 1173.56
+  },
+  {
+    "venue_id": "648b6511-3f4d-4928-89e9-eead42fc32f6",
+    "venue_name": "SPACES | Paris, Les Halles",
+    "latitude": 48.862648,
+    "longitude": 2.341942,
+    "reservations": 2,
+    "spend": 935.28
+  },
+  {
+    "venue_id": "6e396b5b-fe49-4417-b70a-09db4f224f37",
+    "venue_name": "SPACES | Réaumur",
+    "latitude": 48.868221,
+    "longitude": 2.34419,
+    "reservations": 2,
+    "spend": 841.47
+  },
+  {
+    "venue_id": "068fe6d6-9835-482f-816f-e7fb19b933c2",
+    "venue_name": "WeWork | 37 Avenue Trudaine",
+    "latitude": 48.880695,
+    "longitude": 2.34257,
+    "reservations": 13,
+    "spend": 839.53
+  },
+  {
+    "venue_id": "fc6f668b-a997-4798-8655-db4141cca60a",
+    "venue_name": "HQ | Paris, Haussman Pasquier",
+    "latitude": 48.872349,
+    "longitude": 2.323657,
+    "reservations": 1,
+    "spend": 512.81
+  },
+  {
+    "venue_id": "a61db940-84ae-4400-9bac-3d2ca24f837d",
+    "venue_name": "Regus | Paris, 29 Rue Blanche",
+    "latitude": 48.879711,
+    "longitude": 2.331273,
+    "reservations": 2,
+    "spend": 512.02
+  },
+  {
+    "venue_id": "d54e732b-a700-4832-aa87-4a3bee927d2e",
+    "venue_name": "Regus | Paris, Montparnasse",
+    "latitude": 48.845551,
+    "longitude": 2.325021,
+    "reservations": 1,
+    "spend": 501.54
+  },
+  {
+    "venue_id": "0221629d-4db8-40f6-9802-2bd0f3d660d8",
+    "venue_name": "HQ | Paris, République",
+    "latitude": 48.869434,
+    "longitude": 2.358958,
+    "reservations": 5,
+    "spend": 456.91
+  },
+  {
+    "venue_id": "96398fbe-cbab-4648-bd3a-d86576a6e8a0",
+    "venue_name": "Regus | Paris, Bonne Nouvelle",
+    "latitude": 48.870758,
+    "longitude": 2.345765,
+    "reservations": 1,
+    "spend": 395.62
+  },
+  {
+    "venue_id": "78e0e2a3-c1b1-4d3c-9c6d-65f457143411",
+    "venue_name": "Regus | Paris, 64 Avenue Parmentier",
+    "latitude": 48.863022,
+    "longitude": 2.37638,
+    "reservations": 1,
+    "spend": 321.78
+  },
+  {
+    "venue_id": "0ae6447f-dd91-4fb9-8e5a-a2c6430dd29b",
+    "venue_name": "WeWork | 198 Avenue De France",
+    "latitude": 48.836136,
+    "longitude": 2.372288,
+    "reservations": 6,
+    "spend": 296.99
+  },
+  {
+    "venue_id": "aa7e402e-7ad5-4fb6-b531-8f0ea66b9442",
+    "venue_name": "Regus | Paris, HQ Gare Montparnasse",
+    "latitude": 48.838722,
+    "longitude": 2.317826,
+    "reservations": 2,
+    "spend": 200.56
+  },
+  {
+    "venue_id": "4737e733-4a56-4891-ac91-33e54674f806",
+    "venue_name": "Regus | Paris, 2 Rue Jean Lantier",
+    "latitude": 48.85865,
+    "longitude": 2.346027,
+    "reservations": 1,
+    "spend": 171.81
+  },
+  {
+    "venue_id": "727379b0-32b4-426d-a001-a9f3f8383eb8",
+    "venue_name": "Regus | Paris, Auteuil",
+    "latitude": 48.851662,
+    "longitude": 2.264663,
+    "reservations": 1,
+    "spend": 99.86
+  },
+  {
+    "venue_id": "065b1e07-3c8e-44ce-9d03-485f678a9354",
+    "venue_name": "Signature | Paris, 72 Faubourg St Honoré",
+    "latitude": 48.870281,
+    "longitude": 2.31795,
+    "reservations": 1,
+    "spend": 91.88
+  },
+  {
+    "venue_id": "58071ae4-be2e-4fad-868d-c67094784e1b",
+    "venue_name": "Regus | Paris, Rosa Parks",
+    "latitude": 48.896358,
+    "longitude": 2.37168,
+    "reservations": 1,
+    "spend": 68.58
+  },
+  {
+    "venue_id": "9b3b3af8-871f-4b4f-93c1-21ea4f5dd9c4",
+    "venue_name": "HQ | Paris, Olympiades",
+    "latitude": 48.824554,
+    "longitude": 2.370365,
+    "reservations": 1,
+    "spend": 55.65
+  }
+]

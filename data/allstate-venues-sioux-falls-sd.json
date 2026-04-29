@@ -1,1 +1,18 @@
-[{"venue_id":"sioux-falls-sd-venue-1","venue_name":"Novel Coworking | Sioux Falls Downtown","latitude":43.4795,"longitude":-96.6642,"reservations":19,"spend":5006.07},{"venue_id":"sioux-falls-sd-venue-2","venue_name":"Roam | Sioux Falls North","latitude":43.5135,"longitude":-96.7378,"reservations":7,"spend":1971.93}]
+[
+  {
+    "venue_id": "698885a0-6bb1-433c-8bed-aaabc733b5e7",
+    "venue_name": "Startup Sioux Falls",
+    "latitude": 43.551498,
+    "longitude": -96.726631,
+    "reservations": 21,
+    "spend": 6080.0
+  },
+  {
+    "venue_id": "6bd5de05-eca1-44ca-8b11-9c241a89fcf1",
+    "venue_name": "Regus | CNA Building",
+    "latitude": 43.547401,
+    "longitude": -96.723297,
+    "reservations": 7,
+    "spend": 1090.0
+  }
+]

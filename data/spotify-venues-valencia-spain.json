@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "53f7ec19-88d4-4238-872f-299995e4bd1c",
+    "venue_name": "Regus | Valencia, Plaza del Ayuntamiento",
+    "latitude": 39.4702,
+    "longitude": -0.375757,
+    "reservations": 1,
+    "spend": 43.36
+  },
+  {
+    "venue_id": "b8016cb7-2aca-4af6-acad-d5d20fa83c7b",
+    "venue_name": "Coworking Botanico",
+    "latitude": 39.477093,
+    "longitude": -0.385567,
+    "reservations": 1,
+    "spend": 19.91
+  }
+]

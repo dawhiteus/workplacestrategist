@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "68cc7625-7caa-4c34-a12c-ce435c4e8592",
+    "venue_name": "HQ | OH, Cleveland - 9th St",
+    "latitude": 41.504719,
+    "longitude": -81.690849,
+    "reservations": 1,
+    "spend": 385.0
+  },
+  {
+    "venue_id": "fd335d00-7e28-4a5e-91b7-1b89f9dd563f",
+    "venue_name": "SPACES | Warehouse District",
+    "latitude": 41.497196,
+    "longitude": -81.699242,
+    "reservations": 1,
+    "spend": 330.0
+  }
+]

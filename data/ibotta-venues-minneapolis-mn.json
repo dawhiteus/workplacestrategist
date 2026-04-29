@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0ef32ff4-8ca7-48fb-94ba-829af5234e40",
+    "venue_name": "Expansive - TriTech Center",
+    "latitude": 44.97858,
+    "longitude": -93.266472,
+    "reservations": 1,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
+    "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
+    "latitude": 44.977539,
+    "longitude": -93.263641,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

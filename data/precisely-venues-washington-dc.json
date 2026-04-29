@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "afc6f147-75b9-4d5b-a261-04eb0cd6be59",
+    "venue_name": "Oval Offices DC",
+    "latitude": 38.900467,
+    "longitude": -77.038536,
+    "reservations": 2,
+    "spend": 950.0
+  },
+  {
+    "venue_id": "984118c2-42ae-4c39-8cb6-2233fc944384",
+    "venue_name": "Carr Workplaces - K Street",
+    "latitude": 38.902649,
+    "longitude": -77.040543,
+    "reservations": 1,
+    "spend": 225.0
+  }
+]

@@ -2,17 +2,49 @@
   {
     "venue_id": "2013c11d-b80c-48a6-b543-908b057cd90c",
     "venue_name": "The Burrow",
-    "latitude": 40.66379165649414,
-    "longitude": -73.99546813964844,
+    "latitude": 40.663792,
+    "longitude": -73.995468,
     "reservations": 16,
     "spend": 500.0
   },
   {
+    "venue_id": "f35b9168-da34-4aa0-95e6-55d9a76f9b69",
+    "venue_name": "4Corners Business Centers - Downtown Brooklyn, NY",
+    "latitude": 40.69273,
+    "longitude": -73.991119,
+    "reservations": 1,
+    "spend": 110.0
+  },
+  {
     "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
     "venue_name": "Bond Collective Greenpoint",
-    "latitude": 40.73026657104492,
-    "longitude": -73.94893646240234,
+    "latitude": 40.730267,
+    "longitude": -73.948936,
     "reservations": 4,
     "spend": 100.0
+  },
+  {
+    "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
+    "venue_name": "The New Work Project",
+    "latitude": 40.720955,
+    "longitude": -73.958054,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
+    "venue_name": "Mindspace Williamsburg",
+    "latitude": 40.722931,
+    "longitude": -73.957802,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
+    "venue_name": "WeWork | 134 N 4th St",
+    "latitude": 40.716312,
+    "longitude": -73.960205,
+    "reservations": 1,
+    "spend": 59.0
   }
 ]

@@ -2,33 +2,49 @@
   {
     "venue_id": "da8baf69-dbd6-4a9b-a93c-912dedb2b485",
     "venue_name": "Carr Workplaces - DTLA",
-    "latitude": 34.048274993896484,
-    "longitude": -118.25856018066406,
+    "latitude": 34.048275,
+    "longitude": -118.25856,
     "reservations": 86,
     "spend": 4620.0
   },
   {
     "venue_id": "5e080182-9688-4f3b-9939-79904d6a5cbf",
     "venue_name": "The Collection-Monthly Private Offices & Event Location",
-    "latitude": 34.04728698730469,
-    "longitude": -118.25608825683594,
+    "latitude": 34.047287,
+    "longitude": -118.256088,
     "reservations": 13,
     "spend": 520.0
   },
   {
     "venue_id": "34fb838d-7ca9-475c-99b2-42f95c9a365b",
     "venue_name": "Union Cowork Los Angeles - Downtown/Arts District",
-    "latitude": 34.040374755859375,
-    "longitude": -118.23128509521484,
+    "latitude": 34.040375,
+    "longitude": -118.231285,
     "reservations": 16,
     "spend": 509.0
   },
   {
     "venue_id": "67c70736-ac11-4a6f-9c02-650e0dc24ab1",
     "venue_name": "CENTRL Office - Downtown Los Angeles",
-    "latitude": 34.047889709472656,
-    "longitude": -118.24014282226562,
+    "latitude": 34.04789,
+    "longitude": -118.240143,
     "reservations": 3,
     "spend": 220.0
+  },
+  {
+    "venue_id": "07c5d8aa-3ee7-4d2d-9d22-dbf6be3ff346",
+    "venue_name": "Bohemian Podcast Studio (Fully Equipped)",
+    "latitude": 34.097748,
+    "longitude": -118.352585,
+    "reservations": 1,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "a66b4fa4-73d6-4c1c-8f80-990e8d9798a2",
+    "venue_name": "Alfi Trade Inc.",
+    "latitude": 34.025589,
+    "longitude": -118.339783,
+    "reservations": 1,
+    "spend": 19.0
   }
 ]

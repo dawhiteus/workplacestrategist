@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.756721,
+    "longitude": -73.980042,
+    "reservations": 2,
+    "spend": 800.0
+  },
+  {
+    "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
+    "venue_name": "Jay Suites - Midtown East",
+    "latitude": 40.759789,
+    "longitude": -73.973755,
+    "reservations": 1,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
+    "venue_name": "Emerge212 - 125 Park Avenue",
+    "latitude": 40.751789,
+    "longitude": -73.977364,
+    "reservations": 1,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "db15c7bc-f6aa-46fc-9a2a-0c51d5562065",
+    "venue_name": "Jay Suites - 34th Street",
+    "latitude": 40.749649,
+    "longitude": -73.98658,
+    "reservations": 2,
+    "spend": 320.0
+  },
+  {
+    "venue_id": "b1d6bd96-f117-49bf-889a-9536ce86b9af",
+    "venue_name": "Nomadworks | Times Square",
+    "latitude": 40.755268,
+    "longitude": -73.989586,
+    "reservations": 1,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "fe9dc55c-cacf-44f2-bbbe-a8fc790c8b4e",
+    "venue_name": "Cre8ive NYC",
+    "latitude": 40.74715,
+    "longitude": -73.991776,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "bdca4ce4-7a0d-4ea0-adce-f36142528335",
+    "venue_name": "Quest Workspaces - 48 Wall St.",
+    "latitude": 40.706554,
+    "longitude": -74.009193,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

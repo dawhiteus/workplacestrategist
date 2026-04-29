@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "2fec2bbc-70cf-4cde-ae3b-867bd4e18cb8",
+    "venue_name": "The Executive Centre - Angel Place",
+    "latitude": -33.866272,
+    "longitude": 151.208374,
+    "reservations": 11,
+    "spend": 656.5
+  },
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 11,
+    "spend": 475.29
+  },
+  {
+    "venue_id": "e9c35ecd-bfec-456c-8733-2b9566d8f99c",
+    "venue_name": "workspace365 - Bond Centre",
+    "latitude": -33.86459,
+    "longitude": 151.208496,
+    "reservations": 1,
+    "spend": 117.91
+  },
+  {
+    "venue_id": "99fa5077-7b9b-4c7a-84b1-ea3f06a456c9",
+    "venue_name": "GPT Space&Co 580 George",
+    "latitude": -33.874798,
+    "longitude": 151.206955,
+    "reservations": 2,
+    "spend": 78.56
+  },
+  {
+    "venue_id": "d18a9f60-2ae3-4d24-a3d3-4fd21817029b",
+    "venue_name": "The Executive Centre - Three International Towers",
+    "latitude": -33.865059,
+    "longitude": 151.201904,
+    "reservations": 1,
+    "spend": 46.3
+  },
+  {
+    "venue_id": "ea2bf311-8081-41c6-92b7-93504f9f957c",
+    "venue_name": "WeWork | 333 George St",
+    "latitude": -33.86657,
+    "longitude": 151.20694,
+    "reservations": 1,
+    "spend": 43.53
+  }
+]

@@ -2,16 +2,16 @@
   {
     "venue_id": "3bd6c53a-fe59-4b82-b726-9ec5fec63487",
     "venue_name": "Office Evolution - Atlanta Office Venture",
-    "latitude": 34.066490173339844,
-    "longitude": -84.27899932861328,
+    "latitude": 34.06649,
+    "longitude": -84.278999,
     "reservations": 3,
     "spend": 450.0
   },
   {
     "venue_id": "a18ac80f-1921-43e5-b3c7-35d632731eed",
     "venue_name": "THRIVE | Alpharetta",
-    "latitude": 34.075443267822266,
-    "longitude": -84.29596710205078,
+    "latitude": 34.075443,
+    "longitude": -84.295967,
     "reservations": 3,
     "spend": 120.0
   }

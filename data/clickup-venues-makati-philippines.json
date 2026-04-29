@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ae5cee8a-fc97-417c-810f-178690493395",
+    "venue_name": "Regus | Manila, Enterprise Makati",
+    "latitude": 14.555875,
+    "longitude": 121.020935,
+    "reservations": 2,
+    "spend": 444.66
+  },
+  {
+    "venue_id": "d44b68eb-335d-4ae2-b6b6-4e4c87cc4022",
+    "venue_name": "Regus | Makati, Victoria de Makati",
+    "latitude": 14.55833,
+    "longitude": 121.010551,
+    "reservations": 3,
+    "spend": 168.53
+  },
+  {
+    "venue_id": "28d2b4a6-a3ee-4bcf-b8e9-38119f52aa55",
+    "venue_name": "Regus | Manila, 8 Rockwell - Makati City",
+    "latitude": 14.563318,
+    "longitude": 121.036827,
+    "reservations": 3,
+    "spend": 114.85
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d7bc1e58-4653-4cf5-a563-088f65566da7",
+    "venue_name": "iThrive Malvern PA",
+    "latitude": 40.037231,
+    "longitude": -75.497963,
+    "reservations": 35,
+    "spend": 3130.0
+  },
+  {
+    "venue_id": "af3f3612-3945-400d-b2a0-903ccb6907b8",
+    "venue_name": "Executive Office Link",
+    "latitude": 40.064728,
+    "longitude": -75.533539,
+    "reservations": 1,
+    "spend": 150.0
+  }
+]

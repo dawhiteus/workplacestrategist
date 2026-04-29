@@ -2,9 +2,17 @@
   {
     "venue_id": "a3f26b79-5344-4da4-90cf-9fd99feb84de",
     "venue_name": "e|spaces Knoxville",
-    "latitude": 35.93162155151367,
-    "longitude": -84.02647399902344,
+    "latitude": 35.931622,
+    "longitude": -84.026474,
     "reservations": 4,
     "spend": 2130.0
+  },
+  {
+    "venue_id": "4803f859-7924-41c8-bfe9-3d75394463fa",
+    "venue_name": "Regus | First Tennessee Plaza",
+    "latitude": 35.96246,
+    "longitude": -83.915962,
+    "reservations": 2,
+    "spend": 701.0
   }
 ]

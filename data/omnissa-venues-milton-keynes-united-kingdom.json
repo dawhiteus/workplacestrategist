@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "712d7f07-85fd-4243-8aef-e57bc88d2ef8",
+    "venue_name": "Landmark | Milton Keynes Luminous",
+    "latitude": 52.03511,
+    "longitude": -0.7603,
+    "reservations": 2,
+    "spend": 345.15
+  },
+  {
+    "venue_id": "ccd35b32-8751-4496-9be4-10821b5e9c32",
+    "venue_name": "Regus | Milton Keynes, Spaces, Avebury Boulevard",
+    "latitude": 52.032738,
+    "longitude": -0.770614,
+    "reservations": 1,
+    "spend": 303.07
+  }
+]

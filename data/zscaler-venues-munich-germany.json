@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "050b1c7d-e5b5-4f08-a379-40db394942a7",
+    "venue_name": "Regus | Munich Stachus",
+    "latitude": 48.136383,
+    "longitude": 11.566062,
+    "reservations": 3,
+    "spend": 2290.78
+  },
+  {
+    "venue_id": "0cd797ca-8d80-40f9-9aaa-909dec7280ea",
+    "venue_name": "Regus | Munich Maximilianstrasse",
+    "latitude": 48.139145,
+    "longitude": 11.584028,
+    "reservations": 1,
+    "spend": 317.9
+  }
+]

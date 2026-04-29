@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
+    "venue_name": "WeWork | The Domain",
+    "latitude": 30.404854,
+    "longitude": -97.721344,
+    "reservations": 1,
+    "spend": 444.0
+  },
+  {
+    "venue_id": "cb17af79-1aeb-475d-9283-f726ee755628",
+    "venue_name": "Expansive - Austin Highland",
+    "latitude": 30.330395,
+    "longitude": -97.710548,
+    "reservations": 1,
+    "spend": 375.0
+  }
+]

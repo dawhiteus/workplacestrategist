@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "737ed645-e04b-47c5-b8b0-9f65a2aad166",
+    "venue_name": "Regus | Den Bosch, Stationsplein",
+    "latitude": 51.690929,
+    "longitude": 5.295126,
+    "reservations": 5,
+    "spend": 914.61
+  },
+  {
+    "venue_id": "ae7d16a9-6165-4a90-afb8-cfed090ac5e7",
+    "venue_name": "Regus | Den Bosch, Bastion",
+    "latitude": 51.683475,
+    "longitude": 5.292161,
+    "reservations": 3,
+    "spend": 639.51
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "cda2c1c5-d989-4afd-9d3b-c078e8914ddf",
     "venue_name": "Colab Space",
-    "latitude": 33.672916412353516,
-    "longitude": -117.86277770996094,
-    "reservations": 5,
-    "spend": 555.0
+    "latitude": 33.672916,
+    "longitude": -117.862778,
+    "reservations": 6,
+    "spend": 610.0
+  },
+  {
+    "venue_id": "198476b0-c90b-4d9c-bfa3-4e0e4357d9d8",
+    "venue_name": "Sol Hub",
+    "latitude": 33.636009,
+    "longitude": -117.742188,
+    "reservations": 2,
+    "spend": 130.0
   }
 ]

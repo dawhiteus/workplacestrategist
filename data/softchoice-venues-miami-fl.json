@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2ee5a873-5ca2-45d4-aa94-7c22bebf1431",
+    "venue_name": "Mindspace 100 Biscayne",
+    "latitude": 25.775812,
+    "longitude": -80.188248,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "b24ac095-9b7b-46a6-82ea-45d109fb6cda",
+    "venue_name": "Mindspace Wynwood ",
+    "latitude": 25.804304,
+    "longitude": -80.195572,
+    "reservations": 1,
+    "spend": 49.0
+  }
+]

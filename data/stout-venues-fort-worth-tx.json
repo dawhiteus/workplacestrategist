@@ -2,9 +2,33 @@
   {
     "venue_id": "0db591e9-8fc9-4d3d-8816-e18215439953",
     "venue_name": "Common Desk - Ft. Worth",
-    "latitude": 32.749969482421875,
-    "longitude": -97.35721588134766,
+    "latitude": 32.749969,
+    "longitude": -97.357216,
     "reservations": 13,
     "spend": 325.0
+  },
+  {
+    "venue_id": "e1116dd5-dd45-4178-834d-050348d08cf4",
+    "venue_name": "Regus | Alliance",
+    "latitude": 32.919037,
+    "longitude": -97.311096,
+    "reservations": 1,
+    "spend": 194.0
+  },
+  {
+    "venue_id": "fd28376c-6f40-4218-9d5e-fb7b05639163",
+    "venue_name": "Lucid Private Offices | Keller - Fort Worth",
+    "latitude": 32.912079,
+    "longitude": -97.271896,
+    "reservations": 2,
+    "spend": 110.0
+  },
+  {
+    "venue_id": "0decf862-0433-4335-a6e3-cd491f52897b",
+    "venue_name": "HQ | TX, Fort Worth - Rosedale St",
+    "latitude": 32.732758,
+    "longitude": -97.333672,
+    "reservations": 1,
+    "spend": 42.42
   }
 ]

@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "d5dbaf9c-b01c-4dd0-af04-660b6807e9b9",
+    "venue_name": "The Loading Dock - Beryl Road",
+    "latitude": 35.793404,
+    "longitude": -78.691902,
+    "reservations": 2,
+    "spend": 750.0
+  },
+  {
     "venue_id": "5738d991-051a-46f8-9a5e-b1d82708f4a4",
     "venue_name": "Office Evolution - Raleigh Crabtree Valley Mall",
-    "latitude": 35.84333038330078,
-    "longitude": -78.68170166015625,
+    "latitude": 35.84333,
+    "longitude": -78.681702,
     "reservations": 3,
     "spend": 360.0
   }

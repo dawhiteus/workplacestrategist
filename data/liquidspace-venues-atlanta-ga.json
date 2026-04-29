@@ -2,9 +2,17 @@
   {
     "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
     "venue_name": "Alkaloid Networks",
-    "latitude": 33.75890350341797,
-    "longitude": -84.36479949951172,
+    "latitude": 33.758904,
+    "longitude": -84.364799,
     "reservations": 5,
     "spend": 200.0
+  },
+  {
+    "venue_id": "9a16ef1d-67c7-481b-a1b8-6b59617c1eca",
+    "venue_name": "Life Time Work - Buckhead",
+    "latitude": 33.853371,
+    "longitude": -84.363602,
+    "reservations": 2,
+    "spend": 110.0
   }
 ]

@@ -2,17 +2,41 @@
   {
     "venue_id": "3d8ad5cb-83df-4e56-a20e-d2641a2e7aaa",
     "venue_name": "25N Coworking - Frisco",
-    "latitude": 33.15519714355469,
-    "longitude": -96.83062744140625,
+    "latitude": 33.155197,
+    "longitude": -96.830627,
     "reservations": 10,
     "spend": 4290.0
   },
   {
     "venue_id": "32a51b00-e671-4ba0-b9b6-fb8c0ca73b96",
     "venue_name": "(HAL) Hall Park",
-    "latitude": 33.10471725463867,
-    "longitude": -96.82395935058594,
+    "latitude": 33.104717,
+    "longitude": -96.823959,
     "reservations": 4,
     "spend": 720.0
+  },
+  {
+    "venue_id": "0659fdb8-b5eb-464c-ab8d-445a4c3878b5",
+    "venue_name": "Executive Workspace| Frisco Station",
+    "latitude": 33.107189,
+    "longitude": -96.833176,
+    "reservations": 2,
+    "spend": 535.0
+  },
+  {
+    "venue_id": "d6ad689f-43b1-470e-a28d-991045f429a2",
+    "venue_name": "(STO) Hall Office Park",
+    "latitude": 33.099792,
+    "longitude": -96.82505,
+    "reservations": 2,
+    "spend": 475.0
+  },
+  {
+    "venue_id": "128a02c2-c2c6-4cbd-afd6-735f4b809207",
+    "venue_name": "Regus || Frisco Square",
+    "latitude": 33.15123,
+    "longitude": -96.83416,
+    "reservations": 1,
+    "spend": 96.12
   }
 ]

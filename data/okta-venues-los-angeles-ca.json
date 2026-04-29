@@ -1,10 +1,34 @@
 [
   {
+    "venue_id": "34fb838d-7ca9-475c-99b2-42f95c9a365b",
+    "venue_name": "Union Cowork Los Angeles - Downtown/Arts District",
+    "latitude": 34.040375,
+    "longitude": -118.231285,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
     "venue_id": "da8baf69-dbd6-4a9b-a93c-912dedb2b485",
     "venue_name": "Carr Workplaces - DTLA",
-    "latitude": 34.048274993896484,
-    "longitude": -118.25856018066406,
+    "latitude": 34.048275,
+    "longitude": -118.25856,
     "reservations": 3,
     "spend": 150.0
+  },
+  {
+    "venue_id": "66232db0-a90c-4605-81a4-202d39358a1f",
+    "venue_name": "Ethos Society",
+    "latitude": 34.062267,
+    "longitude": -118.298485,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "67c70736-ac11-4a6f-9c02-650e0dc24ab1",
+    "venue_name": "CENTRL Office - Downtown Los Angeles",
+    "latitude": 34.04789,
+    "longitude": -118.240143,
+    "reservations": 1,
+    "spend": 100.0
   }
 ]

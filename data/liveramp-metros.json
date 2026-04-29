@@ -1,0 +1,20 @@
+[
+  {
+    "city": "Indianapolis",
+    "state": "IN",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 238.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 145.0,
+    "venues": 1,
+    "members": 1
+  }
+]

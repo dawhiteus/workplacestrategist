@@ -1,15 +1,53 @@
 [
   {
+    "city": "Zurich",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 66,
+    "total_spend": 24674.07,
+    "venues": 5,
+    "members": 6
+  },
+  {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 23,
+    "total_spend": 12195.53,
+    "venues": 10,
+    "members": 7
+  },
+  {
     "city": "Tysons",
     "state": "VA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 7452.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Brno",
+    "state": "Czech Republic",
+    "country": "Czech Republic",
+    "reservations": 82,
+    "total_spend": 7426.89,
+    "venues": 1,
+    "members": 7
+  },
+  {
+    "city": "Rome",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 44,
+    "total_spend": 4684.84,
+    "venues": 7,
+    "members": 7
+  },
+  {
     "city": "Nashville",
     "state": "TN",
+    "country": "US",
     "reservations": 5,
     "total_spend": 3839.0,
     "venues": 2,
@@ -18,6 +56,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 7,
     "total_spend": 3623.0,
     "venues": 4,
@@ -26,33 +65,217 @@
   {
     "city": "Milpitas",
     "state": "CA",
+    "country": "US",
     "reservations": 14,
     "total_spend": 2890.0,
     "venues": 1,
     "members": 2
   },
   {
+    "city": "Milan",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 16,
+    "total_spend": 2738.32,
+    "venues": 4,
+    "members": 4
+  },
+  {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 5,
     "total_spend": 2330.0,
     "venues": 3,
     "members": 2
   },
   {
+    "city": "Bern",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 34,
+    "total_spend": 2170.88,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Belfast",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 10,
+    "total_spend": 2119.92,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Stuttgart",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 9,
+    "total_spend": 2094.79,
+    "venues": 3,
+    "members": 4
+  },
+  {
+    "city": "Roma",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 47,
+    "total_spend": 1635.81,
+    "venues": 2,
+    "members": 9
+  },
+  {
     "city": "Cupertino",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1465.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Frankfurt Am Main",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 5,
+    "total_spend": 1277.67,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Grand Lancy",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 7,
+    "total_spend": 1164.22,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Ann Arbor",
     "state": "MI",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1050.0,
     "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Unterfohring",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 4,
+    "total_spend": 1037.72,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Milano",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 40,
+    "total_spend": 965.32,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 13,
+    "total_spend": 820.7,
+    "venues": 1,
+    "members": 5
+  },
+  {
+    "city": "Vienna",
+    "state": "Austria",
+    "country": "Austria",
+    "reservations": 7,
+    "total_spend": 695.73,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "Bergamo",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 5,
+    "total_spend": 422.77,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Bologna",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 8,
+    "total_spend": 374.63,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Espoo",
+    "state": "Finland",
+    "country": "Finland",
+    "reservations": 6,
+    "total_spend": 360.01,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Hamburg",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 3,
+    "total_spend": 352.09,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Taipei",
+    "state": "Taiwan",
+    "country": "Taiwan",
+    "reservations": 3,
+    "total_spend": 284.28,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Munchen",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 5,
+    "total_spend": 258.54,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Helsinki",
+    "state": "Finland",
+    "country": "Finland",
+    "reservations": 4,
+    "total_spend": 251.99,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Brussels",
+    "state": "Belgium",
+    "country": "Belgium",
+    "reservations": 3,
+    "total_spend": 159.89,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Guadalajara",
+    "state": "Mexico",
+    "country": "Mexico",
+    "reservations": 4,
+    "total_spend": 101.64,
+    "venues": 2,
     "members": 1
   }
 ]

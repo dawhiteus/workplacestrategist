@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
+    "venue_name": "SURF Incubator",
+    "latitude": 47.60532,
+    "longitude": -122.333893,
+    "reservations": 1,
+    "spend": 64.0
+  },
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.611729,
+    "longitude": -122.344368,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "557128b3-c5a6-4328-8a24-d8c2448f89f0",
+    "venue_name": "WeWork | Hawk Tower",
+    "latitude": 47.597958,
+    "longitude": -122.330994,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

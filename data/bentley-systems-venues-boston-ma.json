@@ -2,17 +2,25 @@
   {
     "venue_id": "b094c3db-c40b-4a3a-b064-6438832df969",
     "venue_name": "Industrious - Boston Financial District\n",
-    "latitude": 42.35380935668945,
-    "longitude": -71.05738830566406,
+    "latitude": 42.353809,
+    "longitude": -71.057388,
     "reservations": 4,
     "spend": 4992.0
   },
   {
     "venue_id": "2439de9a-3b24-4848-b837-4abc2bd5d70c",
     "venue_name": "Regus | Seaport - One Marina Park",
-    "latitude": 42.35319900512695,
-    "longitude": -71.04540252685547,
+    "latitude": 42.353199,
+    "longitude": -71.045403,
     "reservations": 4,
     "spend": 1564.8
+  },
+  {
+    "venue_id": "f036d99b-094c-4b12-8c72-4ae1167a0221",
+    "venue_name": "Industrious - Seaport",
+    "latitude": 42.350445,
+    "longitude": -71.046974,
+    "reservations": 1,
+    "spend": 900.0
   }
 ]

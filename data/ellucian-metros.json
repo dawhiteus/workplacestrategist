@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "city": "Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 81,
+    "total_spend": 19457.12,
+    "venues": 11,
+    "members": 12
+  },
+  {
+    "city": "Sydney",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 30,
+    "total_spend": 7810.87,
+    "venues": 11,
+    "members": 7
+  },
+  {
+    "city": "Geelong",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 4,
+    "total_spend": 157.15,
+    "venues": 1,
+    "members": 1
+  }
+]

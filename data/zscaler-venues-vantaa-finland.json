@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2dd83ef0-43e2-45d4-ad5d-9ef216a62d4d",
+    "venue_name": "Regus | Vantaa, Aviabulevardi",
+    "latitude": 60.3064,
+    "longitude": 24.9599,
+    "reservations": 14,
+    "spend": 2449.46
+  },
+  {
+    "venue_id": "4197358c-59a3-4235-8fa8-8fe316bfb1e5",
+    "venue_name": "Regus | Vantaa, Kehämylly",
+    "latitude": 60.292801,
+    "longitude": 24.8634,
+    "reservations": 1,
+    "spend": 21.53
+  }
+]

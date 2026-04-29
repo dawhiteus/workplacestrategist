@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "46429bc3-715b-48ac-9aca-fa743ebe5711",
+    "venue_name": "WeWork | 1010 Sainte-Catherine Ouest",
+    "latitude": 45.500286,
+    "longitude": -73.572327,
+    "reservations": 1,
+    "spend": 28.85
+  },
+  {
+    "venue_id": "ad503e76-d563-4a57-8acb-08aa97f96b4a",
+    "venue_name": "WeWork | L'Avenue",
+    "latitude": 45.496441,
+    "longitude": -73.570663,
+    "reservations": 1,
+    "spend": 24.65
+  }
+]

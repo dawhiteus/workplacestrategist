@@ -2,9 +2,41 @@
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 51,
     "spend": 2522.5
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "52d81a69-bad3-4148-9fb6-e8684dabc3b5",
+    "venue_name": "WeWork | 1460 Broadway",
+    "latitude": 40.755104,
+    "longitude": -73.986206,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "57ecd384-b352-4eb0-a70d-b3cb8b07da37",
+    "venue_name": "Corporate Suites: 2 Park Avenue",
+    "latitude": 40.74633,
+    "longitude": -73.98246,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.746521,
+    "longitude": -73.988052,
+    "reservations": 1,
+    "spend": 29.0
   }
 ]

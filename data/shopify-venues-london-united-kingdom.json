@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "47250084-5a02-4473-988b-68ce338f5b71",
+    "venue_name": "Workers League Shoreditch",
+    "latitude": 51.522591,
+    "longitude": -0.08542,
+    "reservations": 7,
+    "spend": 171.24
+  },
+  {
+    "venue_id": "a74ecba4-e9e7-4d60-8c78-348d421978ef",
+    "venue_name": "KOZMIK Work Space",
+    "latitude": 51.565964,
+    "longitude": -0.131529,
+    "reservations": 2,
+    "spend": 49.0
+  }
+]

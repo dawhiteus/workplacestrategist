@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "89d316b7-9149-4aa2-9295-00a58d8e01f7",
+    "venue_name": "iQ Offices | 222 Queen St",
+    "latitude": 45.420284,
+    "longitude": -75.701042,
+    "reservations": 20,
+    "spend": 1046.21
+  },
+  {
+    "venue_id": "29f7138b-03f5-48c6-a615-2ebe3a61e6f8",
+    "venue_name": "The Laurier Centre - TCC Canada",
+    "latitude": 45.421036,
+    "longitude": -75.693855,
+    "reservations": 7,
+    "spend": 152.54
+  },
+  {
+    "venue_id": "1d03c2df-0163-495f-9910-d2e55373c6da",
+    "venue_name": "The Collaboration Centre - TCC Canada",
+    "latitude": 45.420483,
+    "longitude": -75.692825,
+    "reservations": 5,
+    "spend": 110.58
+  },
+  {
+    "venue_id": "292f870d-16f3-4a49-a5a2-cfbb2eee3103",
+    "venue_name": "Head Office Ottawa",
+    "latitude": 45.300827,
+    "longitude": -75.882133,
+    "reservations": 3,
+    "spend": 54.14
+  }
+]

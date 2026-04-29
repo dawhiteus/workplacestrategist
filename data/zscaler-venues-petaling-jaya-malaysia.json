@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8c8546c8-db6e-433c-a9e5-d6f1f10cc62d",
+    "venue_name": "Regus | Petaling Jaya, First Avenue",
+    "latitude": 3.146649,
+    "longitude": 101.615692,
+    "reservations": 1,
+    "spend": 48.87
+  },
+  {
+    "venue_id": "097bfea7-fdd6-4cbc-b225-e74826d47ff1",
+    "venue_name": "Citta Mall | Ara Damansara",
+    "latitude": 3.112187,
+    "longitude": 101.579071,
+    "reservations": 1,
+    "spend": 42.16
+  }
+]

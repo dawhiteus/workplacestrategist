@@ -1,7 +1,17 @@
 [
   {
+    "city": "Sydney",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 10,
+    "total_spend": 4265.92,
+    "venues": 4,
+    "members": 3
+  },
+  {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 3,
     "total_spend": 3650.0,
     "venues": 1,
@@ -10,6 +20,7 @@
   {
     "city": "Carlsbad",
     "state": "CA",
+    "country": "US",
     "reservations": 60,
     "total_spend": 2705.0,
     "venues": 5,
@@ -18,6 +29,7 @@
   {
     "city": "Albany",
     "state": "NY",
+    "country": "US",
     "reservations": 106,
     "total_spend": 2650.0,
     "venues": 2,
@@ -26,6 +38,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2108.11,
     "venues": 2,
@@ -34,6 +47,7 @@
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1578.0,
     "venues": 2,
@@ -42,6 +56,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1484.0,
     "venues": 3,
@@ -50,6 +65,7 @@
   {
     "city": "Henrietta",
     "state": "NY",
+    "country": "US",
     "reservations": 19,
     "total_spend": 795.0,
     "venues": 1,
@@ -58,6 +74,7 @@
   {
     "city": "New Orleans",
     "state": "LA",
+    "country": "US",
     "reservations": 18,
     "total_spend": 665.0,
     "venues": 3,
@@ -66,6 +83,7 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 635.4,
     "venues": 4,
@@ -74,6 +92,7 @@
   {
     "city": "Rochester",
     "state": "NY",
+    "country": "US",
     "reservations": 18,
     "total_spend": 620.0,
     "venues": 1,
@@ -82,14 +101,25 @@
   {
     "city": "Mount Pleasant",
     "state": "SC",
+    "country": "US",
     "reservations": 9,
     "total_spend": 504.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 5,
+    "total_spend": 490.72,
+    "venues": 4,
+    "members": 3
+  },
+  {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 397.0,
     "venues": 5,
@@ -98,6 +128,7 @@
   {
     "city": "Troy",
     "state": "NY",
+    "country": "US",
     "reservations": 3,
     "total_spend": 75.0,
     "venues": 1,

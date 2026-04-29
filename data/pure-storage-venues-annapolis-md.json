@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2112409b-27c3-46da-a4ac-e953f71c96d1",
+    "venue_name": "My Annapolis Office",
+    "latitude": 38.976929,
+    "longitude": -76.512299,
+    "reservations": 1,
+    "spend": 360.0
+  },
+  {
+    "venue_id": "743a3aba-4fea-4481-b15c-581de763d396",
+    "venue_name": "Regus | Annapolis (Office Suites Plus)",
+    "latitude": 38.987732,
+    "longitude": -76.538223,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

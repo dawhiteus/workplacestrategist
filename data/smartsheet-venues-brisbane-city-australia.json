@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "7ab987a8-588f-46ed-b051-af89644b730c",
+    "venue_name": "Hub Australia | Anzac Square",
+    "latitude": -27.467278,
+    "longitude": 153.026108,
+    "reservations": 18,
+    "spend": 8737.32
+  },
+  {
+    "venue_id": "1c673121-2662-4dff-9c01-6de4291e1745",
+    "venue_name": "Workspace365 - 260 Queen Street",
+    "latitude": -27.467707,
+    "longitude": 153.027405,
+    "reservations": 5,
+    "spend": 3618.32
+  },
+  {
+    "venue_id": "7207dc06-afe6-4c3b-bf78-807cc205520a",
+    "venue_name": "Workspace365 - 167 Eagle Street",
+    "latitude": -27.46599,
+    "longitude": 153.030579,
+    "reservations": 1,
+    "spend": 353.31
+  }
+]

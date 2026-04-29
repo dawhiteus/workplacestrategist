@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9ca56954-fdbe-435c-a8fb-f4e2856073fe",
+    "venue_name": "SPACES | La Defense, Cours Valmy",
+    "latitude": 48.892178,
+    "longitude": 2.23289,
+    "reservations": 24,
+    "spend": 10025.8
+  },
+  {
+    "venue_id": "4b3f6945-f42b-425d-93f3-f76135be5eb4",
+    "venue_name": "Time Work Space",
+    "latitude": 48.885361,
+    "longitude": 2.250315,
+    "reservations": 13,
+    "spend": 1071.48
+  },
+  {
+    "venue_id": "72a29ad5-4d4d-4e8b-a5e1-682d586cc6f0",
+    "venue_name": "Regus | Puteaux, La Defense Tour Initiale",
+    "latitude": 48.887161,
+    "longitude": 2.251435,
+    "reservations": 2,
+    "spend": 237.63
+  }
+]

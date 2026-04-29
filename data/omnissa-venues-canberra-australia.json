@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "464b2c74-60db-46c7-b9c6-d2d1d2f84f61",
+    "venue_name": "Regus | Canberra 15 Moore Street",
+    "latitude": -35.276188,
+    "longitude": 149.127762,
+    "reservations": 4,
+    "spend": 393.37
+  },
+  {
+    "venue_id": "acf249de-ca2e-4902-82a0-d54c75a87498",
+    "venue_name": "Regus | Canberra 121 Marcus Clarke St",
+    "latitude": -35.277901,
+    "longitude": 149.126007,
+    "reservations": 1,
+    "spend": 119.86
+  },
+  {
+    "venue_id": "18643dfe-da7c-481b-8843-581e56e740c2",
+    "venue_name": "Regus | CANBERRA, Canberra Airport",
+    "latitude": -35.308537,
+    "longitude": 149.190155,
+    "reservations": 1,
+    "spend": 99.43
+  }
+]

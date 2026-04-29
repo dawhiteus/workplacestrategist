@@ -1,10 +1,66 @@
 [
   {
+    "venue_id": "5f5e81a6-fa61-4fbe-96e5-fd98ff71c767",
+    "venue_name": "Association Forum",
+    "latitude": 41.881252,
+    "longitude": -87.639114,
+    "reservations": 1,
+    "spend": 1575.0
+  },
+  {
+    "venue_id": "f4fe1f06-896e-43a8-bfe8-ed0757acc506",
+    "venue_name": "Regus | North LaSalle",
+    "latitude": 41.886154,
+    "longitude": -87.6315,
+    "reservations": 1,
+    "spend": 261.6
+  },
+  {
+    "venue_id": "d4ae6f82-0016-4806-a56c-8ab4992cf648",
+    "venue_name": "Regus | Chicago - Wicker Park",
+    "latitude": 41.903439,
+    "longitude": -87.667732,
+    "reservations": 1,
+    "spend": 149.0
+  },
+  {
     "venue_id": "348a8f66-fb0f-4cb6-bc3b-9c03a0fec9d0",
     "venue_name": "Office Evolution - Chicago/ O'Hare",
-    "latitude": 41.98590087890625,
-    "longitude": -87.84526062011719,
+    "latitude": 41.985901,
+    "longitude": -87.845261,
     "reservations": 2,
     "spend": 120.0
+  },
+  {
+    "venue_id": "c68e36e4-0feb-41b4-9985-88b322353d3f",
+    "venue_name": "Regus | West Loop Riverside Plaza Center",
+    "latitude": 41.881336,
+    "longitude": -87.639107,
+    "reservations": 1,
+    "spend": 93.53
+  },
+  {
+    "venue_id": "2a8f36b0-0ac0-4358-955d-ecd5f4d735ae",
+    "venue_name": "Workbox - The Loop",
+    "latitude": 41.879906,
+    "longitude": -87.630463,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "3af0e528-8d13-4726-9783-3d89dd2eac80",
+    "venue_name": "Industrious - Ogilvie",
+    "latitude": 41.88232,
+    "longitude": -87.640465,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "8b13f616-78c8-472b-ad09-e6d4c99c9b5b",
+    "venue_name": "Industrious - Central Loop",
+    "latitude": 41.878521,
+    "longitude": -87.63163,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

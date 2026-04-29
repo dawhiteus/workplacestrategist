@@ -2,9 +2,41 @@
   {
     "venue_id": "4aa0aa63-1c66-426b-9c0c-7d270054a7da",
     "venue_name": "Common Desk - Dallas Arts District",
-    "latitude": 32.787532806396484,
-    "longitude": -96.79916381835938,
+    "latitude": 32.787533,
+    "longitude": -96.799164,
     "reservations": 7,
     "spend": 225.0
+  },
+  {
+    "venue_id": "1f78cd80-e5c4-43fc-97c8-e0b866907207",
+    "venue_name": "HQ | TX, Dallas Downtown - Highland Park Place",
+    "latitude": 32.821999,
+    "longitude": -96.789497,
+    "reservations": 1,
+    "spend": 207.86
+  },
+  {
+    "venue_id": "133cd726-1477-40ed-81d8-1720892fc5c7",
+    "venue_name": "WeWork | 1920 McKinney Ave",
+    "latitude": 32.790127,
+    "longitude": -96.803284,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "95ec9e4c-a839-4e4e-86b1-775a5832068f",
+    "venue_name": "Lucid Private Offices | Uptown - Central Expressway",
+    "latitude": 32.81485,
+    "longitude": -96.790604,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "6c4dd209-f97f-44e2-87ae-52258df099c6",
+    "venue_name": "Lucid Private Offices | Uptown - Cole Ave",
+    "latitude": 32.799965,
+    "longitude": -96.803871,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

@@ -2,81 +2,121 @@
   {
     "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
     "venue_name": "The Pioneer Collective - Belltown",
-    "latitude": 47.61172866821289,
-    "longitude": -122.34436798095703,
+    "latitude": 47.611729,
+    "longitude": -122.344368,
     "reservations": 85,
     "spend": 4830.0
   },
   {
     "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
     "venue_name": "The Pioneer Collective - Ballard",
-    "latitude": 47.66591262817383,
-    "longitude": -122.37410736083984,
+    "latitude": 47.665913,
+    "longitude": -122.374107,
     "reservations": 70,
     "spend": 3500.0
   },
   {
     "venue_id": "4998ab8e-dca1-4756-8655-216e5ca4dfe4",
     "venue_name": "WeWork | 1201 3rd Ave.",
-    "latitude": 47.607147216796875,
-    "longitude": -122.3359375,
+    "latitude": 47.607147,
+    "longitude": -122.335938,
     "reservations": 35,
     "spend": 2262.6
   },
   {
     "venue_id": "92049d30-e2b3-4c10-a1d6-98b9997870ff",
     "venue_name": "thinkspace - Seattle",
-    "latitude": 47.63450622558594,
-    "longitude": -122.339599609375,
+    "latitude": 47.634506,
+    "longitude": -122.3396,
     "reservations": 9,
     "spend": 1550.0
   },
   {
     "venue_id": "2545ed6c-e086-43d2-bccd-7dd2d4d71f9b",
     "venue_name": "The Cloud Room",
-    "latitude": 47.6136589050293,
-    "longitude": -122.3177490234375,
+    "latitude": 47.613659,
+    "longitude": -122.317749,
     "reservations": 37,
     "spend": 1480.0
   },
   {
     "venue_id": "fe7c09e6-0ece-4b22-b834-aaa369c25b3d",
     "venue_name": "Expansive - Pioneer Building",
-    "latitude": 47.60219955444336,
-    "longitude": -122.33348083496094,
+    "latitude": 47.6022,
+    "longitude": -122.333481,
     "reservations": 7,
     "spend": 678.0
   },
   {
     "venue_id": "ca021d3d-08b8-4c0c-bfc7-e8ff6a63b6a6",
     "venue_name": "WeWork | 1448 NW Market Street",
-    "latitude": 47.66898727416992,
-    "longitude": -122.37577819824219,
+    "latitude": 47.668987,
+    "longitude": -122.375778,
     "reservations": 9,
     "spend": 531.0
   },
   {
     "venue_id": "f54644e0-e12e-0132-2e14-46f49f6b5ea9",
     "venue_name": "WeWork | Holyoke Building",
-    "latitude": 47.605506896972656,
-    "longitude": -122.33633422851562,
+    "latitude": 47.605507,
+    "longitude": -122.336334,
     "reservations": 6,
     "spend": 224.0
   },
   {
     "venue_id": "4a3b38eb-bd86-4102-8796-64df14a69192",
     "venue_name": "Regus | Seattle - Columbia Center",
-    "latitude": 47.6047248840332,
-    "longitude": -122.3306884765625,
+    "latitude": 47.604725,
+    "longitude": -122.330688,
     "reservations": 4,
     "spend": 163.45
   },
   {
     "venue_id": "b8ed54f3-97b1-49b2-8c8a-a30160d6ac86",
     "venue_name": "CENTRL Office - Capitol Hill",
-    "latitude": 47.61480712890625,
-    "longitude": -122.31840515136719,
+    "latitude": 47.614807,
+    "longitude": -122.318405,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "67ada6c5-94d1-4e58-ac1b-c5c6053c0834",
+    "venue_name": "Regus | Smith Tower",
+    "latitude": 47.602066,
+    "longitude": -122.331917,
+    "reservations": 1,
+    "spend": 42.88
+  },
+  {
+    "venue_id": "c3f65ed4-ea6d-4d74-b3bb-9ac5ec712b4b",
+    "venue_name": "The Pioneer Collective @ West Canal Yards",
+    "latitude": 47.656517,
+    "longitude": -122.370705,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "a0ae547b-07f9-464e-9494-dcb1c8f6ee2d",
+    "venue_name": "West Seattle Coworking",
+    "latitude": 47.521873,
+    "longitude": -122.376335,
+    "reservations": 1,
+    "spend": 39.0
+  },
+  {
+    "venue_id": "557128b3-c5a6-4328-8a24-d8c2448f89f0",
+    "venue_name": "WeWork | Hawk Tower",
+    "latitude": 47.597958,
+    "longitude": -122.330994,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "b6ab32ec-909a-42b3-b0f6-b78bc1976590",
+    "venue_name": "Regus || Ballard",
+    "latitude": 47.663506,
+    "longitude": -122.375931,
+    "reservations": 1,
+    "spend": 34.38
   }
 ]

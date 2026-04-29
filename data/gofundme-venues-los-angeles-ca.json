@@ -1,10 +1,66 @@
 [
   {
+    "venue_id": "b99d1555-1eda-45e4-aabc-f34508db3c9c",
+    "venue_name": "WeWork | 12130 Millennium Drive",
+    "latitude": 33.97998,
+    "longitude": -118.406364,
+    "reservations": 1,
+    "spend": 621.6
+  },
+  {
     "venue_id": "58a50fc9-3869-4853-8b02-087508fd40ad",
     "venue_name": "WeWork | CampusWarner Center",
-    "latitude": 34.174312591552734,
-    "longitude": -118.59414672851562,
+    "latitude": 34.174313,
+    "longitude": -118.594147,
     "reservations": 5,
     "spend": 175.0
+  },
+  {
+    "venue_id": "7e7c885b-81fa-4a6e-9c83-6d02b8dcf078",
+    "venue_name": "SPACES || La Brea",
+    "latitude": 34.088116,
+    "longitude": -118.34465,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "9e6dc2b0-453c-44ac-85ca-35f54acae35a",
+    "venue_name": "moss",
+    "latitude": 33.991669,
+    "longitude": -118.468346,
+    "reservations": 1,
+    "spend": 80.0
+  },
+  {
+    "venue_id": "e07b81c1-1c6a-4ff7-9144-86bc235d6dc8",
+    "venue_name": "WeWork | Pacific Design Center - Red Building",
+    "latitude": 34.083858,
+    "longitude": -118.382492,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "0d28ede1-1a47-4beb-bb7c-0d62cdf5f204",
+    "venue_name": "SPACES | CA, Los Angeles - W Olympic Blvd",
+    "latitude": 34.032841,
+    "longitude": -118.450844,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "a5ec1221-4875-4908-9680-43f4897b74c1",
+    "venue_name": "Wilshire 1001 Premium Flex Space & Coworking Solutions",
+    "latitude": 34.051807,
+    "longitude": -118.261391,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "970dc4dc-1d74-4eca-ae06-7a112a1b5a01",
+    "venue_name": "The Preserve",
+    "latitude": 34.096416,
+    "longitude": -118.310623,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

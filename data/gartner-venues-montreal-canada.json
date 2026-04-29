@@ -1,0 +1,122 @@
+[
+  {
+    "venue_id": "602ffd7f-ed22-48e8-b11a-c59773842825",
+    "venue_name": "iQ Offices | 1155 Metcalfe Inc.",
+    "latitude": 45.500252,
+    "longitude": -73.570183,
+    "reservations": 105,
+    "spend": 33584.43
+  },
+  {
+    "venue_id": "cdd8d0ef-c1b5-4831-964c-28aff1c13274",
+    "venue_name": "WeWork | Place Ville Marie",
+    "latitude": 45.502056,
+    "longitude": -73.569344,
+    "reservations": 22,
+    "spend": 10961.57
+  },
+  {
+    "venue_id": "c35eda04-3ae3-476c-953d-f79d728f388c",
+    "venue_name": "Metspace - St-Leonard",
+    "latitude": 45.603153,
+    "longitude": -73.608315,
+    "reservations": 19,
+    "spend": 5172.76
+  },
+  {
+    "venue_id": "ad503e76-d563-4a57-8acb-08aa97f96b4a",
+    "venue_name": "WeWork | L'Avenue",
+    "latitude": 45.496441,
+    "longitude": -73.570663,
+    "reservations": 8,
+    "spend": 2745.57
+  },
+  {
+    "venue_id": "62657e1f-555d-4ff2-9e44-bb0c7c2c8cf7",
+    "venue_name": "M Sur Drummond",
+    "latitude": 45.499542,
+    "longitude": -73.575584,
+    "reservations": 4,
+    "spend": 2664.43
+  },
+  {
+    "venue_id": "d36ea358-0210-476b-90eb-f86c17b1163e",
+    "venue_name": "Regus | Quebec, Montreal - Mile End",
+    "latitude": 45.527428,
+    "longitude": -73.596458,
+    "reservations": 2,
+    "spend": 423.78
+  },
+  {
+    "venue_id": "4bc84fff-0ee5-414d-9184-701675f4443b",
+    "venue_name": "Regus | Cathcart & McGill",
+    "latitude": 45.501301,
+    "longitude": -73.570801,
+    "reservations": 1,
+    "spend": 382.07
+  },
+  {
+    "venue_id": "e2cce5a6-c17a-4ea5-b881-4dcb89c9eadd",
+    "venue_name": "Entrepots dominion",
+    "latitude": 45.476105,
+    "longitude": -73.579147,
+    "reservations": 1,
+    "spend": 365.34
+  },
+  {
+    "venue_id": "5535d126-b325-41a4-87b4-b251b0421465",
+    "venue_name": "Regus | QC, Montreal - Boul Cremazie",
+    "latitude": 45.550362,
+    "longitude": -73.628532,
+    "reservations": 1,
+    "spend": 274.94
+  },
+  {
+    "venue_id": "46429bc3-715b-48ac-9aca-fa743ebe5711",
+    "venue_name": "WeWork | 1010 Sainte-Catherine Ouest",
+    "latitude": 45.500286,
+    "longitude": -73.572327,
+    "reservations": 4,
+    "spend": 269.79
+  },
+  {
+    "venue_id": "968ae5b5-ae04-4095-8400-bc625e974036",
+    "venue_name": "Nuage B",
+    "latitude": 45.475151,
+    "longitude": -73.580093,
+    "reservations": 1,
+    "spend": 219.81
+  },
+  {
+    "venue_id": "301b9319-ad8f-40ed-a553-242085434403",
+    "venue_name": "SPACES | QC, Montreal - Spaces Cité Multimédia",
+    "latitude": 45.497616,
+    "longitude": -73.55439,
+    "reservations": 3,
+    "spend": 175.76
+  },
+  {
+    "venue_id": "cb90fbf2-81db-451c-a7d8-1af79923958f",
+    "venue_name": "Griffintown Meeting Venue",
+    "latitude": 45.491982,
+    "longitude": -73.565231,
+    "reservations": 1,
+    "spend": 164.45
+  },
+  {
+    "venue_id": "3bd6b284-a2d9-40a3-91bc-00d3bfb2afcd",
+    "venue_name": "Regus | Place d'Armes",
+    "latitude": 45.504383,
+    "longitude": -73.557526,
+    "reservations": 1,
+    "spend": 54.21
+  },
+  {
+    "venue_id": "c959e725-e994-4a8e-ad5b-fbf149fed657",
+    "venue_name": "2727 Coworking",
+    "latitude": 45.478977,
+    "longitude": -73.573013,
+    "reservations": 1,
+    "spend": 29.34
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "b8dee293-e85d-482f-9145-9cb779ceab59",
+    "venue_name": "Quest Workspaces- 1395 Brickell",
+    "latitude": 25.76058,
+    "longitude": -80.191208,
+    "reservations": 2,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "2c8dda30-0db1-413a-bb11-92f54726585c",
+    "venue_name": "Industrious - Wynwood",
+    "latitude": 25.803448,
+    "longitude": -80.200378,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "2ee5a873-5ca2-45d4-aa94-7c22bebf1431",
+    "venue_name": "Mindspace 100 Biscayne",
+    "latitude": 25.775812,
+    "longitude": -80.188248,
+    "reservations": 1,
+    "spend": 45.0
+  }
+]

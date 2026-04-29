@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9e3a9a46-0afb-4736-9606-48316b4df724",
+    "venue_name": "Industrious - Bellevue",
+    "latitude": 47.614983,
+    "longitude": -122.195778,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "72c8a894-90cc-4bd8-a5e4-d48ceeae9152",
+    "venue_name": "(BEL) Eastside Office Center",
+    "latitude": 47.578411,
+    "longitude": -122.149284,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

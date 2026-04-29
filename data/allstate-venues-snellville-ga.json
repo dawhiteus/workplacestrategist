@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "71536d9e-75c0-4e22-a19c-07d33bf1762a",
+    "venue_name": "THRIVE | Snellville",
+    "latitude": 33.860226,
+    "longitude": -84.015999,
+    "reservations": 4,
+    "spend": 980.0
+  },
+  {
+    "venue_id": "89182d6f-2c69-4993-b963-75215eee503e",
+    "venue_name": "Regus | Shoppes at Webb Gin",
+    "latitude": 33.896832,
+    "longitude": -84.004242,
+    "reservations": 1,
+    "spend": 102.0
+  }
+]

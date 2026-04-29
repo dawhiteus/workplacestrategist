@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "107f916f-148f-436a-be1e-29c0701be38f",
+    "venue_name": "WeWork | 167 North Green Street",
+    "latitude": 41.885155,
+    "longitude": -87.648491,
+    "reservations": 1,
+    "spend": 576.0
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.903667,
+    "longitude": -87.631096,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

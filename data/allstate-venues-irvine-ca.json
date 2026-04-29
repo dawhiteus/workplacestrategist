@@ -1,1 +1,42 @@
-[{"venue_id":"irvine-ca-venue-1","venue_name":"Industrious | Irvine Downtown","latitude":33.7146,"longitude":-117.908,"reservations":11,"spend":2122.47},{"venue_id":"irvine-ca-venue-2","venue_name":"Spaces | Irvine North","latitude":33.6625,"longitude":-117.7452,"reservations":10,"spend":1941.82},{"venue_id":"irvine-ca-venue-3","venue_name":"Industrious | Irvine West","latitude":33.7735,"longitude":-117.9116,"reservations":5,"spend":1025.24},{"venue_id":"irvine-ca-venue-4","venue_name":"CommonGrounds | Irvine Central","latitude":33.6187,"longitude":-117.817,"reservations":5,"spend":906.37},{"venue_id":"irvine-ca-venue-5","venue_name":"Novel Coworking | Irvine East","latitude":33.664,"longitude":-117.7459,"reservations":4,"spend":824.81},{"venue_id":"irvine-ca-venue-6","venue_name":"Novel Coworking | Irvine Financial District","latitude":33.7174,"longitude":-117.8014,"reservations":2,"spend":346.3}]
+[
+  {
+    "venue_id": "9a88f254-ec07-4af2-840c-336a13d3d5ec",
+    "venue_name": "(AES) Airport Executive Suites ",
+    "latitude": 33.680122,
+    "longitude": -117.855217,
+    "reservations": 10,
+    "spend": 2067.0
+  },
+  {
+    "venue_id": "9371400b-8d9d-428a-adb0-7ec291b23f25",
+    "venue_name": "Regus | MacArthur Blvd.",
+    "latitude": 33.655277,
+    "longitude": -117.859947,
+    "reservations": 7,
+    "spend": 1367.01
+  },
+  {
+    "venue_id": "104a8aa0-4ad3-4a33-a7fb-af9deb83e316",
+    "venue_name": "(PAR) Jamboree Center",
+    "latitude": 33.679604,
+    "longitude": -117.839828,
+    "reservations": 2,
+    "spend": 850.0
+  },
+  {
+    "venue_id": "56db26e6-8eb2-4ecc-bd16-b71e2a2514b6",
+    "venue_name": "Industrious - Irvine",
+    "latitude": 33.672527,
+    "longitude": -117.843872,
+    "reservations": 2,
+    "spend": 732.0
+  },
+  {
+    "venue_id": "9118ba56-59b3-4467-bce4-5de3a7aa3dbb",
+    "venue_name": "Spectrum Executive Suites",
+    "latitude": 33.630608,
+    "longitude": -117.728989,
+    "reservations": 1,
+    "spend": 135.0
+  }
+]

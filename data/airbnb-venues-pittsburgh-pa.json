@@ -2,17 +2,41 @@
   {
     "venue_id": "7ccfa714-1968-4103-b479-5c9d436f8853",
     "venue_name": "Liberty Bank Building Coworking",
-    "latitude": 40.4612922668457,
-    "longitude": -79.92337036132812,
+    "latitude": 40.461292,
+    "longitude": -79.92337,
     "reservations": 138,
     "spend": 5095.0
   },
   {
     "venue_id": "a4522670-c116-4030-908a-c6603d67f027",
     "venue_name": "Regus | Bakery Square",
-    "latitude": 40.45669937133789,
-    "longitude": -79.9175033569336,
+    "latitude": 40.456699,
+    "longitude": -79.917503,
     "reservations": 3,
     "spend": 438.74
+  },
+  {
+    "venue_id": "9bb9bdbf-77f4-4bf4-86f1-47b7a95246f6",
+    "venue_name": "Expansive - Golden Triangle",
+    "latitude": 40.44178,
+    "longitude": -80.001335,
+    "reservations": 1,
+    "spend": 89.0
+  },
+  {
+    "venue_id": "e408a593-ad73-4acb-ba21-87b28d5ab5b7",
+    "venue_name": "COhatch - Shadyside",
+    "latitude": 40.450893,
+    "longitude": -79.93396,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "3e861d4c-7b6b-4c14-983f-ec7ed5ad9bad",
+    "venue_name": "HQ | PA, Pittsburgh - Alpha Dr",
+    "latitude": 40.492439,
+    "longitude": -79.86985,
+    "reservations": 1,
+    "spend": 25.38
   }
 ]

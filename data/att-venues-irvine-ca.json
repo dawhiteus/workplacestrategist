@@ -2,24 +2,48 @@
   {
     "venue_id": "37ab46a8-6552-434d-b2a4-a0870b3df3cd",
     "venue_name": "WorkSpace Irvine",
-    "latitude": 33.69099426269531,
-    "longitude": -117.86475372314453,
+    "latitude": 33.690994,
+    "longitude": -117.864754,
     "reservations": 14,
     "spend": 1740.0
   },
   {
+    "venue_id": "9421b244-722c-4db0-bbb9-a5fe5e0afc6c",
+    "venue_name": "(WFB) Wells Fargo Tower",
+    "latitude": 33.683136,
+    "longitude": -117.853165,
+    "reservations": 1,
+    "spend": 625.0
+  },
+  {
+    "venue_id": "6a16d79d-eb5d-4aad-94f2-d9fc20408137",
+    "venue_name": "WorkWell",
+    "latitude": 33.683262,
+    "longitude": -117.833206,
+    "reservations": 1,
+    "spend": 352.0
+  },
+  {
     "venue_id": "72111bfb-d9ff-49e1-8d41-4826bc032c02",
     "venue_name": "WeWork | 400 Spectrum Center",
-    "latitude": 33.65150833129883,
-    "longitude": -117.7462158203125,
+    "latitude": 33.651508,
+    "longitude": -117.746216,
     "reservations": 7,
     "spend": 245.0
   },
   {
+    "venue_id": "9118ba56-59b3-4467-bce4-5de3a7aa3dbb",
+    "venue_name": "Spectrum Executive Suites",
+    "latitude": 33.630608,
+    "longitude": -117.728989,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
     "venue_id": "ee836b44-d543-4432-8861-2b9a2d43176e",
     "venue_name": "WeWork | 200 Spectrum Center",
-    "latitude": 33.6527214050293,
-    "longitude": -117.7479019165039,
+    "latitude": 33.652721,
+    "longitude": -117.747902,
     "reservations": 2,
     "spend": 70.0
   }

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ae492754-76a0-4846-8484-930907b8433c",
+    "venue_name": "Regus | NC, Hickory - Tate Blvd",
+    "latitude": 35.725513,
+    "longitude": -81.284401,
+    "reservations": 2,
+    "spend": 221.52
+  },
+  {
+    "venue_id": "b5b8f8bb-9426-47c1-b1c0-e02aeed7947d",
+    "venue_name": "The Hickory Hub",
+    "latitude": 35.734585,
+    "longitude": -81.330025,
+    "reservations": 1,
+    "spend": 45.0
+  }
+]

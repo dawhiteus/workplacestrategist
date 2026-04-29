@@ -1,1 +1,66 @@
-[{"venue_id":"las-vegas-nv-venue-1","venue_name":"Firmspace | Las Vegas Downtown","latitude":36.1618,"longitude":-115.2373,"reservations":8,"spend":1672.29},{"venue_id":"las-vegas-nv-venue-2","venue_name":"CommonGrounds | Las Vegas North","latitude":36.1794,"longitude":-115.1461,"reservations":6,"spend":1321.99},{"venue_id":"las-vegas-nv-venue-3","venue_name":"Flex by JLL | Las Vegas West","latitude":36.2288,"longitude":-115.1324,"reservations":6,"spend":1317.18},{"venue_id":"las-vegas-nv-venue-4","venue_name":"Lucid Private Offices | Las Vegas Central","latitude":36.0965,"longitude":-115.1982,"reservations":3,"spend":597.38},{"venue_id":"las-vegas-nv-venue-5","venue_name":"WorkSuites | Las Vegas East","latitude":36.1736,"longitude":-115.0656,"reservations":2,"spend":407.62},{"venue_id":"las-vegas-nv-venue-6","venue_name":"Venture X | Las Vegas Financial District","latitude":36.2055,"longitude":-115.0455,"reservations":2,"spend":404.04},{"venue_id":"las-vegas-nv-venue-7","venue_name":"Roam | Las Vegas Midtown","latitude":36.1572,"longitude":-115.0618,"reservations":1,"spend":252.95},{"venue_id":"las-vegas-nv-venue-8","venue_name":"Knotel | Las Vegas Uptown","latitude":36.1882,"longitude":-115.0785,"reservations":1,"spend":228.55}]
+[
+  {
+    "venue_id": "91411607-a1d6-42bc-bed1-c463a81e3b41",
+    "venue_name": "Regus | NV, Las Vegas - Convention Center Dr.",
+    "latitude": 36.13203,
+    "longitude": -115.161491,
+    "reservations": 4,
+    "spend": 2669.5
+  },
+  {
+    "venue_id": "4640ddb0-2b15-4084-aad5-95a550b5752d",
+    "venue_name": "Corporate Coworking ",
+    "latitude": 36.085819,
+    "longitude": -115.19043,
+    "reservations": 17,
+    "spend": 2486.0
+  },
+  {
+    "venue_id": "b926d6c9-22a4-44ba-9cb9-5466613a61a6",
+    "venue_name": "Regus | Town Square",
+    "latitude": 36.067703,
+    "longitude": -115.176109,
+    "reservations": 1,
+    "spend": 742.5
+  },
+  {
+    "venue_id": "ad8b06c2-7513-4885-8da7-61fc073e7d2e",
+    "venue_name": "Pacific Workplaces - Las Vegas",
+    "latitude": 36.16721,
+    "longitude": -115.143867,
+    "reservations": 1,
+    "spend": 285.0
+  },
+  {
+    "venue_id": "d2919cc8-1974-4499-9bec-663677e78794",
+    "venue_name": "WeWork | Two Summerlin",
+    "latitude": 36.156399,
+    "longitude": -115.329964,
+    "reservations": 5,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "09c2f9ed-0382-4c81-91b9-9d885ddb32a4",
+    "venue_name": "WeWork | Town Square",
+    "latitude": 36.068558,
+    "longitude": -115.176071,
+    "reservations": 2,
+    "spend": 84.0
+  },
+  {
+    "venue_id": "94df29a6-b585-49ef-80df-b471cc743d5e",
+    "venue_name": "Woven Workspaces",
+    "latitude": 36.167675,
+    "longitude": -115.141159,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "f23984e5-afa2-401e-b06d-efb3714ebec0",
+    "venue_name": "Incubase Workspace",
+    "latitude": 36.093861,
+    "longitude": -115.118256,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

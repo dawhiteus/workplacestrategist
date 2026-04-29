@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d003a55e-9b60-4239-bd7d-db6cdb37cb1b",
+    "venue_name": "Landmark | Manchester Spinningfields",
+    "latitude": 53.479546,
+    "longitude": -2.253003,
+    "reservations": 5,
+    "spend": 1400.48
+  },
+  {
+    "venue_id": "e2d7b0d0-984c-4af4-b6bd-378c0185dc00",
+    "venue_name": "Landmark | Manchester Chancery Place",
+    "latitude": 53.480358,
+    "longitude": -2.24278,
+    "reservations": 2,
+    "spend": 66.16
+  }
+]

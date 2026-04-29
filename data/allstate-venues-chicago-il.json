@@ -1,1 +1,18 @@
-[{"venue_id":"chicago-il-venue-1","venue_name":"Roam | Chicago Downtown","latitude":41.9166,"longitude":-87.6277,"reservations":4,"spend":5985.17},{"venue_id":"chicago-il-venue-2","venue_name":"IWG | Chicago North","latitude":41.8021,"longitude":-87.653,"reservations":3,"spend":3662.83}]
+[
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944,
+    "longitude": -87.636009,
+    "reservations": 6,
+    "spend": 9378.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.890244,
+    "longitude": -87.631897,
+    "reservations": 1,
+    "spend": 270.0
+  }
+]

@@ -2,25 +2,49 @@
   {
     "venue_id": "c1bef6f2-332c-405d-a33e-9a403561d4e6",
     "venue_name": "Regus | Austin - Barton Springs",
-    "latitude": 30.264440536499023,
-    "longitude": -97.78186798095703,
-    "reservations": 12,
-    "spend": 2637.58
+    "latitude": 30.264441,
+    "longitude": -97.781868,
+    "reservations": 14,
+    "spend": 3217.0
+  },
+  {
+    "venue_id": "6727825f-fc27-48a0-9ad2-da9fe081dbfd",
+    "venue_name": "Industrious - San Jacinto Blvd",
+    "latitude": 30.261522,
+    "longitude": -97.741753,
+    "reservations": 4,
+    "spend": 1090.0
   },
   {
     "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
     "venue_name": "Common Desk - Anderson Lane",
-    "latitude": 30.355192184448242,
-    "longitude": -97.73033905029297,
-    "reservations": 19,
-    "spend": 925.0
+    "latitude": 30.355192,
+    "longitude": -97.730339,
+    "reservations": 20,
+    "spend": 975.0
+  },
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.267586,
+    "longitude": -97.754318,
+    "reservations": 2,
+    "spend": 275.0
   },
   {
     "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
     "venue_name": "The Malin East Austin",
-    "latitude": 30.258480072021484,
-    "longitude": -97.72895812988281,
+    "latitude": 30.25848,
+    "longitude": -97.728958,
     "reservations": 4,
     "spend": 200.0
+  },
+  {
+    "venue_id": "6b5843d4-1f56-45f2-8754-9878fa92d85f",
+    "venue_name": "Expansive - North Austin",
+    "latitude": 30.443642,
+    "longitude": -97.695786,
+    "reservations": 1,
+    "spend": 139.0
   }
 ]

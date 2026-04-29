@@ -2,14 +2,16 @@
   {
     "city": "New York",
     "state": "NY",
-    "reservations": 654,
-    "total_spend": 42948.4,
+    "country": "US",
+    "reservations": 655,
+    "total_spend": 42993.4,
     "venues": 35,
     "members": 61
   },
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 114,
     "total_spend": 3351.0,
     "venues": 8,
@@ -18,6 +20,7 @@
   {
     "city": "Houston",
     "state": "TX",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1300.0,
     "venues": 1,
@@ -26,6 +29,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 4,
     "total_spend": 661.0,
     "venues": 3,
@@ -34,6 +38,7 @@
   {
     "city": "Williamsburg",
     "state": "NY",
+    "country": "US",
     "reservations": 12,
     "total_spend": 630.0,
     "venues": 1,
@@ -42,6 +47,7 @@
   {
     "city": "Portland",
     "state": "ME",
+    "country": "US",
     "reservations": 7,
     "total_spend": 300.0,
     "venues": 1,
@@ -50,6 +56,7 @@
   {
     "city": "New Orleans",
     "state": "LA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 80.0,
     "venues": 2,

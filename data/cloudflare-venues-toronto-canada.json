@@ -1,26 +1,282 @@
 [
   {
-    "venue_id": "tor-cf-1",
-    "venue_name": "WeWork Bay Street",
-    "latitude": 43.6487,
-    "longitude": -79.3794,
-    "reservations": 149,
-    "spend": 18234.56
+    "venue_id": "409256bf-ef2d-457e-9582-9c5e50ca599e",
+    "venue_name": "The Rostie Group - 20 Bay Street, 11th Floor",
+    "latitude": 43.641724,
+    "longitude": -79.377792,
+    "reservations": 78,
+    "spend": 12963.62
   },
   {
-    "venue_id": "tor-cf-2",
-    "venue_name": "Spaces Liberty Village",
-    "latitude": 43.6367,
-    "longitude": -79.4187,
-    "reservations": 108,
-    "spend": 13218.24
+    "venue_id": "13774f97-e5cb-46fa-80ba-4e627792162f",
+    "venue_name": "iQ Offices | 150 King Street West",
+    "latitude": 43.648102,
+    "longitude": -79.384453,
+    "reservations": 22,
+    "spend": 4415.41
   },
   {
-    "venue_id": "tor-cf-3",
-    "venue_name": "Regus King West",
-    "latitude": 43.6445,
-    "longitude": -79.4018,
-    "reservations": 79,
-    "spend": 9702.16
+    "venue_id": "85bccc07-7406-4ab0-9aad-bc8dbc7640e6",
+    "venue_name": "The Bay Adelaide Centre - TCC Canada",
+    "latitude": 43.650375,
+    "longitude": -79.380707,
+    "reservations": 19,
+    "spend": 3518.18
+  },
+  {
+    "venue_id": "6341119c-b30f-4ee7-bbbb-2602c3716e00",
+    "venue_name": "Workplace One | Peter Street Coworking",
+    "latitude": 43.648041,
+    "longitude": -79.392715,
+    "reservations": 46,
+    "spend": 3361.72
+  },
+  {
+    "venue_id": "4216cf77-627d-4fd3-9ba3-26367ae353d6",
+    "venue_name": "StartWell",
+    "latitude": 43.643398,
+    "longitude": -79.406403,
+    "reservations": 12,
+    "spend": 3313.9
+  },
+  {
+    "venue_id": "a751863d-340d-40bb-a9b6-4a2af7b76a80",
+    "venue_name": "Adelaide House Coworking",
+    "latitude": 43.646725,
+    "longitude": -79.396767,
+    "reservations": 44,
+    "spend": 1625.66
+  },
+  {
+    "venue_id": "430eee3b-23c4-47c4-8ff9-ac65eba4328b",
+    "venue_name": "iQ Offices | 545 King Street",
+    "latitude": 43.644218,
+    "longitude": -79.398689,
+    "reservations": 3,
+    "spend": 1353.2
+  },
+  {
+    "venue_id": "45d41f8d-61b4-4cda-a4c1-f5cdd591f730",
+    "venue_name": "Acme Works",
+    "latitude": 43.643711,
+    "longitude": -79.40876,
+    "reservations": 11,
+    "spend": 1344.71
+  },
+  {
+    "venue_id": "774677b5-33df-429e-a996-71cf3924ae26",
+    "venue_name": "iQ Offices | 140 Yonge Street",
+    "latitude": 43.651169,
+    "longitude": -79.378906,
+    "reservations": 15,
+    "spend": 1178.07
+  },
+  {
+    "venue_id": "b90c8edb-e898-4aae-b4a5-e8c9d21253ef",
+    "venue_name": "The Professional Centre",
+    "latitude": 43.649906,
+    "longitude": -79.383247,
+    "reservations": 3,
+    "spend": 1007.53
+  },
+  {
+    "venue_id": "51bfbaea-c588-4b0a-a76d-6ba45962f764",
+    "venue_name": "iQ Offices | 250 University Ave.",
+    "latitude": 43.650356,
+    "longitude": -79.386993,
+    "reservations": 4,
+    "spend": 835.03
+  },
+  {
+    "venue_id": "90d43cf9-7629-45df-97c1-92db262d5f9d",
+    "venue_name": "Regus | Brookfield Place",
+    "latitude": 43.6465,
+    "longitude": -79.379204,
+    "reservations": 4,
+    "spend": 828.48
+  },
+  {
+    "venue_id": "2cfcebae-d6c3-4521-80a1-2e52eaf35679",
+    "venue_name": "Regus | Toronto Airport Corporate Centre",
+    "latitude": 43.657398,
+    "longitude": -79.603996,
+    "reservations": 2,
+    "spend": 471.12
+  },
+  {
+    "venue_id": "73b070c2-ca8f-4dc4-8499-57720d82e183",
+    "venue_name": "Intelligent Office, Hudson's Bay Centre",
+    "latitude": 43.670723,
+    "longitude": -79.386604,
+    "reservations": 1,
+    "spend": 401.79
+  },
+  {
+    "venue_id": "03bd5b53-581d-4e3a-a8a8-7e4409be7a64",
+    "venue_name": "Regus | Yorkville",
+    "latitude": 43.670601,
+    "longitude": -79.389801,
+    "reservations": 1,
+    "spend": 372.43
+  },
+  {
+    "venue_id": "0d9e6b20-1f0f-4c52-9a69-bdc4bbe992f4",
+    "venue_name": "WeWork | 1 University Ave",
+    "latitude": 43.645885,
+    "longitude": -79.383041,
+    "reservations": 6,
+    "spend": 355.26
+  },
+  {
+    "venue_id": "2e99e48a-cd86-413a-b89c-ca6bcfb53191",
+    "venue_name": "Intelligent Office First Canadian Place",
+    "latitude": 43.648636,
+    "longitude": -79.381744,
+    "reservations": 2,
+    "spend": 344.05
+  },
+  {
+    "venue_id": "14fee5f3-c28c-4f88-947d-aa0954f91a95",
+    "venue_name": "Regus | Toronto Street",
+    "latitude": 43.650398,
+    "longitude": -79.376701,
+    "reservations": 1,
+    "spend": 338.3
+  },
+  {
+    "venue_id": "66650cca-47bc-4183-9f3a-8a79fa9fb100",
+    "venue_name": "LAUFT King East",
+    "latitude": 43.649647,
+    "longitude": -79.374695,
+    "reservations": 10,
+    "spend": 290.16
+  },
+  {
+    "venue_id": "98ad7182-fd72-4c57-a989-6c9e79924cf1",
+    "venue_name": "SPACES | ON, Toronto - The Wrigley Bldg.",
+    "latitude": 43.663288,
+    "longitude": -79.340569,
+    "reservations": 6,
+    "spend": 289.37
+  },
+  {
+    "venue_id": "2e782d1f-1894-485c-b355-73d6e6b180b2",
+    "venue_name": "WeWork | 100 University Ave",
+    "latitude": 43.647213,
+    "longitude": -79.384789,
+    "reservations": 6,
+    "spend": 239.74
+  },
+  {
+    "venue_id": "c4a18653-4b40-4d03-bad9-939bb2b60b08",
+    "venue_name": "Regus | Yonge and Sheppard",
+    "latitude": 43.759899,
+    "longitude": -79.410301,
+    "reservations": 1,
+    "spend": 229.38
+  },
+  {
+    "venue_id": "5166b75a-818a-4fa2-a99e-5cdc3bdefe09",
+    "venue_name": "Regus | West Toronto - Etobicoke",
+    "latitude": 43.647289,
+    "longitude": -79.561821,
+    "reservations": 1,
+    "spend": 228.52
+  },
+  {
+    "venue_id": "efc3c733-2e3f-4de4-ad93-6a9112a760a0",
+    "venue_name": "Regus | Toronto - Queen West",
+    "latitude": 43.650627,
+    "longitude": -79.391685,
+    "reservations": 3,
+    "spend": 199.89
+  },
+  {
+    "venue_id": "fdea109d-fa9d-4335-85cd-a7655bb563c8",
+    "venue_name": "Regus | Queen & Richmond Centre",
+    "latitude": 43.65337,
+    "longitude": -79.374329,
+    "reservations": 1,
+    "spend": 194.34
+  },
+  {
+    "venue_id": "cfccbce2-f670-4183-9388-930d05936379",
+    "venue_name": "WeWork | 240 Richmond St W",
+    "latitude": 43.649715,
+    "longitude": -79.388878,
+    "reservations": 3,
+    "spend": 139.23
+  },
+  {
+    "venue_id": "0562ff84-82b9-4e95-bda6-175494547656",
+    "venue_name": "Regus | Waterpark Place",
+    "latitude": 43.641102,
+    "longitude": -79.378098,
+    "reservations": 1,
+    "spend": 132.39
+  },
+  {
+    "venue_id": "63e6f8fa-f5f4-4579-bb55-dce82f835957",
+    "venue_name": "Startuptive",
+    "latitude": 43.655624,
+    "longitude": -79.386742,
+    "reservations": 1,
+    "spend": 124.63
+  },
+  {
+    "venue_id": "94885a43-cd8d-44f3-af03-f665a970514e",
+    "venue_name": "Regus | First Canadian Place",
+    "latitude": 43.648399,
+    "longitude": -79.381699,
+    "reservations": 1,
+    "spend": 114.14
+  },
+  {
+    "venue_id": "dff0ed73-6b95-489a-8d15-253a9934304e",
+    "venue_name": "SPACES | Bay Street",
+    "latitude": 43.64629,
+    "longitude": -79.379707,
+    "reservations": 2,
+    "spend": 110.12
+  },
+  {
+    "venue_id": "9aa36ff6-c053-415b-a010-c343eab5c7e2",
+    "venue_name": "Office146",
+    "latitude": 43.601048,
+    "longitude": -79.532684,
+    "reservations": 2,
+    "spend": 97.13
+  },
+  {
+    "venue_id": "c5083bab-0d66-46e2-887b-48c00bfde77e",
+    "venue_name": "SPACES | ON, Toronto - Spaces Yorkville",
+    "latitude": 43.6707,
+    "longitude": -79.3918,
+    "reservations": 1,
+    "spend": 49.46
+  },
+  {
+    "venue_id": "f6448ab4-b9e0-4e73-890c-2641f5fe6f52",
+    "venue_name": "Regus | Liberty Village",
+    "latitude": 43.638371,
+    "longitude": -79.420746,
+    "reservations": 1,
+    "spend": 47.62
+  },
+  {
+    "venue_id": "26e51eaa-7739-4242-894d-b47a0b2c9ba6",
+    "venue_name": "Jilani Place",
+    "latitude": 43.635307,
+    "longitude": -79.561295,
+    "reservations": 1,
+    "spend": 39.46
+  },
+  {
+    "venue_id": "b523e2f9-38d8-4130-a48c-4c6f151fc8d2",
+    "venue_name": "Workhaus | Dundas",
+    "latitude": 43.655472,
+    "longitude": -79.386375,
+    "reservations": 1,
+    "spend": 21.82
   }
 ]

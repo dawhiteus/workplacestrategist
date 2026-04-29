@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "8a6c030e-a850-4144-8b21-cc9ffe2098e9",
+    "venue_name": "SPACES | Edinburgh Places Lochrin Square",
+    "latitude": 55.943626,
+    "longitude": -3.207951,
+    "reservations": 10,
+    "spend": 3047.61
+  },
+  {
+    "venue_id": "11c36efe-7514-41dd-9168-afee27114f7c",
+    "venue_name": "Regus | Edinburgh Princes Street",
+    "latitude": 55.952023,
+    "longitude": -3.197621,
+    "reservations": 6,
+    "spend": 1906.01
+  },
+  {
+    "venue_id": "7a309fd1-d553-4abf-ae33-adaf218d7fc8",
+    "venue_name": "SPACES | EDINBURGH, Spaces Lochrin Square",
+    "latitude": 55.943626,
+    "longitude": -3.207951,
+    "reservations": 6,
+    "spend": 1393.73
+  },
+  {
+    "venue_id": "19f3538c-a7fb-4691-8c31-a8e21d391989",
+    "venue_name": "Citibase | St Colme Street",
+    "latitude": 55.953033,
+    "longitude": -3.209157,
+    "reservations": 7,
+    "spend": 1092.14
+  },
+  {
+    "venue_id": "216f507e-f116-44cf-b207-64128ce6c68b",
+    "venue_name": "Regus | Edinburgh George Street",
+    "latitude": 55.952904,
+    "longitude": -3.202455,
+    "reservations": 3,
+    "spend": 994.73
+  }
+]

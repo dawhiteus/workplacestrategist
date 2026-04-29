@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "2af1d6f0-0868-402d-a295-b8863a2b64d7",
+    "venue_name": "The Shop at CAC",
+    "latitude": 29.943588,
+    "longitude": -90.070518,
+    "reservations": 1,
+    "spend": 1600.0
+  },
+  {
     "venue_id": "b2b30f75-5721-4b65-873a-e5b6ec6ab7fe",
     "venue_name": "Regus | Energy Centre Building",
-    "latitude": 29.950056076049805,
-    "longitude": -90.07563018798828,
+    "latitude": 29.950056,
+    "longitude": -90.07563,
     "reservations": 5,
     "spend": 1556.5
   }

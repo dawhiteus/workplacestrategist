@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
+    "venue_name": "Expansive - North First",
+    "latitude": 37.37727,
+    "longitude": -121.920334,
+    "reservations": 1,
+    "spend": 1563.0
+  },
+  {
+    "venue_id": "e0fb972e-1999-42ca-8079-5320837d5499",
+    "venue_name": "WeWork | Riverpark Tower",
+    "latitude": 37.328873,
+    "longitude": -121.89357,
+    "reservations": 1,
+    "spend": 52.0
+  }
+]

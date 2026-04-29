@@ -2,41 +2,65 @@
   {
     "venue_id": "a23d9d6d-f148-4766-be2b-f1e28eba0bcb",
     "venue_name": "WeWork | 1 South Dearborn",
-    "latitude": 41.88167953491211,
-    "longitude": -87.62874603271484,
+    "latitude": 41.88168,
+    "longitude": -87.628746,
     "reservations": 9,
     "spend": 493.0
   },
   {
     "venue_id": "fecd727c-8ce2-4c39-8d5b-02e253d26c69",
     "venue_name": "Workbox River North",
-    "latitude": 41.894073486328125,
-    "longitude": -87.63606262207031,
+    "latitude": 41.894073,
+    "longitude": -87.636063,
     "reservations": 8,
     "spend": 280.0
   },
   {
     "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
     "venue_name": "Working From_",
-    "latitude": 41.88585662841797,
-    "longitude": -87.64905548095703,
+    "latitude": 41.885857,
+    "longitude": -87.649055,
     "reservations": 5,
     "spend": 200.0
   },
   {
     "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
     "venue_name": "Expansive - Wacker",
-    "latitude": 41.886505126953125,
-    "longitude": -87.63457489013672,
+    "latitude": 41.886505,
+    "longitude": -87.634575,
     "reservations": 5,
     "spend": 190.0
   },
   {
     "venue_id": "200cae30-0653-46f9-909d-70006ff2953d",
     "venue_name": "DeskLabs",
-    "latitude": 41.937294006347656,
-    "longitude": -87.64836120605469,
+    "latitude": 41.937294,
+    "longitude": -87.648361,
     "reservations": 7,
     "spend": 175.0
+  },
+  {
+    "venue_id": "18d059f9-efa3-4a3e-9db8-5d6d219ff6c2",
+    "venue_name": "Expansive - Magnificent Mile",
+    "latitude": 41.892788,
+    "longitude": -87.623909,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "0f6b3b8c-534b-4b7d-a349-8dbe72e91adc",
+    "venue_name": "Workbox Union Station",
+    "latitude": 41.879162,
+    "longitude": -87.643929,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "b3f423ca-ce58-4490-b50e-01f7ea1863d2",
+    "venue_name": "Desk606",
+    "latitude": 41.917133,
+    "longitude": -87.709778,
+    "reservations": 1,
+    "spend": 20.0
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "cd40aa6d-a031-42fd-9429-d0f0fd3ff7f5",
     "venue_name": "Regus | Chrysler Building",
-    "latitude": 40.75199890136719,
-    "longitude": -73.97570037841797,
+    "latitude": 40.751999,
+    "longitude": -73.9757,
     "reservations": 3,
     "spend": 225.92
+  },
+  {
+    "venue_id": "7e807899-3cf0-498a-9202-3cdc0b2d1a81",
+    "venue_name": "Regus | 445 Park Avenue",
+    "latitude": 40.761101,
+    "longitude": -73.970596,
+    "reservations": 1,
+    "spend": 55.69
   }
 ]

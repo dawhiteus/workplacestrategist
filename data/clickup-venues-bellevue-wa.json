@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "da5299f0-61aa-42e1-894b-d106a7c74413",
+    "venue_name": "Regus | WA, Bellevue - 160th Ave SE",
+    "latitude": 47.579796,
+    "longitude": -122.129669,
+    "reservations": 2,
+    "spend": 791.23
+  },
+  {
+    "venue_id": "39e99715-ff3e-44a5-a241-9921609ba43b",
+    "venue_name": "Regus | WA, Bellevue - SE 32nd",
+    "latitude": 47.582439,
+    "longitude": -122.168671,
+    "reservations": 2,
+    "spend": 357.69
+  }
+]

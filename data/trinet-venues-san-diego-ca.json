@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "50cec7e4-a532-4116-a028-7bc97e1b9c94",
+    "venue_name": "Regus || Liberty Station",
+    "latitude": 32.7342,
+    "longitude": -117.216003,
+    "reservations": 1,
+    "spend": 103.46
+  },
+  {
+    "venue_id": "cf5869c0-dbff-4e7a-9996-3053518c12e5",
+    "venue_name": "Downtown Works San Diego",
+    "latitude": 32.718014,
+    "longitude": -117.167999,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

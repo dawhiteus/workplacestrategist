@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ee8a503c-1924-481a-9d1b-f15e7e21c950",
+    "venue_name": "The Blake Annex",
+    "latitude": 42.651981,
+    "longitude": -73.751785,
+    "reservations": 2,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "4f3645b4-b74c-457b-aafd-729287eb39f8",
+    "venue_name": "Expansive - State Street",
+    "latitude": 42.649899,
+    "longitude": -73.75222,
+    "reservations": 1,
+    "spend": 38.0
+  }
+]

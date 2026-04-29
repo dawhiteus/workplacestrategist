@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c62164c2-d930-48f6-b1c4-8ae9ed471644",
+    "venue_name": "Expansive - The Capitol",
+    "latitude": 43.071327,
+    "longitude": -89.388008,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "c073f054-a4a4-4a63-864c-1cfffb3f8c60",
+    "venue_name": "Serendipity Labs - Madison",
+    "latitude": 43.072281,
+    "longitude": -89.524086,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

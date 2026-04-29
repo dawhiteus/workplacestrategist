@@ -2,9 +2,17 @@
   {
     "venue_id": "83dd8327-51a4-43dd-a6af-5ab7759d90f1",
     "venue_name": "HOME",
-    "latitude": 27.93671226501465,
-    "longitude": -82.47489929199219,
+    "latitude": 27.936712,
+    "longitude": -82.474899,
     "reservations": 3,
     "spend": 150.0
+  },
+  {
+    "venue_id": "ba0d13ed-d989-46ea-a586-18924b64e331",
+    "venue_name": "Regus | Rocky Point",
+    "latitude": 27.967964,
+    "longitude": -82.567589,
+    "reservations": 1,
+    "spend": 139.0
   }
 ]

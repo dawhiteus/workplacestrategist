@@ -2,17 +2,49 @@
   {
     "venue_id": "c4146c35-8824-43bb-9f2d-6420bc51aed5",
     "venue_name": "Venture X | San Diego Scripps Ranch",
-    "latitude": 32.9008674621582,
-    "longitude": -117.10950469970703,
+    "latitude": 32.900867,
+    "longitude": -117.109505,
     "reservations": 4,
     "spend": 645.0
   },
   {
+    "venue_id": "f1d073b2-033e-4179-8516-50d9ee6dd6f4",
+    "venue_name": "SPACES | CA, San Diego – Little Italy",
+    "latitude": 32.7202,
+    "longitude": -117.169998,
+    "reservations": 1,
+    "spend": 186.7
+  },
+  {
+    "venue_id": "3fc5a08c-7b5b-4da5-a5a8-bf5fffaad2af",
+    "venue_name": "Mission Cowork",
+    "latitude": 32.76413,
+    "longitude": -117.152901,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
     "venue_id": "cf5869c0-dbff-4e7a-9996-3053518c12e5",
     "venue_name": "Downtown Works San Diego",
-    "latitude": 32.718013763427734,
-    "longitude": -117.16799926757812,
+    "latitude": 32.718014,
+    "longitude": -117.167999,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "303dd5ed-7451-4ab2-8c08-0515f3273c18",
+    "venue_name": "Downtown Works Mission Valley",
+    "latitude": 32.777435,
+    "longitude": -117.117294,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "a421ce28-cd9a-4919-a1a4-32c46d79ab60",
+    "venue_name": "Union Cowork North Park",
+    "latitude": 32.748951,
+    "longitude": -117.12989,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

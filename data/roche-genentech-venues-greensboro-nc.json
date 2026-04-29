@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "98b287a0-aaa8-4904-a9dd-7302eadca89b",
+    "venue_name": "THRIVE | Greensboro Lewis",
+    "latitude": 36.065918,
+    "longitude": -79.791389,
+    "reservations": 1,
+    "spend": 260.0
+  },
+  {
+    "venue_id": "a8cb3975-e51d-47dc-a4fd-ecd0d13a0991",
+    "venue_name": "Regus | Green Valley Office Park",
+    "latitude": 36.092358,
+    "longitude": -79.821907,
+    "reservations": 1,
+    "spend": 150.0
+  }
+]

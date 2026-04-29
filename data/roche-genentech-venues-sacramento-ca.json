@@ -2,9 +2,17 @@
   {
     "venue_id": "16eb3f87-91e2-4da1-aa8c-9adb2e99d9ba",
     "venue_name": "CENTRL Office - Sacramento",
-    "latitude": 38.579811096191406,
-    "longitude": -121.4903793334961,
+    "latitude": 38.579811,
+    "longitude": -121.490379,
     "reservations": 4,
     "spend": 560.0
+  },
+  {
+    "venue_id": "34b169a0-d644-4f6d-9433-a35b0b330f4b",
+    "venue_name": "Pacific Workplaces - J Street",
+    "latitude": 38.581963,
+    "longitude": -121.500458,
+    "reservations": 1,
+    "spend": 320.0
   }
 ]

@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "64dc4923-54ab-4a77-8301-c7d05de372cf",
+    "venue_name": "Marina Bay | Asia Square Tower 2",
+    "latitude": 1.27825,
+    "longitude": 103.850883,
+    "reservations": 3,
+    "spend": 1525.46
+  },
+  {
+    "venue_id": "4c8ddd12-7921-40b2-928e-86fed7054785",
+    "venue_name": "Marina Bay | One Marina Boulevard",
+    "latitude": 1.28235,
+    "longitude": 103.852516,
+    "reservations": 2,
+    "spend": 1109.19
+  },
+  {
+    "venue_id": "41ecfe2a-e9b3-48c3-8c7e-bb34ae99f697",
+    "venue_name": "Signature | Singapore Asia Square Tower 1",
+    "latitude": 1.278741,
+    "longitude": 103.851059,
+    "reservations": 1,
+    "spend": 241.32
+  },
+  {
+    "venue_id": "e726b10a-5d7d-4b22-8503-12a7691bf92e",
+    "venue_name": "Regus | Singapore 61 Robinson Road",
+    "latitude": 1.27939,
+    "longitude": 103.849243,
+    "reservations": 2,
+    "spend": 199.46
+  },
+  {
+    "venue_id": "87f789fa-37df-4a82-ae0c-852eb23229fe",
+    "venue_name": "Regus | Singapore PLUS Building",
+    "latitude": 1.283,
+    "longitude": 103.850388,
+    "reservations": 2,
+    "spend": 160.82
+  },
+  {
+    "venue_id": "ae38915f-562a-4394-b909-d048414af41e",
+    "venue_name": "WeWork | City House",
+    "latitude": 1.281269,
+    "longitude": 103.850021,
+    "reservations": 4,
+    "spend": 149.11
+  },
+  {
+    "venue_id": "44d8b825-eccb-4fd8-a726-cbd515b1ad25",
+    "venue_name": "The Executive Centre - Marina Bay Financial Centre",
+    "latitude": 1.280644,
+    "longitude": 103.853897,
+    "reservations": 1,
+    "spend": 89.26
+  },
+  {
+    "venue_id": "b308b94c-bca6-4318-b906-1c148f7ca183",
+    "venue_name": "WeWork | 71 Robinson Rd",
+    "latitude": 1.278526,
+    "longitude": 103.848854,
+    "reservations": 2,
+    "spend": 75.32
+  },
+  {
+    "venue_id": "3bce448f-047b-4b1a-986d-4805a16461ce",
+    "venue_name": "Suntec | Suntec City Tower 2",
+    "latitude": 1.295592,
+    "longitude": 103.858826,
+    "reservations": 2,
+    "spend": 66.06
+  },
+  {
+    "venue_id": "4960c6f1-4e80-4b69-8341-cf34d4ae6075",
+    "venue_name": "Regus | Singapore 18 Robinson Road",
+    "latitude": 1.28188,
+    "longitude": 103.850998,
+    "reservations": 1,
+    "spend": 64.51
+  }
+]

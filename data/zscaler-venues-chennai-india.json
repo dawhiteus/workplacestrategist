@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "d4331dc0-b0ad-4743-9a9a-77b7492ac618",
+    "venue_name": "SPACES | Express Avenue",
+    "latitude": 13.058411,
+    "longitude": 80.26297,
+    "reservations": 15,
+    "spend": 952.42
+  },
+  {
+    "venue_id": "2acefdf2-5946-41f8-9404-91f74ab3df7f",
+    "venue_name": "SPACES | CHENNAI, Spaces Olympia",
+    "latitude": 13.014538,
+    "longitude": 80.203941,
+    "reservations": 8,
+    "spend": 833.93
+  },
+  {
+    "venue_id": "4577f6f2-bd6d-4a08-b4db-323e18329012",
+    "venue_name": "The Executive Centre - Olympia Tech Park",
+    "latitude": 13.013324,
+    "longitude": 80.209442,
+    "reservations": 2,
+    "spend": 562.97
+  },
+  {
+    "venue_id": "ed4e4ee5-88fa-431b-bcfe-be5272ae24db",
+    "venue_name": "The Executive Centre - Olympia Teknos",
+    "latitude": 13.016041,
+    "longitude": 80.206596,
+    "reservations": 2,
+    "spend": 333.36
+  },
+  {
+    "venue_id": "65d8de73-a4f5-4ca2-b7de-7faba7ad860e",
+    "venue_name": "Regus | CHENNAI, Olympia Platina",
+    "latitude": 13.0142,
+    "longitude": 80.199898,
+    "reservations": 3,
+    "spend": 328.42
+  },
+  {
+    "venue_id": "94641d62-3291-418f-bdfd-8edfe7f68444",
+    "venue_name": "Regus | CHENNAI, CitiCentre",
+    "latitude": 13.043024,
+    "longitude": 80.273705,
+    "reservations": 1,
+    "spend": 123.33
+  },
+  {
+    "venue_id": "17a570d1-0168-494e-b8cc-2a0be7fe8469",
+    "venue_name": "Regus | CHENNAI, Vadapalani - Shyamala Gardens",
+    "latitude": 13.0479,
+    "longitude": 80.198601,
+    "reservations": 1,
+    "spend": 110.55
+  },
+  {
+    "venue_id": "806bdf48-74cc-4d35-afea-f771808faadf",
+    "venue_name": "Awfis | Coworking-Gemini Circle Nungambakkam",
+    "latitude": 13.0537,
+    "longitude": 80.250526,
+    "reservations": 1,
+    "spend": 5.62
+  }
+]

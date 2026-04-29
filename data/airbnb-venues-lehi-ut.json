@@ -2,9 +2,25 @@
   {
     "venue_id": "6ad31eb6-dca2-427b-81d6-dbc4177b00fb",
     "venue_name": "Kiln - Lehi",
-    "latitude": 40.4208984375,
-    "longitude": -111.88142395019531,
+    "latitude": 40.420898,
+    "longitude": -111.881424,
     "reservations": 5,
     "spend": 265.0
+  },
+  {
+    "venue_id": "da5d309f-caca-45a3-bfad-449f2146e4d7",
+    "venue_name": "WeWork | Innovation Pointe 2",
+    "latitude": 40.43079,
+    "longitude": -111.874466,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "3312f9f1-d87c-4f1c-b53d-72c4b1c98ba7",
+    "venue_name": "WeWork | Innovation Pointe",
+    "latitude": 40.430683,
+    "longitude": -111.875771,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

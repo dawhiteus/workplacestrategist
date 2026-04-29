@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ae6f8c3e-2fe8-49d1-8a28-e4f40b333c03",
+    "venue_name": "Quest Workspaces- Coral Gables",
+    "latitude": 25.748461,
+    "longitude": -80.258476,
+    "reservations": 6,
+    "spend": 294.0
+  },
+  {
+    "venue_id": "0047dc11-4ffc-4f18-91b5-0a6a75ae1b34",
+    "venue_name": "Life Time Work - Coral Gables",
+    "latitude": 25.727995,
+    "longitude": -80.259926,
+    "reservations": 1,
+    "spend": 55.0
+  }
+]

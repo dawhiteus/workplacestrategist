@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ee6d220d-72b3-448f-82b3-323ae080315b",
+    "venue_name": "Vertical Coworking Firmeza",
+    "latitude": 41.15089,
+    "longitude": -8.604645,
+    "reservations": 3,
+    "spend": 62.82
+  },
+  {
+    "venue_id": "97c9a50f-246c-40e5-9296-3f28e544cfa8",
+    "venue_name": "Vertical CoWorking Bolhão",
+    "latitude": 41.152645,
+    "longitude": -8.608086,
+    "reservations": 1,
+    "spend": 25.39
+  }
+]

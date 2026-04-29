@@ -2,9 +2,25 @@
   {
     "venue_id": "16a7081c-fa68-4252-9640-c582406316d3",
     "venue_name": "Cubexec at Las Colinas",
-    "latitude": 32.89073944091797,
-    "longitude": -96.95904541015625,
+    "latitude": 32.890739,
+    "longitude": -96.959045,
     "reservations": 4,
     "spend": 1070.0
+  },
+  {
+    "venue_id": "490b4ed5-855d-46a3-a748-ce06988f4b48",
+    "venue_name": "Foster Coworking - Las Colinas",
+    "latitude": 32.862453,
+    "longitude": -96.9356,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "4efa519c-823b-4927-988f-b6ae0056d810",
+    "venue_name": "HQ | TX, Irving - Belt Line Rd",
+    "latitude": 32.874191,
+    "longitude": -96.99057,
+    "reservations": 1,
+    "spend": 70.0
   }
 ]

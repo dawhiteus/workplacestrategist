@@ -1,1 +1,26 @@
-[{"venue_id":"detroit-mi-venue-1","venue_name":"HQ | Detroit Downtown","latitude":42.3971,"longitude":-82.9921,"reservations":7,"spend":1934.73},{"venue_id":"detroit-mi-venue-2","venue_name":"Spaces | Detroit North","latitude":42.3821,"longitude":-82.9817,"reservations":7,"spend":1900.21},{"venue_id":"detroit-mi-venue-3","venue_name":"Flex by JLL | Detroit West","latitude":42.4137,"longitude":-83.1357,"reservations":5,"spend":1410.06}]
+[
+  {
+    "venue_id": "e4af9e7e-392b-43d0-9478-869279e485f1",
+    "venue_name": "Chroma Coworking",
+    "latitude": 42.372002,
+    "longitude": -83.067474,
+    "reservations": 17,
+    "spend": 4045.0
+  },
+  {
+    "venue_id": "5264debd-f3fc-459b-a48e-2936bf7234b1",
+    "venue_name": "Farbman Group | New Center One",
+    "latitude": 42.370075,
+    "longitude": -83.076218,
+    "reservations": 2,
+    "spend": 800.0
+  },
+  {
+    "venue_id": "b4b568ca-2a77-4ba4-8b2e-c541ca3c1d25",
+    "venue_name": "Venture X | Detroit",
+    "latitude": 42.329224,
+    "longitude": -83.048683,
+    "reservations": 1,
+    "spend": 400.0
+  }
+]

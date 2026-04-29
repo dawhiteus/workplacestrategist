@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "95e26115-f785-4cb0-a83b-833dadd18e44",
+    "venue_name": "Regus | Rome Porta Maggiore",
+    "latitude": 41.8909,
+    "longitude": 12.516873,
+    "reservations": 1,
+    "spend": 58.8
+  },
+  {
+    "venue_id": "50c7c1a3-c9ff-4e52-9c9e-95770bffb1f4",
+    "venue_name": "MIMASPAZIO COWORKING",
+    "latitude": 41.867229,
+    "longitude": 12.529087,
+    "reservations": 1,
+    "spend": 37.18
+  }
+]

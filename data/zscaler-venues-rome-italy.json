@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "4adb65cc-28a6-44c7-9944-0cbc29d7d827",
+    "venue_name": "SPACES | Rome, Spaces Eur Arte",
+    "latitude": 41.831242,
+    "longitude": 12.475528,
+    "reservations": 2,
+    "spend": 853.55
+  },
+  {
+    "venue_id": "f4865df6-c9dc-4aac-8ac5-b19bd799bc77",
+    "venue_name": "Regus | Rome, Sturzo",
+    "latitude": 41.834644,
+    "longitude": 12.466849,
+    "reservations": 1,
+    "spend": 128.82
+  },
+  {
+    "venue_id": "5137ea85-794e-418d-a914-edf305bc2b36",
+    "venue_name": "SPACES | Rome, Spaces Eur Laurentina",
+    "latitude": 41.825871,
+    "longitude": 12.4842,
+    "reservations": 1,
+    "spend": 93.85
+  }
+]

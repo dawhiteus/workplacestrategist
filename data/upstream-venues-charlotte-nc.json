@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "4a0e8e73-af4c-455c-a9d2-9bc3204d8cdd",
+    "venue_name": "Office Evolution - Charlotte",
+    "latitude": 35.338345,
+    "longitude": -80.764999,
+    "reservations": 2,
+    "spend": 1157.0
+  },
+  {
     "venue_id": "56ca5589-69e7-457e-ae98-2707ab38f018",
     "venue_name": "YourOffice - Ballantyne (Charlotte, NC)",
-    "latitude": 35.05923843383789,
-    "longitude": -80.85212707519531,
+    "latitude": 35.059238,
+    "longitude": -80.852127,
     "reservations": 3,
     "spend": 825.0
   }

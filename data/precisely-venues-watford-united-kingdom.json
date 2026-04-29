@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6b1b643f-cf82-4a76-aebb-9f15c4fc5931",
+    "venue_name": "Regus | Watford Croxley Business Park 2",
+    "latitude": 51.646599,
+    "longitude": -0.42813,
+    "reservations": 2,
+    "spend": 590.25
+  },
+  {
+    "venue_id": "32731df9-e666-47dc-83ad-ddd4a9c39ee4",
+    "venue_name": "Citibase | Watford",
+    "latitude": 51.659935,
+    "longitude": -0.396679,
+    "reservations": 1,
+    "spend": 94.42
+  }
+]

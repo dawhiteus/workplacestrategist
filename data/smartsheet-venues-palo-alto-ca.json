@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e2dcf6f1-ca8a-4d73-805d-cbe362952916",
+    "venue_name": "Regus || Embarcadero Place",
+    "latitude": 37.450901,
+    "longitude": -122.121002,
+    "reservations": 2,
+    "spend": 662.0
+  },
+  {
+    "venue_id": "9572aa14-8e95-4efc-ab0c-e20a81cd937a",
+    "venue_name": "Regus || 4 Palo Alto Square",
+    "latitude": 37.421246,
+    "longitude": -122.141174,
+    "reservations": 1,
+    "spend": 436.0
+  }
+]

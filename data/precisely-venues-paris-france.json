@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "981d8446-b3e8-4a8b-9ad3-47855c7e1630",
+    "venue_name": "Regus | Paris, Madeleine",
+    "latitude": 48.872002,
+    "longitude": 2.32161,
+    "reservations": 9,
+    "spend": 1431.04
+  },
+  {
+    "venue_id": "065b1e07-3c8e-44ce-9d03-485f678a9354",
+    "venue_name": "Signature | Paris, 72 Faubourg St Honoré",
+    "latitude": 48.870281,
+    "longitude": 2.31795,
+    "reservations": 2,
+    "spend": 897.74
+  },
+  {
+    "venue_id": "a61db940-84ae-4400-9bac-3d2ca24f837d",
+    "venue_name": "Regus | Paris, 29 Rue Blanche",
+    "latitude": 48.879711,
+    "longitude": 2.331273,
+    "reservations": 7,
+    "spend": 846.75
+  },
+  {
+    "venue_id": "4b38c702-187e-4f18-9642-4dc3aba7c993",
+    "venue_name": "FNAIM - Momentz",
+    "latitude": 48.881989,
+    "longitude": 2.312431,
+    "reservations": 1,
+    "spend": 444.72
+  },
+  {
+    "venue_id": "08e622dc-0c00-4ea3-be75-f95c3eda13a0",
+    "venue_name": "Regus | Paris Gare de Lyon",
+    "latitude": 48.847736,
+    "longitude": 2.370524,
+    "reservations": 2,
+    "spend": 383.92
+  },
+  {
+    "venue_id": "93798ea1-0810-4c51-9ec8-27ecff9e85c7",
+    "venue_name": "Regus | Paris, Gare du Nord",
+    "latitude": 48.879982,
+    "longitude": 2.355877,
+    "reservations": 2,
+    "spend": 298.2
+  },
+  {
+    "venue_id": "d54e732b-a700-4832-aa87-4a3bee927d2e",
+    "venue_name": "Regus | Paris, Montparnasse",
+    "latitude": 48.845551,
+    "longitude": 2.325021,
+    "reservations": 2,
+    "spend": 230.82
+  },
+  {
+    "venue_id": "e1766c75-c6b6-4ae2-b843-4f92b8e005d7",
+    "venue_name": "Regus | Paris, Saint Lazare",
+    "latitude": 48.87751,
+    "longitude": 2.32824,
+    "reservations": 2,
+    "spend": 159.37
+  },
+  {
+    "venue_id": "2f55e580-8200-445b-aa69-04f5c2acb152",
+    "venue_name": "WeWork | 7 Rue De Madrid",
+    "latitude": 48.878334,
+    "longitude": 2.32107,
+    "reservations": 2,
+    "spend": 132.53
+  },
+  {
+    "venue_id": "2a94273f-7376-49d2-ab4b-3d61680f9e22",
+    "venue_name": "Regus | Paris, 73 Vaugirard",
+    "latitude": 48.846516,
+    "longitude": 2.325315,
+    "reservations": 1,
+    "spend": 131.14
+  },
+  {
+    "venue_id": "68da3884-713c-4e60-ba49-0646477295f0",
+    "venue_name": "DESKOPOLITAN",
+    "latitude": 48.85257,
+    "longitude": 2.388473,
+    "reservations": 2,
+    "spend": 95.65
+  },
+  {
+    "venue_id": "2cbd7907-c6cb-4551-82ad-2af61992d53e",
+    "venue_name": "Regus | Paris, 75 BD Haussmann",
+    "latitude": 48.874184,
+    "longitude": 2.322503,
+    "reservations": 1,
+    "spend": 75.27
+  }
+]

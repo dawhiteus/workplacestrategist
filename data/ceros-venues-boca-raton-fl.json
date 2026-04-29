@@ -2,9 +2,25 @@
   {
     "venue_id": "8e9566d2-62a8-4c17-b4ea-afaeaf55fb9f",
     "venue_name": "Quest Workspaces- Boca Raton",
-    "latitude": 26.36213493347168,
-    "longitude": -80.0811767578125,
+    "latitude": 26.362135,
+    "longitude": -80.081177,
     "reservations": 4,
     "spend": 196.0
+  },
+  {
+    "venue_id": "6ad9454f-4cf9-40aa-9b02-176d76184b5a",
+    "venue_name": "The Flamingo House",
+    "latitude": 26.346466,
+    "longitude": -80.087494,
+    "reservations": 1,
+    "spend": 125.0
+  },
+  {
+    "venue_id": "2f023a3c-ad88-49a4-80ae-66da8267caee",
+    "venue_name": "Office Evolution Boca Raton",
+    "latitude": 26.349031,
+    "longitude": -80.158997,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

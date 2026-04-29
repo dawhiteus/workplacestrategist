@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e379179e-46fa-4b9a-b129-bb84465787c9",
+    "venue_name": "The Loading Dock - Dock 1053",
+    "latitude": 35.808975,
+    "longitude": -78.621254,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "f975ea2d-b62a-4f71-b33d-5a52aca8cdcd",
+    "venue_name": "Access Office Business Center",
+    "latitude": 35.902863,
+    "longitude": -78.765869,
+    "reservations": 1,
+    "spend": 135.0
+  }
+]

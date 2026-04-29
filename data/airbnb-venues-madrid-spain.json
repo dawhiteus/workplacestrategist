@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "53a5a577-e3a5-4592-8aeb-40ce500879a0",
+    "venue_name": "Regus | Madrid Manoteras",
+    "latitude": 40.485989,
+    "longitude": -3.66098,
+    "reservations": 7,
+    "spend": 474.16
+  },
+  {
+    "venue_id": "71f160dd-934f-4744-8b85-a814b231d316",
+    "venue_name": "WeWork | Madrid Calle Eloy Gonzalo, 27",
+    "latitude": 40.434792,
+    "longitude": -3.700403,
+    "reservations": 10,
+    "spend": 453.99
+  },
+  {
+    "venue_id": "36f63d7b-a451-4727-959d-845b4f0cfc8a",
+    "venue_name": "Regus | Madrid Jose Abascal 41",
+    "latitude": 40.438499,
+    "longitude": -3.696075,
+    "reservations": 3,
+    "spend": 327.34
+  },
+  {
+    "venue_id": "3444d56e-4b96-48e7-b8e9-9a66efc54830",
+    "venue_name": "Regus | Madrid Paseo de Recoletos 5",
+    "latitude": 40.420723,
+    "longitude": -3.693204,
+    "reservations": 3,
+    "spend": 294.78
+  },
+  {
+    "venue_id": "20510e9b-be57-4fb5-832e-82144a1335ba",
+    "venue_name": "Regus | MADRID, Colon",
+    "latitude": 40.428642,
+    "longitude": -3.688719,
+    "reservations": 3,
+    "spend": 280.64
+  },
+  {
+    "venue_id": "ac1a4149-e45a-4276-a152-cbffcd031c37",
+    "venue_name": "Signature | Madrid, Signature Velázquez",
+    "latitude": 40.425518,
+    "longitude": -3.683792,
+    "reservations": 3,
+    "spend": 274.73
+  },
+  {
+    "venue_id": "8ce54d95-71f8-4404-ab2b-48104ecc15fe",
+    "venue_name": "Regus | Madrid Rio",
+    "latitude": 40.413101,
+    "longitude": -3.71821,
+    "reservations": 2,
+    "spend": 157.45
+  },
+  {
+    "venue_id": "dd461ba8-e3a9-482a-b309-37ea2775f5f2",
+    "venue_name": "SPACES | Madrid Paseo de la Castellana 81",
+    "latitude": 40.447655,
+    "longitude": -3.69204,
+    "reservations": 1,
+    "spend": 97.52
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "a320364b-ea08-4edd-beee-be9cd471a63c",
+    "venue_name": "Regus | Nova Scotia, Halifax - Founders Square",
+    "latitude": 44.6474,
+    "longitude": -63.572498,
+    "reservations": 101,
+    "spend": 6990.44
+  },
+  {
+    "venue_id": "951dae2f-a0db-40c9-a025-82662b70fe67",
+    "venue_name": "Regus | Purdy's Wharf",
+    "latitude": 44.651669,
+    "longitude": -63.574413,
+    "reservations": 16,
+    "spend": 2370.65
+  },
+  {
+    "venue_id": "6bd8d289-e46d-4cf2-8d8e-176be5851864",
+    "venue_name": "SPACES | NS, Halifax - Barrington St",
+    "latitude": 44.644482,
+    "longitude": -63.571651,
+    "reservations": 3,
+    "spend": 458.42
+  }
+]

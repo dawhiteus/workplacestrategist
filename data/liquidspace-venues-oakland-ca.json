@@ -2,17 +2,33 @@
   {
     "venue_id": "c64a11d6-c72d-4c77-a8ff-fb4207b7f877",
     "venue_name": "Temescal Works",
-    "latitude": 37.83181381225586,
-    "longitude": -122.26313018798828,
+    "latitude": 37.831814,
+    "longitude": -122.26313,
     "reservations": 52,
     "spend": 1860.0
   },
   {
     "venue_id": "5a05ffcf-99bb-482e-9578-21ac753a86bd",
     "venue_name": "Port Workspaces @ Uptown Oakland",
-    "latitude": 37.8084716796875,
-    "longitude": -122.26542663574219,
+    "latitude": 37.808472,
+    "longitude": -122.265427,
     "reservations": 27,
     "spend": 670.0
+  },
+  {
+    "venue_id": "6d314e31-b69f-454f-a47e-7de07fcca4c8",
+    "venue_name": "BIG Oakland",
+    "latitude": 37.804871,
+    "longitude": -122.271065,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "338779f5-902d-4430-98af-bb5bfd23672c",
+    "venue_name": "Oakstop",
+    "latitude": 37.806709,
+    "longitude": -122.269707,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

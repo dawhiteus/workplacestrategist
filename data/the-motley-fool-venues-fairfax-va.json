@@ -2,25 +2,41 @@
   {
     "venue_id": "8bdf3057-b7dd-40fa-8c66-c3ef43dc61ed",
     "venue_name": "Office Evolution - Fairfax",
-    "latitude": 38.86221694946289,
-    "longitude": -77.30327606201172,
+    "latitude": 38.862217,
+    "longitude": -77.303276,
     "reservations": 8,
     "spend": 400.0
   },
   {
     "venue_id": "7392cace-8618-4bae-90c7-2f3b5246fbc1",
     "venue_name": "Metro Offices - Fairfax",
-    "latitude": 38.865840911865234,
-    "longitude": -77.36517333984375,
+    "latitude": 38.865841,
+    "longitude": -77.365173,
     "reservations": 5,
     "spend": 225.0
   },
   {
     "venue_id": "81be021b-8e7c-4cba-b8b2-7ef0d5968bbd",
     "venue_name": "HQ | VA, Fairfax - Judicial Dr",
-    "latitude": 38.84269714355469,
-    "longitude": -77.30986022949219,
+    "latitude": 38.842697,
+    "longitude": -77.30986,
     "reservations": 3,
     "spend": 56.88
+  },
+  {
+    "venue_id": "784d6531-0c22-4cab-ae25-1a5f8790e13a",
+    "venue_name": "HQ | Fair Oaks",
+    "latitude": 38.85746,
+    "longitude": -77.338364,
+    "reservations": 1,
+    "spend": 44.69
+  },
+  {
+    "venue_id": "e1365ad1-0428-43da-95c4-3d97bc9239ec",
+    "venue_name": "Venture X Fairfax",
+    "latitude": 38.866478,
+    "longitude": -77.234138,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

@@ -2,17 +2,49 @@
   {
     "venue_id": "801faace-7fc9-456b-bd29-af38260ce9ac",
     "venue_name": "Life Time Work - City Centre Five",
-    "latitude": 29.781902313232422,
-    "longitude": -95.55976104736328,
+    "latitude": 29.781902,
+    "longitude": -95.559761,
     "reservations": 7,
     "spend": 4540.0
   },
   {
     "venue_id": "09c0f554-2246-45ff-80b5-86bd8f1d098d",
     "venue_name": "Avalon Suites - Tanglewood",
-    "latitude": 29.75037956237793,
-    "longitude": -95.48304748535156,
+    "latitude": 29.75038,
+    "longitude": -95.483047,
     "reservations": 3,
     "spend": 490.0
+  },
+  {
+    "venue_id": "f520118a-b164-47cb-b518-8fed9a640cf8",
+    "venue_name": "Lyric Works",
+    "latitude": 29.762594,
+    "longitude": -95.364517,
+    "reservations": 1,
+    "spend": 425.0
+  },
+  {
+    "venue_id": "f99722d1-c799-422d-a243-5958738e081e",
+    "venue_name": "Regus | Upper Kirby",
+    "latitude": 29.733101,
+    "longitude": -95.4356,
+    "reservations": 1,
+    "spend": 194.0
+  },
+  {
+    "venue_id": "49a3fc82-f23b-418b-9a8f-779e461d4581",
+    "venue_name": "SPACES | TX, Houston - 708 Main Street",
+    "latitude": 29.759039,
+    "longitude": -95.363625,
+    "reservations": 1,
+    "spend": 95.85
+  },
+  {
+    "venue_id": "b006579a-4a7f-4eca-873e-c41bf2503ffd",
+    "venue_name": "Local Office",
+    "latitude": 29.725185,
+    "longitude": -95.419434,
+    "reservations": 1,
+    "spend": 90.0
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "782621ff-e46c-40a2-a89e-2c3e41032db0",
+    "venue_name": "SPACES  | Brussels, European District",
+    "latitude": 50.841801,
+    "longitude": 4.3722,
+    "reservations": 1,
+    "spend": 532.31
+  },
+  {
+    "venue_id": "ea646e3f-a0cb-498a-91f0-5efbb26e6d2f",
+    "venue_name": "SPACES  | Brussels, Manhattan Center",
+    "latitude": 50.856133,
+    "longitude": 4.356749,
+    "reservations": 1,
+    "spend": 422.15
+  }
+]

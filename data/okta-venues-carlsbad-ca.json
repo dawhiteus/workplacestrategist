@@ -1,10 +1,26 @@
 [
   {
+    "venue_id": "78898a9c-579a-44d0-bcfd-25739dc47639",
+    "venue_name": "TrueWork",
+    "latitude": 33.128185,
+    "longitude": -117.326988,
+    "reservations": 2,
+    "spend": 750.0
+  },
+  {
     "venue_id": "711d7ec5-c7aa-4c78-ab85-2a08ee8f72d4",
     "venue_name": "Hera Hub Carlsbad",
-    "latitude": 33.13441467285156,
-    "longitude": -117.272705078125,
+    "latitude": 33.134415,
+    "longitude": -117.272705,
     "reservations": 4,
     "spend": 375.0
+  },
+  {
+    "venue_id": "db8d87b2-c3e8-429a-88e1-134f00e15eec",
+    "venue_name": "Downtown Works Carlsbad",
+    "latitude": 33.119862,
+    "longitude": -117.28051,
+    "reservations": 1,
+    "spend": 300.0
   }
 ]

@@ -2,33 +2,41 @@
   {
     "venue_id": "09fc8055-a112-492c-a8ab-f7ba4dcce66c",
     "venue_name": "Project Cowork",
-    "latitude": 29.535200119018555,
-    "longitude": -98.49291229248047,
+    "latitude": 29.5352,
+    "longitude": -98.492912,
     "reservations": 931,
     "spend": 425016.5
   },
   {
     "venue_id": "6f1d5401-16e3-425c-abe1-ae6e8c368b0f",
     "venue_name": "Common Desk - Travis Park",
-    "latitude": 29.428163528442383,
-    "longitude": -98.48993682861328,
+    "latitude": 29.428164,
+    "longitude": -98.489937,
     "reservations": 22,
     "spend": 1980.0
   },
   {
     "venue_id": "4042b934-98e5-4c46-9866-8faf4190e6a9",
     "venue_name": "Venture X | San Antonio Northwest",
-    "latitude": 29.5041561126709,
-    "longitude": -98.55146026611328,
+    "latitude": 29.504156,
+    "longitude": -98.55146,
     "reservations": 2,
     "spend": 1180.0
   },
   {
     "venue_id": "29cfe8f4-5c37-4ef3-83d9-d74600c1aba9",
     "venue_name": "VenturePoint Broadway",
-    "latitude": 29.463056564331055,
-    "longitude": -98.46463012695312,
+    "latitude": 29.463057,
+    "longitude": -98.46463,
     "reservations": 3,
     "spend": 600.0
+  },
+  {
+    "venue_id": "810e5d71-977d-48ca-9888-6f2826619b16",
+    "venue_name": "VenturePoint Dominion",
+    "latitude": 29.6485,
+    "longitude": -98.624451,
+    "reservations": 1,
+    "spend": 300.0
   }
 ]

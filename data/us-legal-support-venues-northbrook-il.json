@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5372eb0b-9154-4121-b428-7d74e376f752",
+    "venue_name": "Regus | Northbrook Botanic Gardens",
+    "latitude": 42.139942,
+    "longitude": -87.792046,
+    "reservations": 1,
+    "spend": 332.0
+  },
+  {
+    "venue_id": "29957bd5-bcc8-4cb9-b6f5-4b35d20ba328",
+    "venue_name": "The 899 Building",
+    "latitude": 42.13662,
+    "longitude": -87.79023,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

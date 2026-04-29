@@ -2,9 +2,17 @@
   {
     "venue_id": "611ec884-7622-471d-832d-3f369dec2304",
     "venue_name": "Premier Executive Center- Naples",
-    "latitude": 26.215179443359375,
-    "longitude": -81.79016876220703,
+    "latitude": 26.215179,
+    "longitude": -81.790169,
     "reservations": 9,
     "spend": 2570.0
+  },
+  {
+    "venue_id": "efd9235d-4a56-4c30-a5a3-71c29a1b1e68",
+    "venue_name": "SPACES | FL, Naples - Tamiami Trail E",
+    "latitude": 26.12812,
+    "longitude": -81.76889,
+    "reservations": 1,
+    "spend": 397.5
   }
 ]

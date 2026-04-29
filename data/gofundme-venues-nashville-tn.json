@@ -2,25 +2,33 @@
   {
     "venue_id": "1af51b42-829f-4e4e-9a68-1f785107f39c",
     "venue_name": "The Malin Wedgewood Houston",
-    "latitude": 36.14491653442383,
-    "longitude": -86.76726531982422,
+    "latitude": 36.144917,
+    "longitude": -86.767265,
     "reservations": 69,
     "spend": 4050.0
   },
   {
     "venue_id": "ac6456a9-d0b5-47ec-ac7c-026cbe998e58",
     "venue_name": "The Malin South Gulch",
-    "latitude": 36.150630950927734,
-    "longitude": -86.77870178222656,
+    "latitude": 36.150631,
+    "longitude": -86.778702,
     "reservations": 12,
     "spend": 900.0
   },
   {
     "venue_id": "c45d56dc-0994-4a96-8be4-fe96ab1893f1",
     "venue_name": "WeWork | 18th & Chet",
-    "latitude": 36.14900207519531,
-    "longitude": -86.79447174072266,
+    "latitude": 36.149002,
+    "longitude": -86.794472,
     "reservations": 5,
     "spend": 231.0
+  },
+  {
+    "venue_id": "f5c3a82e-d526-4077-8eab-975e70badd05",
+    "venue_name": "Three One Three | Inglewood",
+    "latitude": 36.211609,
+    "longitude": -86.733154,
+    "reservations": 1,
+    "spend": 110.0
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cd67298d-5fd8-4982-ae5b-195fdfe2a419",
+    "venue_name": "Regus | Minneapolis - Lagoon Ave",
+    "latitude": 44.949036,
+    "longitude": -93.297348,
+    "reservations": 1,
+    "spend": 502.8
+  },
+  {
+    "venue_id": "7edcf090-a391-4435-8a9c-587e3328d53b",
+    "venue_name": "IDS Executive Suites",
+    "latitude": 44.975788,
+    "longitude": -93.272095,
+    "reservations": 1,
+    "spend": 300.0
+  }
+]

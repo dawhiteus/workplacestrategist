@@ -2,9 +2,25 @@
   {
     "venue_id": "4aa0aa63-1c66-426b-9c0c-7d270054a7da",
     "venue_name": "Common Desk - Dallas Arts District",
-    "latitude": 32.787532806396484,
-    "longitude": -96.79916381835938,
+    "latitude": 32.787533,
+    "longitude": -96.799164,
     "reservations": 4,
     "spend": 100.0
+  },
+  {
+    "venue_id": "bdabe831-94b0-4710-ad67-371b54edb4d7",
+    "venue_name": "Venture X | Dallas by the Galleria",
+    "latitude": 32.933678,
+    "longitude": -96.817162,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "ec62aaf5-1e33-4e47-85a8-307344f7d15c",
+    "venue_name": "Hatchways Victory Park",
+    "latitude": 32.786457,
+    "longitude": -96.809349,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

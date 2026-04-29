@@ -2,9 +2,49 @@
   {
     "venue_id": "ef626851-b4e5-4943-a085-b65c6291bc8c",
     "venue_name": "Serendipity Labs - Plano - Legacy West",
-    "latitude": 33.08556365966797,
-    "longitude": -96.83732604980469,
+    "latitude": 33.085564,
+    "longitude": -96.837326,
     "reservations": 4,
     "spend": 767.0
+  },
+  {
+    "venue_id": "14256972-e1ca-43e1-a67a-1aea183f13da",
+    "venue_name": "Venture X | Plano West",
+    "latitude": 33.063938,
+    "longitude": -96.830498,
+    "reservations": 1,
+    "spend": 480.0
+  },
+  {
+    "venue_id": "bc199a47-0646-4752-ac2f-5391ef1b0af7",
+    "venue_name": "Regus | Plano - Spaces West Plano Village",
+    "latitude": 33.046528,
+    "longitude": -96.828514,
+    "reservations": 1,
+    "spend": 340.0
+  },
+  {
+    "venue_id": "f02c4ec8-1d24-488d-af16-5279ba74e23d",
+    "venue_name": "Legacy Plaza",
+    "latitude": 33.078938,
+    "longitude": -96.809059,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "724048b3-59cc-4ad6-aa30-fcfeb4867b06",
+    "venue_name": "Regus | Plano - Spaces Shops of Legacy",
+    "latitude": 33.0784,
+    "longitude": -96.819901,
+    "reservations": 1,
+    "spend": 195.92
+  },
+  {
+    "venue_id": "c834023a-385e-4947-b214-5af64e599966",
+    "venue_name": "Executive Workspace| Park & Preston",
+    "latitude": 33.029495,
+    "longitude": -96.798935,
+    "reservations": 1,
+    "spend": 165.0
   }
 ]

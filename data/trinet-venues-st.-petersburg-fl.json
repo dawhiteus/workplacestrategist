@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "64a2f822-f6c2-48eb-a122-c83532d57cce",
+    "venue_name": "Station House",
+    "latitude": 27.770163,
+    "longitude": -82.636566,
+    "reservations": 1,
+    "spend": 245.0
+  },
+  {
+    "venue_id": "4097fd70-3ea1-4f03-9062-e46370997c90",
+    "venue_name": "Expansive - 4th Street DTSP",
+    "latitude": 27.775166,
+    "longitude": -82.638176,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "ab1db2f5-d479-43ce-a707-d6fb304b050b",
+    "venue_name": "Thrive DTSP",
+    "latitude": 27.772928,
+    "longitude": -82.638931,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

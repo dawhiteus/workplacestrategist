@@ -2,9 +2,25 @@
   {
     "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
     "venue_name": "Expansive - North First",
-    "latitude": 37.37726974487305,
-    "longitude": -121.92033386230469,
+    "latitude": 37.37727,
+    "longitude": -121.920334,
     "reservations": 4,
     "spend": 1287.5
+  },
+  {
+    "venue_id": "a4d5fd04-bc63-4484-97eb-9cd3255c9e40",
+    "venue_name": "Regus || Downtown San Jose",
+    "latitude": 37.332584,
+    "longitude": -121.89431,
+    "reservations": 1,
+    "spend": 321.0
+  },
+  {
+    "venue_id": "a5e1d1d2-fb03-4cb5-8e16-0bff7c14fdc0",
+    "venue_name": "(SJ2) Silicon Valley Center",
+    "latitude": 37.3853,
+    "longitude": -121.924828,
+    "reservations": 1,
+    "spend": 276.0
   }
 ]

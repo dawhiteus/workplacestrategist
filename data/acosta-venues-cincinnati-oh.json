@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "f17e9dd9-6ce6-436c-8a18-0ca3e567b494",
+    "venue_name": "SPACES | Cincinnati - Spaces Over The Rhine",
+    "latitude": 39.1115,
+    "longitude": -84.5158,
+    "reservations": 2,
+    "spend": 247.88
+  },
+  {
+    "venue_id": "12d6d805-2135-4ee9-bc8f-5c8b1274de9a",
+    "venue_name": "Regus | OH, Cincinnati - Chester Rd",
+    "latitude": 39.277599,
+    "longitude": -84.442078,
+    "reservations": 2,
+    "spend": 212.0
+  },
+  {
+    "venue_id": "302d2b83-fe05-413d-8f39-36c631c05938",
+    "venue_name": "(CIN) Columbia Plaza",
+    "latitude": 39.102184,
+    "longitude": -84.508652,
+    "reservations": 1,
+    "spend": 70.0
+  }
+]

@@ -2,17 +2,41 @@
   {
     "venue_id": "0abba921-b869-410f-a6e9-5b17b55ec3ed",
     "venue_name": "It's Just a Feeling",
-    "latitude": 45.54841613769531,
-    "longitude": -122.64141082763672,
+    "latitude": 45.548416,
+    "longitude": -122.641411,
     "reservations": 6,
     "spend": 240.0
   },
   {
+    "venue_id": "91c9df62-0e49-4ef3-a2eb-cd7035fb95b5",
+    "venue_name": "Industrious - Pioneer Square",
+    "latitude": 45.518318,
+    "longitude": -122.67939,
+    "reservations": 2,
+    "spend": 188.0
+  },
+  {
     "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
     "venue_name": "CENTRL Office - West End",
-    "latitude": 45.52070999145508,
-    "longitude": -122.68387603759766,
+    "latitude": 45.52071,
+    "longitude": -122.683876,
     "reservations": 4,
     "spend": 160.0
+  },
+  {
+    "venue_id": "ca336e13-3a9f-4bd4-bc6d-021dc87d6e2b",
+    "venue_name": "WeWork | 830 NE Holladay St",
+    "latitude": 45.529751,
+    "longitude": -122.656853,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.525059,
+    "longitude": -122.684799,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

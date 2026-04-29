@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "c76762c8-5c2c-466f-838d-aeff40ba53c5",
+    "venue_name": "Awfis | Coworking-Nucleus Mall Camp",
+    "latitude": 18.521627,
+    "longitude": 73.876595,
+    "reservations": 159,
+    "spend": 14266.19
+  },
+  {
+    "venue_id": "16518dc2-45ad-4176-8c2b-308a146b91b3",
+    "venue_name": "The Executive Centre - Panchshil Business Park",
+    "latitude": 18.571716,
+    "longitude": 73.774155,
+    "reservations": 107,
+    "spend": 13402.66
+  },
+  {
+    "venue_id": "5e16a025-01b7-40fb-afd0-62f79abb7e6a",
+    "venue_name": "The Executive Centre - World Trade Center",
+    "latitude": 18.55298,
+    "longitude": 73.948265,
+    "reservations": 172,
+    "spend": 8574.44
+  },
+  {
+    "venue_id": "abf4e462-d89a-43b4-8ca9-9781491b9369",
+    "venue_name": "The Executive Centre - Business Bay",
+    "latitude": 18.551523,
+    "longitude": 73.889656,
+    "reservations": 29,
+    "spend": 3955.39
+  },
+  {
+    "venue_id": "d42dfb60-3bc8-4732-b0a1-a81dc870eba9",
+    "venue_name": "Awfis | Coworking-The Kode",
+    "latitude": 18.564505,
+    "longitude": 73.783821,
+    "reservations": 87,
+    "spend": 3493.68
+  },
+  {
+    "venue_id": "61d0e34b-3604-4ed5-bb48-1ff1962d644f",
+    "venue_name": "Awfis | Coworking-Que Spaces",
+    "latitude": 18.515806,
+    "longitude": 73.927162,
+    "reservations": 100,
+    "spend": 2660.4
+  },
+  {
+    "venue_id": "6f519324-f038-424c-b3f5-b815962ae368",
+    "venue_name": "Awfis | Coworking-Bajaj Brandview",
+    "latitude": 18.538294,
+    "longitude": 73.850853,
+    "reservations": 7,
+    "spend": 337.77
+  },
+  {
+    "venue_id": "66fdc1cf-2840-497e-af69-0b48f85d7101",
+    "venue_name": "Awfis | Coworking-Baner Business Bay",
+    "latitude": 18.550209,
+    "longitude": 73.767853,
+    "reservations": 55,
+    "spend": 329.54
+  },
+  {
+    "venue_id": "a9762179-b894-461c-92fd-22b424cbae90",
+    "venue_name": "Awfis | Coworking-Sterling Towers",
+    "latitude": 18.554335,
+    "longitude": 73.777664,
+    "reservations": 7,
+    "spend": 184.48
+  }
+]

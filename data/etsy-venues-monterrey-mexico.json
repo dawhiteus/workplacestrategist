@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5dd12ffe-406b-498e-925c-35bec9bb0b8c",
+    "venue_name": "WeWork | Calle Washington 1400",
+    "latitude": 25.675692,
+    "longitude": -100.327072,
+    "reservations": 3,
+    "spend": 140.44
+  },
+  {
+    "venue_id": "c9021d68-2241-4398-9037-03b1e65f21f5",
+    "venue_name": "IOS OFFICES | Campestre",
+    "latitude": 25.654087,
+    "longitude": -100.352829,
+    "reservations": 1,
+    "spend": 21.63
+  }
+]

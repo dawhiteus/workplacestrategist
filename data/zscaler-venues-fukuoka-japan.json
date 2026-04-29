@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "43e03acc-ae99-4d17-ae32-ef8e44d7a39f",
+    "venue_name": "Regus | Fukuoka, JR JP Hakata Building",
+    "latitude": 33.588196,
+    "longitude": 130.419067,
+    "reservations": 8,
+    "spend": 993.74
+  },
+  {
+    "venue_id": "25a02253-8d6b-4bcb-8609-f02736fc0071",
+    "venue_name": "Regus | Fukuoka, Tenjin Skyhall",
+    "latitude": 33.588791,
+    "longitude": 130.401215,
+    "reservations": 1,
+    "spend": 69.59
+  },
+  {
+    "venue_id": "d3ce11f7-c2f7-4805-be5a-a7c697314793",
+    "venue_name": "Regus | Fukuoka, Aqua Hakata",
+    "latitude": 33.5933,
+    "longitude": 130.404007,
+    "reservations": 1,
+    "spend": 60.91
+  },
+  {
+    "venue_id": "7af5b01b-a6ea-4432-9dc7-d4176bd9f6b7",
+    "venue_name": "Regus | Fukuoka, Hakataeki Hakataguchi",
+    "latitude": 33.590858,
+    "longitude": 130.417267,
+    "reservations": 1,
+    "spend": 32.48
+  }
+]

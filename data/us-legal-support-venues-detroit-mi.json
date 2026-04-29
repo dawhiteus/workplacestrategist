@@ -2,9 +2,25 @@
   {
     "venue_id": "b4b568ca-2a77-4ba4-8b2e-c541ca3c1d25",
     "venue_name": "Venture X | Detroit",
-    "latitude": 42.3292236328125,
-    "longitude": -83.0486831665039,
+    "latitude": 42.329224,
+    "longitude": -83.048683,
     "reservations": 5,
     "spend": 2250.0
+  },
+  {
+    "venue_id": "0eec28e7-17ae-46a6-abd3-658a33526df6",
+    "venue_name": "Cass CoWorking",
+    "latitude": 42.364296,
+    "longitude": -83.071571,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "5264debd-f3fc-459b-a48e-2936bf7234b1",
+    "venue_name": "Farbman Group | New Center One",
+    "latitude": 42.370075,
+    "longitude": -83.076218,
+    "reservations": 1,
+    "spend": 225.0
   }
 ]

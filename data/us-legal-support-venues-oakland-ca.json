@@ -2,17 +2,41 @@
   {
     "venue_id": "4f944ccf-26f7-46e6-a519-d07fea84dff7",
     "venue_name": "Pacific Workplaces - Oakland",
-    "latitude": 37.80472183227539,
-    "longitude": -122.27381896972656,
+    "latitude": 37.804722,
+    "longitude": -122.273819,
     "reservations": 6,
     "spend": 2720.0
   },
   {
     "venue_id": "73fb5774-fc70-4513-aaf6-c168f2b67818",
     "venue_name": "(OAK) Lake Merritt Plaza",
-    "latitude": 37.80784606933594,
-    "longitude": -122.26514434814453,
+    "latitude": 37.807846,
+    "longitude": -122.265144,
     "reservations": 2,
     "spend": 723.0
+  },
+  {
+    "venue_id": "eb58d398-0a37-4623-9194-2d7d9cb4ae6a",
+    "venue_name": "Courtyard Oakland Downtown",
+    "latitude": 37.801014,
+    "longitude": -122.272919,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "338779f5-902d-4430-98af-bb5bfd23672c",
+    "venue_name": "Oakstop",
+    "latitude": 37.806709,
+    "longitude": -122.269707,
+    "reservations": 1,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "7b759c2d-b1b7-49c6-96f1-8a21b515683d",
+    "venue_name": "Artthaus Studios",
+    "latitude": 37.778366,
+    "longitude": -122.233391,
+    "reservations": 1,
+    "spend": 273.0
   }
 ]

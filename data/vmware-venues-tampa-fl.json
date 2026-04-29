@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f36be385-ea35-4534-abb0-0cac35cf51c7",
+    "venue_name": "Office Evolution - Tampa | Harbour Island",
+    "latitude": 27.938725,
+    "longitude": -82.45488,
+    "reservations": 2,
+    "spend": 650.0
+  },
+  {
+    "venue_id": "a9ed4dac-4f9b-43bb-9969-cc69900fd846",
+    "venue_name": "CoWorkTampa",
+    "latitude": 27.967623,
+    "longitude": -82.485153,
+    "reservations": 2,
+    "spend": 61.0
+  }
+]

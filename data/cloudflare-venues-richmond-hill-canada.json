@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "03ec6082-647f-4386-a2f5-840e38a291ba",
+    "venue_name": "Venture X | Richmond Hill",
+    "latitude": 43.852543,
+    "longitude": -79.37709,
+    "reservations": 28,
+    "spend": 3862.56
+  },
+  {
+    "venue_id": "e74264ef-a417-4525-8b75-f2f44564ea97",
+    "venue_name": "Regus | Richmond Hill",
+    "latitude": 43.861515,
+    "longitude": -79.386017,
+    "reservations": 1,
+    "spend": 45.08
+  }
+]

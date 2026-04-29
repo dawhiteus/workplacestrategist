@@ -2,9 +2,17 @@
   {
     "venue_id": "886108bb-d022-4e00-86e4-dadae18cf8c9",
     "venue_name": "Regus | Illinois, Oak Brook - One Lincoln Center",
-    "latitude": 41.84682083129883,
-    "longitude": -87.98421478271484,
+    "latitude": 41.846821,
+    "longitude": -87.984215,
     "reservations": 2,
     "spend": 508.09
+  },
+  {
+    "venue_id": "023f9ec8-cd04-4f83-8a0b-59039ae7db6e",
+    "venue_name": "Venture X | Chicago - Oak Brook",
+    "latitude": 41.848652,
+    "longitude": -87.95829,
+    "reservations": 1,
+    "spend": 140.0
   }
 ]

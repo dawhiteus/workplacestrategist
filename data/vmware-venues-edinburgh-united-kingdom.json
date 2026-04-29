@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "13829a00-137b-4607-a092-a540e3533b4d",
+    "venue_name": "WeWork | Edinburgh 80 George Street",
+    "latitude": 55.952549,
+    "longitude": -3.201091,
+    "reservations": 17,
+    "spend": 1391.83
+  },
+  {
+    "venue_id": "60f23483-1031-4f5c-a54a-428fff850904",
+    "venue_name": "Regus | Edinburgh South Gyle",
+    "latitude": 55.933701,
+    "longitude": -3.3094,
+    "reservations": 1,
+    "spend": 22.28
+  }
+]

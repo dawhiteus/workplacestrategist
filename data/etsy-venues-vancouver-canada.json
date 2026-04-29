@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "27174f8b-f55c-46ba-9fac-4f860e907be2",
+    "venue_name": "OneSpace",
+    "latitude": 49.274158,
+    "longitude": -123.07605,
+    "reservations": 8,
+    "spend": 228.15
+  },
+  {
+    "venue_id": "0588bb5d-8b15-432d-a9c7-dceaf31d2c99",
+    "venue_name": "Regus | Yaletown",
+    "latitude": 49.276402,
+    "longitude": -123.122002,
+    "reservations": 1,
+    "spend": 163.59
+  },
+  {
+    "venue_id": "1dd08a20-8631-48b8-ab41-a9ee5385d427",
+    "venue_name": "Regus | Park Place",
+    "latitude": 49.285099,
+    "longitude": -123.119003,
+    "reservations": 1,
+    "spend": 141.5
+  },
+  {
+    "venue_id": "fa2097fd-357e-408c-a5f9-a9b3ec5d0164",
+    "venue_name": "TM Studios",
+    "latitude": 49.284473,
+    "longitude": -123.091476,
+    "reservations": 1,
+    "spend": 23.42
+  }
+]

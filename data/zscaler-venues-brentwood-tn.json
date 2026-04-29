@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "194a6c9b-ddcd-4086-9627-f777d0d3b733",
+    "venue_name": "Regus | TN, Brentwood - Summit View Drive",
+    "latitude": 36.038448,
+    "longitude": -86.779053,
+    "reservations": 1,
+    "spend": 162.0
+  },
+  {
+    "venue_id": "67675c89-e1f7-4142-8095-74c74254fab4",
+    "venue_name": "Regus | Brentwood Center (Office Suites Plus)",
+    "latitude": 36.031624,
+    "longitude": -86.782364,
+    "reservations": 1,
+    "spend": 107.0
+  },
+  {
+    "venue_id": "8baf152c-a4b7-4cff-88db-75425332c7d4",
+    "venue_name": "Serendipity Labs - Nashville - Brentwood",
+    "latitude": 36.035641,
+    "longitude": -86.798904,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

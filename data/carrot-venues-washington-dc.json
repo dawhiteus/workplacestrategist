@@ -2,17 +2,25 @@
   {
     "venue_id": "0f2e3975-6fa5-47d3-b1e4-c6a87eaa2b45",
     "venue_name": "The Mark at Manhattan Laundry",
-    "latitude": 38.91984939575195,
-    "longitude": -77.03076171875,
+    "latitude": 38.919849,
+    "longitude": -77.030762,
     "reservations": 18,
     "spend": 540.0
   },
   {
     "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
     "venue_name": "Mindspace K St",
-    "latitude": 38.90296173095703,
-    "longitude": -77.03071594238281,
+    "latitude": 38.902962,
+    "longitude": -77.030716,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "7de94cd6-abef-4cee-9ecd-6daffd45fe94",
+    "venue_name": "WeWork | 700 K Street NW",
+    "latitude": 38.90197,
+    "longitude": -77.022614,
+    "reservations": 1,
+    "spend": 47.0
   }
 ]

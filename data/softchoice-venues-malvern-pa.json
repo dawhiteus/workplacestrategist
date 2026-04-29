@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "b2b3fb88-f8da-4747-80d5-218069444ec1",
+    "venue_name": "Regus | PA, Malvern - Valley Stream Pkwy",
+    "latitude": 40.056911,
+    "longitude": -75.517601,
+    "reservations": 1,
+    "spend": 497.0
+  },
+  {
+    "venue_id": "5cb470e0-da12-4646-b10f-13b52e3e0afe",
+    "venue_name": "AEC - Malvern",
+    "latitude": 40.05011,
+    "longitude": -75.527023,
+    "reservations": 1,
+    "spend": 320.0
+  },
+  {
+    "venue_id": "d7bc1e58-4653-4cf5-a563-088f65566da7",
+    "venue_name": "iThrive Malvern PA",
+    "latitude": 40.037231,
+    "longitude": -75.497963,
+    "reservations": 2,
+    "spend": 250.0
+  }
+]

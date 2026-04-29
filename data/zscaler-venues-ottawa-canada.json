@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "1d03c2df-0163-495f-9910-d2e55373c6da",
+    "venue_name": "The Collaboration Centre - TCC Canada",
+    "latitude": 45.420483,
+    "longitude": -75.692825,
+    "reservations": 8,
+    "spend": 3488.47
+  },
+  {
+    "venue_id": "ee295eb7-9346-4b29-b2a4-4c5633df675d",
+    "venue_name": "Regus | 343 Preston",
+    "latitude": 45.402401,
+    "longitude": -75.710503,
+    "reservations": 6,
+    "spend": 619.01
+  },
+  {
+    "venue_id": "89d316b7-9149-4aa2-9295-00a58d8e01f7",
+    "venue_name": "iQ Offices | 222 Queen St",
+    "latitude": 45.420284,
+    "longitude": -75.701042,
+    "reservations": 1,
+    "spend": 142.89
+  },
+  {
+    "venue_id": "6ff6928f-605c-4071-9553-0aa5f7b1bf31",
+    "venue_name": "The Blair Centre - TCC Canada",
+    "latitude": 45.428703,
+    "longitude": -75.614662,
+    "reservations": 1,
+    "spend": 64.93
+  },
+  {
+    "venue_id": "adc0d680-4d3d-4e82-86ec-2a7108a036f3",
+    "venue_name": "Regus | Fairmont Chateau Laurier",
+    "latitude": 45.425201,
+    "longitude": -75.694702,
+    "reservations": 1,
+    "spend": 56.64
+  }
+]

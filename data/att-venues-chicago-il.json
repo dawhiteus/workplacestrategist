@@ -2,9 +2,25 @@
   {
     "venue_id": "9163ba11-39b7-4394-a97b-408d451259d0",
     "venue_name": "Inspire Business Center",
-    "latitude": 41.87786102294922,
-    "longitude": -87.65281677246094,
+    "latitude": 41.877861,
+    "longitude": -87.652817,
     "reservations": 2,
     "spend": 150.0
+  },
+  {
+    "venue_id": "1bb8484d-f72f-4f39-a55c-23498f14ed24",
+    "venue_name": "WeWork | 515 N State",
+    "latitude": 41.891422,
+    "longitude": -87.62735,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "c2dfd1ef-5919-4d7a-8edc-acca53304ade",
+    "venue_name": "WeWork | 330 N. Wabash",
+    "latitude": 41.88863,
+    "longitude": -87.627502,
+    "reservations": 1,
+    "spend": 47.0
   }
 ]

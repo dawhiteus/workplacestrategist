@@ -2,14 +2,34 @@
   {
     "city": "Boston",
     "state": "MA",
-    "reservations": 101,
-    "total_spend": 10897.0,
-    "venues": 7,
-    "members": 17
+    "country": "US",
+    "reservations": 104,
+    "total_spend": 11230.48,
+    "venues": 9,
+    "members": 18
+  },
+  {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 94,
+    "total_spend": 9222.46,
+    "venues": 9,
+    "members": 7
+  },
+  {
+    "city": "Sydney",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 11,
+    "total_spend": 9086.64,
+    "venues": 5,
+    "members": 2
   },
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 127,
     "total_spend": 9063.0,
     "venues": 34,
@@ -18,38 +38,88 @@
   {
     "city": "San Mateo",
     "state": "CA",
-    "reservations": 65,
-    "total_spend": 4740.0,
+    "country": "US",
+    "reservations": 66,
+    "total_spend": 4830.0,
     "venues": 4,
     "members": 3
   },
   {
+    "city": "Darlinghurst",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 9,
+    "total_spend": 4190.43,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 11,
     "total_spend": 3829.25,
     "venues": 4,
     "members": 3
   },
   {
-    "city": "Philadelphia",
-    "state": "PA",
-    "reservations": 49,
-    "total_spend": 2459.0,
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "reservations": 9,
+    "total_spend": 2895.0,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Warszawa",
+    "state": "Poland",
+    "country": "Poland",
+    "reservations": 48,
+    "total_spend": 2666.64,
     "venues": 4,
     "members": 2
   },
   {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "reservations": 51,
+    "total_spend": 2571.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Dublin",
+    "state": "Ireland",
+    "country": "Ireland",
+    "reservations": 22,
+    "total_spend": 2525.9,
+    "venues": 1,
+    "members": 9
+  },
+  {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 37,
     "total_spend": 2020.0,
     "venues": 10,
     "members": 7
   },
   {
+    "city": "Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 9,
+    "total_spend": 1800.41,
+    "venues": 5,
+    "members": 3
+  },
+  {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 1343.0,
     "venues": 4,
@@ -58,38 +128,79 @@
   {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 19,
     "total_spend": 1257.6,
     "venues": 6,
     "members": 2
   },
   {
+    "city": "Ottawa",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 8,
+    "total_spend": 1222.29,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Bellevue",
     "state": "WA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1148.92,
     "venues": 2,
     "members": 1
   },
   {
+    "city": "Manila",
+    "state": "Philippines",
+    "country": "Philippines",
+    "reservations": 9,
+    "total_spend": 981.48,
+    "venues": 2,
+    "members": 5
+  },
+  {
     "city": "San Ramon",
     "state": "CA",
+    "country": "US",
     "reservations": 15,
     "total_spend": 926.0,
     "venues": 2,
     "members": 3
   },
   {
+    "city": "Makati",
+    "state": "Philippines",
+    "country": "Philippines",
+    "reservations": 8,
+    "total_spend": 728.03,
+    "venues": 3,
+    "members": 3
+  },
+  {
     "city": "Mooresville",
     "state": "NC",
+    "country": "US",
     "reservations": 5,
     "total_spend": 705.0,
     "venues": 2,
     "members": 1
   },
   {
+    "city": "Toronto",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 10,
+    "total_spend": 665.35,
+    "venues": 4,
+    "members": 4
+  },
+  {
     "city": "Berkeley",
     "state": "CA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 644.0,
     "venues": 2,
@@ -98,14 +209,25 @@
   {
     "city": "Charlotte",
     "state": "NC",
+    "country": "US",
     "reservations": 5,
     "total_spend": 581.8,
     "venues": 3,
     "members": 1
   },
   {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 12,
+    "total_spend": 574.61,
+    "venues": 4,
+    "members": 1
+  },
+  {
     "city": "Frisco",
     "state": "TX",
+    "country": "US",
     "reservations": 20,
     "total_spend": 570.0,
     "venues": 1,
@@ -114,14 +236,25 @@
   {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 11,
     "total_spend": 549.86,
     "venues": 5,
     "members": 7
   },
   {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 9,
+    "total_spend": 453.84,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 5,
     "total_spend": 335.0,
     "venues": 3,
@@ -130,14 +263,25 @@
   {
     "city": "Tampa",
     "state": "FL",
+    "country": "US",
     "reservations": 4,
     "total_spend": 289.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Quezon City",
+    "state": "Philippines",
+    "country": "Philippines",
+    "reservations": 8,
+    "total_spend": 273.63,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Hickory",
     "state": "NC",
+    "country": "US",
     "reservations": 3,
     "total_spend": 266.52,
     "venues": 2,
@@ -146,6 +290,7 @@
   {
     "city": "Scottsdale",
     "state": "AZ",
+    "country": "US",
     "reservations": 3,
     "total_spend": 236.81,
     "venues": 2,
@@ -154,25 +299,73 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 4,
     "total_spend": 221.0,
     "venues": 4,
     "members": 2
   },
   {
+    "city": "Brisbane",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 4,
+    "total_spend": 193.18,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Los Angeles",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 158.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Wroclaw",
+    "state": "Poland",
+    "country": "Poland",
+    "reservations": 5,
+    "total_spend": 145.71,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Raleigh",
     "state": "NC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 136.0,
     "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Warsaw",
+    "state": "Poland",
+    "country": "Poland",
+    "reservations": 3,
+    "total_spend": 49.18,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Gurugram",
+    "state": "India",
+    "country": "India",
+    "reservations": 3,
+    "total_spend": 23.37,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Bengaluru",
+    "state": "India",
+    "country": "India",
+    "reservations": 3,
+    "total_spend": 13.43,
+    "venues": 2,
     "members": 1
   }
 ]

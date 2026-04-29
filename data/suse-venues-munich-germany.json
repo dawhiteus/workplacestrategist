@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "16c3f3a1-007c-40e2-bb62-e3a9fde815b1",
+    "venue_name": "Regus | Munich Airport",
+    "latitude": 48.353848,
+    "longitude": 11.787453,
+    "reservations": 1,
+    "spend": 386.8
+  },
+  {
+    "venue_id": "7c46148f-c085-4216-b1b9-855265c7aa90",
+    "venue_name": "Regus | MUNICH, Perlach",
+    "latitude": 48.097416,
+    "longitude": 11.645658,
+    "reservations": 1,
+    "spend": 16.96
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "venue_id": "99fa5077-7b9b-4c7a-84b1-ea3f06a456c9",
+    "venue_name": "GPT Space&Co 580 George",
+    "latitude": -33.874798,
+    "longitude": 151.206955,
+    "reservations": 191,
+    "spend": 64333.18
+  },
+  {
+    "venue_id": "a3ec3b52-ba07-4dfc-9963-6aafc9cc31a6",
+    "venue_name": "GPT Space&Co Darling Park",
+    "latitude": -33.872013,
+    "longitude": 151.203705,
+    "reservations": 36,
+    "spend": 16068.35
+  },
+  {
+    "venue_id": "2fec2bbc-70cf-4cde-ae3b-867bd4e18cb8",
+    "venue_name": "The Executive Centre - Angel Place",
+    "latitude": -33.866272,
+    "longitude": 151.208374,
+    "reservations": 27,
+    "spend": 4336.85
+  },
+  {
+    "venue_id": "add1b8ad-7cdc-451c-90ad-75084dd3d7d5",
+    "venue_name": "Hub Australia | Wynyard",
+    "latitude": -33.865334,
+    "longitude": 151.206558,
+    "reservations": 2,
+    "spend": 944.79
+  },
+  {
+    "venue_id": "d18a9f60-2ae3-4d24-a3d3-4fd21817029b",
+    "venue_name": "The Executive Centre - Three International Towers",
+    "latitude": -33.865059,
+    "longitude": 151.201904,
+    "reservations": 6,
+    "spend": 357.3
+  },
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 5,
+    "spend": 260.81
+  },
+  {
+    "venue_id": "e9c35ecd-bfec-456c-8733-2b9566d8f99c",
+    "venue_name": "workspace365 - Bond Centre",
+    "latitude": -33.86459,
+    "longitude": 151.208496,
+    "reservations": 3,
+    "spend": 244.92
+  },
+  {
+    "venue_id": "eace858a-6fb0-47e8-a91f-f95a8bc120c1",
+    "venue_name": "Regus | SYDNEY 680 George Street",
+    "latitude": -33.877426,
+    "longitude": 151.206604,
+    "reservations": 1,
+    "spend": 236.17
+  },
+  {
+    "venue_id": "eacc95e1-515b-4fa9-ab60-d5bd2e408242",
+    "venue_name": "Hub Australia | Martin Place",
+    "latitude": -33.867321,
+    "longitude": 151.209549,
+    "reservations": 2,
+    "spend": 159.61
+  },
+  {
+    "venue_id": "fda24d46-fa95-4d6e-bb4a-e9dbc36d3156",
+    "venue_name": "WeWork | 5 Martin Pl",
+    "latitude": -33.867603,
+    "longitude": 151.209152,
+    "reservations": 2,
+    "spend": 69.87
+  },
+  {
+    "venue_id": "c6474e6e-6585-4844-b9dc-4294812482b4",
+    "venue_name": "The Executive Centre - One Bligh Street",
+    "latitude": -33.864731,
+    "longitude": 151.21051,
+    "reservations": 2,
+    "spend": 64.23
+  },
+  {
+    "venue_id": "ba8eea96-2820-46b7-a817-2410655d7386",
+    "venue_name": "Regus | Sydney, Rockdale",
+    "latitude": -33.9524,
+    "longitude": 151.139008,
+    "reservations": 1,
+    "spend": 50.94
+  },
+  {
+    "venue_id": "9daf6802-9071-4eaa-8c27-727268e1e98a",
+    "venue_name": "The Executive Centre - Salesforce Tower",
+    "latitude": -33.862144,
+    "longitude": 151.208176,
+    "reservations": 1,
+    "spend": 50.14
+  },
+  {
+    "venue_id": "1f7833ef-29ab-4003-9836-bafa1a74c0fc",
+    "venue_name": "WeWork | 320 Pitt St.",
+    "latitude": -33.875465,
+    "longitude": 151.208191,
+    "reservations": 1,
+    "spend": 36.16
+  },
+  {
+    "venue_id": "c7ce8007-9604-4167-8b92-28f5a2706904",
+    "venue_name": "Regus | Sydney, Chatswood - Zenith Towers",
+    "latitude": -33.7948,
+    "longitude": 151.179001,
+    "reservations": 1,
+    "spend": 32.07
+  },
+  {
+    "venue_id": "a51ab7cf-d722-47ac-8255-d3226a797151",
+    "venue_name": "Regus | Sydney, Hornsby",
+    "latitude": -33.7062,
+    "longitude": 151.102997,
+    "reservations": 1,
+    "spend": 29.66
+  },
+  {
+    "venue_id": "2f700164-bc11-47a1-972c-9d7170976503",
+    "venue_name": "Regus | Sydney, Darling Park",
+    "latitude": -33.872398,
+    "longitude": 151.203995,
+    "reservations": 1,
+    "spend": 29.51
+  },
+  {
+    "venue_id": "888232e3-ab1f-419a-9dfd-f88135533a48",
+    "venue_name": "Regus | Sydney, Macquarie Park",
+    "latitude": -33.786098,
+    "longitude": 151.130997,
+    "reservations": 1,
+    "spend": 25.59
+  }
+]

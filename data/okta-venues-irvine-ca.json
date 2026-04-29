@@ -2,9 +2,17 @@
   {
     "venue_id": "6a16d79d-eb5d-4aad-94f2-d9fc20408137",
     "venue_name": "WorkWell",
-    "latitude": 33.68326187133789,
-    "longitude": -117.83320617675781,
+    "latitude": 33.683262,
+    "longitude": -117.833206,
     "reservations": 3,
     "spend": 616.0
+  },
+  {
+    "venue_id": "198476b0-c90b-4d9c-bfa3-4e0e4357d9d8",
+    "venue_name": "Sol Hub",
+    "latitude": 33.636009,
+    "longitude": -117.742188,
+    "reservations": 1,
+    "spend": 200.0
   }
 ]

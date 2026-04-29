@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6b5843d4-1f56-45f2-8754-9878fa92d85f",
+    "venue_name": "Expansive - North Austin",
+    "latitude": 30.443642,
+    "longitude": -97.695786,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192,
+    "longitude": -97.730339,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

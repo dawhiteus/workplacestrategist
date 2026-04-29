@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "dfa20577-ce99-484c-90e3-c233321c4daa",
+    "venue_name": "WeWork | Dublin Charlemont Exchange",
+    "latitude": 53.331062,
+    "longitude": -6.260553,
+    "reservations": 462,
+    "spend": 38812.08
+  },
+  {
+    "venue_id": "437b5fba-b54e-4799-b274-e6002ae46b55",
+    "venue_name": "Iconic Offices | The Lennox Building",
+    "latitude": 53.331272,
+    "longitude": -6.264559,
+    "reservations": 101,
+    "spend": 9527.05
+  },
+  {
+    "venue_id": "1a9acb23-73f2-4182-9e16-ec7ff3ef3f83",
+    "venue_name": "Iconic Offices | The Greenway",
+    "latitude": 53.336952,
+    "longitude": -6.259999,
+    "reservations": 69,
+    "spend": 5767.28
+  },
+  {
+    "venue_id": "15dec247-8f06-45dd-a0e0-b8813e4daf0a",
+    "venue_name": "Iconic Offices | South Point",
+    "latitude": 53.341202,
+    "longitude": -6.244351,
+    "reservations": 67,
+    "spend": 3013.84
+  },
+  {
+    "venue_id": "5c532779-0294-4984-a24c-702b045b77b3",
+    "venue_name": "The Tara Building",
+    "latitude": 53.346889,
+    "longitude": -6.255342,
+    "reservations": 17,
+    "spend": 864.72
+  },
+  {
+    "venue_id": "836347e4-3d44-4274-95f5-027c94aad538",
+    "venue_name": "Regus | Dublin, 2 Harcourt",
+    "latitude": 53.33284,
+    "longitude": -6.263881,
+    "reservations": 4,
+    "spend": 691.54
+  },
+  {
+    "venue_id": "b9a14d9f-5f41-440a-8a29-a82cd1f95caf",
+    "venue_name": "WeWork | 2 Dublin Landings",
+    "latitude": 53.348179,
+    "longitude": -6.233517,
+    "reservations": 13,
+    "spend": 614.34
+  },
+  {
+    "venue_id": "daa0719d-0929-410f-95c0-f5037e6fd178",
+    "venue_name": "Regus | Dublin, The Chase",
+    "latitude": 53.27702,
+    "longitude": -6.210033,
+    "reservations": 1,
+    "spend": 246.99
+  },
+  {
+    "venue_id": "1a40652c-9bc1-4d0f-b314-8afe42c2a0e5",
+    "venue_name": "SPACES | Dublin, Donnybrook House",
+    "latitude": 53.32198,
+    "longitude": -6.23556,
+    "reservations": 1,
+    "spend": 136.94
+  },
+  {
+    "venue_id": "d78db0f4-24ee-4be1-9290-6339ee7346b4",
+    "venue_name": "Regus | Dublin, 4 Ballsbridge",
+    "latitude": 53.330494,
+    "longitude": -6.228127,
+    "reservations": 3,
+    "spend": 118.74
+  },
+  {
+    "venue_id": "def77e1b-a517-48b4-a11a-163c9ecbe9ff",
+    "venue_name": "SPACES | Dublin, Airport Central",
+    "latitude": 53.427711,
+    "longitude": -6.237303,
+    "reservations": 1,
+    "spend": 62.01
+  },
+  {
+    "venue_id": "5b673280-b5ef-4d0d-88fd-565c825e23eb",
+    "venue_name": "Regus | DUBLIN, Santry",
+    "latitude": 53.402802,
+    "longitude": -6.260165,
+    "reservations": 1,
+    "spend": 32.83
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "f36be385-ea35-4534-abb0-0cac35cf51c7",
+    "venue_name": "Office Evolution - Tampa | Harbour Island",
+    "latitude": 27.938725,
+    "longitude": -82.45488,
+    "reservations": 1,
+    "spend": 520.0
+  },
+  {
+    "venue_id": "37c3d46b-7835-4a7d-ab20-ec88e2d8930a",
+    "venue_name": "Hyde House Public Studio",
+    "latitude": 27.935163,
+    "longitude": -82.476631,
+    "reservations": 1,
+    "spend": 480.0
+  },
+  {
+    "venue_id": "03aa435d-7862-421c-bffe-99b9d0348eed",
+    "venue_name": "On Point Executive Center",
+    "latitude": 27.96871,
+    "longitude": -82.569267,
+    "reservations": 1,
+    "spend": 455.0
+  },
+  {
+    "venue_id": "d054412d-e663-4351-9efc-4163da1fc66f",
+    "venue_name": "Office Evolution - Tampa",
+    "latitude": 27.945858,
+    "longitude": -82.533974,
+    "reservations": 1,
+    "spend": 300.0
+  }
+]

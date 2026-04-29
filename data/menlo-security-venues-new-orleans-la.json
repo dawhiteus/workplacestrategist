@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "14ce0605-a657-4984-b943-af3c9e7aae67",
+    "venue_name": "Urban HUB",
+    "latitude": 29.932495,
+    "longitude": -90.0728,
+    "reservations": 2,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "65a3efb6-59d6-47ec-8361-5d48248d5936",
+    "venue_name": "Scale New Orleans",
+    "latitude": 29.943016,
+    "longitude": -90.071457,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

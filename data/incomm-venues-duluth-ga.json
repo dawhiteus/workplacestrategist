@@ -2,9 +2,17 @@
   {
     "venue_id": "a70819cd-0aa7-43ba-913b-b53b5d9f61aa",
     "venue_name": "Office Evolution - Johns Creek - Duluth",
-    "latitude": 34.06427764892578,
-    "longitude": -84.166015625,
+    "latitude": 34.064278,
+    "longitude": -84.166016,
     "reservations": 372,
     "spend": 48825.0
+  },
+  {
+    "venue_id": "b339c5f8-f828-43b8-b387-809e0514fa4d",
+    "venue_name": "COhatch - Duluth",
+    "latitude": 34.002129,
+    "longitude": -84.14418,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

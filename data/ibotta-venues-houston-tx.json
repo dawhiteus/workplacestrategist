@@ -1,10 +1,50 @@
 [
   {
+    "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
+    "venue_name": "FUSE Workspace-City Centre",
+    "latitude": 29.779018,
+    "longitude": -95.561096,
+    "reservations": 1,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "455cc79d-14ff-443d-83de-7a573c21798b",
+    "venue_name": "Regus | Park Row",
+    "latitude": 29.7882,
+    "longitude": -95.658798,
+    "reservations": 1,
+    "spend": 194.0
+  },
+  {
     "venue_id": "d2082ae5-1426-46d2-86fd-ef9944734abf",
     "venue_name": "Common Desk - East End",
-    "latitude": 29.75701332092285,
-    "longitude": -95.34709930419922,
+    "latitude": 29.757013,
+    "longitude": -95.347099,
     "reservations": 3,
     "spend": 75.0
+  },
+  {
+    "venue_id": "4e2d767d-5bf8-4ba9-872c-2730dac7d904",
+    "venue_name": "Common Desk - POST",
+    "latitude": 29.766214,
+    "longitude": -95.364883,
+    "reservations": 2,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "9d296e44-2595-4b6c-b6a5-001fc8fac6ce",
+    "venue_name": "Common Desk - Westchase",
+    "latitude": 29.738787,
+    "longitude": -95.562141,
+    "reservations": 1,
+    "spend": 25.0
+  },
+  {
+    "venue_id": "bfa70e18-5ce8-4017-8b2c-54b26125d2e7",
+    "venue_name": "Common Desk - Post Oak Blvd",
+    "latitude": 29.734978,
+    "longitude": -95.462791,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

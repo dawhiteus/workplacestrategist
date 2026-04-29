@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a474b91d-e08c-4731-a664-27bdd38f08ea",
+    "venue_name": "Thrive Cowork",
+    "latitude": 49.285069,
+    "longitude": -123.115128,
+    "reservations": 2,
+    "spend": 57.52
+  },
+  {
+    "venue_id": "73ae92a0-3e24-4bcf-adda-670d5cb54000",
+    "venue_name": "The Coal Harbour Centre - TCC Canada",
+    "latitude": 49.28614,
+    "longitude": -123.123268,
+    "reservations": 1,
+    "spend": 22.01
+  }
+]

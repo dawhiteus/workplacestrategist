@@ -2,6 +2,7 @@
   {
     "city": "Millburn",
     "state": "NJ",
+    "country": "US",
     "reservations": 5,
     "total_spend": 2250.0,
     "venues": 1,

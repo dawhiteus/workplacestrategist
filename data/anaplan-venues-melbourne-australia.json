@@ -1,0 +1,106 @@
+[
+  {
+    "venue_id": "aa96ce67-3817-4aec-b77a-3df2e3c4022a",
+    "venue_name": "GPT Space&Co 550 Bourke ",
+    "latitude": -37.815319,
+    "longitude": 144.957062,
+    "reservations": 3,
+    "spend": 1522.02
+  },
+  {
+    "venue_id": "41576ff3-9cfb-4de2-8e27-f1d642a74023",
+    "venue_name": "Space&Co Level 1, Melbourne Central Tower",
+    "latitude": -37.810894,
+    "longitude": 144.962021,
+    "reservations": 1,
+    "spend": 842.33
+  },
+  {
+    "venue_id": "87d305f1-5a5e-49cd-81d6-d8c34644d9f6",
+    "venue_name": "Hub Australia | Flinders Street",
+    "latitude": -37.816696,
+    "longitude": 144.968674,
+    "reservations": 7,
+    "spend": 828.37
+  },
+  {
+    "venue_id": "79787e21-0f69-4134-a5ce-49a9fd4bde37",
+    "venue_name": "Hub Australia | Collins Street",
+    "latitude": -37.814484,
+    "longitude": 144.96788,
+    "reservations": 5,
+    "spend": 555.72
+  },
+  {
+    "venue_id": "d71e66fd-82d9-4b86-88ac-1c2181deedb2",
+    "venue_name": "The Executive Centre - Collins Square",
+    "latitude": -37.821747,
+    "longitude": 144.950012,
+    "reservations": 10,
+    "spend": 507.92
+  },
+  {
+    "venue_id": "c53de55e-6d5d-4613-8f25-cb3a19b49441",
+    "venue_name": "GPT Space&Co 8 Exhibition",
+    "latitude": -37.815392,
+    "longitude": 144.972794,
+    "reservations": 1,
+    "spend": 108.48
+  },
+  {
+    "venue_id": "87f35a74-163f-4314-bed9-d53ac323482d",
+    "venue_name": "SPACES | MELBOURNE, Collingwood",
+    "latitude": -37.804932,
+    "longitude": 144.989914,
+    "reservations": 1,
+    "spend": 74.1
+  },
+  {
+    "venue_id": "725d5c31-043f-43fc-ad17-375647e773fb",
+    "venue_name": "WeWork | 222 Exhibition St",
+    "latitude": -37.810726,
+    "longitude": 144.97023,
+    "reservations": 1,
+    "spend": 42.75
+  },
+  {
+    "venue_id": "0132c6d9-51ad-4ebf-a130-9b892df23e16",
+    "venue_name": "CorporateCubes.Co - 333 Collins",
+    "latitude": -37.8167,
+    "longitude": 144.963043,
+    "reservations": 1,
+    "spend": 40.29
+  },
+  {
+    "venue_id": "3d21fa07-74b0-4be2-8399-0cb454ff8303",
+    "venue_name": "Hub Australia | Southern Cross",
+    "latitude": -37.816692,
+    "longitude": 144.953598,
+    "reservations": 1,
+    "spend": 37.34
+  },
+  {
+    "venue_id": "7cd1eda4-9950-4a4c-bcc5-32c77ecc5d23",
+    "venue_name": "The Hive The Cluster",
+    "latitude": -37.818298,
+    "longitude": 144.963989,
+    "reservations": 1,
+    "spend": 32.66
+  },
+  {
+    "venue_id": "ba321733-64c2-4d36-b0b9-4af87c05afa6",
+    "venue_name": "Czar Workspace",
+    "latitude": -37.817413,
+    "longitude": 144.961243,
+    "reservations": 1,
+    "spend": 32.05
+  },
+  {
+    "venue_id": "2d354fdc-2ee8-4aab-9076-9cf914c333c6",
+    "venue_name": "WeWork | 152 Elizabeth St",
+    "latitude": -37.814678,
+    "longitude": 144.963608,
+    "reservations": 1,
+    "spend": 27.58
+  }
+]

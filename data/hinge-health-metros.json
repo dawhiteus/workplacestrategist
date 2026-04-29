@@ -2,6 +2,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 582,
     "total_spend": 42205.0,
     "venues": 25,
@@ -10,6 +11,7 @@
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 320,
     "total_spend": 24988.2,
     "venues": 4,
@@ -18,6 +20,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 127,
     "total_spend": 14068.26,
     "venues": 15,
@@ -26,6 +29,7 @@
   {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 130,
     "total_spend": 13436.0,
     "venues": 5,
@@ -34,6 +38,7 @@
   {
     "city": "Portland",
     "state": "OR",
+    "country": "US",
     "reservations": 94,
     "total_spend": 12335.9,
     "venues": 8,
@@ -42,6 +47,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 75,
     "total_spend": 5881.13,
     "venues": 7,
@@ -50,14 +56,34 @@
   {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 39,
     "total_spend": 4720.0,
     "venues": 8,
     "members": 8
   },
   {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 6,
+    "total_spend": 1041.38,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 5,
+    "total_spend": 324.3,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Williamsburg",
     "state": "NY",
+    "country": "US",
     "reservations": 5,
     "total_spend": 175.0,
     "venues": 1,
@@ -66,6 +92,7 @@
   {
     "city": "Poulsbo",
     "state": "WA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 140.0,
     "venues": 1,
@@ -74,6 +101,7 @@
   {
     "city": "Holmdel",
     "state": "NJ",
+    "country": "US",
     "reservations": 5,
     "total_spend": 125.0,
     "venues": 1,

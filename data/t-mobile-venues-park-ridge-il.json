@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "78482162-41db-42b4-b6a2-d40a58df4c3f",
+    "venue_name": "Signature | IL, Park Ridge - Prospect Ave",
+    "latitude": 42.008114,
+    "longitude": -87.832825,
+    "reservations": 1,
+    "spend": 139.0
+  },
+  {
+    "venue_id": "441ac85a-092e-4ec3-b92c-2e994c7d0b31",
+    "venue_name": "Regus | Park Ridge - Prospect Ave",
+    "latitude": 42.008114,
+    "longitude": -87.832825,
+    "reservations": 1,
+    "spend": 119.0
+  }
+]

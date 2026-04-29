@@ -2,9 +2,25 @@
   {
     "venue_id": "73f3578c-ed55-4dbc-8a31-56855d07afcc",
     "venue_name": "ALCOVE Nob Hill",
-    "latitude": 37.792388916015625,
-    "longitude": -122.41009521484375,
+    "latitude": 37.792389,
+    "longitude": -122.410095,
     "reservations": 3,
     "spend": 405.0
+  },
+  {
+    "venue_id": "f91438c8-ed9f-45ed-a551-fc6b3b14bc12",
+    "venue_name": "The Gallery Workspaces",
+    "latitude": 37.799469,
+    "longitude": -122.418945,
+    "reservations": 1,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "006aceeb-266c-425e-b8b5-67fd40742f7d",
+    "venue_name": "Regus || 580 California",
+    "latitude": 37.792973,
+    "longitude": -122.404137,
+    "reservations": 1,
+    "spend": 184.46
   }
 ]

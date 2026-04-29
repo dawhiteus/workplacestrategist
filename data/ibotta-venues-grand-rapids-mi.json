@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6fb5c710-80b6-44d8-ada9-a0c614db99a4",
+    "venue_name": "Worklab by Custer",
+    "latitude": 42.965031,
+    "longitude": -85.67289,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "ca9ed685-0cc9-45b0-afe8-0cb6c2f01fb8",
+    "venue_name": "The Factory",
+    "latitude": 42.964462,
+    "longitude": -85.669571,
+    "reservations": 1,
+    "spend": 20.0
+  }
+]

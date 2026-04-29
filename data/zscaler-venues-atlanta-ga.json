@@ -1,10 +1,58 @@
 [
   {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.846756,
+    "longitude": -84.372482,
+    "reservations": 2,
+    "spend": 2600.0
+  },
+  {
     "venue_id": "b8e128d1-8165-4c90-ae2a-cfa525b23272",
     "venue_name": "No18 | Atlanta - Buckhead",
-    "latitude": 33.83909606933594,
-    "longitude": -84.37837219238281,
+    "latitude": 33.839096,
+    "longitude": -84.378372,
     "reservations": 6,
     "spend": 1511.74
+  },
+  {
+    "venue_id": "76a9d596-203d-42e0-a964-6592d95580aa",
+    "venue_name": "Serendipity Labs - Atlanta Buckhead",
+    "latitude": 33.851959,
+    "longitude": -84.367592,
+    "reservations": 1,
+    "spend": 699.0
+  },
+  {
+    "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
+    "venue_name": "Peachtree Offices at Downtown, Inc.",
+    "latitude": 33.760399,
+    "longitude": -84.387466,
+    "reservations": 1,
+    "spend": 495.0
+  },
+  {
+    "venue_id": "faf29229-298a-4846-a604-3d672f98234c",
+    "venue_name": "SPACES | GA, Atlanta - 1372 Peachtree",
+    "latitude": 33.791851,
+    "longitude": -84.38662,
+    "reservations": 1,
+    "spend": 125.0
+  },
+  {
+    "venue_id": "6e766a1c-4f81-4655-87dd-e8ba6072d1ba",
+    "venue_name": "TKO Suites Midtown Atlanta",
+    "latitude": 33.770813,
+    "longitude": -84.387848,
+    "reservations": 1,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "80c6479f-9e52-4f55-9d66-350a30d9369c",
+    "venue_name": "Roam Galleria",
+    "latitude": 33.878651,
+    "longitude": -84.456612,
+    "reservations": 2,
+    "spend": 100.0
   }
 ]

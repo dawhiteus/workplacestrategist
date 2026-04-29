@@ -1,1 +1,10 @@
-[{"venue_id":"encino-ca-venue-1","venue_name":"WorkSuites | Encino Downtown","latitude":34.1717,"longitude":-118.489,"reservations":26,"spend":8865}]
+[
+  {
+    "venue_id": "32cfc563-0a89-4450-b411-9230bad06ebb",
+    "venue_name": "Barrister Executive Center | Encino Financial Center",
+    "latitude": 34.156864,
+    "longitude": -118.48465,
+    "reservations": 26,
+    "spend": 8865.0
+  }
+]

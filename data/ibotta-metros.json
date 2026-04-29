@@ -2,22 +2,25 @@
   {
     "city": "New York",
     "state": "NY",
-    "reservations": 253,
-    "total_spend": 22519.85,
+    "country": "US",
+    "reservations": 254,
+    "total_spend": 22599.85,
     "venues": 39,
     "members": 31
   },
   {
     "city": "Washington",
     "state": "DC",
-    "reservations": 144,
-    "total_spend": 6742.0,
+    "country": "US",
+    "reservations": 145,
+    "total_spend": 6804.0,
     "venues": 11,
     "members": 4
   },
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 35,
     "total_spend": 2402.0,
     "venues": 8,
@@ -26,6 +29,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 49,
     "total_spend": 2319.0,
     "venues": 14,
@@ -34,6 +38,7 @@
   {
     "city": "Oakbrook Terrace",
     "state": "IL",
+    "country": "US",
     "reservations": 6,
     "total_spend": 2025.0,
     "venues": 1,
@@ -42,6 +47,7 @@
   {
     "city": "Hoboken",
     "state": "NJ",
+    "country": "US",
     "reservations": 10,
     "total_spend": 1556.0,
     "venues": 2,
@@ -50,6 +56,7 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1495.6,
     "venues": 4,
@@ -58,6 +65,7 @@
   {
     "city": "Hamilton",
     "state": "NJ",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1469.17,
     "venues": 1,
@@ -66,6 +74,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 8,
     "total_spend": 1403.6,
     "venues": 5,
@@ -74,6 +83,7 @@
   {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 18,
     "total_spend": 1388.13,
     "venues": 7,
@@ -82,6 +92,7 @@
   {
     "city": "Houston",
     "state": "TX",
+    "country": "US",
     "reservations": 17,
     "total_spend": 1094.0,
     "venues": 7,
@@ -90,6 +101,7 @@
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1085.0,
     "venues": 4,
@@ -98,6 +110,7 @@
   {
     "city": "Nashville",
     "state": "TN",
+    "country": "US",
     "reservations": 13,
     "total_spend": 962.0,
     "venues": 5,
@@ -106,6 +119,7 @@
   {
     "city": "St. Petersburg",
     "state": "FL",
+    "country": "US",
     "reservations": 3,
     "total_spend": 940.0,
     "venues": 2,
@@ -114,6 +128,7 @@
   {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 857.0,
     "venues": 4,
@@ -122,6 +137,7 @@
   {
     "city": "Arlington",
     "state": "VA",
+    "country": "US",
     "reservations": 14,
     "total_spend": 769.0,
     "venues": 3,
@@ -130,6 +146,7 @@
   {
     "city": "Cincinnati",
     "state": "OH",
+    "country": "US",
     "reservations": 5,
     "total_spend": 652.0,
     "venues": 3,
@@ -138,6 +155,7 @@
   {
     "city": "Charlotte",
     "state": "NC",
+    "country": "US",
     "reservations": 9,
     "total_spend": 561.05,
     "venues": 5,
@@ -146,6 +164,7 @@
   {
     "city": "Plano",
     "state": "TX",
+    "country": "US",
     "reservations": 15,
     "total_spend": 511.0,
     "venues": 3,
@@ -154,14 +173,16 @@
   {
     "city": "Noblesville",
     "state": "IN",
-    "reservations": 14,
-    "total_spend": 460.0,
+    "country": "US",
+    "reservations": 15,
+    "total_spend": 495.0,
     "venues": 1,
     "members": 1
   },
   {
     "city": "Los Angeles",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 320.0,
     "venues": 1,
@@ -170,6 +191,7 @@
   {
     "city": "Felton",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 220.0,
     "venues": 1,
@@ -178,6 +200,7 @@
   {
     "city": "Mason",
     "state": "OH",
+    "country": "US",
     "reservations": 6,
     "total_spend": 195.0,
     "venues": 1,
@@ -186,6 +209,7 @@
   {
     "city": "Salt Lake City",
     "state": "UT",
+    "country": "US",
     "reservations": 3,
     "total_spend": 183.9,
     "venues": 2,
@@ -194,6 +218,7 @@
   {
     "city": "Morristown",
     "state": "NJ",
+    "country": "US",
     "reservations": 5,
     "total_spend": 175.0,
     "venues": 1,
@@ -202,6 +227,7 @@
   {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 6,
     "total_spend": 165.0,
     "venues": 3,
@@ -210,6 +236,7 @@
   {
     "city": "Cupertino",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 95.0,
     "venues": 1,

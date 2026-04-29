@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f4d54db6-fcbb-49e8-8b6e-fa1f39f5cd22",
+    "venue_name": "The Executive Centre - Jingumae Tower Building",
+    "latitude": 35.670662,
+    "longitude": 139.706726,
+    "reservations": 2,
+    "spend": 79.94
+  },
+  {
+    "venue_id": "a4a59f15-a6f3-45b5-8627-686d4cca1dac",
+    "venue_name": "The Executive Centre - Cerulean Tower",
+    "latitude": 35.65641,
+    "longitude": 139.699356,
+    "reservations": 1,
+    "spend": 43.77
+  }
+]

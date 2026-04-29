@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9e46b78c-dd0a-4ed8-b4cf-b9cc9b195f89",
+    "venue_name": "SPACES || Fairfax",
+    "latitude": 34.073002,
+    "longitude": -118.362,
+    "reservations": 1,
+    "spend": 302.0
+  },
+  {
+    "venue_id": "970dc4dc-1d74-4eca-ae06-7a112a1b5a01",
+    "venue_name": "The Preserve",
+    "latitude": 34.096416,
+    "longitude": -118.310623,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "7378eeb7-3263-4104-8314-0432a42a5289",
+    "venue_name": "Village Workspaces LLC",
+    "latitude": 34.033443,
+    "longitude": -118.452179,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

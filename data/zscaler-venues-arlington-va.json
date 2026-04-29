@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "38bafdcb-020e-4953-979b-544d9d61fe1f",
+    "venue_name": "Regus | Arlington - 2611 S Clark - National Landing",
+    "latitude": 38.849869,
+    "longitude": -77.051918,
+    "reservations": 1,
+    "spend": 95.59
+  },
+  {
+    "venue_id": "2362c47d-aefe-45d7-98a4-6a4df395f59a",
+    "venue_name": "WeWork | 1201 Wilson Blvd",
+    "latitude": 38.895267,
+    "longitude": -77.071266,
+    "reservations": 1,
+    "spend": 47.0
+  }
+]

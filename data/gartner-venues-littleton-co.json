@@ -2,17 +2,25 @@
   {
     "venue_id": "0e251e70-a08a-49c8-8c1c-e62c7c8a7676",
     "venue_name": "Shift Workspaces | Littleton",
-    "latitude": 39.61397171020508,
-    "longitude": -105.01953125,
+    "latitude": 39.613972,
+    "longitude": -105.019531,
     "reservations": 5,
     "spend": 478.0
   },
   {
     "venue_id": "249612f2-98fe-4a97-82a9-45d91bc8dba5",
     "venue_name": "Kiln - Littleton",
-    "latitude": 39.62253952026367,
-    "longitude": -105.01948547363281,
+    "latitude": 39.62254,
+    "longitude": -105.019485,
     "reservations": 5,
     "spend": 350.0
+  },
+  {
+    "venue_id": "1c7da95c-bb04-40bc-8b11-f7b9aaa9b7bf",
+    "venue_name": "Synergy Station CoWorks",
+    "latitude": 39.549023,
+    "longitude": -104.871597,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "626b146b-0610-4ffd-a485-29bba4529c7f",
+    "venue_name": "Hines | The Square at 498 Avenida",
+    "latitude": 19.444975,
+    "longitude": -99.201225,
+    "reservations": 2,
+    "spend": 174.99
+  },
+  {
+    "venue_id": "cad87beb-2fd2-4955-b551-50520d315cca",
+    "venue_name": "WeWork | Varsovia",
+    "latitude": 19.424484,
+    "longitude": -99.167877,
+    "reservations": 4,
+    "spend": 164.58
+  },
+  {
+    "venue_id": "159d31c4-90c2-488d-99c4-2547f6ccb0a6",
+    "venue_name": "WeWork | Insurgentes Sur 601",
+    "latitude": 19.397467,
+    "longitude": -99.171562,
+    "reservations": 4,
+    "spend": 162.2
+  },
+  {
+    "venue_id": "3cfb078f-461a-4d41-87b4-e399cc3bb605",
+    "venue_name": "WeWork | Montes Urales 424",
+    "latitude": 19.430063,
+    "longitude": -99.207481,
+    "reservations": 1,
+    "spend": 57.89
+  },
+  {
+    "venue_id": "49685273-8e45-4ada-b1a8-1a3a788080b5",
+    "venue_name": "WeWork | Reforma 26",
+    "latitude": 19.434231,
+    "longitude": -99.151352,
+    "reservations": 1,
+    "spend": 40.71
+  },
+  {
+    "venue_id": "a3b9cac9-88a3-4efe-93f9-be59abeabb7b",
+    "venue_name": "WeWork | Insurgentes Sur 1079",
+    "latitude": 19.381187,
+    "longitude": -99.17675,
+    "reservations": 1,
+    "spend": 38.64
+  },
+  {
+    "venue_id": "d85e2ce1-a20b-4c9c-a4ef-23ef1351d0f6",
+    "venue_name": "SPACES | Mexico City, Torre Summa",
+    "latitude": 19.424507,
+    "longitude": -99.168747,
+    "reservations": 2,
+    "spend": 3.89
+  }
+]

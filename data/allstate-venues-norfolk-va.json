@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5b4214cc-49ba-469e-b2c0-b83fd5b3f90b",
+    "venue_name": "Gather | Norfolk",
+    "latitude": 36.845978,
+    "longitude": -76.288055,
+    "reservations": 1,
+    "spend": 800.0
+  },
+  {
+    "venue_id": "99fded41-b095-459f-8361-24abd62cf4f2",
+    "venue_name": "Regus | Dominion Tower",
+    "latitude": 36.84343,
+    "longitude": -76.294197,
+    "reservations": 2,
+    "spend": 664.0
+  }
+]

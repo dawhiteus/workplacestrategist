@@ -2,9 +2,33 @@
   {
     "venue_id": "d4ef8fc0-0561-4ec0-b01d-69a84323f302",
     "venue_name": "FUSE Workspace-City Centre",
-    "latitude": 29.77901840209961,
-    "longitude": -95.56109619140625,
+    "latitude": 29.779018,
+    "longitude": -95.561096,
     "reservations": 3,
     "spend": 1340.0
+  },
+  {
+    "venue_id": "c3ce03aa-b395-454d-b2ef-ee3818ede996",
+    "venue_name": "Lucid Private Offices | Uptown Tanglewood",
+    "latitude": 29.73851,
+    "longitude": -95.478889,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "09c0f554-2246-45ff-80b5-86bd8f1d098d",
+    "venue_name": "Avalon Suites - Tanglewood",
+    "latitude": 29.75038,
+    "longitude": -95.483047,
+    "reservations": 1,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "e51e82fd-6a1a-4e94-a05f-02b527e1ac70",
+    "venue_name": "The Work Well",
+    "latitude": 29.920393,
+    "longitude": -95.615509,
+    "reservations": 2,
+    "spend": 100.0
   }
 ]

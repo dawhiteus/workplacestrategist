@@ -2,6 +2,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 4,
     "total_spend": 545.0,
     "venues": 2,
@@ -10,6 +11,7 @@
   {
     "city": "Redondo Beach",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 170.0,
     "venues": 1,

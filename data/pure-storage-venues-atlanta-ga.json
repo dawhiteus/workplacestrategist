@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
+    "venue_name": "Peachtree Offices at Downtown, Inc.",
+    "latitude": 33.760399,
+    "longitude": -84.387466,
+    "reservations": 1,
+    "spend": 170.0
+  },
+  {
+    "venue_id": "5f29755f-19b1-44d5-b163-375ec7986e43",
+    "venue_name": "Lucid Private Offices | Buckhead",
+    "latitude": 33.847836,
+    "longitude": -84.365791,
+    "reservations": 1,
+    "spend": 75.0
+  }
+]

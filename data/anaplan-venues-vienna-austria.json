@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "7bcdc0c2-4e89-46ff-a234-b9c225afa88d",
+    "venue_name": "Regus | Vienna, Icon Tower",
+    "latitude": 48.185917,
+    "longitude": 16.376511,
+    "reservations": 14,
+    "spend": 3662.84
+  },
+  {
+    "venue_id": "a3081ad8-0f0e-4e0d-a782-2a4379c31f8a",
+    "venue_name": "SPACES | Vienna, Francis",
+    "latitude": 48.226295,
+    "longitude": 16.360804,
+    "reservations": 6,
+    "spend": 1825.37
+  },
+  {
+    "venue_id": "69aea8f0-9db9-4cde-9020-481a9fe3f96e",
+    "venue_name": "Regus | Vienna, Graben 19",
+    "latitude": 48.209499,
+    "longitude": 16.368299,
+    "reservations": 21,
+    "spend": 1743.26
+  },
+  {
+    "venue_id": "26b1d0b3-9f96-4bc4-bf82-ece598ebd21d",
+    "venue_name": "SPACES | Vienna, Schwarzenbergplatz",
+    "latitude": 48.201084,
+    "longitude": 16.375471,
+    "reservations": 14,
+    "spend": 1665.69
+  },
+  {
+    "venue_id": "e26558c8-9e85-41df-9c5a-3795328b35c3",
+    "venue_name": "SPACES | Vienna, Icon Central Station",
+    "latitude": 48.18454,
+    "longitude": 16.37817,
+    "reservations": 5,
+    "spend": 1469.08
+  },
+  {
+    "venue_id": "823dc269-aec4-4ea0-8254-0c8d36ea0448",
+    "venue_name": "Regus | Vienna, Le Palais",
+    "latitude": 48.2085,
+    "longitude": 16.366316,
+    "reservations": 12,
+    "spend": 1436.51
+  },
+  {
+    "venue_id": "2c31b528-7969-4f62-b5b9-d7519ca50dfc",
+    "venue_name": "Regus | VIENNA, Fleischmarkt",
+    "latitude": 48.210999,
+    "longitude": 16.375799,
+    "reservations": 2,
+    "spend": 1079.95
+  },
+  {
+    "venue_id": "10fba81e-95db-4637-a2e8-6706cc175b21",
+    "venue_name": "Regus | Vienna, DC Tower",
+    "latitude": 48.231899,
+    "longitude": 16.413,
+    "reservations": 10,
+    "spend": 1078.97
+  },
+  {
+    "venue_id": "8e9f0445-6b2c-4792-a83f-da0a4c683eb7",
+    "venue_name": "Regus | Vienna, Kohlmarkt",
+    "latitude": 48.208801,
+    "longitude": 16.367399,
+    "reservations": 6,
+    "spend": 631.84
+  },
+  {
+    "venue_id": "fa79cabf-7c40-4907-8993-e077ac02493a",
+    "venue_name": "Regus | Vienna, Opera",
+    "latitude": 48.202354,
+    "longitude": 16.370901,
+    "reservations": 7,
+    "spend": 602.62
+  },
+  {
+    "venue_id": "ae68880f-fde2-461c-810e-bd182a135c03",
+    "venue_name": "Regus | Vienna, Fleischmarkt",
+    "latitude": 48.210999,
+    "longitude": 16.375799,
+    "reservations": 6,
+    "spend": 397.04
+  },
+  {
+    "venue_id": "78e2fe12-a2ef-45f8-9808-553a57d65ab9",
+    "venue_name": "Regus | Vienna, Flybridge",
+    "latitude": 48.200298,
+    "longitude": 16.354401,
+    "reservations": 4,
+    "spend": 268.01
+  }
+]

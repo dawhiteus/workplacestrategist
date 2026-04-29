@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "add1b8ad-7cdc-451c-90ad-75084dd3d7d5",
+    "venue_name": "Hub Australia | Wynyard",
+    "latitude": -33.865334,
+    "longitude": 151.206558,
+    "reservations": 19,
+    "spend": 18910.86
+  },
+  {
+    "venue_id": "e9c35ecd-bfec-456c-8733-2b9566d8f99c",
+    "venue_name": "workspace365 - Bond Centre",
+    "latitude": -33.86459,
+    "longitude": 151.208496,
+    "reservations": 10,
+    "spend": 1486.21
+  },
+  {
+    "venue_id": "2fec2bbc-70cf-4cde-ae3b-867bd4e18cb8",
+    "venue_name": "The Executive Centre - Angel Place",
+    "latitude": -33.866272,
+    "longitude": 151.208374,
+    "reservations": 2,
+    "spend": 812.69
+  },
+  {
+    "venue_id": "d18a9f60-2ae3-4d24-a3d3-4fd21817029b",
+    "venue_name": "The Executive Centre - Three International Towers",
+    "latitude": -33.865059,
+    "longitude": 151.201904,
+    "reservations": 2,
+    "spend": 405.45
+  },
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 1,
+    "spend": 280.91
+  },
+  {
+    "venue_id": "c6474e6e-6585-4844-b9dc-4294812482b4",
+    "venue_name": "The Executive Centre - One Bligh Street",
+    "latitude": -33.864731,
+    "longitude": 151.21051,
+    "reservations": 1,
+    "spend": 147.02
+  }
+]

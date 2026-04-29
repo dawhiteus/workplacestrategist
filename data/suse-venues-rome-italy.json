@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "385814c0-f09e-4475-bfb9-d6c6f0a40d80",
+    "venue_name": "Regus | Rome, Ostiense",
+    "latitude": 41.865532,
+    "longitude": 12.480037,
+    "reservations": 13,
+    "spend": 1136.44
+  },
+  {
+    "venue_id": "f4865df6-c9dc-4aac-8ac5-b19bd799bc77",
+    "venue_name": "Regus | Rome, Sturzo",
+    "latitude": 41.834644,
+    "longitude": 12.466849,
+    "reservations": 15,
+    "spend": 1047.09
+  },
+  {
+    "venue_id": "5137ea85-794e-418d-a914-edf305bc2b36",
+    "venue_name": "SPACES | Rome, Spaces Eur Laurentina",
+    "latitude": 41.825871,
+    "longitude": 12.4842,
+    "reservations": 3,
+    "spend": 892.96
+  },
+  {
+    "venue_id": "98e8ec99-2327-40b5-a23e-f93ecc4e424d",
+    "venue_name": "Regus | Rome, Prati",
+    "latitude": 41.9067,
+    "longitude": 12.4615,
+    "reservations": 9,
+    "spend": 841.6
+  },
+  {
+    "venue_id": "cb8229e5-58b1-43b9-8a59-4aa3c805ae1d",
+    "venue_name": "Regus | Rome, Flaminio",
+    "latitude": 41.913918,
+    "longitude": 12.472581,
+    "reservations": 1,
+    "spend": 279.2
+  },
+  {
+    "venue_id": "4adb65cc-28a6-44c7-9944-0cbc29d7d827",
+    "venue_name": "SPACES | Rome, Spaces Eur Arte",
+    "latitude": 41.831242,
+    "longitude": 12.475528,
+    "reservations": 1,
+    "spend": 250.86
+  },
+  {
+    "venue_id": "5876e75b-2e18-4427-a01f-36f04a6b934a",
+    "venue_name": "Regus | Rome, Tiburtina Piazzale Delle Provincie",
+    "latitude": 41.908699,
+    "longitude": 12.524615,
+    "reservations": 1,
+    "spend": 173.36
+  },
+  {
+    "venue_id": "e0eace55-a120-4843-97e6-bfed51549688",
+    "venue_name": "Regus | Rome, Europarco",
+    "latitude": 41.819885,
+    "longitude": 12.459503,
+    "reservations": 1,
+    "spend": 63.33
+  }
+]

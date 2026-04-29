@@ -2,9 +2,25 @@
   {
     "venue_id": "8dd2cb25-2cfb-4f58-8c1c-2916766a3780",
     "venue_name": "Regus | KY, Lexington - Blazer Parkway",
-    "latitude": 38.00086975097656,
-    "longitude": -84.43382263183594,
-    "reservations": 203,
-    "spend": 39519.83
+    "latitude": 38.00087,
+    "longitude": -84.433823,
+    "reservations": 208,
+    "spend": 40211.54
+  },
+  {
+    "venue_id": "41cb9b3d-5714-46fa-a042-2da10a3d0316",
+    "venue_name": "Regus | Lexington - Monarch Street",
+    "latitude": 38.021393,
+    "longitude": -84.554214,
+    "reservations": 1,
+    "spend": 162.0
+  },
+  {
+    "venue_id": "f0ad30c8-3970-4c84-a36f-8f671bed58d6",
+    "venue_name": "Regus | Lexington - Lewis Hargett Circle",
+    "latitude": 37.995373,
+    "longitude": -84.534782,
+    "reservations": 1,
+    "spend": 118.0
   }
 ]

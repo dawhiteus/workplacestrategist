@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "4a25146a-5a3d-4660-8558-2e7dc4bcc8bb",
+    "venue_name": "SPACES | Dusseldorf Andreasquartier",
+    "latitude": 51.229176,
+    "longitude": 6.774678,
+    "reservations": 7,
+    "spend": 1970.99
+  },
+  {
+    "venue_id": "a90e8563-baf5-49fe-8f11-5ad539e5b05d",
+    "venue_name": "Regus | Dusseldorf, Koe-Bogen",
+    "latitude": 51.227108,
+    "longitude": 6.780819,
+    "reservations": 3,
+    "spend": 571.58
+  },
+  {
+    "venue_id": "6c8065f2-2c74-4c76-ba31-1ef7a72bac60",
+    "venue_name": "Regus | Dusseldorf, Airport City",
+    "latitude": 51.274818,
+    "longitude": 6.769583,
+    "reservations": 1,
+    "spend": 259.03
+  },
+  {
+    "venue_id": "e2cf67e0-2536-4fb5-bf3c-3b712ece5979",
+    "venue_name": "Regus | Dusseldorf Hafenspitze",
+    "latitude": 51.214119,
+    "longitude": 6.74894,
+    "reservations": 1,
+    "spend": 225.67
+  },
+  {
+    "venue_id": "e8bc24f2-06f1-4210-999d-96f4501cf7e3",
+    "venue_name": "Signature | Dusseldorf Koenigsallee 61",
+    "latitude": 51.218563,
+    "longitude": 6.778833,
+    "reservations": 1,
+    "spend": 198.33
+  },
+  {
+    "venue_id": "d8774adc-8490-488f-9414-690ad03b0641",
+    "venue_name": "Regus | Dusseldorf Prinzenpark",
+    "latitude": 51.23679,
+    "longitude": 6.732165,
+    "reservations": 2,
+    "spend": 180.39
+  },
+  {
+    "venue_id": "e5a33b13-2d81-49cc-aa71-a49b340cfed2",
+    "venue_name": "Regus | Dusseldorf Koenigsalee 92a",
+    "latitude": 51.219635,
+    "longitude": 6.779859,
+    "reservations": 1,
+    "spend": 134.6
+  },
+  {
+    "venue_id": "8d601f65-873f-4e54-9c89-6bc8d8e8dd40",
+    "venue_name": "HQ | Dusseldorf, Berliner Allee",
+    "latitude": 51.219498,
+    "longitude": 6.78155,
+    "reservations": 1,
+    "spend": 116.11
+  }
+]

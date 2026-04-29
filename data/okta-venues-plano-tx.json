@@ -1,17 +1,33 @@
 [
   {
+    "venue_id": "c834023a-385e-4947-b214-5af64e599966",
+    "venue_name": "Executive Workspace| Park & Preston",
+    "latitude": 33.029495,
+    "longitude": -96.798935,
+    "reservations": 2,
+    "spend": 375.0
+  },
+  {
     "venue_id": "d5d4bf9b-1682-44aa-93ff-e554c69cab2c",
     "venue_name": "Venture X | Plano East",
-    "latitude": 33.00624465942383,
-    "longitude": -96.70628356933594,
+    "latitude": 33.006245,
+    "longitude": -96.706284,
     "reservations": 5,
     "spend": 230.0
   },
   {
+    "venue_id": "f02c4ec8-1d24-488d-af16-5279ba74e23d",
+    "venue_name": "Legacy Plaza",
+    "latitude": 33.078938,
+    "longitude": -96.809059,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
     "venue_id": "14256972-e1ca-43e1-a67a-1aea183f13da",
     "venue_name": "Venture X | Plano West",
-    "latitude": 33.06393814086914,
-    "longitude": -96.83049774169922,
+    "latitude": 33.063938,
+    "longitude": -96.830498,
     "reservations": 4,
     "spend": 140.0
   }

@@ -1,1 +1,10 @@
-[{"venue_id":"reston-va-venue-1","venue_name":"Roam | Reston Downtown","latitude":38.9286,"longitude":-77.4251,"reservations":30,"spend":6942.5}]
+[
+  {
+    "venue_id": "62ad0f0f-58f8-45f7-ba2e-af93330dc856",
+    "venue_name": "Metro Offices - Reston",
+    "latitude": 38.953232,
+    "longitude": -77.349991,
+    "reservations": 34,
+    "spend": 7927.5
+  }
+]

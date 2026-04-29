@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "18a2e018-136e-4cd7-9905-cde16ab0954b",
+    "venue_name": "TechArtista Downtown",
+    "latitude": 38.62682,
+    "longitude": -90.188316,
+    "reservations": 3,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "8b6212ff-b698-425c-a300-fc059e8e8101",
+    "venue_name": "The Annex Workspace Shrewsbury",
+    "latitude": 38.591259,
+    "longitude": -90.327377,
+    "reservations": 1,
+    "spend": 50.0
+  }
+]

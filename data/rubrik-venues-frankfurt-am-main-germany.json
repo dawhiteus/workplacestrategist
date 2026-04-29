@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e1a2b5b1-ea9b-4f7c-8700-ecd0c75298dc",
+    "venue_name": "SPACES | FRANKFURT, Spaces Omniturm",
+    "latitude": 50.111591,
+    "longitude": 8.6734,
+    "reservations": 1,
+    "spend": 380.02
+  },
+  {
+    "venue_id": "217773ca-2977-4a67-94ff-b6f7133783c4",
+    "venue_name": "Regus | Frankfurt The Squaire Business Centre",
+    "latitude": 50.052727,
+    "longitude": 8.56828,
+    "reservations": 1,
+    "spend": 163.81
+  }
+]

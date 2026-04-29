@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "bec95bc9-b5eb-4daf-8004-f04b46b02058",
+    "venue_name": "COhatch - Ohio City",
+    "latitude": 41.490753,
+    "longitude": -81.710014,
+    "reservations": 7,
+    "spend": 2685.0
+  },
+  {
+    "venue_id": "df59b7e7-60be-4acb-9f3e-76c3f7801b7e",
+    "venue_name": "Regus | Cleveland City Center",
+    "latitude": 41.501366,
+    "longitude": -81.689583,
+    "reservations": 1,
+    "spend": 235.0
+  }
+]

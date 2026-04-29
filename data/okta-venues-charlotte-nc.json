@@ -2,9 +2,17 @@
   {
     "venue_id": "6152ec2f-0851-4611-b63b-a2cfa88d1f92",
     "venue_name": "Venture X | Charlotte - The Refinery",
-    "latitude": 35.22883987426758,
-    "longitude": -80.86164855957031,
+    "latitude": 35.22884,
+    "longitude": -80.861649,
     "reservations": 3,
     "spend": 2211.0
+  },
+  {
+    "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
+    "venue_name": "Expansive - Uptown",
+    "latitude": 35.22784,
+    "longitude": -80.846291,
+    "reservations": 1,
+    "spend": 89.0
   }
 ]

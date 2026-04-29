@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c79ce97f-3fab-40fe-a7fc-39a99a3ba066",
+    "venue_name": "HQ | CA, San Jose - North San Jose",
+    "latitude": 37.396137,
+    "longitude": -121.928436,
+    "reservations": 1,
+    "spend": 262.5
+  },
+  {
+    "venue_id": "85061ae0-cd8c-4364-a569-69bd69d0188e",
+    "venue_name": "SPACES | Santana Row",
+    "latitude": 37.317535,
+    "longitude": -121.947624,
+    "reservations": 1,
+    "spend": 107.04
+  }
+]

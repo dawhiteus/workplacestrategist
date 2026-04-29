@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "aa556cb0-7742-4142-a566-3616ea5c7127",
+    "venue_name": "Regus | Freehold",
+    "latitude": 40.284332,
+    "longitude": -74.295631,
+    "reservations": 1,
+    "spend": 213.46
+  },
+  {
     "venue_id": "4290ba09-5c61-40ee-8984-dd1fa8f7a76a",
     "venue_name": "Mind & Body CCS",
-    "latitude": 40.24694061279297,
-    "longitude": -74.27437591552734,
+    "latitude": 40.246941,
+    "longitude": -74.274376,
     "reservations": 2,
     "spend": 200.0
   }

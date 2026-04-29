@@ -2,9 +2,17 @@
   {
     "venue_id": "c9f211ce-4a0a-4b16-96ac-71ce13405ade",
     "venue_name": "Dublin Technology Center Workspaces",
-    "latitude": 37.70352554321289,
-    "longitude": -121.92211151123047,
+    "latitude": 37.703526,
+    "longitude": -121.922112,
     "reservations": 4,
     "spend": 3156.0
+  },
+  {
+    "venue_id": "5730a0b6-8eaf-402d-88fb-2abcaa276fa7",
+    "venue_name": "580 Executive Center",
+    "latitude": 37.6991,
+    "longitude": -121.944138,
+    "reservations": 1,
+    "spend": 165.0
   }
 ]

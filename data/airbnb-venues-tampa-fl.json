@@ -2,17 +2,33 @@
   {
     "venue_id": "a9ed4dac-4f9b-43bb-9969-cc69900fd846",
     "venue_name": "CoWorkTampa",
-    "latitude": 27.967622756958008,
-    "longitude": -82.48515319824219,
+    "latitude": 27.967623,
+    "longitude": -82.485153,
     "reservations": 3,
     "spend": 661.0
   },
   {
+    "venue_id": "de002319-059e-45cc-a379-ddd3775a2a64",
+    "venue_name": "Quest Workspaces Rivergate Tampa",
+    "latitude": 27.947868,
+    "longitude": -82.460724,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
     "venue_id": "37c3d46b-7835-4a7d-ab20-ec88e2d8930a",
     "venue_name": "Hyde House Public Studio",
-    "latitude": 27.935163497924805,
-    "longitude": -82.47663116455078,
+    "latitude": 27.935163,
+    "longitude": -82.476631,
     "reservations": 4,
     "spend": 200.0
+  },
+  {
+    "venue_id": "f36be385-ea35-4534-abb0-0cac35cf51c7",
+    "venue_name": "Office Evolution - Tampa | Harbour Island",
+    "latitude": 27.938725,
+    "longitude": -82.45488,
+    "reservations": 1,
+    "spend": 195.0
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0e7f7c24-ac34-4730-b7b2-8eab94aa70ab",
+    "venue_name": "Regus | Geneva, Rhone 8",
+    "latitude": 46.204155,
+    "longitude": 6.144811,
+    "reservations": 1,
+    "spend": 718.89
+  },
+  {
+    "venue_id": "a481faf0-f787-4d30-9bf9-70fddca72483",
+    "venue_name": "Regus | Geneva, City Centre",
+    "latitude": 46.208199,
+    "longitude": 6.12632,
+    "reservations": 2,
+    "spend": 507.4
+  }
+]

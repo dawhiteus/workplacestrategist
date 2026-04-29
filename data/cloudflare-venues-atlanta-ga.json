@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
+    "venue_name": "Peachtree Offices at Downtown, Inc.",
+    "latitude": 33.760399,
+    "longitude": -84.387466,
+    "reservations": 1,
+    "spend": 340.0
+  },
+  {
+    "venue_id": "0ca9b1f3-0ec1-4aee-a60b-981710f98887",
+    "venue_name": "Alkaloid Networks",
+    "latitude": 33.758904,
+    "longitude": -84.364799,
+    "reservations": 1,
+    "spend": 300.0
+  }
+]

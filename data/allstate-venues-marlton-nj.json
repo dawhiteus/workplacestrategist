@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2ed27f9f-5b32-4d7b-a3f1-114bd3f8b5cb",
+    "venue_name": "AEC - Marlton",
+    "latitude": 39.89122,
+    "longitude": -74.921829,
+    "reservations": 4,
+    "spend": 1260.0
+  },
+  {
+    "venue_id": "8c288e5a-2360-4ab7-a2bc-78f13fd47c31",
+    "venue_name": "Intelligent Office Marlton",
+    "latitude": 39.901272,
+    "longitude": -74.936218,
+    "reservations": 1,
+    "spend": 250.0
+  }
+]

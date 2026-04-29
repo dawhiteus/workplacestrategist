@@ -2,9 +2,25 @@
   {
     "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
     "venue_name": "SURF Incubator",
-    "latitude": 47.60531997680664,
-    "longitude": -122.33389282226562,
+    "latitude": 47.60532,
+    "longitude": -122.333893,
     "reservations": 3,
     "spend": 1056.0
+  },
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.611729,
+    "longitude": -122.344368,
+    "reservations": 1,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "fe7c09e6-0ece-4b22-b834-aaa369c25b3d",
+    "venue_name": "Expansive - Pioneer Building",
+    "latitude": 47.6022,
+    "longitude": -122.333481,
+    "reservations": 1,
+    "spend": 38.0
   }
 ]

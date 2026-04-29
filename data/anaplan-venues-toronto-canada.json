@@ -1,0 +1,98 @@
+[
+  {
+    "venue_id": "b90c8edb-e898-4aae-b4a5-e8c9d21253ef",
+    "venue_name": "The Professional Centre",
+    "latitude": 43.649906,
+    "longitude": -79.383247,
+    "reservations": 50,
+    "spend": 12233.04
+  },
+  {
+    "venue_id": "51bfbaea-c588-4b0a-a76d-6ba45962f764",
+    "venue_name": "iQ Offices | 250 University Ave.",
+    "latitude": 43.650356,
+    "longitude": -79.386993,
+    "reservations": 8,
+    "spend": 3159.75
+  },
+  {
+    "venue_id": "d6fa3d0a-d0a6-4dfc-956f-37e01b0541aa",
+    "venue_name": "iQ Offices | 302 Bay St.",
+    "latitude": 43.649384,
+    "longitude": -79.380753,
+    "reservations": 6,
+    "spend": 2762.85
+  },
+  {
+    "venue_id": "85bccc07-7406-4ab0-9aad-bc8dbc7640e6",
+    "venue_name": "The Bay Adelaide Centre - TCC Canada",
+    "latitude": 43.650375,
+    "longitude": -79.380707,
+    "reservations": 4,
+    "spend": 1307.92
+  },
+  {
+    "venue_id": "9c6b9ba8-62f1-431b-8c54-6508e29a2f3c",
+    "venue_name": "SPACES | ON, Toronto - Spaces Gladstone",
+    "latitude": 43.643139,
+    "longitude": -79.427628,
+    "reservations": 17,
+    "spend": 524.94
+  },
+  {
+    "venue_id": "66ecd8d2-6693-485b-86b7-beedeceeb1ec",
+    "venue_name": "SPACES | ON, Toronto - Spaces Liberty Village",
+    "latitude": 43.638699,
+    "longitude": -79.421204,
+    "reservations": 3,
+    "spend": 463.84
+  },
+  {
+    "venue_id": "45d41f8d-61b4-4cda-a4c1-f5cdd591f730",
+    "venue_name": "Acme Works",
+    "latitude": 43.643711,
+    "longitude": -79.40876,
+    "reservations": 23,
+    "spend": 453.9
+  },
+  {
+    "venue_id": "90d43cf9-7629-45df-97c1-92db262d5f9d",
+    "venue_name": "Regus | Brookfield Place",
+    "latitude": 43.6465,
+    "longitude": -79.379204,
+    "reservations": 1,
+    "spend": 247.25
+  },
+  {
+    "venue_id": "45e039c2-9a06-48bd-a0b5-d54a3e0b0a9e",
+    "venue_name": "WeWork | 1050 King St W",
+    "latitude": 43.640324,
+    "longitude": -79.421547,
+    "reservations": 2,
+    "spend": 77.32
+  },
+  {
+    "venue_id": "f6448ab4-b9e0-4e73-890c-2641f5fe6f52",
+    "venue_name": "Regus | Liberty Village",
+    "latitude": 43.638371,
+    "longitude": -79.420746,
+    "reservations": 1,
+    "spend": 25.14
+  },
+  {
+    "venue_id": "cb63ab9a-bdf5-482e-9d31-0dc40191cacf",
+    "venue_name": "Sleepless Studios",
+    "latitude": 43.643219,
+    "longitude": -79.408394,
+    "reservations": 1,
+    "spend": 18.13
+  },
+  {
+    "venue_id": "c5083bab-0d66-46e2-887b-48c00bfde77e",
+    "venue_name": "SPACES | ON, Toronto - Spaces Yorkville",
+    "latitude": 43.6707,
+    "longitude": -79.3918,
+    "reservations": 1,
+    "spend": 7.73
+  }
+]

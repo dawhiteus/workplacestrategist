@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c7180b26-62ce-4f41-9de2-74144cddd8d5",
+    "venue_name": "Regus | Bloomington - 4470 W 78th Street Cir",
+    "latitude": 44.859169,
+    "longitude": -93.338341,
+    "reservations": 2,
+    "spend": 117.6
+  },
+  {
+    "venue_id": "28517adb-d8c5-4cda-8386-36d8b1bcea35",
+    "venue_name": "Intelligent Office Bloomington",
+    "latitude": 44.854385,
+    "longitude": -93.356995,
+    "reservations": 2,
+    "spend": 60.0
+  }
+]

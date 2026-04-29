@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3fda6d2b-3b77-44d6-919c-335a522ea63a",
+    "venue_name": "Lucid Private Offices | Mockingbird - SMU",
+    "latitude": 32.84,
+    "longitude": -96.774757,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "7208e016-6cc4-4be7-8a66-605fecc802b3",
+    "venue_name": "Executive Workspace| Hillcrest LBJ",
+    "latitude": 32.922176,
+    "longitude": -96.785431,
+    "reservations": 1,
+    "spend": 165.0
+  },
+  {
+    "venue_id": "d73c947d-30e8-4d2e-9f02-2a5957efb64b",
+    "venue_name": "Intelligent Office Dallas (Las Colinas)",
+    "latitude": 32.898251,
+    "longitude": -96.959846,
+    "reservations": 1,
+    "spend": 60.0
+  }
+]

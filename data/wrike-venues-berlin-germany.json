@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "bd79da40-a2be-4bab-910e-e1f72b7e4808",
+    "venue_name": "WeWork | Stresemannstraße 123",
+    "latitude": 52.507519,
+    "longitude": 13.377856,
+    "reservations": 10,
+    "spend": 457.92
+  },
+  {
+    "venue_id": "1dd51231-36cd-4a70-9f05-82146de3a069",
+    "venue_name": "EDGE Workspaces | Grand Central Berlin",
+    "latitude": 52.52536,
+    "longitude": 13.366766,
+    "reservations": 3,
+    "spend": 70.18
+  }
+]

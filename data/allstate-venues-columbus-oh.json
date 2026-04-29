@@ -1,1 +1,66 @@
-[{"venue_id":"columbus-oh-venue-1","venue_name":"Serendipity Labs | Columbus Downtown","latitude":40.0178,"longitude":-82.9312,"reservations":70,"spend":6705.28},{"venue_id":"columbus-oh-venue-2","venue_name":"CommonGrounds | Columbus North","latitude":39.8793,"longitude":-82.9354,"reservations":41,"spend":3928.15},{"venue_id":"columbus-oh-venue-3","venue_name":"Roam | Columbus West","latitude":39.9566,"longitude":-83.0963,"reservations":33,"spend":3149.21},{"venue_id":"columbus-oh-venue-4","venue_name":"WeWork | Columbus Central","latitude":39.9418,"longitude":-82.9005,"reservations":22,"spend":2120.39},{"venue_id":"columbus-oh-venue-5","venue_name":"HQ | Columbus East","latitude":40.0495,"longitude":-82.9503,"reservations":8,"spend":759.15},{"venue_id":"columbus-oh-venue-6","venue_name":"Flex by JLL | Columbus Financial District","latitude":39.9046,"longitude":-83.1022,"reservations":7,"spend":660.71},{"venue_id":"columbus-oh-venue-7","venue_name":"Industrious | Columbus Midtown","latitude":40.0156,"longitude":-82.9895,"reservations":5,"spend":477.11},{"venue_id":"columbus-oh-venue-8","venue_name":"Coda | Columbus Uptown","latitude":39.9313,"longitude":-83.0117,"reservations":3,"spend":293.5}]
+[
+  {
+    "venue_id": "1b8708fe-ebc6-4d0b-8817-de92d3a50ce4",
+    "venue_name": "Office Evolution - Columbus | Worthington",
+    "latitude": 40.119411,
+    "longitude": -83.010368,
+    "reservations": 72,
+    "spend": 11065.0
+  },
+  {
+    "venue_id": "dc4f9780-43d9-4496-b2e8-92dadb02519f",
+    "venue_name": "Versa Grandview",
+    "latitude": 39.974251,
+    "longitude": -83.053604,
+    "reservations": 88,
+    "spend": 4281.25
+  },
+  {
+    "venue_id": "256880a2-5011-4fc5-ac51-da6955619a0c",
+    "venue_name": "THRIVE | Columbus",
+    "latitude": 39.960777,
+    "longitude": -83.013535,
+    "reservations": 16,
+    "spend": 1860.0
+  },
+  {
+    "venue_id": "715bb50c-5a33-42de-86ee-5f0412328e4f",
+    "venue_name": "Office Evolution - Columbus/Easton Town Center",
+    "latitude": 40.05349,
+    "longitude": -82.916351,
+    "reservations": 3,
+    "spend": 520.0
+  },
+  {
+    "venue_id": "0859e561-0986-4774-a8fd-16b5c061af14",
+    "venue_name": "COhatch - Bexley",
+    "latitude": 39.956566,
+    "longitude": -82.926674,
+    "reservations": 5,
+    "spend": 230.0
+  },
+  {
+    "venue_id": "464c07ba-2722-45f4-9d30-74dd006ffbf5",
+    "venue_name": "COhatch - Polaris",
+    "latitude": 40.145733,
+    "longitude": -82.97805,
+    "reservations": 4,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "77933c5b-a4d3-425b-b35a-11aade7f4de7",
+    "venue_name": "COhatch - Easton",
+    "latitude": 40.055309,
+    "longitude": -82.907425,
+    "reservations": 2,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "f02e354f-12e6-44d5-afcd-0160df147a40",
+    "venue_name": "Workbox Short North",
+    "latitude": 39.980282,
+    "longitude": -83.00441,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

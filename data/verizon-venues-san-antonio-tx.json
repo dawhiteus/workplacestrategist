@@ -2,9 +2,17 @@
   {
     "venue_id": "09fc8055-a112-492c-a8ab-f7ba4dcce66c",
     "venue_name": "Project Cowork",
-    "latitude": 29.535200119018555,
-    "longitude": -98.49291229248047,
-    "reservations": 30,
-    "spend": 9328.0
+    "latitude": 29.5352,
+    "longitude": -98.492912,
+    "reservations": 31,
+    "spend": 9685.0
+  },
+  {
+    "venue_id": "9c3c18c7-1ad4-4a82-b67a-442883f89181",
+    "venue_name": "Regus | San Antonio - NE Loop 410",
+    "latitude": 29.519299,
+    "longitude": -98.490334,
+    "reservations": 1,
+    "spend": 270.0
   }
 ]

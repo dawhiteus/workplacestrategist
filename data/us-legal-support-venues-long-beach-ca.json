@@ -1,10 +1,26 @@
 [
   {
+    "venue_id": "08c61a40-0c04-429b-97aa-6db995e2b703",
+    "venue_name": "(KIL) Kilroy Airport",
+    "latitude": 33.807411,
+    "longitude": -118.145752,
+    "reservations": 1,
+    "spend": 760.0
+  },
+  {
     "venue_id": "792bd408-584c-47c2-bd84-b40bf4a7b371",
     "venue_name": "(LBP) 444 W Ocean",
-    "latitude": 33.76670837402344,
-    "longitude": -118.19760131835938,
+    "latitude": 33.766708,
+    "longitude": -118.197601,
     "reservations": 2,
     "spend": 408.0
+  },
+  {
+    "venue_id": "ed5a6ef7-b8ec-4d2c-b72a-2b39db7f7ee7",
+    "venue_name": "BLANKSPACES Long Beach",
+    "latitude": 33.770752,
+    "longitude": -118.192627,
+    "reservations": 1,
+    "spend": 350.0
   }
 ]

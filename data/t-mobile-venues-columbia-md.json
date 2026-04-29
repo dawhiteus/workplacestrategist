@@ -2,25 +2,33 @@
   {
     "venue_id": "75fa0e19-b3bc-427b-8b5a-942ea959afc8",
     "venue_name": "Secure Offices (Columbia)",
-    "latitude": 39.180057525634766,
-    "longitude": -76.80821228027344,
+    "latitude": 39.180058,
+    "longitude": -76.808212,
     "reservations": 73,
     "spend": 19126.0
   },
   {
     "venue_id": "2349b777-0d49-4668-9dae-0099a138443a",
     "venue_name": "Oasis Office space-Columbia, Maryland",
-    "latitude": 39.214359283447266,
-    "longitude": -76.87079620361328,
+    "latitude": 39.214359,
+    "longitude": -76.870796,
     "reservations": 6,
     "spend": 1127.0
   },
   {
     "venue_id": "5cf4f5fb-3b78-462d-9b5e-4580f972744c",
     "venue_name": "Business Suites of Columbia",
-    "latitude": 39.174461364746094,
-    "longitude": -76.842041015625,
+    "latitude": 39.174461,
+    "longitude": -76.842041,
     "reservations": 3,
     "spend": 450.0
+  },
+  {
+    "venue_id": "ec553462-0db1-4888-be6a-61ac38548363",
+    "venue_name": "Oasis Office space-Minstrel Way",
+    "latitude": 39.178272,
+    "longitude": -76.846573,
+    "reservations": 1,
+    "spend": 230.0
   }
 ]

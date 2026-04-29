@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "602ffd7f-ed22-48e8-b11a-c59773842825",
+    "venue_name": "iQ Offices | 1155 Metcalfe Inc.",
+    "latitude": 45.500252,
+    "longitude": -73.570183,
+    "reservations": 155,
+    "spend": 39204.89
+  },
+  {
+    "venue_id": "70adff44-90e0-4267-a5de-a71b8e4be42b",
+    "venue_name": "Regus | Rene Levesque",
+    "latitude": 45.497398,
+    "longitude": -73.570999,
+    "reservations": 12,
+    "spend": 3029.7
+  },
+  {
+    "venue_id": "968ae5b5-ae04-4095-8400-bc625e974036",
+    "venue_name": "Nuage B",
+    "latitude": 45.475151,
+    "longitude": -73.580093,
+    "reservations": 19,
+    "spend": 2906.81
+  },
+  {
+    "venue_id": "676cce13-c0e1-4bf8-95e0-644abc5262ea",
+    "venue_name": "Regus | University Street",
+    "latitude": 45.504002,
+    "longitude": -73.571503,
+    "reservations": 3,
+    "spend": 700.48
+  },
+  {
+    "venue_id": "4bc84fff-0ee5-414d-9184-701675f4443b",
+    "venue_name": "Regus | Cathcart & McGill",
+    "latitude": 45.501301,
+    "longitude": -73.570801,
+    "reservations": 2,
+    "spend": 615.47
+  },
+  {
+    "venue_id": "0715075a-920c-4f94-be09-fb5a90f2d73e",
+    "venue_name": "DOWNTOWN MTL FULLY EQUIPED BUSINESS SPACE",
+    "latitude": 45.505703,
+    "longitude": -73.567146,
+    "reservations": 1,
+    "spend": 115.79
+  }
+]

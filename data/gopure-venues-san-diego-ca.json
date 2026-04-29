@@ -1,10 +1,26 @@
 [
   {
+    "venue_id": "9dcd2646-55a6-42b5-ba7c-883a253c0a52",
+    "venue_name": "Expansive - Gaslamp",
+    "latitude": 32.716999,
+    "longitude": -117.158966,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
     "venue_id": "3fc5a08c-7b5b-4da5-a5a8-bf5fffaad2af",
     "venue_name": "Mission Cowork",
-    "latitude": 32.764129638671875,
-    "longitude": -117.15290069580078,
+    "latitude": 32.76413,
+    "longitude": -117.152901,
     "reservations": 6,
     "spend": 300.0
+  },
+  {
+    "venue_id": "a421ce28-cd9a-4919-a1a4-32c46d79ab60",
+    "venue_name": "Union Cowork North Park",
+    "latitude": 32.748951,
+    "longitude": -117.12989,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

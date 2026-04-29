@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "a5166700-b48e-4a2c-96d6-097edb7bfe36",
+    "venue_name": "Serendipity Labs - Alpharetta - North Point",
+    "latitude": 34.045681,
+    "longitude": -84.299095,
+    "reservations": 13,
+    "spend": 1311.0
+  },
+  {
+    "venue_id": "3bd6c53a-fe59-4b82-b726-9ec5fec63487",
+    "venue_name": "Office Evolution - Atlanta Office Venture",
+    "latitude": 34.06649,
+    "longitude": -84.278999,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "a18ac80f-1921-43e5-b3c7-35d632731eed",
+    "venue_name": "THRIVE | Alpharetta",
+    "latitude": 34.075443,
+    "longitude": -84.295967,
+    "reservations": 1,
+    "spend": 42.0
+  },
+  {
+    "venue_id": "42523a9d-b3da-4094-8a43-f9769fb68e11",
+    "venue_name": "Lucid Private Offices | Alpharetta - Old Milton Parkway",
+    "latitude": 34.073116,
+    "longitude": -84.258087,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

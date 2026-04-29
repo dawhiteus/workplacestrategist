@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "81d4301d-9647-418b-92e7-62cfe1ca004e",
+    "venue_name": "Regus | Heritage Park",
+    "latitude": 28.5984,
+    "longitude": -81.362,
+    "reservations": 28,
+    "spend": 5152.0
+  },
+  {
+    "venue_id": "12cb24e3-2022-4c01-a118-457b7d978db7",
+    "venue_name": "Crealde Business Center LLC",
+    "latitude": 28.601629,
+    "longitude": -81.320671,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

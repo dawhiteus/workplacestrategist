@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "146f38f2-0165-4d64-94eb-822c29bb5f4f",
+    "venue_name": "Art/Work Coworking",
+    "latitude": 41.889095,
+    "longitude": -87.672836,
+    "reservations": 1,
+    "spend": 340.0
+  },
+  {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890648,
+    "longitude": -87.626839,
+    "reservations": 1,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.890244,
+    "longitude": -87.631897,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

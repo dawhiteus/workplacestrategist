@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "13cc1810-5567-472e-ade8-8091e4c51328",
+    "venue_name": "Lucid Private Offices | Legacy - Frisco",
+    "latitude": 33.070816,
+    "longitude": -96.819946,
+    "reservations": 1,
+    "spend": 595.0
+  },
+  {
+    "venue_id": "14256972-e1ca-43e1-a67a-1aea183f13da",
+    "venue_name": "Venture X | Plano West",
+    "latitude": 33.063938,
+    "longitude": -96.830498,
+    "reservations": 1,
+    "spend": 420.0
+  },
+  {
+    "venue_id": "c834023a-385e-4947-b214-5af64e599966",
+    "venue_name": "Executive Workspace| Park & Preston",
+    "latitude": 33.029495,
+    "longitude": -96.798935,
+    "reservations": 1,
+    "spend": 105.0
+  }
+]

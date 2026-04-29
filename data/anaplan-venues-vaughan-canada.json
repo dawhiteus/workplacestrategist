@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "aae784e1-ae23-4095-bfa0-a52bfdcf001a",
+    "venue_name": "Zemlar Offices - Vaughan",
+    "latitude": 43.793121,
+    "longitude": -79.53199,
+    "reservations": 3,
+    "spend": 554.43
+  },
+  {
+    "venue_id": "1d4993cb-01f7-4c1c-8cff-51a2970dedd6",
+    "venue_name": "Regus | Keele Street",
+    "latitude": 43.834488,
+    "longitude": -79.507042,
+    "reservations": 2,
+    "spend": 335.04
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "acb5029f-dfe8-413d-b94a-aa4b85afae96",
+    "venue_name": "The Executive Centre - World Trade Center South Tower",
+    "latitude": 35.654743,
+    "longitude": 139.756348,
+    "reservations": 6,
+    "spend": 245.96
+  },
+  {
+    "venue_id": "493bc4e0-b574-4dc3-b42a-3dc58ebcc7af",
+    "venue_name": "The Executive Centre - Roppongi Hills North Tower",
+    "latitude": 35.661694,
+    "longitude": 139.729858,
+    "reservations": 5,
+    "spend": 201.62
+  }
+]

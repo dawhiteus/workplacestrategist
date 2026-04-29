@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "f981b533-0fce-4357-8ebd-82931ff93bfe",
+    "venue_name": "Regus | Towne Center",
+    "latitude": 38.98077,
+    "longitude": -76.53997,
+    "reservations": 1,
+    "spend": 693.0
+  },
+  {
     "venue_id": "2112409b-27c3-46da-a4ac-e953f71c96d1",
     "venue_name": "My Annapolis Office",
-    "latitude": 38.9769287109375,
-    "longitude": -76.51229858398438,
+    "latitude": 38.976929,
+    "longitude": -76.512299,
     "reservations": 2,
     "spend": 410.0
   }

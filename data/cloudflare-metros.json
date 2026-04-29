@@ -12,10 +12,10 @@
     "city": "Amsterdam",
     "state": "Netherlands",
     "country": "Netherlands",
-    "reservations": 1223,
-    "total_spend": 104381.97,
-    "venues": 39,
-    "members": 87
+    "reservations": 1225,
+    "total_spend": 100114.68,
+    "venues": 34,
+    "members": 65
   },
   {
     "city": "Toronto",
@@ -23,8 +23,8 @@
     "country": "Canada",
     "reservations": 336,
     "total_spend": 41154.96,
-    "venues": 25,
-    "members": 54
+    "venues": 40,
+    "members": 39
   },
   {
     "city": "Brooklyn",
@@ -39,8 +39,8 @@
     "city": "Seattle",
     "state": "WA",
     "country": "US",
-    "reservations": 273,
-    "total_spend": 15910.31,
+    "reservations": 271,
+    "total_spend": 15830.31,
     "venues": 16,
     "members": 22
   },
@@ -49,18 +49,18 @@
     "state": "Canada",
     "country": "Canada",
     "reservations": 55,
-    "total_spend": 15344.00,
-    "venues": 8,
-    "members": 16
+    "total_spend": 15344.0,
+    "venues": 11,
+    "members": 8
   },
   {
     "city": "Kuala Lumpur",
     "state": "Malaysia",
     "country": "Malaysia",
-    "reservations": 238,
-    "total_spend": 6133.78,
-    "venues": 11,
-    "members": 38
+    "reservations": 244,
+    "total_spend": 6249.33,
+    "venues": 14,
+    "members": 33
   },
   {
     "city": "Utrecht",
@@ -69,23 +69,23 @@
     "reservations": 27,
     "total_spend": 5560.26,
     "venues": 4,
-    "members": 9
+    "members": 12
+  },
+  {
+    "city": "Richmond Hill",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 29,
+    "total_spend": 3907.64,
+    "venues": 2,
+    "members": 7
   },
   {
     "city": "Doral",
     "state": "FL",
     "country": "US",
     "reservations": 10,
-    "total_spend": 2906.00,
-    "venues": 2,
-    "members": 3
-  },
-  {
-    "city": "Zurich",
-    "state": "Switzerland",
-    "country": "Switzerland",
-    "reservations": 4,
-    "total_spend": 2801.76,
+    "total_spend": 2906.0,
     "venues": 2,
     "members": 3
   },
@@ -104,15 +104,15 @@
     "country": "Netherlands",
     "reservations": 13,
     "total_spend": 2507.28,
-    "venues": 2,
-    "members": 5
+    "venues": 3,
+    "members": 7
   },
   {
     "city": "Queens",
     "state": "NY",
     "country": "US",
     "reservations": 59,
-    "total_spend": 2407.00,
+    "total_spend": 2407.0,
     "venues": 3,
     "members": 11
   },
@@ -121,7 +121,7 @@
     "state": "MA",
     "country": "US",
     "reservations": 14,
-    "total_spend": 2162.00,
+    "total_spend": 2162.0,
     "venues": 8,
     "members": 5
   },
@@ -135,29 +135,38 @@
     "members": 2
   },
   {
-    "city": "Berlin",
-    "state": "Germany",
-    "country": "Germany",
-    "reservations": 19,
-    "total_spend": 1160.74,
-    "venues": 7,
-    "members": 8
+    "city": "Zurich",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 3,
+    "total_spend": 1427.99,
+    "venues": 3,
+    "members": 2
   },
   {
     "city": "Jersey City",
     "state": "NJ",
     "country": "US",
     "reservations": 29,
-    "total_spend": 1360.00,
+    "total_spend": 1360.0,
     "venues": 2,
     "members": 3
+  },
+  {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 22,
+    "total_spend": 1340.97,
+    "venues": 3,
+    "members": 1
   },
   {
     "city": "Miami",
     "state": "FL",
     "country": "US",
     "reservations": 4,
-    "total_spend": 1326.00,
+    "total_spend": 1326.0,
     "venues": 3,
     "members": 2
   },
@@ -166,7 +175,7 @@
     "state": "NY",
     "country": "US",
     "reservations": 17,
-    "total_spend": 1225.00,
+    "total_spend": 1225.0,
     "venues": 1,
     "members": 8
   },
@@ -175,7 +184,7 @@
     "state": "WA",
     "country": "US",
     "reservations": 3,
-    "total_spend": 1145.00,
+    "total_spend": 1145.0,
     "venues": 1,
     "members": 2
   },
@@ -184,7 +193,7 @@
     "state": "IL",
     "country": "US",
     "reservations": 4,
-    "total_spend": 982.50,
+    "total_spend": 982.5,
     "venues": 4,
     "members": 4
   },
@@ -193,35 +202,107 @@
     "state": "NJ",
     "country": "US",
     "reservations": 21,
-    "total_spend": 950.00,
+    "total_spend": 950.0,
     "venues": 2,
     "members": 5
+  },
+  {
+    "city": "Mississauga",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 7,
+    "total_spend": 817.7,
+    "venues": 2,
+    "members": 4
   },
   {
     "city": "Miramar",
     "state": "FL",
     "country": "US",
     "reservations": 3,
-    "total_spend": 683.00,
+    "total_spend": 683.0,
     "venues": 1,
     "members": 1
   },
   {
-    "city": "Los Angeles",
-    "state": "CA",
-    "country": "US",
-    "reservations": 3,
-    "total_spend": 210.00,
-    "venues": 1,
-    "members": 1
+    "city": "Petaling Jaya",
+    "state": "Malaysia",
+    "country": "Malaysia",
+    "reservations": 37,
+    "total_spend": 444.02,
+    "venues": 3,
+    "members": 7
   },
   {
     "city": "Long Island City",
     "state": "NY",
     "country": "US",
     "reservations": 4,
-    "total_spend": 264.00,
+    "total_spend": 264.0,
     "venues": 2,
     "members": 2
+  },
+  {
+    "city": "Montreal",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 3,
+    "total_spend": 254.64,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 210.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Cyberjaya",
+    "state": "Malaysia",
+    "country": "Malaysia",
+    "reservations": 13,
+    "total_spend": 142.27,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Union City",
+    "state": "NJ",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 114.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Baltimore",
+    "state": "MD",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 110.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Albany",
+    "state": "NY",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 88.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Shah Alam",
+    "state": "Malaysia",
+    "country": "Malaysia",
+    "reservations": 9,
+    "total_spend": 83.09,
+    "venues": 1,
+    "members": 3
   }
 ]

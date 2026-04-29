@@ -2,17 +2,33 @@
   {
     "venue_id": "74c802c0-2956-40e8-8e17-cfc31475cebc",
     "venue_name": "Mindspace Williamsburg",
-    "latitude": 40.722930908203125,
-    "longitude": -73.95780181884766,
+    "latitude": 40.722931,
+    "longitude": -73.957802,
     "reservations": 49,
     "spend": 2445.0
   },
   {
     "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
     "venue_name": "WeWork | 134 N 4th St",
-    "latitude": 40.716312408447266,
-    "longitude": -73.960205078125,
+    "latitude": 40.716312,
+    "longitude": -73.960205,
     "reservations": 13,
     "spend": 910.0
+  },
+  {
+    "venue_id": "aed40c35-2086-4521-a686-7d1d0f486370",
+    "venue_name": "SPACES | NY, Brooklyn - 115 Myrtle Avenue",
+    "latitude": 40.693989,
+    "longitude": -73.984718,
+    "reservations": 2,
+    "spend": 359.75
+  },
+  {
+    "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
+    "venue_name": "The New Work Project",
+    "latitude": 40.720955,
+    "longitude": -73.958054,
+    "reservations": 1,
+    "spend": 60.0
   }
 ]

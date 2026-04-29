@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f690222b-c325-4a01-87fa-9bcc3700d1f2",
+    "venue_name": "THRIVE | Suwanee",
+    "latitude": 34.052608,
+    "longitude": -84.069145,
+    "reservations": 2,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "33622fcf-a561-4773-ae56-d40bfc0b493d",
+    "venue_name": "FlexSpace 168",
+    "latitude": 34.012024,
+    "longitude": -84.071617,
+    "reservations": 1,
+    "spend": 125.0
+  }
+]

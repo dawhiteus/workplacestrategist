@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "14bb222c-a243-4f67-8f0a-7cdc587c4f6f",
+    "venue_name": "Essential Offices | Union Plaza",
+    "latitude": 35.526768,
+    "longitude": -97.569588,
+    "reservations": 13,
+    "spend": 1040.0
+  },
+  {
+    "venue_id": "0dd6d841-ec8d-4693-88d1-f13ebb8e0c41",
+    "venue_name": "Regus | Oklahoma City - NE 5th St",
+    "latitude": 35.472115,
+    "longitude": -97.50975,
+    "reservations": 1,
+    "spend": 251.0
+  },
+  {
+    "venue_id": "4ca71a57-94f1-41f2-8193-185e2ea2a5dc",
+    "venue_name": "Regus | Park Avenue",
+    "latitude": 35.469002,
+    "longitude": -97.514801,
+    "reservations": 1,
+    "spend": 118.0
+  }
+]

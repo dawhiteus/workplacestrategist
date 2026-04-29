@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "13829a00-137b-4607-a092-a540e3533b4d",
+    "venue_name": "WeWork | Edinburgh 80 George Street",
+    "latitude": 55.952549,
+    "longitude": -3.201091,
+    "reservations": 126,
+    "spend": 11935.73
+  },
+  {
+    "venue_id": "cae7da30-84c1-47cf-b7ea-9a23ef74468b",
+    "venue_name": "Guy & Co",
+    "latitude": 55.953106,
+    "longitude": -3.196691,
+    "reservations": 1,
+    "spend": 237.81
+  }
+]

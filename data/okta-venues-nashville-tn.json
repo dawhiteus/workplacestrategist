@@ -2,9 +2,41 @@
   {
     "venue_id": "76724307-e72d-42b2-85f4-ab07bc29a845",
     "venue_name": "Werkstatt360 Green Hills",
-    "latitude": 36.09946823120117,
-    "longitude": -86.82134246826172,
+    "latitude": 36.099468,
+    "longitude": -86.821342,
     "reservations": 5,
     "spend": 1145.0
+  },
+  {
+    "venue_id": "87f97586-8faa-4cc6-8d04-31fa86229597",
+    "venue_name": "Oak Barrel Building",
+    "latitude": 36.107491,
+    "longitude": -86.755119,
+    "reservations": 1,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "7c8203af-facc-4efb-9067-7d2339a26de2",
+    "venue_name": "Industrious - Downtown Nashville ",
+    "latitude": 36.16494,
+    "longitude": -86.780807,
+    "reservations": 2,
+    "spend": 190.0
+  },
+  {
+    "venue_id": "f5c3a82e-d526-4077-8eab-975e70badd05",
+    "venue_name": "Three One Three | Inglewood",
+    "latitude": 36.211609,
+    "longitude": -86.733154,
+    "reservations": 1,
+    "spend": 145.0
+  },
+  {
+    "venue_id": "9aca2365-70bd-4b9e-9ce8-f86225b0b8c2",
+    "venue_name": "Intelligent Office - Nashville",
+    "latitude": 36.165878,
+    "longitude": -86.779633,
+    "reservations": 1,
+    "spend": 110.0
   }
 ]

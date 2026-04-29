@@ -2,33 +2,113 @@
   {
     "venue_id": "59dff76c-3092-401d-87a1-91b8116d0b37",
     "venue_name": "Industrious - Willis Tower",
-    "latitude": 41.87887954711914,
-    "longitude": -87.63651275634766,
+    "latitude": 41.87888,
+    "longitude": -87.636513,
     "reservations": 18,
     "spend": 9633.0
   },
   {
     "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
     "venue_name": "Expansive - West Loop",
-    "latitude": 41.87944030761719,
-    "longitude": -87.6360092163086,
+    "latitude": 41.87944,
+    "longitude": -87.636009,
     "reservations": 6,
     "spend": 2962.5
   },
   {
+    "venue_id": "f410938d-a98e-426e-ba4b-b902b44750b2",
+    "venue_name": "Do Tank",
+    "latitude": 41.889805,
+    "longitude": -87.628517,
+    "reservations": 1,
+    "spend": 2400.0
+  },
+  {
+    "venue_id": "0d093338-4f27-4d95-8c3d-f94c76775494",
+    "venue_name": "Regus | IL, Chicago - O'Hare Airport",
+    "latitude": 41.983021,
+    "longitude": -87.845268,
+    "reservations": 1,
+    "spend": 1395.0
+  },
+  {
+    "venue_id": "9deb4de2-3b75-4b80-91a1-d226443d67ed",
+    "venue_name": "Industrious - Millennium Park",
+    "latitude": 41.883343,
+    "longitude": -87.626953,
+    "reservations": 2,
+    "spend": 1066.0
+  },
+  {
     "venue_id": "2928c52a-db27-4575-ae19-474fa5da5418",
-    "venue_name": "Regus | Chicago \u201a\u00c4\u00ec 110 North Wacker Drive",
-    "latitude": 41.883487701416016,
-    "longitude": -87.63742065429688,
+    "venue_name": "Regus | Chicago ‚Äì 110 North Wacker Drive",
+    "latitude": 41.883488,
+    "longitude": -87.637421,
     "reservations": 3,
     "spend": 645.0
   },
   {
     "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
     "venue_name": "HUB116 - River North",
-    "latitude": 41.89024353027344,
-    "longitude": -87.63189697265625,
+    "latitude": 41.890244,
+    "longitude": -87.631897,
     "reservations": 3,
     "spend": 515.0
+  },
+  {
+    "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
+    "venue_name": "350 Coworking | 350 N. Orleans",
+    "latitude": 41.888039,
+    "longitude": -87.637657,
+    "reservations": 1,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890648,
+    "longitude": -87.626839,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "96750f60-4917-4b7c-9b9e-e5f48d21536f",
+    "venue_name": "Regus | Fulton Market",
+    "latitude": 41.8848,
+    "longitude": -87.650902,
+    "reservations": 1,
+    "spend": 190.0
+  },
+  {
+    "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
+    "venue_name": "Working From_",
+    "latitude": 41.885857,
+    "longitude": -87.649055,
+    "reservations": 2,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "04ed0f0a-e91f-4273-b13b-649fc0778f38",
+    "venue_name": "Expansive - North Center",
+    "latitude": 41.951618,
+    "longitude": -87.674217,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "7a22b705-f275-4617-b9c7-b3b4da3bc9d4",
+    "venue_name": "Expansive - Pru",
+    "latitude": 41.885433,
+    "longitude": -87.622726,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "c8075780-e397-465b-b631-4b4cd8d62ccd",
+    "venue_name": "Second Shift",
+    "latitude": 41.932182,
+    "longitude": -87.713608,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

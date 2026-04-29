@@ -1,18 +1,98 @@
 [
   {
+    "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
+    "venue_name": "The Malin Flatiron",
+    "latitude": 40.738895,
+    "longitude": -73.98999,
+    "reservations": 2,
+    "spend": 1650.0
+  },
+  {
     "venue_id": "f7b141a0-8e11-0132-226b-1efb49eb59b4",
     "venue_name": "WeWork | 85 Broad St",
-    "latitude": 40.7039909362793,
-    "longitude": -74.01109313964844,
+    "latitude": 40.703991,
+    "longitude": -74.011093,
     "reservations": 11,
     "spend": 498.0
   },
   {
     "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
     "venue_name": "The Malin NoMad",
-    "latitude": 40.74280548095703,
-    "longitude": -73.98406219482422,
+    "latitude": 40.742805,
+    "longitude": -73.984062,
     "reservations": 3,
     "spend": 225.0
+  },
+  {
+    "venue_id": "5830d0be-10b2-4571-bea2-b0850e7fff11",
+    "venue_name": "Industrious - Bowery",
+    "latitude": 40.721188,
+    "longitude": -73.994064,
+    "reservations": 1,
+    "spend": 125.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825,
+    "longitude": -74.013031,
+    "reservations": 2,
+    "spend": 80.0
+  },
+  {
+    "venue_id": "2f52b55c-1d12-42e2-9da8-9ad647594711",
+    "venue_name": "Industrious - Fulton Center",
+    "latitude": 40.710415,
+    "longitude": -74.009743,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "9546da66-4fef-4298-8537-c0f7a90cffa2",
+    "venue_name": "Regus | Brookfield Place",
+    "latitude": 40.713699,
+    "longitude": -74.014801,
+    "reservations": 1,
+    "spend": 54.31
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.756721,
+    "longitude": -73.980042,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "f95608c8-df6f-4002-a155-684ee892c98c",
+    "venue_name": "Luminary",
+    "latitude": 40.746319,
+    "longitude": -73.988289,
+    "reservations": 1,
+    "spend": 39.0
+  },
+  {
+    "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
+    "venue_name": "The Yard: Lower East Side NYC",
+    "latitude": 40.718731,
+    "longitude": -73.989693,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "d5b2c5d3-97ba-493b-b11e-992302b93a33",
+    "venue_name": "WeWork | 408 Broadway",
+    "latitude": 40.71888,
+    "longitude": -74.001854,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855,
+    "longitude": -74.00898,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "26f90ab0-d179-471d-8242-ab651d99447f",
     "venue_name": "Regus | New Hampshire, Bedford - Independence Place",
-    "latitude": 42.95459747314453,
-    "longitude": -71.50476837158203,
+    "latitude": 42.954597,
+    "longitude": -71.504768,
     "reservations": 3,
     "spend": 609.14
+  },
+  {
+    "venue_id": "ed040db8-aa55-4f78-8584-40019b9ac25a",
+    "venue_name": "CEO Bedford, Inc.",
+    "latitude": 42.948891,
+    "longitude": -71.476631,
+    "reservations": 1,
+    "spend": 280.0
   }
 ]

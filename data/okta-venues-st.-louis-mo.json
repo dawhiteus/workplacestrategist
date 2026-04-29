@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "18a2e018-136e-4cd7-9905-cde16ab0954b",
+    "venue_name": "TechArtista Downtown",
+    "latitude": 38.62682,
+    "longitude": -90.188316,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "a25f3528-72c2-430e-979d-d5ea38a74880",
+    "venue_name": "TechArtista CWE",
+    "latitude": 38.650009,
+    "longitude": -90.260178,
+    "reservations": 1,
+    "spend": 60.0
+  }
+]

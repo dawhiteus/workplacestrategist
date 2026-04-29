@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cc1db618-3cd5-4a44-a3bc-69b138f4572b",
+    "venue_name": "Regus | Manila, Eco Tower - Bonifacio Global City",
+    "latitude": 14.5528,
+    "longitude": 121.052002,
+    "reservations": 5,
+    "spend": 575.74
+  },
+  {
+    "venue_id": "32107c1a-b5fd-4559-9726-df637fbcfca9",
+    "venue_name": "SPACES | Manila, World Plaza, Bonifacio Global City",
+    "latitude": 14.5532,
+    "longitude": 121.047997,
+    "reservations": 4,
+    "spend": 405.74
+  }
+]

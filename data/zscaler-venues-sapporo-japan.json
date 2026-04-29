@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d9f799b9-f491-42b1-a796-543a7c487900",
+    "venue_name": "Regus | Sapporo, Sapporo Ekimae-dori",
+    "latitude": 43.065697,
+    "longitude": 141.350418,
+    "reservations": 4,
+    "spend": 246.56
+  },
+  {
+    "venue_id": "ca2a3ef7-200c-4efc-98d9-9272e0db3c28",
+    "venue_name": "Regus | Sapporo, Odori",
+    "latitude": 43.060535,
+    "longitude": 141.356354,
+    "reservations": 2,
+    "spend": 171.73
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "66cb8b20-7d7c-4404-a982-67cded7f04fb",
+    "venue_name": "SPACES | SYDNEY, 60 Martin Place",
+    "latitude": -33.867516,
+    "longitude": 151.211975,
+    "reservations": 3,
+    "spend": 4085.1
+  },
+  {
+    "venue_id": "eacc95e1-515b-4fa9-ab60-d5bd2e408242",
+    "venue_name": "Hub Australia | Martin Place",
+    "latitude": -33.867321,
+    "longitude": 151.209549,
+    "reservations": 2,
+    "spend": 2739.38
+  },
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 3,
+    "spend": 1765.02
+  },
+  {
+    "venue_id": "cde95df0-8cce-4dfc-9218-c2a3bb1616c6",
+    "venue_name": "FlexSpot Macquarie",
+    "latitude": -33.86412,
+    "longitude": 151.212479,
+    "reservations": 1,
+    "spend": 410.75
+  },
+  {
+    "venue_id": "5b54c168-18eb-4ff4-befd-2c42a87b7cef",
+    "venue_name": "WeWork | 1 Sussex St",
+    "latitude": -33.863949,
+    "longitude": 151.202789,
+    "reservations": 2,
+    "spend": 86.39
+  }
+]

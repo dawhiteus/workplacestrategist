@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "343393db-9d8c-4259-bb75-86d85cf3850d",
+    "venue_name": "Awfis | Coworking-Vasavi MPM Ameerpet",
+    "latitude": 17.434223,
+    "longitude": 78.445084,
+    "reservations": 13,
+    "spend": 549.21
+  },
+  {
+    "venue_id": "597b4125-d094-447c-8042-cdd088195913",
+    "venue_name": "The Executive Centre - Salarpuria Knowledge City L7-8",
+    "latitude": 17.432186,
+    "longitude": 78.386955,
+    "reservations": 3,
+    "spend": 516.7
+  },
+  {
+    "venue_id": "c66ffd8a-741b-4915-aee4-e31cd0cb334c",
+    "venue_name": "Awfis | Coworking-HiTech City 3",
+    "latitude": 17.45109,
+    "longitude": 78.370613,
+    "reservations": 6,
+    "spend": 329.63
+  },
+  {
+    "venue_id": "01cdceb7-8d9c-4039-8579-a5923530e078",
+    "venue_name": "The Executive Centre - Salarpuria Knowledge City ",
+    "latitude": 17.432186,
+    "longitude": 78.386955,
+    "reservations": 1,
+    "spend": 246.77
+  },
+  {
+    "venue_id": "c0ad7a33-1b81-4401-9eec-6bf751bf2e6d",
+    "venue_name": "Regus | HYDERABAD, Manjeera Trinity",
+    "latitude": 17.498899,
+    "longitude": 78.393303,
+    "reservations": 1,
+    "spend": 95.75
+  },
+  {
+    "venue_id": "3cd72261-b34b-4079-a89b-eb4727094d99",
+    "venue_name": "Awfis | Coworking-Taj Deccan",
+    "latitude": 17.416889,
+    "longitude": 78.438667,
+    "reservations": 1,
+    "spend": 52.54
+  }
+]

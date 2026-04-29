@@ -2,9 +2,17 @@
   {
     "venue_id": "f1d5c900-8325-4733-8f53-21c0c869826a",
     "venue_name": "Connect Consulting Services",
-    "latitude": 38.57802963256836,
-    "longitude": -121.48605346679688,
+    "latitude": 38.57803,
+    "longitude": -121.486053,
     "reservations": 17,
     "spend": 525.0
+  },
+  {
+    "venue_id": "165709d0-93d9-4ea1-8bea-a1afcc63f7f6",
+    "venue_name": "Capsity Coworking - Oak Park",
+    "latitude": 38.547337,
+    "longitude": -121.465324,
+    "reservations": 1,
+    "spend": 360.0
   }
 ]

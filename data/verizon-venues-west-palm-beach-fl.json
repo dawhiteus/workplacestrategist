@@ -2,9 +2,25 @@
   {
     "venue_id": "7859252e-f548-47ad-a2c0-b87e55d00d13",
     "venue_name": "Office Evolution | West Palm Beach",
-    "latitude": 26.691484451293945,
-    "longitude": -80.07151794433594,
-    "reservations": 16,
-    "spend": 1760.0
+    "latitude": 26.691484,
+    "longitude": -80.071518,
+    "reservations": 17,
+    "spend": 1920.0
+  },
+  {
+    "venue_id": "ba11eec5-4a18-49d4-a27e-f77044b41eba",
+    "venue_name": "Venture X | West Palm Beach - CityPlace",
+    "latitude": 26.70713,
+    "longitude": -80.057022,
+    "reservations": 1,
+    "spend": 420.0
+  },
+  {
+    "venue_id": "f6e8e60b-8b7d-43b2-be6c-7e0152281dc1",
+    "venue_name": "eSuites",
+    "latitude": 26.714029,
+    "longitude": -80.097046,
+    "reservations": 1,
+    "spend": 315.0
   }
 ]

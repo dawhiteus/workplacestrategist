@@ -2,65 +2,113 @@
   {
     "venue_id": "6152ec2f-0851-4611-b63b-a2cfa88d1f92",
     "venue_name": "Venture X | Charlotte - The Refinery",
-    "latitude": 35.22883987426758,
-    "longitude": -80.86164855957031,
+    "latitude": 35.22884,
+    "longitude": -80.861649,
     "reservations": 13,
     "spend": 2927.0
   },
   {
     "venue_id": "54f4f250-e40f-47c3-b446-1c7defaf52f6",
     "venue_name": "WeWork | The RailYard South End",
-    "latitude": 35.21723556518555,
-    "longitude": -80.85576629638672,
+    "latitude": 35.217236,
+    "longitude": -80.855766,
     "reservations": 53,
     "spend": 2654.0
   },
   {
     "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
     "venue_name": "Expansive - Uptown",
-    "latitude": 35.227840423583984,
-    "longitude": -80.8462905883789,
+    "latitude": 35.22784,
+    "longitude": -80.846291,
     "reservations": 8,
     "spend": 1587.0
   },
   {
     "venue_id": "030546d9-6c6d-404b-8fcf-534933c04d92",
     "venue_name": "SPACES | Charlotte - Spaces South End",
-    "latitude": 35.209781646728516,
-    "longitude": -80.86433410644531,
+    "latitude": 35.209782,
+    "longitude": -80.864334,
     "reservations": 4,
     "spend": 524.18
   },
   {
     "venue_id": "56ca5589-69e7-457e-ae98-2707ab38f018",
     "venue_name": "YourOffice - Ballantyne (Charlotte, NC)",
-    "latitude": 35.05923843383789,
-    "longitude": -80.85212707519531,
+    "latitude": 35.059238,
+    "longitude": -80.852127,
     "reservations": 3,
     "spend": 440.0
   },
   {
     "venue_id": "55f283ed-d009-43fa-9de0-30339073d042",
     "venue_name": "Venture X | Charlotte Toringdon",
-    "latitude": 35.06632995605469,
-    "longitude": -80.83941650390625,
+    "latitude": 35.06633,
+    "longitude": -80.839417,
     "reservations": 5,
     "spend": 435.0
   },
   {
     "venue_id": "be06cb29-683b-4340-a888-b4454bba9c6b",
     "venue_name": "YourOffice - SouthPark (Charlotte, NC)",
-    "latitude": 35.14754104614258,
-    "longitude": -80.84305572509766,
+    "latitude": 35.147541,
+    "longitude": -80.843056,
     "reservations": 3,
     "spend": 330.0
   },
   {
     "venue_id": "6fe0a6e4-ef40-4948-b511-d36151d86066",
     "venue_name": "Industrious - Charlotte Trade & Tryon",
-    "latitude": 35.226768493652344,
-    "longitude": -80.8429946899414,
+    "latitude": 35.226768,
+    "longitude": -80.842995,
     "reservations": 3,
     "spend": 189.0
+  },
+  {
+    "venue_id": "cccceb15-8a75-4c27-9b6b-07ff1d294dc0",
+    "venue_name": "Regus | Southpark Fairview (Office Suites Plus)",
+    "latitude": 35.150684,
+    "longitude": -80.840912,
+    "reservations": 1,
+    "spend": 168.0
+  },
+  {
+    "venue_id": "d43c4cbf-23b8-45cc-a4ec-2dbcac85bcb6",
+    "venue_name": "Industrious - NoDa",
+    "latitude": 35.247719,
+    "longitude": -80.805817,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "2a237a10-e9a1-4969-98d0-9c3bd92efb18",
+    "venue_name": "Regus | Piedmont Southpark",
+    "latitude": 35.151402,
+    "longitude": -80.836197,
+    "reservations": 1,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "d0beea29-3b7b-405a-ab36-4b8fed3300c1",
+    "venue_name": "CoCoTiv Coworking",
+    "latitude": 35.167465,
+    "longitude": -80.849106,
+    "reservations": 2,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "a455db3a-1001-434a-a360-c20c9661c623",
+    "venue_name": "SPACES | NC, Charlotte - Spaces South End",
+    "latitude": 35.209782,
+    "longitude": -80.864334,
+    "reservations": 2,
+    "spend": 49.38
+  },
+  {
+    "venue_id": "1c78459c-e5df-4bfb-baae-c57312db265e",
+    "venue_name": "WeWork | 615 S College St",
+    "latitude": 35.221382,
+    "longitude": -80.847954,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

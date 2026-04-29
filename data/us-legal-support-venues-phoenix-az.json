@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "8ef8b6fc-a543-4827-8bbd-ab052249d783",
+    "venue_name": "Office Evolution - Phoenix",
+    "latitude": 33.304596,
+    "longitude": -111.98735,
+    "reservations": 1,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "b88987bd-2428-43c4-919b-f8bf27b2bce9",
+    "venue_name": "Loloft, Phoenix - Flexible Workspace & Event Spaces",
+    "latitude": 33.403969,
+    "longitude": -111.986351,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "a95892c0-1ac3-4e28-bfa1-25830509ec87",
+    "venue_name": "CO+HOOTS-Phoenix",
+    "latitude": 33.491959,
+    "longitude": -112.070503,
+    "reservations": 1,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "d1e5752c-8abb-481b-95ed-177b20dc5cd9",
+    "venue_name": "(PHO) Elevate 24",
+    "latitude": 33.507011,
+    "longitude": -112.030769,
+    "reservations": 1,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "69726878-fe94-4fce-ab73-bf4c730dd15d",
+    "venue_name": "Suxxess",
+    "latitude": 33.322277,
+    "longitude": -111.988251,
+    "reservations": 1,
+    "spend": 189.0
+  }
+]

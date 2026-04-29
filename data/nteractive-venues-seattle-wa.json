@@ -2,9 +2,17 @@
   {
     "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
     "venue_name": "SURF Incubator",
-    "latitude": 47.60531997680664,
-    "longitude": -122.33389282226562,
+    "latitude": 47.60532,
+    "longitude": -122.333893,
     "reservations": 5,
     "spend": 1452.0
+  },
+  {
+    "venue_id": "c1670874-3633-453a-9c72-4f9c9b551116",
+    "venue_name": "Greenfire Loft at Melrose Market",
+    "latitude": 47.614777,
+    "longitude": -122.32811,
+    "reservations": 1,
+    "spend": 450.0
   }
 ]

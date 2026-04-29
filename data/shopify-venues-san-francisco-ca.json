@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.791389,
+    "longitude": -122.392151,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "03dbac2d-0388-4c2b-bd29-f247c6c6e6e4",
+    "venue_name": "EcoSystem Coworking",
+    "latitude": 37.787693,
+    "longitude": -122.397339,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.7812,
+    "longitude": -122.408104,
+    "reservations": 1,
+    "spend": 28.0
+  }
+]

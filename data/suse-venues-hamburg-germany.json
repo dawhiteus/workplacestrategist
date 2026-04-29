@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "7065ef67-061f-4948-87fa-11d91eabad2e",
+    "venue_name": "Regus | Hamburg, Mundsburg Tower",
+    "latitude": 53.571037,
+    "longitude": 10.028171,
+    "reservations": 2,
+    "spend": 272.03
+  },
+  {
+    "venue_id": "af9a743e-f510-4f47-ab00-25ebce44b994",
+    "venue_name": "Regus | Hamburg Neuer Wall",
+    "latitude": 53.551365,
+    "longitude": 9.989195,
+    "reservations": 1,
+    "spend": 80.06
+  }
+]

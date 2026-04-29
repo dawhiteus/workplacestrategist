@@ -2,9 +2,25 @@
   {
     "venue_id": "98b287a0-aaa8-4904-a9dd-7302eadca89b",
     "venue_name": "THRIVE | Greensboro Lewis",
-    "latitude": 36.06591796875,
-    "longitude": -79.79138946533203,
+    "latitude": 36.065918,
+    "longitude": -79.791389,
     "reservations": 5,
     "spend": 1380.0
+  },
+  {
+    "venue_id": "8c0c17cc-2776-406d-8038-fe211cf67aed",
+    "venue_name": "HQ | NC, Greensboro - W Friendly Ave",
+    "latitude": 36.074169,
+    "longitude": -79.796799,
+    "reservations": 2,
+    "spend": 157.78
+  },
+  {
+    "venue_id": "e9e8e281-bbbd-4624-b5bf-f5fc2a3331d7",
+    "venue_name": "Regus | NC, Greensboro - Weybridge Ln",
+    "latitude": 35.995831,
+    "longitude": -79.87265,
+    "reservations": 1,
+    "spend": 119.0
   }
 ]

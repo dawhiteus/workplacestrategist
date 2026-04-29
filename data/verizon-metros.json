@@ -2,6 +2,7 @@
   {
     "city": "Wauwatosa",
     "state": "WI",
+    "country": "US",
     "reservations": 669,
     "total_spend": 243795.0,
     "venues": 1,
@@ -10,54 +11,61 @@
   {
     "city": "Fort Myers",
     "state": "FL",
-    "reservations": 388,
-    "total_spend": 81780.0,
+    "country": "US",
+    "reservations": 389,
+    "total_spend": 82025.0,
     "venues": 3,
     "members": 9
   },
   {
     "city": "Louisville",
     "state": "KY",
-    "reservations": 240,
-    "total_spend": 65173.06,
+    "country": "US",
+    "reservations": 243,
+    "total_spend": 66095.06,
     "venues": 3,
     "members": 2
   },
   {
     "city": "Savannah",
     "state": "GA",
-    "reservations": 83,
-    "total_spend": 52985.4,
+    "country": "US",
+    "reservations": 84,
+    "total_spend": 55185.4,
     "venues": 3,
     "members": 2
   },
   {
     "city": "Madison",
     "state": "WI",
-    "reservations": 147,
-    "total_spend": 43495.82,
+    "country": "US",
+    "reservations": 148,
+    "total_spend": 43825.82,
     "venues": 8,
     "members": 8
   },
   {
     "city": "Lexington",
     "state": "KY",
-    "reservations": 205,
-    "total_spend": 39799.83,
+    "country": "US",
+    "reservations": 210,
+    "total_spend": 40491.54,
     "venues": 3,
     "members": 2
   },
   {
     "city": "Appleton",
     "state": "WI",
-    "reservations": 170,
-    "total_spend": 36494.57,
+    "country": "US",
+    "reservations": 173,
+    "total_spend": 37055.57,
     "venues": 1,
     "members": 6
   },
   {
     "city": "Charlotte",
     "state": "NC",
+    "country": "US",
     "reservations": 121,
     "total_spend": 33969.66,
     "venues": 20,
@@ -66,6 +74,7 @@
   {
     "city": "Fresno",
     "state": "CA",
+    "country": "US",
     "reservations": 30,
     "total_spend": 12134.82,
     "venues": 3,
@@ -74,6 +83,7 @@
   {
     "city": "Lakewood Ranch",
     "state": "FL",
+    "country": "US",
     "reservations": 64,
     "total_spend": 12055.0,
     "venues": 2,
@@ -82,6 +92,7 @@
   {
     "city": "Duluth",
     "state": "GA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 11000.0,
     "venues": 1,
@@ -90,22 +101,25 @@
   {
     "city": "San Antonio",
     "state": "TX",
-    "reservations": 31,
-    "total_spend": 9598.0,
+    "country": "US",
+    "reservations": 32,
+    "total_spend": 9955.0,
     "venues": 2,
     "members": 2
   },
   {
     "city": "Eau Claire",
     "state": "WI",
-    "reservations": 36,
-    "total_spend": 9024.42,
+    "country": "US",
+    "reservations": 37,
+    "total_spend": 9391.92,
     "venues": 1,
     "members": 3
   },
   {
     "city": "North Myrtle Beach",
     "state": "SC",
+    "country": "US",
     "reservations": 37,
     "total_spend": 8845.5,
     "venues": 2,
@@ -114,6 +128,7 @@
   {
     "city": "Seven Fields",
     "state": "PA",
+    "country": "US",
     "reservations": 37,
     "total_spend": 7787.41,
     "venues": 1,
@@ -122,6 +137,7 @@
   {
     "city": "Huntsville",
     "state": "AL",
+    "country": "US",
     "reservations": 36,
     "total_spend": 7210.92,
     "venues": 2,
@@ -130,6 +146,7 @@
   {
     "city": "Knoxville",
     "state": "TN",
+    "country": "US",
     "reservations": 33,
     "total_spend": 6612.26,
     "venues": 4,
@@ -138,38 +155,43 @@
   {
     "city": "Fort Mill",
     "state": "SC",
+    "country": "US",
     "reservations": 22,
     "total_spend": 6425.0,
     "venues": 1,
     "members": 4
   },
   {
+    "city": "Warrendale",
+    "state": "PA",
+    "country": "US",
+    "reservations": 25,
+    "total_spend": 4840.09,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Bradenton",
+    "state": "FL",
+    "country": "US",
+    "reservations": 27,
+    "total_spend": 4720.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
     "city": "Naples",
     "state": "FL",
+    "country": "US",
     "reservations": 15,
     "total_spend": 4397.5,
     "venues": 3,
     "members": 6
   },
   {
-    "city": "Bradenton",
-    "state": "FL",
-    "reservations": 25,
-    "total_spend": 4340.0,
-    "venues": 2,
-    "members": 3
-  },
-  {
-    "city": "Warrendale",
-    "state": "PA",
-    "reservations": 22,
-    "total_spend": 4328.77,
-    "venues": 1,
-    "members": 1
-  },
-  {
     "city": "Milwaukee",
     "state": "WI",
+    "country": "US",
     "reservations": 27,
     "total_spend": 3999.46,
     "venues": 5,
@@ -178,22 +200,25 @@
   {
     "city": "Sioux Falls",
     "state": "SD",
-    "reservations": 9,
-    "total_spend": 3755.0,
+    "country": "US",
+    "reservations": 10,
+    "total_spend": 3815.0,
     "venues": 1,
     "members": 1
   },
   {
     "city": "Chico",
     "state": "CA",
-    "reservations": 68,
-    "total_spend": 3635.0,
+    "country": "US",
+    "reservations": 70,
+    "total_spend": 3725.0,
     "venues": 2,
     "members": 2
   },
   {
     "city": "Delafield",
     "state": "WI",
+    "country": "US",
     "reservations": 37,
     "total_spend": 3419.45,
     "venues": 1,
@@ -202,6 +227,7 @@
   {
     "city": "Port St. Lucie",
     "state": "FL",
+    "country": "US",
     "reservations": 10,
     "total_spend": 3080.0,
     "venues": 1,
@@ -210,6 +236,7 @@
   {
     "city": "Fargo",
     "state": "ND",
+    "country": "US",
     "reservations": 19,
     "total_spend": 2977.0,
     "venues": 2,
@@ -218,6 +245,7 @@
   {
     "city": "Modesto",
     "state": "CA",
+    "country": "US",
     "reservations": 17,
     "total_spend": 2885.0,
     "venues": 2,
@@ -226,6 +254,7 @@
   {
     "city": "De Pere",
     "state": "WI",
+    "country": "US",
     "reservations": 30,
     "total_spend": 2856.24,
     "venues": 1,
@@ -234,14 +263,16 @@
   {
     "city": "West Palm Beach",
     "state": "FL",
-    "reservations": 18,
-    "total_spend": 2495.0,
+    "country": "US",
+    "reservations": 19,
+    "total_spend": 2655.0,
     "venues": 3,
     "members": 3
   },
   {
     "city": "Mobile",
     "state": "AL",
+    "country": "US",
     "reservations": 7,
     "total_spend": 2330.72,
     "venues": 1,
@@ -250,6 +281,7 @@
   {
     "city": "Augusta",
     "state": "GA",
+    "country": "US",
     "reservations": 13,
     "total_spend": 1753.11,
     "venues": 1,
@@ -258,6 +290,7 @@
   {
     "city": "Ft. Myers",
     "state": "FL",
+    "country": "US",
     "reservations": 9,
     "total_spend": 1731.02,
     "venues": 1,
@@ -266,6 +299,7 @@
   {
     "city": "Bluffton",
     "state": "SC",
+    "country": "US",
     "reservations": 6,
     "total_spend": 1599.9,
     "venues": 1,
@@ -274,6 +308,7 @@
   {
     "city": "Stuart",
     "state": "FL",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1495.0,
     "venues": 1,
@@ -282,6 +317,7 @@
   {
     "city": "Orlando",
     "state": "FL",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1416.0,
     "venues": 3,
@@ -290,6 +326,7 @@
   {
     "city": "Ontario",
     "state": "CA",
+    "country": "US",
     "reservations": 7,
     "total_spend": 1260.0,
     "venues": 1,
@@ -298,6 +335,7 @@
   {
     "city": "West Allis",
     "state": "WI",
+    "country": "US",
     "reservations": 6,
     "total_spend": 1250.0,
     "venues": 1,
@@ -306,14 +344,25 @@
   {
     "city": "Birmingham",
     "state": "AL",
-    "reservations": 8,
-    "total_spend": 1210.0,
+    "country": "US",
+    "reservations": 9,
+    "total_spend": 1240.0,
     "venues": 2,
-    "members": 3
+    "members": 4
+  },
+  {
+    "city": "Maumee",
+    "state": "OH",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 973.5,
+    "venues": 1,
+    "members": 1
   },
   {
     "city": "Cranberry Township",
     "state": "PA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 956.17,
     "venues": 1,
@@ -322,6 +371,7 @@
   {
     "city": "Brookfield",
     "state": "WI",
+    "country": "US",
     "reservations": 7,
     "total_spend": 908.85,
     "venues": 3,
@@ -330,6 +380,7 @@
   {
     "city": "Columbia",
     "state": "SC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 818.0,
     "venues": 1,
@@ -338,6 +389,7 @@
   {
     "city": "Virginia Beach",
     "state": "VA",
+    "country": "US",
     "reservations": 9,
     "total_spend": 700.0,
     "venues": 1,
@@ -346,6 +398,7 @@
   {
     "city": "Ridgeland",
     "state": "MS",
+    "country": "US",
     "reservations": 3,
     "total_spend": 588.0,
     "venues": 1,
@@ -354,6 +407,7 @@
   {
     "city": "Sarasota",
     "state": "FL",
+    "country": "US",
     "reservations": 3,
     "total_spend": 550.31,
     "venues": 2,
@@ -362,6 +416,7 @@
   {
     "city": "Sacramento",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 490.0,
     "venues": 2,
@@ -370,6 +425,7 @@
   {
     "city": "Troy",
     "state": "MI",
+    "country": "US",
     "reservations": 3,
     "total_spend": 438.0,
     "venues": 2,
@@ -378,6 +434,7 @@
   {
     "city": "Dearborn",
     "state": "MI",
+    "country": "US",
     "reservations": 3,
     "total_spend": 390.94,
     "venues": 1,
@@ -386,6 +443,7 @@
   {
     "city": "Green Bay",
     "state": "WI",
+    "country": "US",
     "reservations": 3,
     "total_spend": 238.97,
     "venues": 3,

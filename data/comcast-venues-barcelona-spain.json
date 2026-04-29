@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "33c0d8d3-4994-463b-950c-0b8b00c1f6e4",
+    "venue_name": "Regus | Barcelona Avenida Diagonal 640",
+    "latitude": 41.391045,
+    "longitude": 2.135674,
+    "reservations": 105,
+    "spend": 12702.41
+  },
+  {
+    "venue_id": "4f5e75a1-25fd-4134-b1ff-41ae28db7fdd",
+    "venue_name": "Cloudworks Sant Antoni",
+    "latitude": 41.383068,
+    "longitude": 2.155053,
+    "reservations": 5,
+    "spend": 143.85
+  }
+]

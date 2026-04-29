@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d64efd45-1f28-4f75-9abe-8b1980d9a0fd",
+    "venue_name": "Regus | Pembrook Commons",
+    "latitude": 28.63209,
+    "longitude": -81.401825,
+    "reservations": 1,
+    "spend": 95.0
+  },
+  {
+    "venue_id": "dc636eef-6ae2-40ca-9654-7934252c879d",
+    "venue_name": "Serendipity Labs Orlando - Downtown",
+    "latitude": 28.537056,
+    "longitude": -81.379333,
+    "reservations": 1,
+    "spend": 69.0
+  }
+]

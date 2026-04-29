@@ -1,0 +1,170 @@
+[
+  {
+    "venue_id": "86d0b8d8-d128-4450-98ec-7eb0adc437d1",
+    "venue_name": "The Exchange Powered by The Executive Centre",
+    "latitude": 1.284749,
+    "longitude": 103.85199,
+    "reservations": 47,
+    "spend": 31646.21
+  },
+  {
+    "venue_id": "d9a0fe9b-2506-4264-97a8-e4734db6f29b",
+    "venue_name": "Suntec City | Centennial Tower",
+    "latitude": 1.293573,
+    "longitude": 103.860168,
+    "reservations": 66,
+    "spend": 14008.3
+  },
+  {
+    "venue_id": "61e37588-8fff-441b-845e-1a310a13e899",
+    "venue_name": "The Executive Centre - Singapore Land Tower",
+    "latitude": 1.284749,
+    "longitude": 103.85199,
+    "reservations": 17,
+    "spend": 7133.92
+  },
+  {
+    "venue_id": "41ecfe2a-e9b3-48c3-8c7e-bb34ae99f697",
+    "venue_name": "Signature | Singapore Asia Square Tower 1",
+    "latitude": 1.278741,
+    "longitude": 103.851059,
+    "reservations": 8,
+    "spend": 4620.16
+  },
+  {
+    "venue_id": "3a8d86b5-e2c0-4408-9dd1-9722c82770ef",
+    "venue_name": "The Executive Centre - Ocean Financial Centre, Level 4",
+    "latitude": 1.283012,
+    "longitude": 103.852013,
+    "reservations": 1,
+    "spend": 1032.62
+  },
+  {
+    "venue_id": "d903b732-7cd7-4e41-8277-f08e3aa5f18c",
+    "venue_name": "SPACES| Singapore One Raffles Place Mall",
+    "latitude": 1.284175,
+    "longitude": 103.850891,
+    "reservations": 1,
+    "spend": 394.57
+  },
+  {
+    "venue_id": "1848a68d-0cb4-452f-9c27-9a9bfce45cd7",
+    "venue_name": "Regus | Singapore Guoco Tower",
+    "latitude": 1.27699,
+    "longitude": 103.846001,
+    "reservations": 1,
+    "spend": 374.48
+  },
+  {
+    "venue_id": "8034c5a1-23cf-4361-a5e7-f42b1592430a",
+    "venue_name": "Regus | Singapore Galaxis-One North",
+    "latitude": 1.300194,
+    "longitude": 103.788185,
+    "reservations": 1,
+    "spend": 240.13
+  },
+  {
+    "venue_id": "bdbce0de-d5f8-4d25-828b-b0b35c93d3ac",
+    "venue_name": "Kent Ridge | Ascent",
+    "latitude": 1.290953,
+    "longitude": 103.784592,
+    "reservations": 1,
+    "spend": 200.27
+  },
+  {
+    "venue_id": "081a12e3-0eba-486e-9eb2-d19d5811b1b2",
+    "venue_name": "Regus | Singapore One Fullerton",
+    "latitude": 1.285712,
+    "longitude": 103.853958,
+    "reservations": 1,
+    "spend": 194.58
+  },
+  {
+    "venue_id": "99cd6e21-7ec9-4494-bbd3-7a1e6407ca6d",
+    "venue_name": "432 Joo Chiat",
+    "latitude": 1.306851,
+    "longitude": 103.904114,
+    "reservations": 10,
+    "spend": 150.07
+  },
+  {
+    "venue_id": "f3f566bd-1fa5-4a1c-9143-4fcf52769854",
+    "venue_name": "The Executive Centre - Ocean Financial Centre, Level 37",
+    "latitude": 1.283012,
+    "longitude": 103.852013,
+    "reservations": 1,
+    "spend": 133.24
+  },
+  {
+    "venue_id": "fb05d1af-6f88-4d5e-b6df-22bca17d5876",
+    "venue_name": "Regus | Singapore Capitol Piazza",
+    "latitude": 1.293083,
+    "longitude": 103.851357,
+    "reservations": 1,
+    "spend": 109.79
+  },
+  {
+    "venue_id": "2abd7dd1-76ce-4775-94b9-8f134a7b120a",
+    "venue_name": "Regus | Singapore The Signature",
+    "latitude": 1.334777,
+    "longitude": 103.965004,
+    "reservations": 2,
+    "spend": 108.02
+  },
+  {
+    "venue_id": "b0323af7-8516-4b55-8ce9-d6b3a97fa87c",
+    "venue_name": "75 High Street",
+    "latitude": 1.290221,
+    "longitude": 103.849701,
+    "reservations": 1,
+    "spend": 99.81
+  },
+  {
+    "venue_id": "6ba3fe26-109d-4273-abf0-24a5170ded8c",
+    "venue_name": "Bugis | Parkview Square",
+    "latitude": 1.300164,
+    "longitude": 103.857727,
+    "reservations": 1,
+    "spend": 89.84
+  },
+  {
+    "venue_id": "64dc4923-54ab-4a77-8301-c7d05de372cf",
+    "venue_name": "Marina Bay | Asia Square Tower 2",
+    "latitude": 1.27825,
+    "longitude": 103.850883,
+    "reservations": 2,
+    "spend": 79.51
+  },
+  {
+    "venue_id": "b2034df5-b614-4109-b1f9-fc8f8078f1c6",
+    "venue_name": "The Executive Centre - One Raffles Quay",
+    "latitude": 1.281142,
+    "longitude": 103.851929,
+    "reservations": 1,
+    "spend": 44.38
+  },
+  {
+    "venue_id": "4d558f09-adf7-470c-89b1-22ed535b256f",
+    "venue_name": "Boat Quay | 36 Carpenter Street",
+    "latitude": 1.288017,
+    "longitude": 103.84771,
+    "reservations": 1,
+    "spend": 34.24
+  },
+  {
+    "venue_id": "f0e9f79a-f992-4097-b263-6591867402b0",
+    "venue_name": "Super Co at One Holland Village",
+    "latitude": 1.311478,
+    "longitude": 103.793724,
+    "reservations": 1,
+    "spend": 33.82
+  },
+  {
+    "venue_id": "725badeb-20aa-4154-ada9-c47f6ce6ffe4",
+    "venue_name": "Crane | OUE Downtown",
+    "latitude": 1.276758,
+    "longitude": 103.848289,
+    "reservations": 1,
+    "spend": 15.39
+  }
+]

@@ -2,17 +2,25 @@
   {
     "venue_id": "0663e0bc-44a9-418a-b3e4-a27ed86b4618",
     "venue_name": "Satellite Workplaces Campbell",
-    "latitude": 37.28792953491211,
-    "longitude": -121.93329620361328,
+    "latitude": 37.28793,
+    "longitude": -121.933296,
     "reservations": 38,
     "spend": 2445.0
   },
   {
     "venue_id": "20c29e18-cfa7-45d9-bf7a-194a2255c6a0",
     "venue_name": "Regus || Pruneyard",
-    "latitude": 37.28770065307617,
-    "longitude": -121.93499755859375,
+    "latitude": 37.287701,
+    "longitude": -121.934998,
     "reservations": 4,
     "spend": 628.48
+  },
+  {
+    "venue_id": "c8fc46f8-2207-45c3-b732-62bb4f35dd61",
+    "venue_name": "Regus | CA, Campbell - Orchards City Dr",
+    "latitude": 37.286449,
+    "longitude": -121.943115,
+    "reservations": 1,
+    "spend": 28.14
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "06ee9527-f27f-43fe-ae6a-ba36003a0000",
+    "venue_name": "Flex at The Gild",
+    "latitude": 32.863899,
+    "longitude": -96.769119,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "b3a8efd8-f528-4c94-8bef-86100b01344f",
+    "venue_name": "Common Desk - West End",
+    "latitude": 32.783169,
+    "longitude": -96.807869,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

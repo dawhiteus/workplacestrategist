@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "af1514f3-ea9f-4c75-bb32-f82e77c8c862",
+    "venue_name": "OffiCenters at International Plaza",
+    "latitude": 44.859222,
+    "longitude": -93.22686,
+    "reservations": 1,
+    "spend": 480.0
+  },
+  {
+    "venue_id": "c7180b26-62ce-4f41-9de2-74144cddd8d5",
+    "venue_name": "Regus | Bloomington - 4470 W 78th Street Cir",
+    "latitude": 44.859169,
+    "longitude": -93.338341,
+    "reservations": 1,
+    "spend": 270.0
+  }
+]

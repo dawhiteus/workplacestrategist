@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cec3984f-c28b-41c9-b0f7-4f3496385f3a",
+    "venue_name": "Venture X | Greenville Plush Mills",
+    "latitude": 34.843243,
+    "longitude": -82.423096,
+    "reservations": 15,
+    "spend": 1662.0
+  },
+  {
+    "venue_id": "0e48eb63-52be-4bc3-bcce-459f02836294",
+    "venue_name": "THRIVE | Greenville",
+    "latitude": 34.849339,
+    "longitude": -82.400124,
+    "reservations": 4,
+    "spend": 480.0
+  }
+]

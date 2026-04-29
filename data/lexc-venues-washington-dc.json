@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a47350fd-631a-42b0-a789-3435dab970bb",
+    "venue_name": "Launch Workplaces Glover Park",
+    "latitude": 38.919369,
+    "longitude": -77.070389,
+    "reservations": 1,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "6b0653e0-5ebe-4b0b-9025-6bf919d21edc",
+    "venue_name": "Launch Workplaces @ The Ring Building",
+    "latitude": 38.905937,
+    "longitude": -77.041916,
+    "reservations": 1,
+    "spend": 10.0
+  }
+]

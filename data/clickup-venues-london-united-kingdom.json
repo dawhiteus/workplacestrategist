@@ -1,0 +1,74 @@
+[
+  {
+    "venue_id": "1db6b888-00b4-4096-bd2e-02d102366789",
+    "venue_name": "WeWork | 123 Buckingham Palace Rd",
+    "latitude": 51.493855,
+    "longitude": -0.146355,
+    "reservations": 86,
+    "spend": 8712.01
+  },
+  {
+    "venue_id": "dbccfd91-4873-40e3-a9b9-89b7a7b68549",
+    "venue_name": "WeWork | 1 St Katharine's Way",
+    "latitude": 51.507515,
+    "longitude": -0.073805,
+    "reservations": 1,
+    "spend": 90.82
+  },
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 1,
+    "spend": 72.59
+  },
+  {
+    "venue_id": "63b479d0-bb7f-0132-d8ab-0a877159016b",
+    "venue_name": "WeWork | Moor Place",
+    "latitude": 51.518177,
+    "longitude": -0.090545,
+    "reservations": 1,
+    "spend": 71.38
+  },
+  {
+    "venue_id": "61a4d465-0b92-42c6-ae11-c99e76e79afe",
+    "venue_name": "Landmark | Tottenham Court Road",
+    "latitude": 51.52029,
+    "longitude": -0.133392,
+    "reservations": 1,
+    "spend": 61.99
+  },
+  {
+    "venue_id": "d01e4eae-4178-4346-9e3e-5a6405185585",
+    "venue_name": "Landmark | Regent Street",
+    "latitude": 51.510754,
+    "longitude": -0.138251,
+    "reservations": 1,
+    "spend": 60.44
+  },
+  {
+    "venue_id": "bf9ccc81-af3c-4ebe-ad14-c9bb765af549",
+    "venue_name": "Landmark | Victoria, Orchard Place",
+    "latitude": 51.498783,
+    "longitude": -0.13304,
+    "reservations": 1,
+    "spend": 60.05
+  },
+  {
+    "venue_id": "64ff2a46-9d82-4639-bca5-64586435f6db",
+    "venue_name": "SPACES | SPACES Camden",
+    "latitude": 51.541393,
+    "longitude": -0.140225,
+    "reservations": 1,
+    "spend": 53.03
+  },
+  {
+    "venue_id": "c03c9e5e-50e1-459d-ac19-89e86d06214d",
+    "venue_name": "Shoreditch Exchange",
+    "latitude": 51.530167,
+    "longitude": -0.075507,
+    "reservations": 1,
+    "spend": 40.16
+  }
+]

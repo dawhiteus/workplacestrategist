@@ -2,17 +2,25 @@
   {
     "venue_id": "7dda3f5b-fc75-44b8-b8ef-fff812dccb06",
     "venue_name": "Nine3One",
-    "latitude": 37.639854431152344,
-    "longitude": -121.00006866455078,
+    "latitude": 37.639854,
+    "longitude": -121.000069,
     "reservations": 22,
     "spend": 4775.0
   },
   {
     "venue_id": "0ea3a54e-bce8-4aab-a9be-96d2b7e62de5",
     "venue_name": "Aura Office",
-    "latitude": 37.70310974121094,
-    "longitude": -121.0719985961914,
+    "latitude": 37.70311,
+    "longitude": -121.071999,
     "reservations": 3,
     "spend": 510.0
+  },
+  {
+    "venue_id": "328304be-42f5-450e-8327-20f7585d87e0",
+    "venue_name": "Preferred Tiny Homes",
+    "latitude": 37.646187,
+    "longitude": -121.006989,
+    "reservations": 1,
+    "spend": 150.0
   }
 ]

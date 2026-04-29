@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "64ba8dbd-8d97-48d7-8b71-55b66a3b902f",
+    "venue_name": "Regus | Brussels South Station",
+    "latitude": 50.834991,
+    "longitude": 4.337618,
+    "reservations": 2,
+    "spend": 123.58
+  },
+  {
+    "venue_id": "99e9ac40-7e08-404c-a034-6670f3812801",
+    "venue_name": "Regus | Brussels, Louise Centre",
+    "latitude": 50.833,
+    "longitude": 4.35764,
+    "reservations": 1,
+    "spend": 36.31
+  }
+]

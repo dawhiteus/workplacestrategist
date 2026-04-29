@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "b8e128d1-8165-4c90-ae2a-cfa525b23272",
+    "venue_name": "No18 | Atlanta - Buckhead",
+    "latitude": 33.839096,
+    "longitude": -84.378372,
+    "reservations": 1,
+    "spend": 136.5
+  },
+  {
+    "venue_id": "b48bd7b6-6ac6-486e-8611-e606a2c1f699",
+    "venue_name": "Industrious - Atlanta Midtown - 999 Peachtree",
+    "latitude": 33.780964,
+    "longitude": -84.383034,
+    "reservations": 1,
+    "spend": 63.0
+  }
+]

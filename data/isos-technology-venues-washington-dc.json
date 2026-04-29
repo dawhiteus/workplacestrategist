@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "288a0cd0-b01b-4d2f-9fca-e982dc7f2cdd",
+    "venue_name": "District Offices Capitol Hill",
+    "latitude": 38.898991,
+    "longitude": -77.007988,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "afc6f147-75b9-4d5b-a261-04eb0cd6be59",
+    "venue_name": "Oval Offices DC",
+    "latitude": 38.900467,
+    "longitude": -77.038536,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
+    "venue_name": "Mindspace K St",
+    "latitude": 38.902962,
+    "longitude": -77.030716,
+    "reservations": 1,
+    "spend": 32.0
+  },
+  {
+    "venue_id": "82f3b2a6-24ab-41d9-aa46-c5fd3853e639",
+    "venue_name": "District Offices Ronald Reagan Building and ITC",
+    "latitude": 38.889828,
+    "longitude": -77.008881,
+    "reservations": 1,
+    "spend": 25.0
+  },
+  {
+    "venue_id": "4e9cbe0e-f0f8-4040-b781-ae6691e709b6",
+    "venue_name": "District Offices Farragut",
+    "latitude": 38.903351,
+    "longitude": -77.039268,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

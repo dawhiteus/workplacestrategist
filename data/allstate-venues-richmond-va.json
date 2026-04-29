@@ -1,1 +1,42 @@
-[{"venue_id":"richmond-va-venue-1","venue_name":"Roam | Richmond Downtown","latitude":37.5189,"longitude":-77.3445,"reservations":12,"spend":4183.38},{"venue_id":"richmond-va-venue-2","venue_name":"Lucid Private Offices | Richmond North","latitude":37.5297,"longitude":-77.4061,"reservations":9,"spend":3185.45},{"venue_id":"richmond-va-venue-3","venue_name":"Coda | Richmond West","latitude":37.607,"longitude":-77.5091,"reservations":7,"spend":2282.83},{"venue_id":"richmond-va-venue-4","venue_name":"IWG | Richmond Central","latitude":37.612,"longitude":-77.3957,"reservations":5,"spend":1868.9},{"venue_id":"richmond-va-venue-5","venue_name":"Industrious | Richmond East","latitude":37.6173,"longitude":-77.3535,"reservations":5,"spend":1717.07}]
+[
+  {
+    "venue_id": "836cb6bb-0b95-481d-bf4b-d1f1f9c9f756",
+    "venue_name": "Venture X | Richmond",
+    "latitude": 37.570332,
+    "longitude": -77.467934,
+    "reservations": 15,
+    "spend": 5292.6
+  },
+  {
+    "venue_id": "ec9ab7ab-e217-40ca-a597-a0b12034bda7",
+    "venue_name": "Gather - Scott's Addition",
+    "latitude": 37.564377,
+    "longitude": -77.472069,
+    "reservations": 11,
+    "spend": 4885.0
+  },
+  {
+    "venue_id": "f23fb843-ccb2-4654-81ce-326cea85154c",
+    "venue_name": "Expansive - Shockoe Slip",
+    "latitude": 37.535969,
+    "longitude": -77.433937,
+    "reservations": 6,
+    "spend": 2152.0
+  },
+  {
+    "venue_id": "e25e695a-a534-45fd-9785-42531b2c4642",
+    "venue_name": "Gather - Arts District",
+    "latitude": 37.543453,
+    "longitude": -77.438965,
+    "reservations": 3,
+    "spend": 890.0
+  },
+  {
+    "venue_id": "1b5474f4-4824-42d6-ac7e-4e12e2062555",
+    "venue_name": "Regus | Westerre Parkway",
+    "latitude": 37.643799,
+    "longitude": -77.578499,
+    "reservations": 4,
+    "spend": 278.03
+  }
+]

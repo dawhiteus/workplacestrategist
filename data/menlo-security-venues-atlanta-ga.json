@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5f29755f-19b1-44d5-b163-375ec7986e43",
+    "venue_name": "Lucid Private Offices | Buckhead",
+    "latitude": 33.847836,
+    "longitude": -84.365791,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "86141186-529d-4139-b9cc-478751abab4d",
+    "venue_name": "SPACES | The Battery",
+    "latitude": 33.890484,
+    "longitude": -84.46981,
+    "reservations": 1,
+    "spend": 32.5
+  }
+]

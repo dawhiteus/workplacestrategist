@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1a4d8d49-c13e-4ce7-a5a3-59bf781c2743",
+    "venue_name": "The Executive Centre - Shin-Marunouchi Center",
+    "latitude": 35.684109,
+    "longitude": 139.766464,
+    "reservations": 2,
+    "spend": 659.01
+  },
+  {
+    "venue_id": "41d5c1e8-3249-462b-8fae-5cd23d3ef4da",
+    "venue_name": "The Executive Centre - JP Tower",
+    "latitude": 35.679844,
+    "longitude": 139.764725,
+    "reservations": 4,
+    "spend": 482.34
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 18,
+    "spend": 4542.74
+  },
+  {
+    "venue_id": "2b0c31d4-1063-48df-8042-01e63d47a89b",
+    "venue_name": "FORA | 19 Eastbourne Terrace",
+    "latitude": 51.516777,
+    "longitude": -0.178051,
+    "reservations": 2,
+    "spend": 4027.2
+  },
+  {
+    "venue_id": "e73471b9-82da-4281-9746-6d9b88bccbb4",
+    "venue_name": "Regus | London, The Gherkin",
+    "latitude": 51.51453,
+    "longitude": -0.080696,
+    "reservations": 7,
+    "spend": 3264.06
+  },
+  {
+    "venue_id": "df608c67-220b-4e69-8004-37c1134fd9be",
+    "venue_name": "Regus | Liverpool Street St Mary's Axe",
+    "latitude": 51.51577,
+    "longitude": -0.080146,
+    "reservations": 1,
+    "spend": 1251.54
+  },
+  {
+    "venue_id": "24c534dc-69a4-48cc-9144-435070220961",
+    "venue_name": "XCHG London",
+    "latitude": 51.51442,
+    "longitude": -0.083048,
+    "reservations": 1,
+    "spend": 1165.64
+  },
+  {
+    "venue_id": "fd70aa5f-acb2-43bc-9f0f-e6c8ec4dabda",
+    "venue_name": "Regus | London, Paddington - 2 Kingdom Street",
+    "latitude": 51.519001,
+    "longitude": -0.181703,
+    "reservations": 1,
+    "spend": 1127.89
+  },
+  {
+    "venue_id": "10861a3f-862f-4491-b99a-99d05e22d3bc",
+    "venue_name": "FORA | Summit House ",
+    "latitude": 51.518787,
+    "longitude": -0.118815,
+    "reservations": 2,
+    "spend": 1045.58
+  },
+  {
+    "venue_id": "c03c9e5e-50e1-459d-ac19-89e86d06214d",
+    "venue_name": "Shoreditch Exchange",
+    "latitude": 51.530167,
+    "longitude": -0.075507,
+    "reservations": 1,
+    "spend": 890.77
+  },
+  {
+    "venue_id": "d1bfaaf4-d523-4225-9d9a-279799eaf3ef",
+    "venue_name": "WeWork | 2 Eastbourne Terrace",
+    "latitude": 51.517578,
+    "longitude": -0.180429,
+    "reservations": 1,
+    "spend": 842.08
+  },
+  {
+    "venue_id": "10eaddb2-bd00-42d0-8498-f436c45985e3",
+    "venue_name": "Regus | London, Tottenham Court Road",
+    "latitude": 51.521599,
+    "longitude": -0.135591,
+    "reservations": 1,
+    "spend": 643.53
+  },
+  {
+    "venue_id": "602963fe-e862-44e2-ae37-8fb1e807ca95",
+    "venue_name": "Regus | London, Euston - Woburn Place",
+    "latitude": 51.52697,
+    "longitude": -0.130692,
+    "reservations": 2,
+    "spend": 583.11
+  },
+  {
+    "venue_id": "23af8799-59de-4aaa-b12d-33a1be4fa949",
+    "venue_name": "HQ | LONDON, King's Cross St. Pancras",
+    "latitude": 51.527813,
+    "longitude": -0.127189,
+    "reservations": 3,
+    "spend": 550.15
+  },
+  {
+    "venue_id": "f6feb2a2-4666-4f8a-9b9e-bb150f8ba6ca",
+    "venue_name": "Landmark | New Cavendish Street ",
+    "latitude": 51.520229,
+    "longitude": -0.141816,
+    "reservations": 3,
+    "spend": 404.19
+  },
+  {
+    "venue_id": "c7ab9ae3-b212-4df9-8097-7d2219776bd0",
+    "venue_name": "FORA | 50 Liverpool Street",
+    "latitude": 51.517574,
+    "longitude": -0.082188,
+    "reservations": 1,
+    "spend": 370.5
+  },
+  {
+    "venue_id": "4fb0d96c-6d2d-4fc4-a226-eb903d10603b",
+    "venue_name": "Spacemade - Elmtree",
+    "latitude": 51.518074,
+    "longitude": -0.147712,
+    "reservations": 2,
+    "spend": 322.15
+  },
+  {
+    "venue_id": "45b0a5f6-938f-4549-9f0d-603b52961f7e",
+    "venue_name": "Regus | King's Cross",
+    "latitude": 51.529835,
+    "longitude": -0.120174,
+    "reservations": 2,
+    "spend": 276.57
+  },
+  {
+    "venue_id": "0388284b-395b-4c11-805e-009337674c54",
+    "venue_name": "beyond | Kingsbourne House",
+    "latitude": 51.51754,
+    "longitude": -0.119765,
+    "reservations": 1,
+    "spend": 263.73
+  },
+  {
+    "venue_id": "4f126724-9932-4750-ac09-71c219313090",
+    "venue_name": "WeWork | 33 Queen St",
+    "latitude": 51.511566,
+    "longitude": -0.093322,
+    "reservations": 1,
+    "spend": 237.58
+  },
+  {
+    "venue_id": "3cb12451-a103-471b-8579-a545864007f6",
+    "venue_name": "Regus | London, Battersea Power Station (The Engine Room)",
+    "latitude": 51.481888,
+    "longitude": -0.144377,
+    "reservations": 3,
+    "spend": 236.56
+  },
+  {
+    "venue_id": "74b5fd86-7e0d-4674-bcde-6311840f1181",
+    "venue_name": "Landmark | Liverpool Street",
+    "latitude": 51.517399,
+    "longitude": -0.080142,
+    "reservations": 1,
+    "spend": 186.09
+  },
+  {
+    "venue_id": "4d60c014-1217-4e97-abfb-d7dd66b881b4",
+    "venue_name": "Landmark | Kings Cross",
+    "latitude": 51.530693,
+    "longitude": -0.121266,
+    "reservations": 2,
+    "spend": 179.26
+  },
+  {
+    "venue_id": "e63ecfc9-2aa2-41d9-a34a-e426af45760f",
+    "venue_name": "Regus | London, Paddington",
+    "latitude": 51.519054,
+    "longitude": -0.181552,
+    "reservations": 1,
+    "spend": 153.02
+  },
+  {
+    "venue_id": "369d8bc2-1163-40a6-ac2b-0b9994395203",
+    "venue_name": "Landmark | Aldgate Beaufort House",
+    "latitude": 51.515064,
+    "longitude": -0.075847,
+    "reservations": 2,
+    "spend": 104.54
+  },
+  {
+    "venue_id": "0a30f8d1-9003-490c-ba8e-a66357a93f3e",
+    "venue_name": "Landmark | 99 Bishopsgate",
+    "latitude": 51.515881,
+    "longitude": -0.082642,
+    "reservations": 1,
+    "spend": 57.04
+  },
+  {
+    "venue_id": "cb16de05-3486-418b-9233-d6c11fc86de8",
+    "venue_name": "beyond | The Bower",
+    "latitude": 51.525925,
+    "longitude": -0.088666,
+    "reservations": 1,
+    "spend": 56.0
+  },
+  {
+    "venue_id": "98628c22-679b-40b9-897d-1b336b70b769",
+    "venue_name": "Landmark | Farringdon",
+    "latitude": 51.517365,
+    "longitude": -0.101677,
+    "reservations": 1,
+    "spend": 55.41
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "73ae92a0-3e24-4bcf-adda-670d5cb54000",
+    "venue_name": "The Coal Harbour Centre - TCC Canada",
+    "latitude": 49.28614,
+    "longitude": -123.123268,
+    "reservations": 52,
+    "spend": 1705.1
+  },
+  {
+    "venue_id": "65420ed2-808e-4f6f-b50e-ca320ff6e02a",
+    "venue_name": "The Pacific Centre - TCC Canada",
+    "latitude": 49.284374,
+    "longitude": -123.11644,
+    "reservations": 2,
+    "spend": 1172.1
+  },
+  {
+    "venue_id": "0588bb5d-8b15-432d-a9c7-dceaf31d2c99",
+    "venue_name": "Regus | Yaletown",
+    "latitude": 49.276402,
+    "longitude": -123.122002,
+    "reservations": 2,
+    "spend": 287.07
+  }
+]

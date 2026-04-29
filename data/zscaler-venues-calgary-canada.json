@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "d4a53bcd-221d-40dc-8ebb-599637488712",
+    "venue_name": "WeWork | Stephen Avenue Place",
+    "latitude": 51.046638,
+    "longitude": -114.067902,
+    "reservations": 9,
+    "spend": 4702.13
+  },
+  {
+    "venue_id": "ff90024e-df77-48d1-8382-f807a145789b",
+    "venue_name": "Regus | Bankers Hall",
+    "latitude": 51.0453,
+    "longitude": -114.069038,
+    "reservations": 14,
+    "spend": 2157.98
+  },
+  {
+    "venue_id": "322e48fe-8ce0-4dc5-b68f-09c683f00760",
+    "venue_name": "Regus | AB, Calgary - Westmount",
+    "latitude": 51.01067,
+    "longitude": -114.126167,
+    "reservations": 4,
+    "spend": 964.4
+  },
+  {
+    "venue_id": "1b8ec4f5-1d61-4f2b-8afa-6a1e467d88bd",
+    "venue_name": "Regus | AB, Calgary - Telus Sky",
+    "latitude": 51.047661,
+    "longitude": -114.063171,
+    "reservations": 6,
+    "spend": 611.37
+  },
+  {
+    "venue_id": "eaa6fe8b-861c-48b3-9bf5-410e4a200aa8",
+    "venue_name": "Regus | TD Canada Trust",
+    "latitude": 51.046299,
+    "longitude": -114.070999,
+    "reservations": 2,
+    "spend": 266.97
+  },
+  {
+    "venue_id": "279a20a5-9a05-46f4-9a49-4735ecf7ed20",
+    "venue_name": "Regus | Crowfoot Centre",
+    "latitude": 51.129398,
+    "longitude": -114.204002,
+    "reservations": 1,
+    "spend": 48.9
+  }
+]

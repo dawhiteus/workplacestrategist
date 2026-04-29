@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "29b69e4c-0696-4c89-8148-092a050c5767",
+    "venue_name": "DeskLodge House",
+    "latitude": 51.448692,
+    "longitude": -2.587149,
+    "reservations": 1,
+    "spend": 32.84
+  },
+  {
+    "venue_id": "f8e3552d-d79e-4b86-8a6b-ecca50f30e3d",
+    "venue_name": "Landmark | Bristol",
+    "latitude": 51.451614,
+    "longitude": -2.582849,
+    "reservations": 1,
+    "spend": 32.2
+  }
+]

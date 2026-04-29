@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "78ad4e25-2ecc-4694-922d-62ec5e2661bd",
+    "venue_name": "Hines | The Square at Bowen Building",
+    "latitude": 38.900955,
+    "longitude": -77.033325,
+    "reservations": 1,
+    "spend": 360.0
+  },
+  {
+    "venue_id": "d90b573b-a732-4423-924b-06b7487d99fb",
+    "venue_name": "District Offices Georgetown",
+    "latitude": 38.904339,
+    "longitude": -77.058907,
+    "reservations": 1,
+    "spend": 210.0
+  }
+]

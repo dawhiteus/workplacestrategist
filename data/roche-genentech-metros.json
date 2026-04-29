@@ -2,6 +2,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 65,
     "total_spend": 45097.0,
     "venues": 25,
@@ -10,6 +11,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 42,
     "total_spend": 19138.7,
     "venues": 12,
@@ -18,6 +20,7 @@
   {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 46,
     "total_spend": 17514.0,
     "venues": 8,
@@ -26,14 +29,25 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 34,
     "total_spend": 12381.0,
     "venues": 13,
     "members": 10
   },
   {
+    "city": "Glen Allen",
+    "state": "VA",
+    "country": "US",
+    "reservations": 18,
+    "total_spend": 6930.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
     "city": "Houston",
     "state": "TX",
+    "country": "US",
     "reservations": 16,
     "total_spend": 6579.85,
     "venues": 8,
@@ -42,6 +56,7 @@
   {
     "city": "Dublin",
     "state": "CA",
+    "country": "US",
     "reservations": 133,
     "total_spend": 6452.0,
     "venues": 2,
@@ -50,6 +65,7 @@
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 29,
     "total_spend": 6325.0,
     "venues": 12,
@@ -58,6 +74,7 @@
   {
     "city": "Milwaukee",
     "state": "WI",
+    "country": "US",
     "reservations": 11,
     "total_spend": 6078.5,
     "venues": 2,
@@ -66,22 +83,16 @@
   {
     "city": "Richmond",
     "state": "VA",
+    "country": "US",
     "reservations": 12,
     "total_spend": 5952.5,
     "venues": 3,
     "members": 2
   },
   {
-    "city": "Glen Allen",
-    "state": "VA",
-    "reservations": 17,
-    "total_spend": 5730.0,
-    "venues": 2,
-    "members": 4
-  },
-  {
     "city": "Burlington",
     "state": "MA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 4374.0,
     "venues": 2,
@@ -90,6 +101,7 @@
   {
     "city": "Scottsdale",
     "state": "AZ",
+    "country": "US",
     "reservations": 17,
     "total_spend": 4190.0,
     "venues": 5,
@@ -98,6 +110,7 @@
   {
     "city": "Portland",
     "state": "OR",
+    "country": "US",
     "reservations": 17,
     "total_spend": 4135.0,
     "venues": 3,
@@ -106,6 +119,7 @@
   {
     "city": "Walnut Creek",
     "state": "CA",
+    "country": "US",
     "reservations": 23,
     "total_spend": 3959.0,
     "venues": 3,
@@ -114,6 +128,7 @@
   {
     "city": "Alpharetta",
     "state": "GA",
+    "country": "US",
     "reservations": 12,
     "total_spend": 3858.0,
     "venues": 4,
@@ -122,6 +137,7 @@
   {
     "city": "Fort Lauderdale",
     "state": "FL",
+    "country": "US",
     "reservations": 7,
     "total_spend": 3850.0,
     "venues": 3,
@@ -130,6 +146,7 @@
   {
     "city": "Renton",
     "state": "WA",
+    "country": "US",
     "reservations": 15,
     "total_spend": 3609.03,
     "venues": 1,
@@ -138,6 +155,7 @@
   {
     "city": "Nashville",
     "state": "TN",
+    "country": "US",
     "reservations": 7,
     "total_spend": 3490.0,
     "venues": 4,
@@ -146,6 +164,7 @@
   {
     "city": "Sunnyvale",
     "state": "CA",
+    "country": "US",
     "reservations": 80,
     "total_spend": 3176.86,
     "venues": 2,
@@ -154,6 +173,7 @@
   {
     "city": "West Allis",
     "state": "WI",
+    "country": "US",
     "reservations": 5,
     "total_spend": 3140.0,
     "venues": 1,
@@ -162,6 +182,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 9,
     "total_spend": 3098.0,
     "venues": 7,
@@ -170,6 +191,7 @@
   {
     "city": "Carmel",
     "state": "IN",
+    "country": "US",
     "reservations": 16,
     "total_spend": 2875.88,
     "venues": 2,
@@ -178,6 +200,7 @@
   {
     "city": "Knoxville",
     "state": "TN",
+    "country": "US",
     "reservations": 6,
     "total_spend": 2831.0,
     "venues": 2,
@@ -186,6 +209,7 @@
   {
     "city": "Orlando",
     "state": "FL",
+    "country": "US",
     "reservations": 12,
     "total_spend": 2820.0,
     "venues": 4,
@@ -194,6 +218,7 @@
   {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 10,
     "total_spend": 2791.0,
     "venues": 6,
@@ -202,6 +227,7 @@
   {
     "city": "Omaha",
     "state": "NE",
+    "country": "US",
     "reservations": 9,
     "total_spend": 2666.0,
     "venues": 2,
@@ -210,6 +236,7 @@
   {
     "city": "Burlingame",
     "state": "CA",
+    "country": "US",
     "reservations": 16,
     "total_spend": 2625.0,
     "venues": 1,
@@ -218,6 +245,7 @@
   {
     "city": "New Orleans",
     "state": "LA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 2500.0,
     "venues": 2,
@@ -226,6 +254,7 @@
   {
     "city": "Jersey City",
     "state": "NJ",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2400.0,
     "venues": 1,
@@ -234,6 +263,7 @@
   {
     "city": "Spokane",
     "state": "WA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 2265.0,
     "venues": 1,
@@ -242,6 +272,7 @@
   {
     "city": "Bellevue",
     "state": "WA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 2105.0,
     "venues": 1,
@@ -250,6 +281,7 @@
   {
     "city": "Los Angeles",
     "state": "CA",
+    "country": "US",
     "reservations": 9,
     "total_spend": 1887.21,
     "venues": 5,
@@ -258,6 +290,7 @@
   {
     "city": "Irvine",
     "state": "CA",
+    "country": "US",
     "reservations": 9,
     "total_spend": 1796.7,
     "venues": 7,
@@ -266,6 +299,7 @@
   {
     "city": "Los Gatos",
     "state": "CA",
+    "country": "US",
     "reservations": 23,
     "total_spend": 1775.0,
     "venues": 1,
@@ -274,6 +308,7 @@
   {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1695.0,
     "venues": 4,
@@ -282,6 +317,7 @@
   {
     "city": "Fishers",
     "state": "IN",
+    "country": "US",
     "reservations": 12,
     "total_spend": 1680.0,
     "venues": 1,
@@ -290,6 +326,7 @@
   {
     "city": "Mill Valley",
     "state": "CA",
+    "country": "US",
     "reservations": 6,
     "total_spend": 1550.0,
     "venues": 1,
@@ -298,6 +335,7 @@
   {
     "city": "Oakland",
     "state": "CA",
+    "country": "US",
     "reservations": 14,
     "total_spend": 1517.0,
     "venues": 7,
@@ -306,6 +344,7 @@
   {
     "city": "Overland Park",
     "state": "KS",
+    "country": "US",
     "reservations": 8,
     "total_spend": 1389.97,
     "venues": 1,
@@ -314,6 +353,7 @@
   {
     "city": "Irving",
     "state": "TX",
+    "country": "US",
     "reservations": 6,
     "total_spend": 1280.0,
     "venues": 3,
@@ -322,6 +362,7 @@
   {
     "city": "Phoenix",
     "state": "AZ",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1219.0,
     "venues": 2,
@@ -330,6 +371,7 @@
   {
     "city": "San Ramon",
     "state": "CA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 1209.25,
     "venues": 2,
@@ -338,6 +380,7 @@
   {
     "city": "Plano",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1120.0,
     "venues": 3,
@@ -346,6 +389,7 @@
   {
     "city": "Grapevine",
     "state": "TX",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1105.0,
     "venues": 2,
@@ -354,6 +398,7 @@
   {
     "city": "Lafayette",
     "state": "CA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 1090.0,
     "venues": 1,
@@ -362,6 +407,7 @@
   {
     "city": "Frisco",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 925.0,
     "venues": 1,
@@ -370,14 +416,25 @@
   {
     "city": "Sacramento",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 880.0,
     "venues": 2,
     "members": 4
   },
   {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 831.67,
+    "venues": 6,
+    "members": 4
+  },
+  {
     "city": "Durham",
     "state": "NC",
+    "country": "US",
     "reservations": 7,
     "total_spend": 778.0,
     "venues": 3,
@@ -386,22 +443,16 @@
   {
     "city": "Tysons",
     "state": "VA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 720.0,
     "venues": 1,
     "members": 1
   },
   {
-    "city": "Dallas",
-    "state": "TX",
-    "reservations": 7,
-    "total_spend": 711.67,
-    "venues": 5,
-    "members": 4
-  },
-  {
     "city": "Tacoma",
     "state": "WA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 695.0,
     "venues": 2,
@@ -410,6 +461,7 @@
   {
     "city": "San Antonio",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 660.0,
     "venues": 2,
@@ -418,6 +470,7 @@
   {
     "city": "St. Louis",
     "state": "MO",
+    "country": "US",
     "reservations": 3,
     "total_spend": 618.0,
     "venues": 2,
@@ -426,6 +479,7 @@
   {
     "city": "Needham",
     "state": "MA",
+    "country": "US",
     "reservations": 20,
     "total_spend": 580.0,
     "venues": 1,
@@ -434,6 +488,7 @@
   {
     "city": "Folsom",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 550.0,
     "venues": 2,
@@ -442,6 +497,7 @@
   {
     "city": "Pasadena",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 525.0,
     "venues": 2,
@@ -450,6 +506,7 @@
   {
     "city": "San Mateo",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 425.0,
     "venues": 1,
@@ -458,6 +515,7 @@
   {
     "city": "Newport Beach",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 405.0,
     "venues": 3,
@@ -466,6 +524,7 @@
   {
     "city": "El Dorado Hills",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 344.0,
     "venues": 2,
@@ -474,6 +533,7 @@
   {
     "city": "Cincinnati",
     "state": "OH",
+    "country": "US",
     "reservations": 3,
     "total_spend": 342.5,
     "venues": 2,
@@ -482,6 +542,7 @@
   {
     "city": "Orange",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 300.0,
     "venues": 1,
@@ -490,6 +551,7 @@
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 9,
     "total_spend": 282.0,
     "venues": 3,
@@ -498,6 +560,7 @@
   {
     "city": "South Orange",
     "state": "NJ",
+    "country": "US",
     "reservations": 5,
     "total_spend": 194.0,
     "venues": 1,

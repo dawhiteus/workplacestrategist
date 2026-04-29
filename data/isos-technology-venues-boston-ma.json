@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2439de9a-3b24-4848-b837-4abc2bd5d70c",
+    "venue_name": "Regus | Seaport - One Marina Park",
+    "latitude": 42.353199,
+    "longitude": -71.045403,
+    "reservations": 1,
+    "spend": 570.0
+  },
+  {
+    "venue_id": "3f791a67-e47e-48d9-81c8-d2f408d964bf",
+    "venue_name": "Staples Coworking Boston (Government Center)",
+    "latitude": 42.359295,
+    "longitude": -71.057991,
+    "reservations": 1,
+    "spend": 29.0
+  }
+]

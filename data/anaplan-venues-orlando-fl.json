@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "dc636eef-6ae2-40ca-9654-7934252c879d",
+    "venue_name": "Serendipity Labs Orlando - Downtown",
+    "latitude": 28.537056,
+    "longitude": -81.379333,
+    "reservations": 2,
+    "spend": 98.0
+  },
+  {
+    "venue_id": "fe7cb8c1-7d06-40a7-8b7b-38d5d0322818",
+    "venue_name": "Venture X | Downtown Orlando",
+    "latitude": 28.541105,
+    "longitude": -81.3769,
+    "reservations": 2,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "4ebfc06a-9caf-44f5-9dcc-b5849a8e7927",
+    "venue_name": "Expansive - Angebilt Building",
+    "latitude": 28.542749,
+    "longitude": -81.378883,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

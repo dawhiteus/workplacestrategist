@@ -2,9 +2,17 @@
   {
     "venue_id": "63fa9b7c-6a7a-4762-a0d6-9669dc070675",
     "venue_name": "Urban Co-Works Holyoke",
-    "latitude": 42.173702239990234,
-    "longitude": -72.63963317871094,
+    "latitude": 42.173702,
+    "longitude": -72.639633,
     "reservations": 14,
     "spend": 1495.0
+  },
+  {
+    "venue_id": "7c878804-c5ca-4a82-8dae-19db9c7ac654",
+    "venue_name": "Cubit Coworks",
+    "latitude": 42.202961,
+    "longitude": -72.605164,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

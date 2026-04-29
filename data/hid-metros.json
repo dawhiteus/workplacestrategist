@@ -1,0 +1,11 @@
+[
+  {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 2000.0,
+    "venues": 1,
+    "members": 1
+  }
+]

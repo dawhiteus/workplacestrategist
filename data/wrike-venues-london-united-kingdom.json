@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 4,
+    "spend": 1753.65
+  },
+  {
+    "venue_id": "90406f1d-4294-41a5-b136-0b966d71a607",
+    "venue_name": "Regus | London, Covent Garden St Martin's Lane",
+    "latitude": 51.511208,
+    "longitude": -0.126995,
+    "reservations": 1,
+    "spend": 175.5
+  },
+  {
+    "venue_id": "cbcc9f36-b3ac-4bc0-866e-19c65b08b5aa",
+    "venue_name": "WeWork | 8 Devonshire Square",
+    "latitude": 51.516899,
+    "longitude": -0.077955,
+    "reservations": 1,
+    "spend": 76.74
+  },
+  {
+    "venue_id": "1b1eef39-01c8-49e8-90d4-d2c8cbeff3df",
+    "venue_name": "Regus | London, Strand",
+    "latitude": 51.508389,
+    "longitude": -0.126372,
+    "reservations": 1,
+    "spend": 41.19
+  },
+  {
+    "venue_id": "5070db02-3b8e-448a-9400-b47deb662a08",
+    "venue_name": "HQ | London, Vauxhall",
+    "latitude": 51.489601,
+    "longitude": -0.122598,
+    "reservations": 1,
+    "spend": 24.21
+  }
+]

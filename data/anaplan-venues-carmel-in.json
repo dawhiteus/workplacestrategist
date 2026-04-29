@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "63e681e4-e0ec-40d7-a4d2-4e85bdb5a0a2",
+    "venue_name": "Serendipity Labs Carmel",
+    "latitude": 39.974392,
+    "longitude": -86.129303,
+    "reservations": 1,
+    "spend": 49.0
+  },
+  {
+    "venue_id": "f4775df5-1e59-479e-85b1-822a417cf602",
+    "venue_name": "COhatch - Carmel",
+    "latitude": 39.978668,
+    "longitude": -86.126099,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

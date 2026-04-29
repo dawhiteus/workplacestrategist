@@ -2,9 +2,17 @@
   {
     "venue_id": "3b5f3de0-3201-45dd-8c0b-a71fdc9fc1ea",
     "venue_name": "Workbar Framingham",
-    "latitude": 42.30984878540039,
-    "longitude": -71.38565826416016,
-    "reservations": 2,
-    "spend": 859.0
+    "latitude": 42.309849,
+    "longitude": -71.385658,
+    "reservations": 3,
+    "spend": 1009.0
+  },
+  {
+    "venue_id": "b8033547-2b88-49b8-8dd9-3f1e95fd6746",
+    "venue_name": "Regus | Framingham",
+    "latitude": 42.303406,
+    "longitude": -71.404243,
+    "reservations": 1,
+    "spend": 329.0
   }
 ]

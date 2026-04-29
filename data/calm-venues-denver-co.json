@@ -2,17 +2,25 @@
   {
     "venue_id": "c1ca6830-86b1-446e-8486-4a12ee7ab1da",
     "venue_name": "Shift Workspaces | Bannock",
-    "latitude": 39.73221969604492,
-    "longitude": -104.99066162109375,
+    "latitude": 39.73222,
+    "longitude": -104.990662,
     "reservations": 11,
     "spend": 330.0
   },
   {
     "venue_id": "d34effe4-cff3-4f94-a9dc-a43e6ca1af1d",
     "venue_name": "Enterprise Coworking | RiNo",
-    "latitude": 39.76162338256836,
-    "longitude": -104.97962951660156,
+    "latitude": 39.761623,
+    "longitude": -104.97963,
     "reservations": 7,
     "spend": 140.0
+  },
+  {
+    "venue_id": "910ef650-913f-4b10-868f-01a2a058c19c",
+    "venue_name": "GRID Collaborative Workspaces- Denver",
+    "latitude": 39.723492,
+    "longitude": -104.987984,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

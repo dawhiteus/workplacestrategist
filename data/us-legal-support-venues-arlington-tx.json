@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "39ade719-e25f-4280-863f-816f7a95c450",
+    "venue_name": "NuvoDesk Coworking",
+    "latitude": 32.706955,
+    "longitude": -97.057785,
+    "reservations": 1,
+    "spend": 315.0
+  },
+  {
     "venue_id": "965baca4-126a-45ef-adc0-794ea77dc59d",
     "venue_name": "Union Worx Coworking",
-    "latitude": 32.737361907958984,
-    "longitude": -97.10233306884766,
+    "latitude": 32.737362,
+    "longitude": -97.102333,
     "reservations": 2,
     "spend": 200.0
   }

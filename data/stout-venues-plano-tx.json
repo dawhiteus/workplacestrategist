@@ -2,17 +2,33 @@
   {
     "venue_id": "ef626851-b4e5-4943-a085-b65c6291bc8c",
     "venue_name": "Serendipity Labs - Plano - Legacy West",
-    "latitude": 33.08556365966797,
-    "longitude": -96.83732604980469,
+    "latitude": 33.085564,
+    "longitude": -96.837326,
     "reservations": 5,
     "spend": 245.0
   },
   {
     "venue_id": "65867243-9a17-411d-b265-e59e5519ddcb",
     "venue_name": "Common Desk - Granite Park",
-    "latitude": 33.08755111694336,
-    "longitude": -96.82111358642578,
+    "latitude": 33.087551,
+    "longitude": -96.821114,
     "reservations": 3,
     "spend": 75.0
+  },
+  {
+    "venue_id": "d5d4bf9b-1682-44aa-93ff-e554c69cab2c",
+    "venue_name": "Venture X | Plano East",
+    "latitude": 33.006245,
+    "longitude": -96.706284,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "8c6522a0-60a7-41a2-89f5-34dfb015fda2",
+    "venue_name": "HQ || Plano on Park",
+    "latitude": 33.029659,
+    "longitude": -96.706078,
+    "reservations": 1,
+    "spend": 36.0
   }
 ]

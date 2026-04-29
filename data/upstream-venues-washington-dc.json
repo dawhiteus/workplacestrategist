@@ -2,17 +2,57 @@
   {
     "venue_id": "796f43d4-0a91-4719-a601-affc392f1795",
     "venue_name": "The Yard: Eastern Market",
-    "latitude": 38.88448715209961,
-    "longitude": -76.99543762207031,
+    "latitude": 38.884487,
+    "longitude": -76.995438,
     "reservations": 10,
     "spend": 2555.0
   },
   {
     "venue_id": "8af21f9e-b2f6-4074-b26f-8f196ed31bc3",
     "venue_name": "SPACES | DC, Washington- 800 Maine Avenue",
-    "latitude": 38.8797607421875,
-    "longitude": -77.02462768554688,
+    "latitude": 38.879761,
+    "longitude": -77.024628,
     "reservations": 5,
     "spend": 1058.21
+  },
+  {
+    "venue_id": "6579c778-1a5a-45e6-944b-5ef820d80b59",
+    "venue_name": "Industrious - Mt. Vernon Triangle",
+    "latitude": 38.901535,
+    "longitude": -77.02153,
+    "reservations": 2,
+    "spend": 720.0
+  },
+  {
+    "venue_id": "afc6f147-75b9-4d5b-a261-04eb0cd6be59",
+    "venue_name": "Oval Offices DC",
+    "latitude": 38.900467,
+    "longitude": -77.038536,
+    "reservations": 2,
+    "spend": 545.0
+  },
+  {
+    "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
+    "venue_name": "Mindspace K St",
+    "latitude": 38.902962,
+    "longitude": -77.030716,
+    "reservations": 1,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "a47350fd-631a-42b0-a789-3435dab970bb",
+    "venue_name": "Launch Workplaces Glover Park",
+    "latitude": 38.919369,
+    "longitude": -77.070389,
+    "reservations": 1,
+    "spend": 180.0
+  },
+  {
+    "venue_id": "d90b573b-a732-4423-924b-06b7487d99fb",
+    "venue_name": "District Offices Georgetown",
+    "latitude": 38.904339,
+    "longitude": -77.058907,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

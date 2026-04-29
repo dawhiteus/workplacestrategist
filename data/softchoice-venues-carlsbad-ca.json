@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "78898a9c-579a-44d0-bcfd-25739dc47639",
+    "venue_name": "TrueWork",
+    "latitude": 33.128185,
+    "longitude": -117.326988,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "e1dbee10-1612-4433-a9de-207317c06d71",
+    "venue_name": "Regus | Pacific Center",
+    "latitude": 33.121532,
+    "longitude": -117.323715,
+    "reservations": 1,
+    "spend": 139.0
+  }
+]

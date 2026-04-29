@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "e4f7cd77-f0d6-4d5f-b2dc-b65768342fcb",
+    "venue_name": "Werkstatt360",
+    "latitude": 36.030701,
+    "longitude": -86.77636,
+    "reservations": 1,
+    "spend": 195.0
+  },
+  {
+    "venue_id": "194a6c9b-ddcd-4086-9627-f777d0d3b733",
+    "venue_name": "Regus | TN, Brentwood - Summit View Drive",
+    "latitude": 36.038448,
+    "longitude": -86.779053,
+    "reservations": 1,
+    "spend": 14.63
+  }
+]

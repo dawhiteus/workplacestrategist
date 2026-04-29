@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "571efd4b-2d6b-4fe3-aabf-4705848516db",
+    "venue_name": "SPACES | Madrid, Spaces Castellana",
+    "latitude": 40.462502,
+    "longitude": -3.68866,
+    "reservations": 8,
+    "spend": 1529.37
+  },
+  {
+    "venue_id": "31fac0c9-6390-4e1d-a8b9-87afc15303c6",
+    "venue_name": "SPACES | Madrid Atocha",
+    "latitude": 40.404182,
+    "longitude": -3.689928,
+    "reservations": 7,
+    "spend": 661.32
+  },
+  {
+    "venue_id": "10732740-589e-4d1d-bea0-64a7e151c7b9",
+    "venue_name": "Regus | Madrid Campo de las Naciones",
+    "latitude": 40.476944,
+    "longitude": -3.63668,
+    "reservations": 4,
+    "spend": 425.01
+  },
+  {
+    "venue_id": "356a79fb-d756-4a41-965c-cdf980174b6b",
+    "venue_name": "SPACES | Madrid, Spaces Bernabéu",
+    "latitude": 40.451542,
+    "longitude": -3.692811,
+    "reservations": 1,
+    "spend": 231.88
+  },
+  {
+    "venue_id": "ef6bd793-5f00-4820-941a-bed44bb795d6",
+    "venue_name": "VENTURE X | AZCA",
+    "latitude": 40.447971,
+    "longitude": -3.695202,
+    "reservations": 2,
+    "spend": 198.65
+  },
+  {
+    "venue_id": "dd461ba8-e3a9-482a-b309-37ea2775f5f2",
+    "venue_name": "SPACES | Madrid Paseo de la Castellana 81",
+    "latitude": 40.447655,
+    "longitude": -3.69204,
+    "reservations": 1,
+    "spend": 195.8
+  },
+  {
+    "venue_id": "1baa088b-d79f-4200-9115-e20169f13d1c",
+    "venue_name": "Regus | Madrid Torre de Cristal",
+    "latitude": 40.478485,
+    "longitude": -3.687482,
+    "reservations": 1,
+    "spend": 89.32
+  },
+  {
+    "venue_id": "50dc8d24-4093-4f02-a6fb-f95656d5c20b",
+    "venue_name": "SPACES | Madrid San Jeronimo",
+    "latitude": 40.416714,
+    "longitude": -3.699082,
+    "reservations": 1,
+    "spend": 80.29
+  },
+  {
+    "venue_id": "7e0cfd18-eb5f-4c95-a6ce-15c04b732c62",
+    "venue_name": "SPACES | MADRID, Spaces Retiro",
+    "latitude": 40.408501,
+    "longitude": -3.68903,
+    "reservations": 1,
+    "spend": 73.53
+  },
+  {
+    "venue_id": "f7bbfbab-6070-48d2-a7b7-4f3973f6593c",
+    "venue_name": "Regus | Madrid Calle de Maria de Molina 41",
+    "latitude": 40.437599,
+    "longitude": -3.6785,
+    "reservations": 1,
+    "spend": 67.33
+  }
+]

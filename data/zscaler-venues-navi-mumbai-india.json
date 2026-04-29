@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "8c456f41-f0f7-4ba0-aeb7-8344bff00590",
+    "venue_name": "Awfis | Coworking-Auram Q Parc",
+    "latitude": 19.12011,
+    "longitude": 73.009697,
+    "reservations": 4,
+    "spend": 110.5
+  },
+  {
+    "venue_id": "72f13db5-bb94-414b-b4f6-7822049bbb6c",
+    "venue_name": "Regus | Navi Mumbai Vashi",
+    "latitude": 19.065599,
+    "longitude": 72.996399,
+    "reservations": 1,
+    "spend": 87.04
+  },
+  {
+    "venue_id": "7bc9830f-8849-4ccc-8e82-91d5b32daae2",
+    "venue_name": "Awfis | Coworking-Empire Tower Airoli",
+    "latitude": 19.169138,
+    "longitude": 73.001526,
+    "reservations": 1,
+    "spend": 10.59
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "42c247ea-a225-4575-a0b7-6ca49f421643",
+    "venue_name": "SPACES | Midtown South",
+    "latitude": 40.742962,
+    "longitude": -73.983757,
+    "reservations": 1,
+    "spend": 529.2
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.756721,
+    "longitude": -73.980042,
+    "reservations": 1,
+    "spend": 265.0
+  },
+  {
+    "venue_id": "8e8aac53-7633-4057-8368-11c86ca68b54",
+    "venue_name": "Office Space in Manhattan",
+    "latitude": 40.748062,
+    "longitude": -73.986305,
+    "reservations": 1,
+    "spend": 120.0
+  }
+]

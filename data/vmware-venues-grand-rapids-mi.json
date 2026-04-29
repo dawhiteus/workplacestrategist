@@ -2,9 +2,25 @@
   {
     "venue_id": "6fb5c710-80b6-44d8-ada9-a0c614db99a4",
     "venue_name": "Worklab by Custer",
-    "latitude": 42.965030670166016,
-    "longitude": -85.67288970947266,
+    "latitude": 42.965031,
+    "longitude": -85.67289,
     "reservations": 22,
     "spend": 3356.0
+  },
+  {
+    "venue_id": "9b6dc2f8-f5cb-4cdf-b711-10c48c9b4d95",
+    "venue_name": "JW Marriott Grand Rapids",
+    "latitude": 42.965832,
+    "longitude": -85.673981,
+    "reservations": 1,
+    "spend": 550.0
+  },
+  {
+    "venue_id": "ca9ed685-0cc9-45b0-afe8-0cb6c2f01fb8",
+    "venue_name": "The Factory",
+    "latitude": 42.964462,
+    "longitude": -85.669571,
+    "reservations": 1,
+    "spend": 75.0
   }
 ]

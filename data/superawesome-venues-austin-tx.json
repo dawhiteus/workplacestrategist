@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.25848,
+    "longitude": -97.728958,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "90f0ff71-611b-4a14-bc5a-1a961ac32631",
+    "venue_name": "WeWork | The Domain",
+    "latitude": 30.404854,
+    "longitude": -97.721344,
+    "reservations": 1,
+    "spend": 47.0
+  }
+]

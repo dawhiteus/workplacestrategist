@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "602ffd7f-ed22-48e8-b11a-c59773842825",
+    "venue_name": "iQ Offices | 1155 Metcalfe Inc.",
+    "latitude": 45.500252,
+    "longitude": -73.570183,
+    "reservations": 1,
+    "spend": 69.21
+  },
+  {
+    "venue_id": "ad503e76-d563-4a57-8acb-08aa97f96b4a",
+    "venue_name": "WeWork | L'Avenue",
+    "latitude": 45.496441,
+    "longitude": -73.570663,
+    "reservations": 1,
+    "spend": 25.7
+  },
+  {
+    "venue_id": "25702fdc-4690-458c-9a42-2d075063100e",
+    "venue_name": "Halte 24-7 Montreal",
+    "latitude": 45.526928,
+    "longitude": -73.574875,
+    "reservations": 1,
+    "spend": 22.21
+  }
+]

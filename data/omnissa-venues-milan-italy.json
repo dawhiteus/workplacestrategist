@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "62d51d24-e147-4137-8f1a-19fb9bceda62",
+    "venue_name": "SPACES | Milan, Spaces Porta Nuova",
+    "latitude": 45.480042,
+    "longitude": 9.18812,
+    "reservations": 28,
+    "spend": 9304.32
+  },
+  {
+    "venue_id": "d94ccde0-aa85-460c-a18a-5c1ea47e1748",
+    "venue_name": "Regus | Milan, Isola Copernico",
+    "latitude": 45.487991,
+    "longitude": 9.193791,
+    "reservations": 1,
+    "spend": 317.95
+  },
+  {
+    "venue_id": "89dd484f-4b5e-4619-b38a-4e40b794d872",
+    "venue_name": "Regus | Milan, Tortona",
+    "latitude": 45.4506,
+    "longitude": 9.16152,
+    "reservations": 1,
+    "spend": 228.21
+  }
+]

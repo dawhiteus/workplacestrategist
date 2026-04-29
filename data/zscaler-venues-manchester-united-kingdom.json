@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "09e40007-75c6-4bec-bbe3-ef8f24cf620a",
+    "venue_name": "Colony | Piccadilly",
+    "latitude": 53.477211,
+    "longitude": -2.233256,
+    "reservations": 1,
+    "spend": 272.52
+  },
+  {
+    "venue_id": "d003a55e-9b60-4239-bd7d-db6cdb37cb1b",
+    "venue_name": "Landmark | Manchester Spinningfields",
+    "latitude": 53.479546,
+    "longitude": -2.253003,
+    "reservations": 2,
+    "spend": 66.02
+  }
+]

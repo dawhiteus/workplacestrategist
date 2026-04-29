@@ -1,1 +1,10 @@
-[{"venue_id":"pasadena-ca-venue-1","venue_name":"Roam | Pasadena Downtown","latitude":34.1977,"longitude":-118.0582,"reservations":52,"spend":5940}]
+[
+  {
+    "venue_id": "f4e58e7f-7d27-47fe-a742-a9126e70aabd",
+    "venue_name": "CTRL Collective | Pasadena",
+    "latitude": 34.144733,
+    "longitude": -118.147881,
+    "reservations": 54,
+    "spend": 6250.0
+  }
+]

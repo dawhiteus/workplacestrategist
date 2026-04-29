@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "15bd0a8a-d62a-43c7-983a-ba367fff492d",
+    "venue_name": "Task Up",
+    "latitude": 39.951851,
+    "longitude": -75.173706,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "5a2c1877-4944-4b83-9c34-9e7f43de544a",
+    "venue_name": "The Yard: Center City",
+    "latitude": 39.95084,
+    "longitude": -75.158501,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c918364c-ed73-4ecb-a7f1-362588b0005f",
+    "venue_name": "Regus | Eilan",
+    "latitude": 29.611607,
+    "longitude": -98.604942,
+    "reservations": 1,
+    "spend": 64.08
+  },
+  {
+    "venue_id": "5b5e3b36-fb78-42a9-b489-5ffdd8ad4910",
+    "venue_name": "VenturePoint Stone Oak",
+    "latitude": 29.64501,
+    "longitude": -98.491562,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

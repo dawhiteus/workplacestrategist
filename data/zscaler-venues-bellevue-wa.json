@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "31baa0b8-4f50-401f-b632-787b6292ff74",
+    "venue_name": "Overlake WorkSpace",
+    "latitude": 47.629883,
+    "longitude": -122.187332,
+    "reservations": 1,
+    "spend": 195.0
+  },
+  {
+    "venue_id": "11c501d2-2747-45ed-af42-4be310273c20",
+    "venue_name": "WeWork | Bellevue Place",
+    "latitude": 47.617916,
+    "longitude": -122.201096,
+    "reservations": 1,
+    "spend": 122.0
+  }
+]

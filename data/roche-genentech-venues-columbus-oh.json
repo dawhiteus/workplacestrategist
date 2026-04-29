@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "715bb50c-5a33-42de-86ee-5f0412328e4f",
+    "venue_name": "Office Evolution - Columbus/Easton Town Center",
+    "latitude": 40.05349,
+    "longitude": -82.916351,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "bade11c4-fe33-4df1-8828-32d3d001e22d",
+    "venue_name": "Intelligent Office - Columbus",
+    "latitude": 39.958729,
+    "longitude": -82.997673,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

@@ -2,17 +2,25 @@
   {
     "venue_id": "7490819a-d541-4484-ad88-6b53ba01d281",
     "venue_name": "Expansive - Cathedral Square",
-    "latitude": 43.04099655151367,
-    "longitude": -87.90628051757812,
+    "latitude": 43.040997,
+    "longitude": -87.906281,
     "reservations": 5,
     "spend": 3503.5
   },
   {
     "venue_id": "8c23ae70-ba69-4d88-9031-13080cfc1a81",
     "venue_name": "SPACES | North Water Street",
-    "latitude": 43.04875183105469,
-    "longitude": -87.91022491455078,
+    "latitude": 43.048752,
+    "longitude": -87.910225,
     "reservations": 7,
     "spend": 3496.0
+  },
+  {
+    "venue_id": "d8113147-8de3-4b75-9cac-ea06a3a3c067",
+    "venue_name": "Relics Works + Relics Studio",
+    "latitude": 43.026516,
+    "longitude": -87.910576,
+    "reservations": 1,
+    "spend": 792.0
   }
 ]

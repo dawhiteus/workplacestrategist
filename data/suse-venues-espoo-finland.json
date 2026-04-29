@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5603fe26-2f6d-4d03-a898-d4e7381086f2",
+    "venue_name": "Regus | Espoo, Iso Omena",
+    "latitude": 60.163101,
+    "longitude": 24.7407,
+    "reservations": 5,
+    "spend": 264.19
+  },
+  {
+    "venue_id": "d7397970-611d-4801-babf-eee63d8ed82b",
+    "venue_name": "Regus | Espoo, Alberga Business Center",
+    "latitude": 60.217331,
+    "longitude": 24.81517,
+    "reservations": 1,
+    "spend": 95.82
+  }
+]

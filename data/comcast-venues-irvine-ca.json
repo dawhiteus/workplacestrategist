@@ -2,9 +2,33 @@
   {
     "venue_id": "9421b244-722c-4db0-bbb9-a5fe5e0afc6c",
     "venue_name": "(WFB) Wells Fargo Tower",
-    "latitude": 33.683135986328125,
-    "longitude": -117.85316467285156,
+    "latitude": 33.683136,
+    "longitude": -117.853165,
     "reservations": 6,
     "spend": 855.0
+  },
+  {
+    "venue_id": "198476b0-c90b-4d9c-bfa3-4e0e4357d9d8",
+    "venue_name": "Sol Hub",
+    "latitude": 33.636009,
+    "longitude": -117.742188,
+    "reservations": 1,
+    "spend": 270.0
+  },
+  {
+    "venue_id": "06c9dfce-8304-4067-a40e-e46fde60b851",
+    "venue_name": "(SP3) Spectrum Center",
+    "latitude": 33.650642,
+    "longitude": -117.747635,
+    "reservations": 1,
+    "spend": 255.0
+  },
+  {
+    "venue_id": "9118ba56-59b3-4467-bce4-5de3a7aa3dbb",
+    "venue_name": "Spectrum Executive Suites",
+    "latitude": 33.630608,
+    "longitude": -117.728989,
+    "reservations": 1,
+    "spend": 180.0
   }
 ]

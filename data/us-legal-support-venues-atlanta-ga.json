@@ -2,25 +2,57 @@
   {
     "venue_id": "1150fffc-6013-4f71-97d5-8578f74eb88f",
     "venue_name": "Peachtree Offices at Downtown, Inc.",
-    "latitude": 33.760398864746094,
-    "longitude": -84.38746643066406,
+    "latitude": 33.760399,
+    "longitude": -84.387466,
     "reservations": 10,
     "spend": 3710.0
   },
   {
     "venue_id": "8abfe8ff-f57a-4601-9ca8-de92208bdc71",
     "venue_name": "Peachtree Offices at 1100, LLC",
-    "latitude": 33.78491973876953,
-    "longitude": -84.38316345214844,
+    "latitude": 33.78492,
+    "longitude": -84.383163,
     "reservations": 12,
     "spend": 3337.0
   },
   {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851471,
+    "longitude": -84.360031,
+    "reservations": 1,
+    "spend": 450.0
+  },
+  {
     "venue_id": "8b9297d9-d267-495e-95e6-56fecdf37329",
     "venue_name": "eCeo Suites",
-    "latitude": 33.60665512084961,
-    "longitude": -84.43470001220703,
+    "latitude": 33.606655,
+    "longitude": -84.4347,
     "reservations": 3,
     "spend": 400.0
+  },
+  {
+    "venue_id": "7faad3f8-e4de-4a7e-8977-e2bf7da50cf0",
+    "venue_name": "Roam Perimeter Center",
+    "latitude": 33.919552,
+    "longitude": -84.342674,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "597918e1-7e7d-4421-8c5e-2656513e7aa8",
+    "venue_name": "Roam Buckhead - Piedmont",
+    "latitude": 33.846756,
+    "longitude": -84.372482,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "d5cacd9e-a80c-443e-9d38-4d49e0bfcbe0",
+    "venue_name": "Intelligent Office - Atlanta (Sandy Springs)",
+    "latitude": 33.936028,
+    "longitude": -84.361687,
+    "reservations": 1,
+    "spend": 149.0
   }
 ]

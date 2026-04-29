@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "638679f1-69e0-4d6a-b9a8-0daca24ecbd1",
+    "venue_name": "IOS OFFICES | Torre Mapfre",
+    "latitude": 19.429808,
+    "longitude": -99.163734,
+    "reservations": 1,
+    "spend": 39.74
+  },
+  {
+    "venue_id": "fb884193-dbe9-40eb-831d-3a7e9fac254a",
+    "venue_name": "WeWork | Artz Pedregal",
+    "latitude": 19.313652,
+    "longitude": -99.219345,
+    "reservations": 1,
+    "spend": 34.79
+  }
+]

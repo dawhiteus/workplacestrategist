@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "af005fea-9233-4b46-bbfc-a86fa981ad9c",
+    "venue_name": "Arens Group Workplace",
+    "latitude": 33.124737,
+    "longitude": -117.287651,
+    "reservations": 1,
+    "spend": 78.0
+  },
+  {
+    "venue_id": "5064faa8-ea2e-4281-8cc7-f17465fa556c",
+    "venue_name": "Prime Executive Offices, LLC.",
+    "latitude": 33.134319,
+    "longitude": -117.279015,
+    "reservations": 1,
+    "spend": 56.0
+  }
+]

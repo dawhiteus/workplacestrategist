@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9adaca58-5fa9-4545-a606-9c603cdf789c",
+    "venue_name": "Staples Coworking Needham",
+    "latitude": 42.305782,
+    "longitude": -71.220131,
+    "reservations": 1,
+    "spend": 198.0
+  },
+  {
+    "venue_id": "93f2b352-51ba-4761-af9e-ab3d57fd627b",
+    "venue_name": "Workbar Needham",
+    "latitude": 42.29707,
+    "longitude": -71.213242,
+    "reservations": 1,
+    "spend": 150.0
+  }
+]

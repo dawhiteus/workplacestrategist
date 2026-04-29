@@ -1,1 +1,10 @@
-[{"venue_id":"saint-charles-mo-venue-1","venue_name":"Regus | Saint Charles Downtown","latitude":38.8476,"longitude":-90.5774,"reservations":33,"spend":5751}]
+[
+  {
+    "venue_id": "14519ee8-c271-43c5-b628-4bc367bd1a6e",
+    "venue_name": "The Commons - Saint Charles",
+    "latitude": 38.83707,
+    "longitude": -90.493362,
+    "reservations": 33,
+    "spend": 5751.0
+  }
+]

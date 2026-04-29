@@ -2,9 +2,17 @@
   {
     "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
     "venue_name": "Carr Workplaces - Aon Center",
-    "latitude": 41.885284423828125,
-    "longitude": -87.62151336669922,
+    "latitude": 41.885284,
+    "longitude": -87.621513,
     "reservations": 7,
     "spend": 5670.0
+  },
+  {
+    "venue_id": "20383fcd-219e-4212-8900-989f2c6a9e2b",
+    "venue_name": "Prism Spaces",
+    "latitude": 41.903885,
+    "longitude": -87.667801,
+    "reservations": 1,
+    "spend": 230.0
   }
 ]

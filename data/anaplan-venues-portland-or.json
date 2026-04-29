@@ -2,9 +2,25 @@
   {
     "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
     "venue_name": "CENTRL Office - Pearl District",
-    "latitude": 45.52505874633789,
-    "longitude": -122.68479919433594,
-    "reservations": 22,
-    "spend": 1420.0
+    "latitude": 45.525059,
+    "longitude": -122.684799,
+    "reservations": 24,
+    "spend": 2060.0
+  },
+  {
+    "venue_id": "8aaa8eb9-b992-4a4d-b482-ca8b068b4ec6",
+    "venue_name": "VIDA Coworking Community",
+    "latitude": 45.525719,
+    "longitude": -122.646866,
+    "reservations": 2,
+    "spend": 65.0
+  },
+  {
+    "venue_id": "17458fba-6b83-46bb-8c4d-23693de4680f",
+    "venue_name": "Regus | US Bancorp Tower Downtown PDX",
+    "latitude": 45.522221,
+    "longitude": -122.676308,
+    "reservations": 1,
+    "spend": 56.0
   }
 ]

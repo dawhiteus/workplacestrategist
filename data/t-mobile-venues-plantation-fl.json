@@ -2,33 +2,49 @@
   {
     "venue_id": "4692c510-2b34-401f-9957-4b5422787d02",
     "venue_name": "Office Evolution - Plantation",
-    "latitude": 26.12360382080078,
-    "longitude": -80.2571792602539,
+    "latitude": 26.123604,
+    "longitude": -80.257179,
     "reservations": 152,
     "spend": 39410.0
   },
   {
     "venue_id": "197d3aa6-1471-4f88-a087-a746f8df3ecd",
     "venue_name": "Quest Workspaces Plantation",
-    "latitude": 26.118425369262695,
-    "longitude": -80.2623291015625,
+    "latitude": 26.118425,
+    "longitude": -80.262329,
     "reservations": 70,
     "spend": 20730.0
   },
   {
     "venue_id": "4b049b96-766a-465a-937f-070164bfdad0",
     "venue_name": "Regus | South Pine Island (Office Suites Plus)",
-    "latitude": 26.108686447143555,
-    "longitude": -80.26074981689453,
+    "latitude": 26.108686,
+    "longitude": -80.26075,
     "reservations": 4,
     "spend": 1767.0
   },
   {
     "venue_id": "561c959e-282a-489a-926a-a06efe4bf53a",
     "venue_name": "Regus | Plantation",
-    "latitude": 26.10823631286621,
-    "longitude": -80.25757598876953,
+    "latitude": 26.108236,
+    "longitude": -80.257576,
     "reservations": 2,
     "spend": 599.0
+  },
+  {
+    "venue_id": "9419f6c5-ef8f-4de2-ba3a-5c6b3fe9db12",
+    "venue_name": "Regus | FL, Ft. Lauderdale - Plantation",
+    "latitude": 26.108236,
+    "longitude": -80.257576,
+    "reservations": 1,
+    "spend": 552.5
+  },
+  {
+    "venue_id": "9cb40d85-8b18-46f4-b3f0-0978ad0b3e0f",
+    "venue_name": "Khospace Plantation",
+    "latitude": 26.127857,
+    "longitude": -80.249222,
+    "reservations": 1,
+    "spend": 152.0
   }
 ]

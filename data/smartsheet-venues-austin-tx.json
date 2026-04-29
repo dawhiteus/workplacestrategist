@@ -2,9 +2,17 @@
   {
     "venue_id": "d4ad5230-5d33-4ca1-be9c-60f7afe4ff3e",
     "venue_name": "Bond Collective - East Austin",
-    "latitude": 30.26104164123535,
-    "longitude": -97.72795104980469,
+    "latitude": 30.261042,
+    "longitude": -97.727951,
     "reservations": 5,
     "spend": 3880.0
+  },
+  {
+    "venue_id": "82cb28cc-c522-46b8-9789-52b8b10363c2",
+    "venue_name": "Industrious - 9th and Congress",
+    "latitude": 30.270363,
+    "longitude": -97.741455,
+    "reservations": 2,
+    "spend": 1660.0
   }
 ]

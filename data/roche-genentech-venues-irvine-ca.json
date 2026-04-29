@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "6b7e607d-c168-4ea5-9169-c7519b33c5fd",
+    "venue_name": "(ATR) The Atrium",
+    "latitude": 33.67046,
+    "longitude": -117.857628,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "569cbe02-4228-4821-a15e-0670e69850bb",
+    "venue_name": "Regus | Irvine Spectrum",
+    "latitude": 33.65387,
+    "longitude": -117.747444,
+    "reservations": 2,
+    "spend": 186.7
+  },
+  {
+    "venue_id": "7753dee2-53c2-425a-b131-bab0b82b6326",
+    "venue_name": "(CTR) Centerstone Plaza",
+    "latitude": 33.682362,
+    "longitude": -117.808907,
+    "reservations": 1,
+    "spend": 70.0
+  }
+]

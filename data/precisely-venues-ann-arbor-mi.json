@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "af78f36c-326a-499d-bac0-da0b2e6a9b1d",
+    "venue_name": "Office Evolution - Ann Arbor",
+    "latitude": 42.244629,
+    "longitude": -83.741119,
+    "reservations": 2,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "6d033c50-32b8-4f61-b714-3c9141a17e9b",
+    "venue_name": "Bamboo Ann Arbor",
+    "latitude": 42.280411,
+    "longitude": -83.751396,
+    "reservations": 1,
+    "spend": 450.0
+  }
+]

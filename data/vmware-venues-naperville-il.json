@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d649b6c8-b68d-4f73-bac5-1e142f14e36c",
+    "venue_name": "Office Evolution - Naperville",
+    "latitude": 41.800419,
+    "longitude": -88.149361,
+    "reservations": 1,
+    "spend": 210.0
+  },
+  {
+    "venue_id": "eb693204-6e4b-418f-bbc0-3797f3997d4b",
+    "venue_name": "Farbman Group | Atrium - Shuman Blvd.",
+    "latitude": 41.802555,
+    "longitude": -88.151588,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "00be79cf-9c92-48c4-a7e4-39d6e84ace25",
+    "venue_name": "LAUFT Burlington Centre",
+    "latitude": 43.348515,
+    "longitude": -79.793594,
+    "reservations": 1,
+    "spend": 117.81
+  },
+  {
+    "venue_id": "5012e46a-8a2c-4151-a8e4-c3e48a368208",
+    "venue_name": "Regus | ON, Burlington - North Service Road",
+    "latitude": 43.371994,
+    "longitude": -79.783905,
+    "reservations": 1,
+    "spend": 30.94
+  }
+]

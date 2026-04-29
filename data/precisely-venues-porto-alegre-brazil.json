@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0d527b4c-0ce1-4ca4-aa17-f458c0ff643a",
+    "venue_name": "Regus | Porto Alegre, Carlos Gomes 222",
+    "latitude": -30.023207,
+    "longitude": -51.182995,
+    "reservations": 1,
+    "spend": 27.53
+  },
+  {
+    "venue_id": "137242cc-86e1-4332-987a-ce7cfb38996a",
+    "venue_name": "Regus | Porto Alegre, Praia De Belas - Edificio Guaiba",
+    "latitude": -30.045799,
+    "longitude": -51.2304,
+    "reservations": 1,
+    "spend": 20.05
+  }
+]

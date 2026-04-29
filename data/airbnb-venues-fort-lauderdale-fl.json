@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f51cacef-b6d1-4780-86ac-b5321b5000ce",
+    "venue_name": " Zen at 1 East Broward",
+    "latitude": 26.122782,
+    "longitude": -80.14312,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "73553bd6-2639-4b99-a1a5-f020a65e78be",
+    "venue_name": "Axis Space",
+    "latitude": 26.11813,
+    "longitude": -80.141571,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

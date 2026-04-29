@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "128c7e0d-59f0-4379-aa87-d451739c67da",
+    "venue_name": "Serendipity Labs - Downtown Los Angeles - Wilshire",
+    "latitude": 34.051006,
+    "longitude": -118.260109,
+    "reservations": 1,
+    "spend": 357.0
+  },
+  {
+    "venue_id": "da8baf69-dbd6-4a9b-a93c-912dedb2b485",
+    "venue_name": "Carr Workplaces - DTLA",
+    "latitude": 34.048275,
+    "longitude": -118.25856,
+    "reservations": 1,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "a5ec1221-4875-4908-9680-43f4897b74c1",
+    "venue_name": "Wilshire 1001 Premium Flex Space & Coworking Solutions",
+    "latitude": 34.051807,
+    "longitude": -118.261391,
+    "reservations": 1,
+    "spend": 160.0
+  }
+]

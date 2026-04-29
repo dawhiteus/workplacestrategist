@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
+    "venue_name": "Carr Workplaces - Aon Center",
+    "latitude": 41.885284,
+    "longitude": -87.621513,
+    "reservations": 1,
+    "spend": 435.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.890244,
+    "longitude": -87.631897,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

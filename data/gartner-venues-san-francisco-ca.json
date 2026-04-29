@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "03c69eb1-5589-4d69-a5e1-677f58dfac97",
+    "venue_name": "Renaissance Entrepreneurship Center",
+    "latitude": 37.780735,
+    "longitude": -122.403595,
+    "reservations": 1,
+    "spend": 1050.0
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.791389,
+    "longitude": -122.392151,
+    "reservations": 2,
+    "spend": 540.0
+  }
+]

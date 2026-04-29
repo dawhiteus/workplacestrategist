@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "30cfa295-a600-416a-885d-8a1470f8699e",
+    "venue_name": "Regus | Seven Springs",
+    "latitude": 36.042431,
+    "longitude": -86.770065,
+    "reservations": 1,
+    "spend": 462.0
+  },
+  {
+    "venue_id": "e4f7cd77-f0d6-4d5f-b2dc-b65768342fcb",
+    "venue_name": "Werkstatt360",
+    "latitude": 36.030701,
+    "longitude": -86.77636,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

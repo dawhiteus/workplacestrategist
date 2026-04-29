@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "35feb4f2-17aa-4a34-8ddb-7d7e26043613",
+    "venue_name": "SPACES | THE HAGUE, Spaces Rode Olifant",
+    "latitude": 52.088146,
+    "longitude": 4.32022,
+    "reservations": 4,
+    "spend": 1488.94
+  },
+  {
+    "venue_id": "dda78a4d-4c09-4590-8dce-60576d2a72f8",
+    "venue_name": "Regus | The Hague, Beatrixkwartier",
+    "latitude": 52.079594,
+    "longitude": 4.333289,
+    "reservations": 1,
+    "spend": 371.03
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "ee25d5c1-106b-4573-b1bd-3fe776d99fd9",
     "venue_name": "Expansive - Cooper Crossing",
-    "latitude": 33.32180404663086,
-    "longitude": -111.80902099609375,
+    "latitude": 33.321804,
+    "longitude": -111.809021,
     "reservations": 4,
     "spend": 1050.0
+  },
+  {
+    "venue_id": "60496f5c-ff34-4c54-a15c-e164d924f4a2",
+    "venue_name": "Regus | San Tan Corporate Center II",
+    "latitude": 33.320499,
+    "longitude": -111.894997,
+    "reservations": 2,
+    "spend": 152.19
   }
 ]

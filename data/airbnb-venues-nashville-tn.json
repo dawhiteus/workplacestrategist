@@ -2,17 +2,41 @@
   {
     "venue_id": "1af51b42-829f-4e4e-9a68-1f785107f39c",
     "venue_name": "The Malin Wedgewood Houston",
-    "latitude": 36.14491653442383,
-    "longitude": -86.76726531982422,
+    "latitude": 36.144917,
+    "longitude": -86.767265,
     "reservations": 11,
     "spend": 1060.0
   },
   {
     "venue_id": "ac6456a9-d0b5-47ec-ac7c-026cbe998e58",
     "venue_name": "The Malin South Gulch",
-    "latitude": 36.150630950927734,
-    "longitude": -86.77870178222656,
+    "latitude": 36.150631,
+    "longitude": -86.778702,
     "reservations": 2,
     "spend": 200.0
+  },
+  {
+    "venue_id": "87f97586-8faa-4cc6-8d04-31fa86229597",
+    "venue_name": "Oak Barrel Building",
+    "latitude": 36.107491,
+    "longitude": -86.755119,
+    "reservations": 1,
+    "spend": 130.0
+  },
+  {
+    "venue_id": "a021bc9b-ba99-4b22-9079-031e106c1899",
+    "venue_name": "Industrious - Gulch",
+    "latitude": 36.154743,
+    "longitude": -86.784508,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "24f8e916-b02e-4075-b399-35c2e0426991",
+    "venue_name": "Office Evolution - Nashville",
+    "latitude": 36.162628,
+    "longitude": -86.84819,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

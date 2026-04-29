@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "cfcf9bee-d51c-4542-86b8-4c66dcfec82e",
+    "venue_name": "SPACES | Utrecht, Spaces House Modernes",
+    "latitude": 52.093063,
+    "longitude": 5.115766,
+    "reservations": 5,
+    "spend": 2240.72
+  },
+  {
+    "venue_id": "f11fc6aa-3c5b-48de-b8f4-2fe98de629cd",
+    "venue_name": "Mindspace | Utrecht",
+    "latitude": 52.084373,
+    "longitude": 5.115809,
+    "reservations": 1,
+    "spend": 115.95
+  },
+  {
+    "venue_id": "f589ee73-f628-4b85-bdf7-681911523b4c",
+    "venue_name": "Regus | Utrecht, City Centre",
+    "latitude": 52.094398,
+    "longitude": 5.11468,
+    "reservations": 1,
+    "spend": 81.09
+  }
+]

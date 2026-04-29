@@ -2,81 +2,153 @@
   {
     "venue_id": "a95892c0-1ac3-4e28-bfa1-25830509ec87",
     "venue_name": "CO+HOOTS-Phoenix",
-    "latitude": 33.49195861816406,
-    "longitude": -112.07050323486328,
+    "latitude": 33.491959,
+    "longitude": -112.070503,
     "reservations": 88,
     "spend": 32785.0
   },
   {
     "venue_id": "5736a0c5-81e5-441d-8802-b1d79a79a8c9",
     "venue_name": "CoOperate Melrose",
-    "latitude": 33.49989318847656,
-    "longitude": -112.08149719238281,
+    "latitude": 33.499893,
+    "longitude": -112.081497,
     "reservations": 60,
     "spend": 24570.0
   },
   {
     "venue_id": "5e256d25-5876-4b5f-9478-4f597ea390c4",
     "venue_name": "Regus | Phoenix - 3rd St",
-    "latitude": 33.47080993652344,
-    "longitude": -112.06864166259766,
+    "latitude": 33.47081,
+    "longitude": -112.068642,
     "reservations": 18,
     "spend": 7245.9
   },
   {
     "venue_id": "8b3d447f-f73d-4a15-910b-35280537698b",
     "venue_name": "(PV1) Paradise Valley",
-    "latitude": 33.5876350402832,
-    "longitude": -111.97577667236328,
+    "latitude": 33.587635,
+    "longitude": -111.975777,
     "reservations": 3,
     "spend": 1080.0
   },
   {
     "venue_id": "8ef8b6fc-a543-4827-8bbd-ab052249d783",
     "venue_name": "Office Evolution - Phoenix",
-    "latitude": 33.304595947265625,
-    "longitude": -111.98735046386719,
+    "latitude": 33.304596,
+    "longitude": -111.98735,
     "reservations": 2,
     "spend": 860.0
   },
   {
+    "venue_id": "7a5c23e9-5775-4577-a285-b4373cfbf6b1",
+    "venue_name": "SPACES | One Renaissance Tower",
+    "latitude": 33.448502,
+    "longitude": -112.073997,
+    "reservations": 1,
+    "spend": 654.0
+  },
+  {
     "venue_id": "397d3311-5173-49a1-8ce7-ad8081fb9a0d",
     "venue_name": "Executive Suites at Agave",
-    "latitude": 33.32223892211914,
-    "longitude": -111.9881591796875,
+    "latitude": 33.322239,
+    "longitude": -111.988159,
     "reservations": 3,
     "spend": 405.0
   },
   {
+    "venue_id": "d976635e-089b-40ee-91ff-3f604661635b",
+    "venue_name": "Loloft Phoenix",
+    "latitude": 33.406368,
+    "longitude": -111.98597,
+    "reservations": 1,
+    "spend": 345.0
+  },
+  {
     "venue_id": "8ab02f28-ac4a-4766-8789-c5e63f8463d7",
-    "venue_name": "SPACES | AZ, Phoenix \u2013 Block 23",
-    "latitude": 33.447998046875,
-    "longitude": -112.0722427368164,
+    "venue_name": "SPACES | AZ, Phoenix – Block 23",
+    "latitude": 33.447998,
+    "longitude": -112.072243,
     "reservations": 4,
     "spend": 296.25
   },
   {
     "venue_id": "98b10aa2-6d32-4533-acb4-90a151cc229d",
     "venue_name": "The Erickson Building Training Facility",
-    "latitude": 33.480838775634766,
-    "longitude": -112.02429962158203,
+    "latitude": 33.480839,
+    "longitude": -112.0243,
     "reservations": 2,
     "spend": 276.0
   },
   {
+    "venue_id": "09baa9e5-4731-4c81-ac83-371efe9fbc63",
+    "venue_name": "WeWork | 2425 E Camelback Rd",
+    "latitude": 33.508926,
+    "longitude": -112.028015,
+    "reservations": 1,
+    "spend": 230.4
+  },
+  {
+    "venue_id": "5dd7f8b5-9e7b-48a2-b4de-d0ba937cc0a5",
+    "venue_name": "Regus | Washington at Sky Harbor",
+    "latitude": 33.448254,
+    "longitude": -111.98381,
+    "reservations": 1,
+    "spend": 194.0
+  },
+  {
+    "venue_id": "69726878-fe94-4fce-ab73-bf4c730dd15d",
+    "venue_name": "Suxxess",
+    "latitude": 33.322277,
+    "longitude": -111.988251,
+    "reservations": 1,
+    "spend": 189.0
+  },
+  {
     "venue_id": "789d1fa8-5412-4477-9be8-fa55f8611457",
     "venue_name": "Regus | Desert Ridge Corporate",
-    "latitude": 33.67428970336914,
-    "longitude": -111.97822570800781,
+    "latitude": 33.67429,
+    "longitude": -111.978226,
     "reservations": 3,
     "spend": 177.0
   },
   {
+    "venue_id": "4299c322-60f4-441a-b432-c0db1879546d",
+    "venue_name": "Regus | Phoenix - E Camelback Rd",
+    "latitude": 33.508129,
+    "longitude": -112.023933,
+    "reservations": 1,
+    "spend": 158.0
+  },
+  {
+    "venue_id": "ce8397a7-7113-449b-ace9-77caf2883d6e",
+    "venue_name": "Lucid Private Offices | Camelback - Biltmore",
+    "latitude": 33.509033,
+    "longitude": -112.032013,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
     "venue_id": "369629a7-4ac1-4258-9816-ef5e849fb5e5",
     "venue_name": "Workuity",
-    "latitude": 33.50968551635742,
-    "longitude": -112.03168487548828,
+    "latitude": 33.509686,
+    "longitude": -112.031685,
     "reservations": 2,
     "spend": 70.0
+  },
+  {
+    "venue_id": "8b1b43ff-8c7a-4cc8-aeb5-f0ddaab1dc8a",
+    "venue_name": "Expansive - Midtown",
+    "latitude": 33.479973,
+    "longitude": -112.074509,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "e37fdb27-ce3d-4df7-9bd7-22d630b7bbba",
+    "venue_name": "Regus | AZ, Phoenix - Pinnacle Peak",
+    "latitude": 33.696281,
+    "longitude": -112.100662,
+    "reservations": 1,
+    "spend": 14.06
   }
 ]

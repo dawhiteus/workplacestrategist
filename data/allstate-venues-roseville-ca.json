@@ -1,1 +1,34 @@
-[{"venue_id":"roseville-ca-venue-1","venue_name":"IWG | Roseville Downtown","latitude":38.7427,"longitude":-121.2366,"reservations":35,"spend":7077.89},{"venue_id":"roseville-ca-venue-2","venue_name":"Knotel | Roseville North","latitude":38.8294,"longitude":-121.2752,"reservations":25,"spend":4994.48},{"venue_id":"roseville-ca-venue-3","venue_name":"Spaces | Roseville West","latitude":38.7487,"longitude":-121.1974,"reservations":15,"spend":3066.77},{"venue_id":"roseville-ca-venue-4","venue_name":"CommonGrounds | Roseville Central","latitude":38.7259,"longitude":-121.1857,"reservations":14,"spend":2825.87}]
+[
+  {
+    "venue_id": "261487bc-73e1-4e74-a259-90534b96fda4",
+    "venue_name": "Outlet Coworking - Roseville",
+    "latitude": 38.747456,
+    "longitude": -121.244431,
+    "reservations": 80,
+    "spend": 15145.0
+  },
+  {
+    "venue_id": "32ce4d86-12e5-40a3-8f0d-5b2235aa5274",
+    "venue_name": "Diamond Creek Business Center",
+    "latitude": 38.799622,
+    "longitude": -121.332764,
+    "reservations": 5,
+    "spend": 2000.0
+  },
+  {
+    "venue_id": "7b9f4e93-82da-4362-ba19-b8a3915f7c60",
+    "venue_name": "Roseville Executive Suites",
+    "latitude": 38.725258,
+    "longitude": -121.291641,
+    "reservations": 8,
+    "spend": 1300.0
+  },
+  {
+    "venue_id": "8ab2551d-acb9-41e4-9e71-12f0d8a6c4a2",
+    "venue_name": "Pacific Workplaces - Roseville",
+    "latitude": 38.744846,
+    "longitude": -121.236794,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

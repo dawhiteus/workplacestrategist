@@ -2,17 +2,41 @@
   {
     "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
     "venue_name": "Carr Workplaces - Embarcadero Center",
-    "latitude": 37.79469680786133,
-    "longitude": -122.39987182617188,
+    "latitude": 37.794697,
+    "longitude": -122.399872,
     "reservations": 15,
     "spend": 6770.0
   },
   {
     "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
     "venue_name": "Pacific Workplaces - San Francisco SOMA",
-    "latitude": 37.79138946533203,
-    "longitude": -122.39215087890625,
+    "latitude": 37.791389,
+    "longitude": -122.392151,
     "reservations": 8,
     "spend": 2255.0
+  },
+  {
+    "venue_id": "1a33e361-2a19-4828-9f48-1872f032083a",
+    "venue_name": "Industrious - San Francisco Financial District",
+    "latitude": 37.792618,
+    "longitude": -122.400421,
+    "reservations": 2,
+    "spend": 840.0
+  },
+  {
+    "venue_id": "cbd093b0-ad63-4f12-8677-af4c5fb450b0",
+    "venue_name": "SPACES || Mission & 3rd",
+    "latitude": 37.786613,
+    "longitude": -122.402168,
+    "reservations": 1,
+    "spend": 570.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.792622,
+    "longitude": -122.398911,
+    "reservations": 1,
+    "spend": 210.0
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "9e20ac9d-c230-4a0b-ac09-f5f4d851cd0e",
     "venue_name": "WeWork | One Glenwood",
-    "latitude": 35.780548095703125,
-    "longitude": -78.64794158935547,
+    "latitude": 35.780548,
+    "longitude": -78.647942,
     "reservations": 5,
     "spend": 224.0
+  },
+  {
+    "venue_id": "e379179e-46fa-4b9a-b129-bb84465787c9",
+    "venue_name": "The Loading Dock - Dock 1053",
+    "latitude": 35.808975,
+    "longitude": -78.621254,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

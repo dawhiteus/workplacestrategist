@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "af78f36c-326a-499d-bac0-da0b2e6a9b1d",
+    "venue_name": "Office Evolution - Ann Arbor",
+    "latitude": 42.244629,
+    "longitude": -83.741119,
+    "reservations": 1,
+    "spend": 240.0
+  },
+  {
     "venue_id": "4ddf7fe3-a310-4b2e-bf90-4e7eff70e0f3",
     "venue_name": "Cahoots",
-    "latitude": 42.28118133544922,
-    "longitude": -83.74686431884766,
+    "latitude": 42.281181,
+    "longitude": -83.746864,
     "reservations": 4,
     "spend": 140.0
   }

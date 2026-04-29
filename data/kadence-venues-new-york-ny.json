@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "92ed7be7-03e3-40ba-9777-7f57f4115486",
+    "venue_name": "Soho Works | 875 Washington",
+    "latitude": 40.741005,
+    "longitude": -74.007248,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639,
+    "longitude": -73.986526,
+    "reservations": 1,
+    "spend": 49.0
+  }
+]

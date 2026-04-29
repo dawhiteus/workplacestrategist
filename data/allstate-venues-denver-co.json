@@ -1,1 +1,106 @@
-[{"venue_id":"denver-co-venue-1","venue_name":"Industrious | Denver Downtown","latitude":39.6575,"longitude":-104.8931,"reservations":36,"spend":3899.1},{"venue_id":"denver-co-venue-2","venue_name":"Regus | Denver North","latitude":39.6703,"longitude":-105.0951,"reservations":32,"spend":3450.51},{"venue_id":"denver-co-venue-3","venue_name":"Roam | Denver West","latitude":39.7068,"longitude":-104.9163,"reservations":12,"spend":1326.47},{"venue_id":"denver-co-venue-4","venue_name":"WorkSuites | Denver Central","latitude":39.6722,"longitude":-105.0824,"reservations":9,"spend":1009.83},{"venue_id":"denver-co-venue-5","venue_name":"HQ | Denver East","latitude":39.8161,"longitude":-104.9107,"reservations":6,"spend":634.13},{"venue_id":"denver-co-venue-6","venue_name":"Knotel | Denver Financial District","latitude":39.6701,"longitude":-104.8837,"reservations":2,"spend":231.84},{"venue_id":"denver-co-venue-7","venue_name":"Roam | Denver Midtown","latitude":39.7723,"longitude":-104.9327,"reservations":2,"spend":229.64},{"venue_id":"denver-co-venue-8","venue_name":"Spaces | Denver Uptown","latitude":39.781,"longitude":-104.9029,"reservations":2,"spend":184.45},{"venue_id":"denver-co-venue-9","venue_name":"WeWork | Denver Tech District","latitude":39.6676,"longitude":-104.9953,"reservations":1,"spend":70.29},{"venue_id":"denver-co-venue-10","venue_name":"Roam | Denver Business Park","latitude":39.7366,"longitude":-104.9427,"reservations":1,"spend":56.85},{"venue_id":"denver-co-venue-11","venue_name":"Flex by JLL | Denver Downtown","latitude":39.6494,"longitude":-104.8877,"reservations":1,"spend":44.79},{"venue_id":"denver-co-venue-12","venue_name":"Industrious | Denver North","latitude":39.6877,"longitude":-104.9552,"reservations":1,"spend":41.21},{"venue_id":"denver-co-venue-13","venue_name":"Venture X | Denver West","latitude":39.7002,"longitude":-105.0847,"reservations":1,"spend":19.19}]
+[
+  {
+    "venue_id": "258b7d7b-eac3-4ff2-9922-db561f467a68",
+    "venue_name": "Venture X | Denver South",
+    "latitude": 39.680866,
+    "longitude": -104.938019,
+    "reservations": 67,
+    "spend": 6610.0
+  },
+  {
+    "venue_id": "17205595-cd36-4478-b726-a227091ea3ff",
+    "venue_name": "Venture X | LoDo",
+    "latitude": 39.753365,
+    "longitude": -104.996841,
+    "reservations": 1,
+    "spend": 1250.0
+  },
+  {
+    "venue_id": "d8afe4ce-6d70-4d19-93ca-b403fd7e53c6",
+    "venue_name": "Venture X | Denver North",
+    "latitude": 39.753468,
+    "longitude": -104.979317,
+    "reservations": 1,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "4348879e-06a1-4f24-849f-c04f6a8303f4",
+    "venue_name": "Creative Density | Uptown",
+    "latitude": 39.746353,
+    "longitude": -104.980743,
+    "reservations": 24,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741547,
+    "longitude": -104.987793,
+    "reservations": 2,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "f00cbf65-0922-4bb6-8411-bbe56225fb44",
+    "venue_name": "Office Evolution - Downtown Denver",
+    "latitude": 39.741455,
+    "longitude": -104.982056,
+    "reservations": 2,
+    "spend": 480.0
+  },
+  {
+    "venue_id": "ab3c25c9-12ee-4a92-95e8-1482723ec415",
+    "venue_name": "Coalition Space | Downtown Denver",
+    "latitude": 39.743149,
+    "longitude": -104.985863,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "0d224c90-fd01-4cc0-ac84-7a1558c288ba",
+    "venue_name": "Executive Business Centers - DTC",
+    "latitude": 39.625099,
+    "longitude": -104.897163,
+    "reservations": 3,
+    "spend": 345.0
+  },
+  {
+    "venue_id": "947cf0f4-5dd0-405d-bb49-78bc68dd8e30",
+    "venue_name": "SPACES | Denver - Ballpark",
+    "latitude": 39.757561,
+    "longitude": -104.990601,
+    "reservations": 3,
+    "spend": 283.31
+  },
+  {
+    "venue_id": "c1ca6830-86b1-446e-8486-4a12ee7ab1da",
+    "venue_name": "Shift Workspaces | Bannock",
+    "latitude": 39.73222,
+    "longitude": -104.990662,
+    "reservations": 2,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "7d1564c9-861a-48cf-b5e7-de0458c35d51",
+    "venue_name": "Serendipity Labs - Denver - LoDo",
+    "latitude": 39.755554,
+    "longitude": -105.000092,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "f19bdf9b-2388-43af-aba2-08ab0d1fe1bc",
+    "venue_name": "Candy Factory Coworking",
+    "latitude": 39.746292,
+    "longitude": -104.995491,
+    "reservations": 1,
+    "spend": 25.0
+  },
+  {
+    "venue_id": "6dec1a18-4016-4954-af3b-e21d74ac2f28",
+    "venue_name": "Thrive Workplace @ Ballpark",
+    "latitude": 39.756802,
+    "longitude": -104.989906,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

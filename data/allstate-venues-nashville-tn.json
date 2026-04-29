@@ -1,1 +1,26 @@
-[{"venue_id":"nashville-tn-venue-1","venue_name":"Industrious | Nashville Downtown","latitude":36.078,"longitude":-86.8907,"reservations":7,"spend":5972.74},{"venue_id":"nashville-tn-venue-2","venue_name":"CommonGrounds | Nashville North","latitude":36.2486,"longitude":-86.7566,"reservations":6,"spend":5110.46},{"venue_id":"nashville-tn-venue-3","venue_name":"Roam | Nashville West","latitude":36.2246,"longitude":-86.8212,"reservations":6,"spend":4591.9},{"venue_id":"nashville-tn-venue-4","venue_name":"CommonGrounds | Nashville Central","latitude":36.0944,"longitude":-86.8794,"reservations":2,"spend":1984.83}]
+[
+  {
+    "venue_id": "9aca2365-70bd-4b9e-9ce8-f86225b0b8c2",
+    "venue_name": "Intelligent Office - Nashville",
+    "latitude": 36.165878,
+    "longitude": -86.779633,
+    "reservations": 15,
+    "spend": 12485.0
+  },
+  {
+    "venue_id": "3be5a8cf-3b52-4677-b768-e3e7e640e91b",
+    "venue_name": "Apt CoWork at The Melrose",
+    "latitude": 36.122025,
+    "longitude": -86.775139,
+    "reservations": 2,
+    "spend": 1150.0
+  },
+  {
+    "venue_id": "a2f2e93c-6e9c-4a92-b2cc-b1d88d52dd12",
+    "venue_name": "SPACES | Nashville - Spaces Riverfront Park",
+    "latitude": 36.159821,
+    "longitude": -86.773628,
+    "reservations": 2,
+    "spend": 298.93
+  }
+]

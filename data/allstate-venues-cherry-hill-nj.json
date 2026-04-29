@@ -1,1 +1,18 @@
-[{"venue_id":"cherry-hill-nj-venue-1","venue_name":"Roam | Cherry Hill Downtown","latitude":39.9743,"longitude":-74.9475,"reservations":16,"spend":4208.3},{"venue_id":"cherry-hill-nj-venue-2","venue_name":"HQ | Cherry Hill North","latitude":39.9901,"longitude":-75.0588,"reservations":14,"spend":3607.94}]
+[
+  {
+    "venue_id": "73d04dcc-7e43-48e7-b684-365f164de042",
+    "venue_name": "Signature Workspace - Cherry Hill's Work Club",
+    "latitude": 39.940784,
+    "longitude": -75.025116,
+    "reservations": 31,
+    "spend": 8060.0
+  },
+  {
+    "venue_id": "68114d57-5e19-4d11-a33e-2b1d49aa8a93",
+    "venue_name": "Regus | Towne Place at Garden State Park",
+    "latitude": 39.925007,
+    "longitude": -75.035149,
+    "reservations": 1,
+    "spend": 71.24
+  }
+]

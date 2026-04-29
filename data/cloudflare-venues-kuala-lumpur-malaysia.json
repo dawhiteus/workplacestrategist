@@ -1,26 +1,138 @@
 [
   {
-    "venue_id": "kl-cf-1",
-    "venue_name": "WeWork Equatorial Plaza",
-    "latitude": 3.1477,
-    "longitude": 101.7135,
-    "reservations": 98,
-    "spend": 2521.14
+    "venue_id": "0d143bd6-6b11-48a9-944b-8471276a67ef",
+    "venue_name": "WORQ KL Sentral",
+    "latitude": 3.133818,
+    "longitude": 101.687943,
+    "reservations": 70,
+    "spend": 1936.35
   },
   {
-    "venue_id": "kl-cf-2",
-    "venue_name": "Spaces The Vertical",
-    "latitude": 3.1185,
-    "longitude": 101.6681,
-    "reservations": 81,
-    "spend": 2084.67
+    "venue_id": "9c92867d-c809-40ed-b6d8-3378ad54d41d",
+    "venue_name": "Q Sentral L39 | KL Sentral",
+    "latitude": 3.136605,
+    "longitude": 101.687714,
+    "reservations": 55,
+    "spend": 1438.57
   },
   {
-    "venue_id": "kl-cf-3",
-    "venue_name": "Regus KLCC",
-    "latitude": 3.1570,
-    "longitude": 101.7138,
-    "reservations": 59,
-    "spend": 1527.97
+    "venue_id": "530159b8-6853-4e62-8691-faa7bd253399",
+    "venue_name": "WORQ Intermark",
+    "latitude": 3.161664,
+    "longitude": 101.720352,
+    "reservations": 10,
+    "spend": 753.98
+  },
+  {
+    "venue_id": "3ac5c3ef-2283-4e66-b64d-42e55d0284f1",
+    "venue_name": "Menara 2 (BO1-C) | KL Eco City",
+    "latitude": 3.116619,
+    "longitude": 101.672943,
+    "reservations": 26,
+    "spend": 605.88
+  },
+  {
+    "venue_id": "1a77e0b6-8521-493f-86e3-9f8767a91692",
+    "venue_name": "Regus | Kuala Lumpur, Signature Q Sentral",
+    "latitude": 5.414547,
+    "longitude": 100.329887,
+    "reservations": 2,
+    "spend": 585.93
+  },
+  {
+    "venue_id": "53603931-afa1-4cb2-9ed3-eab94845908f",
+    "venue_name": "WORQ Bangsar",
+    "latitude": 3.128099,
+    "longitude": 101.67868,
+    "reservations": 14,
+    "spend": 352.64
+  },
+  {
+    "venue_id": "bc855c57-ecf3-4879-8db3-9601d307abde",
+    "venue_name": "Menara Worldwide | Bukit Bintang",
+    "latitude": 3.148022,
+    "longitude": 101.71817,
+    "reservations": 23,
+    "spend": 332.16
+  },
+  {
+    "venue_id": "b913dd4f-296d-4140-aa62-8975543d90a2",
+    "venue_name": "WORQ KL Gateway",
+    "latitude": 3.114035,
+    "longitude": 101.663406,
+    "reservations": 15,
+    "spend": 251.09
+  },
+  {
+    "venue_id": "2d262450-6f24-424b-bc32-f9ecf966902d",
+    "venue_name": "Menara Maxis L26 | KLCC",
+    "latitude": 3.158204,
+    "longitude": 101.71302,
+    "reservations": 9,
+    "spend": 230.58
+  },
+  {
+    "venue_id": "2d9ef0f5-5939-4f24-8ab9-640daf77a9ad",
+    "venue_name": "Wisma Mont Kiara | Mont Kiara",
+    "latitude": 3.166772,
+    "longitude": 101.652466,
+    "reservations": 1,
+    "spend": 83.83
+  },
+  {
+    "venue_id": "c404cdf6-4c4f-4087-bcd6-982cae985ddd",
+    "venue_name": "WORQ Sunway Putra",
+    "latitude": 3.166426,
+    "longitude": 101.692421,
+    "reservations": 6,
+    "spend": 54.21
+  },
+  {
+    "venue_id": "eb81a823-fc54-4bb9-bc31-94878f401b47",
+    "venue_name": "Menara BT | Bangsar South",
+    "latitude": 3.13192,
+    "longitude": 101.684059,
+    "reservations": 4,
+    "spend": 49.4
+  },
+  {
+    "venue_id": "703424d6-3cc6-4cfe-a079-480fa749cb7d",
+    "venue_name": "MyTOWN Cheras | Kuala Lumpur",
+    "latitude": 3.134863,
+    "longitude": 101.722839,
+    "reservations": 4,
+    "spend": 37.07
+  },
+  {
+    "venue_id": "96529293-74bd-42f1-86e7-ae3c00025f67",
+    "venue_name": "Wisma UOA Damansara I Damansara Heights",
+    "latitude": 3.151704,
+    "longitude": 101.666618,
+    "reservations": 3,
+    "spend": 35.21
+  },
+  {
+    "venue_id": "7368e1fc-96b2-461d-b12d-f0e51798a0e1",
+    "venue_name": "Regus | Kuala Lumpur, The Gardens",
+    "latitude": 3.117399,
+    "longitude": 101.675484,
+    "reservations": 1,
+    "spend": 27.14
+  },
+  {
+    "venue_id": "1c024bc3-bdc8-4703-8f9b-eacb8db12a4b",
+    "venue_name": "Q Sentral L35 | Kuala Lumpur Sentral",
+    "latitude": 3.135809,
+    "longitude": 101.686424,
+    "reservations": 1,
+    "spend": 17.96
+  },
+  {
+    "venue_id": "58b5df86-8c0c-452f-b022-bb67c90571db",
+    "venue_name": "Menara BRDB | Bangsar",
+    "latitude": 3.143829,
+    "longitude": 101.667282,
+    "reservations": 1,
+    "spend": 4.25
   }
 ]

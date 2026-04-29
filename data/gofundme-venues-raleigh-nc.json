@@ -2,25 +2,41 @@
   {
     "venue_id": "78a0d741-056d-4979-b77a-9f70783b72c9",
     "venue_name": "Regus | Cap Trust Tower",
-    "latitude": 35.837059020996094,
-    "longitude": -78.64005279541016,
+    "latitude": 35.837059,
+    "longitude": -78.640053,
     "reservations": 3,
     "spend": 320.76
   },
   {
     "venue_id": "e379179e-46fa-4b9a-b129-bb84465787c9",
     "venue_name": "The Loading Dock - Dock 1053",
-    "latitude": 35.80897521972656,
-    "longitude": -78.62125396728516,
+    "latitude": 35.808975,
+    "longitude": -78.621254,
     "reservations": 7,
     "spend": 210.0
   },
   {
     "venue_id": "d5dbaf9c-b01c-4dd0-af04-660b6807e9b9",
     "venue_name": "The Loading Dock - Beryl Road",
-    "latitude": 35.79340362548828,
-    "longitude": -78.69190216064453,
+    "latitude": 35.793404,
+    "longitude": -78.691902,
     "reservations": 7,
     "spend": 210.0
+  },
+  {
+    "venue_id": "5738d991-051a-46f8-9a5e-b1d82708f4a4",
+    "venue_name": "Office Evolution - Raleigh Crabtree Valley Mall",
+    "latitude": 35.84333,
+    "longitude": -78.681702,
+    "reservations": 1,
+    "spend": 80.0
+  },
+  {
+    "venue_id": "7d643b01-5585-406e-890a-de8bf270740b",
+    "venue_name": "The Wright Village",
+    "latitude": 35.757168,
+    "longitude": -78.650902,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

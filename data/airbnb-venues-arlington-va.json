@@ -2,17 +2,33 @@
   {
     "venue_id": "2d2798fa-16f3-4ff4-95f5-7d2408aa6fe2",
     "venue_name": "Life Time Work - Clarendon",
-    "latitude": 38.88886642456055,
-    "longitude": -77.09190368652344,
+    "latitude": 38.888866,
+    "longitude": -77.091904,
     "reservations": 2,
     "spend": 130.0
   },
   {
     "venue_id": "71eac4df-c70a-4213-80dd-68477a7393d7",
     "venue_name": "Carr Workplaces - Clarendon",
-    "latitude": 38.88765335083008,
-    "longitude": -77.095458984375,
+    "latitude": 38.887653,
+    "longitude": -77.095459,
     "reservations": 2,
     "spend": 90.0
+  },
+  {
+    "venue_id": "b4ca869b-c10a-4f84-b1f6-cad6c4fa854d",
+    "venue_name": "Industrious - Ballston Exchange",
+    "latitude": 38.880482,
+    "longitude": -77.110939,
+    "reservations": 1,
+    "spend": 63.0
+  },
+  {
+    "venue_id": "2362c47d-aefe-45d7-98a4-6a4df395f59a",
+    "venue_name": "WeWork | 1201 Wilson Blvd",
+    "latitude": 38.895267,
+    "longitude": -77.071266,
+    "reservations": 1,
+    "spend": 47.0
   }
 ]

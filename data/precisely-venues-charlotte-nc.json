@@ -2,17 +2,25 @@
   {
     "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
     "venue_name": "Expansive - Uptown",
-    "latitude": 35.227840423583984,
-    "longitude": -80.8462905883789,
+    "latitude": 35.22784,
+    "longitude": -80.846291,
     "reservations": 6,
     "spend": 2275.0
   },
   {
     "venue_id": "56ca5589-69e7-457e-ae98-2707ab38f018",
     "venue_name": "YourOffice - Ballantyne (Charlotte, NC)",
-    "latitude": 35.05923843383789,
-    "longitude": -80.85212707519531,
+    "latitude": 35.059238,
+    "longitude": -80.852127,
     "reservations": 3,
     "spend": 1125.0
+  },
+  {
+    "venue_id": "cccceb15-8a75-4c27-9b6b-07ff1d294dc0",
+    "venue_name": "Regus | Southpark Fairview (Office Suites Plus)",
+    "latitude": 35.150684,
+    "longitude": -80.840912,
+    "reservations": 1,
+    "spend": 329.0
   }
 ]

@@ -1,0 +1,250 @@
+[
+  {
+    "venue_id": "24c534dc-69a4-48cc-9144-435070220961",
+    "venue_name": "XCHG London",
+    "latitude": 51.51442,
+    "longitude": -0.083048,
+    "reservations": 17,
+    "spend": 7357.64
+  },
+  {
+    "venue_id": "2c9f2a33-7d26-4f55-91ed-20a5027cab7c",
+    "venue_name": "Landmark | Old Broad Street",
+    "latitude": 51.514458,
+    "longitude": -0.086167,
+    "reservations": 6,
+    "spend": 4260.06
+  },
+  {
+    "venue_id": "677e4746-2fe9-419c-9f41-6843cec80982",
+    "venue_name": "Landmark | Royal Exchange",
+    "latitude": 51.513718,
+    "longitude": -0.086903,
+    "reservations": 8,
+    "spend": 3960.7
+  },
+  {
+    "venue_id": "e73471b9-82da-4281-9746-6d9b88bccbb4",
+    "venue_name": "Regus | London, The Gherkin",
+    "latitude": 51.51453,
+    "longitude": -0.080696,
+    "reservations": 3,
+    "spend": 3256.03
+  },
+  {
+    "venue_id": "4d60c014-1217-4e97-abfb-d7dd66b881b4",
+    "venue_name": "Landmark | Kings Cross",
+    "latitude": 51.530693,
+    "longitude": -0.121266,
+    "reservations": 6,
+    "spend": 2684.1
+  },
+  {
+    "venue_id": "6ca1d1fd-7c8d-4219-a9bc-e1e68ca68460",
+    "venue_name": "WeWork | No 1 Poultry",
+    "latitude": 51.513489,
+    "longitude": -0.091183,
+    "reservations": 5,
+    "spend": 2408.62
+  },
+  {
+    "venue_id": "74b5fd86-7e0d-4674-bcde-6311840f1181",
+    "venue_name": "Landmark | Liverpool Street",
+    "latitude": 51.517399,
+    "longitude": -0.080142,
+    "reservations": 4,
+    "spend": 1910.42
+  },
+  {
+    "venue_id": "b7798c14-cc1e-470b-9db7-55e9501c4181",
+    "venue_name": "Landmark | Gracechurch Street",
+    "latitude": 51.511154,
+    "longitude": -0.085847,
+    "reservations": 2,
+    "spend": 1905.64
+  },
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 2,
+    "spend": 1680.91
+  },
+  {
+    "venue_id": "fc859088-407f-455e-bc66-d13065b9a017",
+    "venue_name": "WeWork | 17 St Helen's Pl",
+    "latitude": 51.515244,
+    "longitude": -0.081783,
+    "reservations": 2,
+    "spend": 1633.95
+  },
+  {
+    "venue_id": "d01e4eae-4178-4346-9e3e-5a6405185585",
+    "venue_name": "Landmark | Regent Street",
+    "latitude": 51.510754,
+    "longitude": -0.138251,
+    "reservations": 3,
+    "spend": 1388.17
+  },
+  {
+    "venue_id": "0a30f8d1-9003-490c-ba8e-a66357a93f3e",
+    "venue_name": "Landmark | 99 Bishopsgate",
+    "latitude": 51.515881,
+    "longitude": -0.082642,
+    "reservations": 6,
+    "spend": 1354.31
+  },
+  {
+    "venue_id": "9a61c120-05ec-4037-be22-40549c2096f7",
+    "venue_name": "Regus | London, St James Square",
+    "latitude": 51.507801,
+    "longitude": -0.1357,
+    "reservations": 1,
+    "spend": 1187.63
+  },
+  {
+    "venue_id": "c03c9e5e-50e1-459d-ac19-89e86d06214d",
+    "venue_name": "Shoreditch Exchange",
+    "latitude": 51.530167,
+    "longitude": -0.075507,
+    "reservations": 1,
+    "spend": 1041.75
+  },
+  {
+    "venue_id": "ea7558a8-42a9-4587-b04a-09f9b881df2b",
+    "venue_name": "WeWork | 10 Devonshire Square",
+    "latitude": 51.516861,
+    "longitude": -0.078951,
+    "reservations": 1,
+    "spend": 959.34
+  },
+  {
+    "venue_id": "753dfcc8-2b37-47e9-8495-a16126da01a9",
+    "venue_name": "Landmark | Bevis Marks",
+    "latitude": 51.515121,
+    "longitude": -0.079501,
+    "reservations": 2,
+    "spend": 895.57
+  },
+  {
+    "venue_id": "acb529fe-2c7a-4d49-ba5d-cc2a1317530f",
+    "venue_name": "Spacemade - Beton",
+    "latitude": 51.522308,
+    "longitude": -0.097725,
+    "reservations": 3,
+    "spend": 884.22
+  },
+  {
+    "venue_id": "aa7f8ec2-eb17-4e61-bafd-57645a705b0d",
+    "venue_name": "WeWork | 2 Minster Court",
+    "latitude": 51.510757,
+    "longitude": -0.081093,
+    "reservations": 1,
+    "spend": 812.05
+  },
+  {
+    "venue_id": "7d6d5958-dd60-4f1d-b47f-d35db73a727d",
+    "venue_name": "FORA | Liberty House",
+    "latitude": 51.513618,
+    "longitude": -0.140762,
+    "reservations": 1,
+    "spend": 607.32
+  },
+  {
+    "venue_id": "45b0a5f6-938f-4549-9f0d-603b52961f7e",
+    "venue_name": "Regus | King's Cross",
+    "latitude": 51.529835,
+    "longitude": -0.120174,
+    "reservations": 1,
+    "spend": 454.71
+  },
+  {
+    "venue_id": "98628c22-679b-40b9-897d-1b336b70b769",
+    "venue_name": "Landmark | Farringdon",
+    "latitude": 51.517365,
+    "longitude": -0.101677,
+    "reservations": 1,
+    "spend": 299.8
+  },
+  {
+    "venue_id": "3cb12451-a103-471b-8579-a545864007f6",
+    "venue_name": "Regus | London, Battersea Power Station (The Engine Room)",
+    "latitude": 51.481888,
+    "longitude": -0.144377,
+    "reservations": 1,
+    "spend": 298.97
+  },
+  {
+    "venue_id": "2a0d6caf-c58a-4d22-ba9e-168877804cd0",
+    "venue_name": "Landmark | Mayfair",
+    "latitude": 51.511223,
+    "longitude": -0.14872,
+    "reservations": 1,
+    "spend": 133.53
+  },
+  {
+    "venue_id": "4fb0d96c-6d2d-4fc4-a226-eb903d10603b",
+    "venue_name": "Spacemade - Elmtree",
+    "latitude": 51.518074,
+    "longitude": -0.147712,
+    "reservations": 1,
+    "spend": 120.32
+  },
+  {
+    "venue_id": "075d6d01-9626-4ae9-a6a9-8089b0a1fb57",
+    "venue_name": "Landmark | Cannon Place",
+    "latitude": 51.511421,
+    "longitude": -0.090189,
+    "reservations": 1,
+    "spend": 119.49
+  },
+  {
+    "venue_id": "f8aad807-558d-4553-8ca9-b5f8e3b13a89",
+    "venue_name": "Regus | Baker Street",
+    "latitude": 51.520046,
+    "longitude": -0.156728,
+    "reservations": 1,
+    "spend": 96.29
+  },
+  {
+    "venue_id": "fe703fde-5579-4d38-b6e2-ec9ed688b586",
+    "venue_name": "WeWork | 5 Merchant Square",
+    "latitude": 51.518898,
+    "longitude": -0.173369,
+    "reservations": 1,
+    "spend": 71.6
+  },
+  {
+    "venue_id": "4c8b896b-e7a9-4ea1-9a4d-cb12abf972dd",
+    "venue_name": "WeWork | The Monument",
+    "latitude": 51.510559,
+    "longitude": -0.08257,
+    "reservations": 1,
+    "spend": 67.0
+  },
+  {
+    "venue_id": "bf9ccc81-af3c-4ebe-ad14-c9bb765af549",
+    "venue_name": "Landmark | Victoria, Orchard Place",
+    "latitude": 51.498783,
+    "longitude": -0.13304,
+    "reservations": 1,
+    "spend": 60.9
+  },
+  {
+    "venue_id": "87522a07-0253-4d28-9ec0-a660bd772ad3",
+    "venue_name": "Landmark | Aldgate",
+    "latitude": 51.514336,
+    "longitude": -0.077577,
+    "reservations": 1,
+    "spend": 60.8
+  },
+  {
+    "venue_id": "2bd5d6a3-5c9e-463c-a5c5-b75ebfe43f73",
+    "venue_name": "Spacemade - The Gatehouse",
+    "latitude": 51.458839,
+    "longitude": -0.191059,
+    "reservations": 1,
+    "spend": 54.07
+  }
+]

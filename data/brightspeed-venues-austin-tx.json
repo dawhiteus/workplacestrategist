@@ -2,17 +2,25 @@
   {
     "venue_id": "05622ecc-3826-4d97-818a-f06c58e46bb3",
     "venue_name": "Createscape",
-    "latitude": 30.26046371459961,
-    "longitude": -97.70388793945312,
+    "latitude": 30.260464,
+    "longitude": -97.703888,
     "reservations": 9,
     "spend": 225.0
   },
   {
     "venue_id": "6a9fbf36-3fc1-434a-a0df-bfa101ac592d",
     "venue_name": "Common Desk - 6th & Congress",
-    "latitude": 30.268146514892578,
-    "longitude": -97.7422866821289,
+    "latitude": 30.268147,
+    "longitude": -97.742287,
     "reservations": 7,
     "spend": 175.0
+  },
+  {
+    "venue_id": "0bc3ddf6-c158-4410-b95d-4a43d36e444d",
+    "venue_name": "Trick Hat Workway",
+    "latitude": 30.267586,
+    "longitude": -97.754318,
+    "reservations": 1,
+    "spend": 55.0
   }
 ]

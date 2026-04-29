@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3c356fdd-2ab0-40bd-b093-d9d5bb1d93b6",
+    "venue_name": "SPACES | Rio de Janeiro, Ipanema",
+    "latitude": -22.984184,
+    "longitude": -43.210022,
+    "reservations": 3,
+    "spend": 351.45
+  },
+  {
+    "venue_id": "302dce6a-6fc9-484a-a4d4-e54467fc8eae",
+    "venue_name": "Regus | Rio de Janeiro, Ayrton Senna",
+    "latitude": -22.98761,
+    "longitude": -43.365231,
+    "reservations": 1,
+    "spend": 68.3
+  },
+  {
+    "venue_id": "ab59bb86-ee22-436a-8022-80acb0df501f",
+    "venue_name": "Regus | Rio de Janeiro, O2 Corporate Barra",
+    "latitude": -22.987978,
+    "longitude": -43.35997,
+    "reservations": 1,
+    "spend": 28.46
+  }
+]

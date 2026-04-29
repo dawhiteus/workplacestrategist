@@ -1,0 +1,128 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 18,
+    "total_spend": 10658.2,
+    "venues": 5,
+    "members": 2
+  },
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "reservations": 18,
+    "total_spend": 7335.0,
+    "venues": 6,
+    "members": 8
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 3332.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Southbank",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 8,
+    "total_spend": 2646.42,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Sacramento",
+    "state": "CA",
+    "country": "US",
+    "reservations": 7,
+    "total_spend": 2075.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Darlinghurst",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 3,
+    "total_spend": 2041.77,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 1865.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Culver City",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 1725.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 1690.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "reservations": 14,
+    "total_spend": 1640.0,
+    "venues": 4,
+    "members": 10
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 1130.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 785.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Citrus Heights",
+    "state": "CA",
+    "country": "US",
+    "reservations": 7,
+    "total_spend": 350.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "El Monte",
+    "state": "CA",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 310.0,
+    "venues": 1,
+    "members": 1
+  }
+]

@@ -2,9 +2,41 @@
   {
     "venue_id": "06c9dfce-8304-4067-a40e-e46fde60b851",
     "venue_name": "(SP3) Spectrum Center",
-    "latitude": 33.65064239501953,
-    "longitude": -117.74763488769531,
+    "latitude": 33.650642,
+    "longitude": -117.747635,
     "reservations": 6,
     "spend": 3070.0
+  },
+  {
+    "venue_id": "56db26e6-8eb2-4ecc-bd16-b71e2a2514b6",
+    "venue_name": "Industrious - Irvine",
+    "latitude": 33.672527,
+    "longitude": -117.843872,
+    "reservations": 1,
+    "spend": 796.0
+  },
+  {
+    "venue_id": "6b7e607d-c168-4ea5-9169-c7519b33c5fd",
+    "venue_name": "(ATR) The Atrium",
+    "latitude": 33.67046,
+    "longitude": -117.857628,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "7753dee2-53c2-425a-b131-bab0b82b6326",
+    "venue_name": "(CTR) Centerstone Plaza",
+    "latitude": 33.682362,
+    "longitude": -117.808907,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "ee836b44-d543-4432-8861-2b9a2d43176e",
+    "venue_name": "WeWork | 200 Spectrum Center",
+    "latitude": 33.652721,
+    "longitude": -117.747902,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

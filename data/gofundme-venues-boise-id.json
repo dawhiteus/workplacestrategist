@@ -2,9 +2,17 @@
   {
     "venue_id": "328e1cdd-3bfe-4c87-8227-45516a6152a6",
     "venue_name": "Inspiration Alley",
-    "latitude": 43.61632537841797,
-    "longitude": -116.20851135253906,
+    "latitude": 43.616325,
+    "longitude": -116.208511,
     "reservations": 2,
     "spend": 50.0
+  },
+  {
+    "venue_id": "be485dfd-d4a2-4df5-af68-fe6a38685801",
+    "venue_name": "Office Evolution - Boise",
+    "latitude": 43.616379,
+    "longitude": -116.205452,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

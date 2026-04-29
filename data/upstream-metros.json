@@ -2,6 +2,7 @@
   {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 27,
     "total_spend": 7313.21,
     "venues": 9,
@@ -10,6 +11,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 9,
     "total_spend": 6531.97,
     "venues": 7,
@@ -18,6 +20,7 @@
   {
     "city": "Nashville",
     "state": "TN",
+    "country": "US",
     "reservations": 5,
     "total_spend": 3027.5,
     "venues": 2,
@@ -26,6 +29,7 @@
   {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 6,
     "total_spend": 2855.0,
     "venues": 3,
@@ -34,6 +38,7 @@
   {
     "city": "Salt Lake City",
     "state": "UT",
+    "country": "US",
     "reservations": 6,
     "total_spend": 2530.0,
     "venues": 1,
@@ -42,6 +47,7 @@
   {
     "city": "Charlotte",
     "state": "NC",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1982.0,
     "venues": 2,
@@ -50,6 +56,7 @@
   {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1843.66,
     "venues": 2,
@@ -58,6 +65,7 @@
   {
     "city": "Durham",
     "state": "NC",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1510.0,
     "venues": 1,
@@ -66,6 +74,7 @@
   {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1334.0,
     "venues": 3,
@@ -74,6 +83,7 @@
   {
     "city": "Arlington",
     "state": "VA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1047.0,
     "venues": 2,
@@ -82,6 +92,7 @@
   {
     "city": "Charleston",
     "state": "SC",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1040.0,
     "venues": 1,
@@ -90,6 +101,7 @@
   {
     "city": "Raleigh",
     "state": "NC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 996.0,
     "venues": 2,

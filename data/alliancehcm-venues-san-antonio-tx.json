@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4042b934-98e5-4c46-9866-8faf4190e6a9",
+    "venue_name": "Venture X | San Antonio Northwest",
+    "latitude": 29.504156,
+    "longitude": -98.55146,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "4857861a-3e05-4dea-b03d-b4d84b8ee894",
+    "venue_name": "Regus | San Antonio Airport",
+    "latitude": 29.5166,
+    "longitude": -98.436401,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

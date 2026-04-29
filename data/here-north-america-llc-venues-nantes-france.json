@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ceb1794b-4048-49ff-ad35-1c63bf6d640e",
+    "venue_name": "La Cantine Numérique",
+    "latitude": 47.206139,
+    "longitude": -1.560368,
+    "reservations": 8,
+    "spend": 2261.94
+  },
+  {
+    "venue_id": "1f5717d8-ce89-45b4-8746-880b0e144eec",
+    "venue_name": "SPACES | Euronantes",
+    "latitude": 47.215717,
+    "longitude": -1.532517,
+    "reservations": 3,
+    "spend": 770.55
+  }
+]

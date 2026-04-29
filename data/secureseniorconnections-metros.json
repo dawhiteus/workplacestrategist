@@ -1,0 +1,83 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 13,
+    "total_spend": 3107.5,
+    "venues": 9,
+    "members": 6
+  },
+  {
+    "city": "Burlington",
+    "state": "MA",
+    "country": "US",
+    "reservations": 7,
+    "total_spend": 2559.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Needham",
+    "state": "MA",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 2247.0,
+    "venues": 2,
+    "members": 5
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 1357.0,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "Walpole",
+    "state": "MA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 150.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Williamsburg",
+    "state": "NY",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 105.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Rochester",
+    "state": "NY",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 105.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "New Bedford",
+    "state": "MA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 90.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Providence",
+    "state": "RI",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 75.0,
+    "venues": 1,
+    "members": 1
+  }
+]

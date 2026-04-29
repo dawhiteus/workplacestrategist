@@ -2,9 +2,25 @@
   {
     "venue_id": "8e3cc8f9-2f76-4be2-a3e8-e95df2275282",
     "venue_name": "Office Evolution - Madison Arboretum",
-    "latitude": 43.032630920410156,
-    "longitude": -89.4276123046875,
+    "latitude": 43.032631,
+    "longitude": -89.427612,
     "reservations": 8,
     "spend": 711.0
+  },
+  {
+    "venue_id": "c62164c2-d930-48f6-b1c4-8ae9ed471644",
+    "venue_name": "Expansive - The Capitol",
+    "latitude": 43.071327,
+    "longitude": -89.388008,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "9b5bf667-c5cd-4212-9b40-ff1904aa85a9",
+    "venue_name": "Regus | WI, Madison - W. Broadway",
+    "latitude": 43.04768,
+    "longitude": -89.342003,
+    "reservations": 1,
+    "spend": 78.04
   }
 ]

@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "6a7b1980-fba7-4150-b6cb-795ad7c54522",
+    "venue_name": "Regus | Hoboken Riverfront Center",
+    "latitude": 40.738766,
+    "longitude": -74.027771,
+    "reservations": 2,
+    "spend": 1226.0
+  },
+  {
     "venue_id": "9237b61d-c3ac-45ca-9fde-82ff8247bf3f",
     "venue_name": "Sweven Hoboken",
-    "latitude": 40.73640060424805,
-    "longitude": -74.02934265136719,
+    "latitude": 40.736401,
+    "longitude": -74.029343,
     "reservations": 8,
     "spend": 330.0
   }

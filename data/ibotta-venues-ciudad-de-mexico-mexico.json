@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "cad87beb-2fd2-4955-b551-50520d315cca",
+    "venue_name": "WeWork | Varsovia",
+    "latitude": 19.424484,
+    "longitude": -99.167877,
+    "reservations": 1,
+    "spend": 34.17
+  },
+  {
+    "venue_id": "0155c934-a0f1-4886-bbcd-c5a2fc9d82dc",
+    "venue_name": "IOS OFFICES | Torre Reforma",
+    "latitude": 19.42441,
+    "longitude": -99.1744,
+    "reservations": 1,
+    "spend": 19.64
+  }
+]

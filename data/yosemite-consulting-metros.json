@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "reservations": 14,
+    "total_spend": 3260.0,
+    "venues": 6,
+    "members": 2
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 11,
+    "total_spend": 2820.0,
+    "venues": 9,
+    "members": 3
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 2198.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 297.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 155.0,
+    "venues": 2,
+    "members": 2
+  }
+]

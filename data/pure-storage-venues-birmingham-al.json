@@ -2,17 +2,41 @@
   {
     "venue_id": "66715a81-5e1a-4598-a8c3-dbda8bb1133a",
     "venue_name": "Regus | Perimeter Park",
-    "latitude": 33.43741226196289,
-    "longitude": -86.72411346435547,
+    "latitude": 33.437412,
+    "longitude": -86.724113,
     "reservations": 8,
     "spend": 1455.5
   },
   {
+    "venue_id": "085099a0-9f23-482c-82f6-390cfae50168",
+    "venue_name": "Forge",
+    "latitude": 33.514259,
+    "longitude": -86.808144,
+    "reservations": 2,
+    "spend": 355.0
+  },
+  {
     "venue_id": "34facfe6-770e-48d8-b1a9-740ef10f7f67",
-    "venue_name": "Werkpl\u0101s Hoover",
-    "latitude": 33.379093170166016,
-    "longitude": -86.80953216552734,
+    "venue_name": "Werkplās Hoover",
+    "latitude": 33.379093,
+    "longitude": -86.809532,
     "reservations": 3,
     "spend": 310.0
+  },
+  {
+    "venue_id": "7d022ec2-1ca6-491d-9b64-0e8baf3b6442",
+    "venue_name": "Regus || SouthBridge Center",
+    "latitude": 33.488007,
+    "longitude": -86.789963,
+    "reservations": 2,
+    "spend": 214.0
+  },
+  {
+    "venue_id": "0c156ec9-bb5b-4bc4-aa18-02fa5b8c68c4",
+    "venue_name": "THRIVE | Birmingham",
+    "latitude": 33.506542,
+    "longitude": -86.81411,
+    "reservations": 1,
+    "spend": 180.0
   }
 ]

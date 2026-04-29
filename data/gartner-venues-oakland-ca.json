@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "efd99549-7432-45b5-8d57-739049c44ec3",
+    "venue_name": "Oakstop 23  ",
+    "latitude": 37.81263,
+    "longitude": -122.266403,
+    "reservations": 1,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "bd550164-e881-4e0b-9dd9-effdd9c6f294",
+    "venue_name": "Port Workspaces @ Jack London Square",
+    "latitude": 37.795658,
+    "longitude": -122.277,
+    "reservations": 1,
+    "spend": 200.0
+  }
+]

@@ -1,7 +1,17 @@
 [
   {
+    "city": "Barcelona",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 110,
+    "total_spend": 12846.26,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Scottsdale",
     "state": "AZ",
+    "country": "US",
     "reservations": 33,
     "total_spend": 9747.0,
     "venues": 7,
@@ -10,6 +20,7 @@
   {
     "city": "Tempe",
     "state": "AZ",
+    "country": "US",
     "reservations": 9,
     "total_spend": 4727.9,
     "venues": 4,
@@ -18,6 +29,7 @@
   {
     "city": "Phoenix",
     "state": "AZ",
+    "country": "US",
     "reservations": 28,
     "total_spend": 4269.58,
     "venues": 12,
@@ -26,6 +38,7 @@
   {
     "city": "Carlsbad",
     "state": "CA",
+    "country": "US",
     "reservations": 15,
     "total_spend": 3745.0,
     "venues": 2,
@@ -34,6 +47,7 @@
   {
     "city": "Mason",
     "state": "OH",
+    "country": "US",
     "reservations": 15,
     "total_spend": 3201.0,
     "venues": 2,
@@ -42,30 +56,34 @@
   {
     "city": "Pasadena",
     "state": "CA",
+    "country": "US",
     "reservations": 12,
     "total_spend": 2985.0,
     "venues": 3,
     "members": 1
   },
   {
-    "city": "Rancho Cucamonga",
-    "state": "CA",
-    "reservations": 11,
-    "total_spend": 1970.0,
-    "venues": 2,
-    "members": 1
-  },
-  {
     "city": "Irvine",
     "state": "CA",
+    "country": "US",
     "reservations": 11,
     "total_spend": 1970.0,
     "venues": 6,
     "members": 1
   },
   {
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "country": "US",
+    "reservations": 11,
+    "total_spend": 1970.0,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Cincinnati",
     "state": "OH",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1615.0,
     "venues": 2,
@@ -74,6 +92,7 @@
   {
     "city": "Peoria",
     "state": "AZ",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1262.0,
     "venues": 2,
@@ -82,6 +101,7 @@
   {
     "city": "Chandler",
     "state": "AZ",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1110.0,
     "venues": 2,
@@ -90,6 +110,7 @@
   {
     "city": "Mesa",
     "state": "AZ",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1108.5,
     "venues": 2,
@@ -98,6 +119,7 @@
   {
     "city": "Burbank",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 690.0,
     "venues": 2,
@@ -106,6 +128,7 @@
   {
     "city": "Glendale",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 657.5,
     "venues": 3,
@@ -114,6 +137,7 @@
   {
     "city": "Milford",
     "state": "OH",
+    "country": "US",
     "reservations": 3,
     "total_spend": 468.0,
     "venues": 1,

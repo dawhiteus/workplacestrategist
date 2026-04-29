@@ -1,7 +1,26 @@
 [
   {
+    "city": "Canberra",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 347,
+    "total_spend": 65891.58,
+    "venues": 2,
+    "members": 5
+  },
+  {
+    "city": "Brisbane City",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 42,
+    "total_spend": 9187.57,
+    "venues": 4,
+    "members": 3
+  },
+  {
     "city": "The Colony",
     "state": "TX",
+    "country": "US",
     "reservations": 29,
     "total_spend": 7970.0,
     "venues": 1,
@@ -10,14 +29,16 @@
   {
     "city": "Frisco",
     "state": "TX",
+    "country": "US",
     "reservations": 19,
     "total_spend": 6116.12,
     "venues": 5,
     "members": 8
   },
   {
-    "city": "McLean",
+    "city": "Mclean",
     "state": "VA",
+    "country": "US",
     "reservations": 14,
     "total_spend": 3780.0,
     "venues": 2,
@@ -26,6 +47,7 @@
   {
     "city": "Dublin",
     "state": "OH",
+    "country": "US",
     "reservations": 47,
     "total_spend": 2850.0,
     "venues": 1,
@@ -34,6 +56,7 @@
   {
     "city": "Tysons",
     "state": "VA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 2722.0,
     "venues": 3,
@@ -42,6 +65,7 @@
   {
     "city": "Birmingham",
     "state": "AL",
+    "country": "US",
     "reservations": 16,
     "total_spend": 2514.5,
     "venues": 5,
@@ -50,14 +74,25 @@
   {
     "city": "Plano",
     "state": "TX",
+    "country": "US",
     "reservations": 9,
     "total_spend": 2247.92,
     "venues": 6,
     "members": 6
   },
   {
+    "city": "Brisbane",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 6,
+    "total_spend": 2165.5,
+    "venues": 3,
+    "members": 5
+  },
+  {
     "city": "Miami",
     "state": "FL",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1900.0,
     "venues": 2,
@@ -66,6 +101,7 @@
   {
     "city": "Tampa",
     "state": "FL",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1755.0,
     "venues": 4,
@@ -74,6 +110,7 @@
   {
     "city": "Pittsburgh",
     "state": "PA",
+    "country": "US",
     "reservations": 9,
     "total_spend": 1681.0,
     "venues": 1,
@@ -82,6 +119,7 @@
   {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1552.23,
     "venues": 3,
@@ -90,6 +128,7 @@
   {
     "city": "Franklin",
     "state": "TN",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1380.0,
     "venues": 2,
@@ -98,6 +137,7 @@
   {
     "city": "Arlington",
     "state": "VA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1182.5,
     "venues": 3,
@@ -106,6 +146,7 @@
   {
     "city": "Cranberry Township",
     "state": "PA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 974.18,
     "venues": 1,
@@ -114,6 +155,7 @@
   {
     "city": "Gilbert",
     "state": "AZ",
+    "country": "US",
     "reservations": 6,
     "total_spend": 970.0,
     "venues": 2,
@@ -122,6 +164,7 @@
   {
     "city": "Cary",
     "state": "NC",
+    "country": "US",
     "reservations": 7,
     "total_spend": 924.0,
     "venues": 2,
@@ -130,14 +173,25 @@
   {
     "city": "Allen",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 915.0,
     "venues": 1,
     "members": 2
   },
   {
+    "city": "Meyrin",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 5,
+    "total_spend": 773.38,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Raleigh",
     "state": "NC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 647.0,
     "venues": 2,
@@ -146,6 +200,7 @@
   {
     "city": "Irving",
     "state": "TX",
+    "country": "US",
     "reservations": 4,
     "total_spend": 620.0,
     "venues": 3,
@@ -154,6 +209,7 @@
   {
     "city": "Irvine",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 600.0,
     "venues": 1,
@@ -162,14 +218,25 @@
   {
     "city": "Scottsdale",
     "state": "AZ",
+    "country": "US",
     "reservations": 4,
     "total_spend": 587.5,
     "venues": 3,
     "members": 3
   },
   {
+    "city": "Grand Lancy",
+    "state": "Switzerland",
+    "country": "Switzerland",
+    "reservations": 4,
+    "total_spend": 531.44,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Lewisville",
     "state": "TX",
+    "country": "US",
     "reservations": 4,
     "total_spend": 433.0,
     "venues": 2,
@@ -178,6 +245,7 @@
   {
     "city": "Phoenix",
     "state": "AZ",
+    "country": "US",
     "reservations": 3,
     "total_spend": 360.0,
     "venues": 1,
@@ -186,6 +254,7 @@
   {
     "city": "Grapevine",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 280.0,
     "venues": 1,
@@ -194,6 +263,7 @@
   {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 270.0,
     "venues": 1,
@@ -202,6 +272,7 @@
   {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 3,
     "total_spend": 270.0,
     "venues": 3,
@@ -210,6 +281,7 @@
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 210.0,
     "venues": 1,

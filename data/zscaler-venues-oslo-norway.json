@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "ee7b68f7-1873-4a44-a7ae-c397c67bd066",
+    "venue_name": "SPACES | Oslo, Spaces Apotekergata",
+    "latitude": 59.915279,
+    "longitude": 10.74204,
+    "reservations": 4,
+    "spend": 6396.16
+  },
+  {
+    "venue_id": "2a81d85a-a840-4214-aee1-0a4f6182011b",
+    "venue_name": "Regus | Oslo, Spaces Aker Brygge",
+    "latitude": 59.909149,
+    "longitude": 10.72491,
+    "reservations": 19,
+    "spend": 5764.05
+  },
+  {
+    "venue_id": "a1e627a4-89d2-4857-8581-ed2b4e1eb34c",
+    "venue_name": "SPACES | Oslo, Spaces Stortorvet 7",
+    "latitude": 59.912971,
+    "longitude": 10.74423,
+    "reservations": 5,
+    "spend": 2114.99
+  },
+  {
+    "venue_id": "22e9b60e-a331-40b4-899c-8c463a04db21",
+    "venue_name": "SPACES | Oslo Kvadraturen",
+    "latitude": 59.909801,
+    "longitude": 10.7462,
+    "reservations": 1,
+    "spend": 1004.49
+  },
+  {
+    "venue_id": "734ef7ec-8fa1-4c6c-bb94-dfd75399387b",
+    "venue_name": "Regus | Oslo, Posthuset",
+    "latitude": 59.911583,
+    "longitude": 10.754539,
+    "reservations": 4,
+    "spend": 859.3
+  },
+  {
+    "venue_id": "d997be42-126f-4cfb-87c2-e8acb762cb40",
+    "venue_name": "SPACES | Oslo, Spaces Haakon VII's gate",
+    "latitude": 59.913849,
+    "longitude": 10.73117,
+    "reservations": 1,
+    "spend": 312.76
+  },
+  {
+    "venue_id": "e1adb516-abf0-4f91-9aa6-64552f114064",
+    "venue_name": "Regus | Oslo, Karenslyst Allé",
+    "latitude": 59.921719,
+    "longitude": 10.679666,
+    "reservations": 1,
+    "spend": 149.59
+  },
+  {
+    "venue_id": "485f3645-b015-4ecd-80ce-651abb9faa09",
+    "venue_name": "SPACES | Oslo, Grünerløkka",
+    "latitude": 59.919998,
+    "longitude": 10.7573,
+    "reservations": 1,
+    "spend": 19.55
+  }
+]

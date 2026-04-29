@@ -2,9 +2,25 @@
   {
     "venue_id": "69a56ced-a20e-4258-80b8-2f6b745cfbc8",
     "venue_name": "The Works - Gilbert",
-    "latitude": 33.32256317138672,
-    "longitude": -111.71968841552734,
+    "latitude": 33.322563,
+    "longitude": -111.719688,
     "reservations": 6,
     "spend": 1830.0
+  },
+  {
+    "venue_id": "5373a408-6ef2-42e3-a437-4f4ae7d683e7",
+    "venue_name": "VEW Property LLC",
+    "latitude": 33.306751,
+    "longitude": -111.788422,
+    "reservations": 1,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "61bd04d2-b519-4b04-9269-3e62884a2ac5",
+    "venue_name": "Kiln - Gilbert",
+    "latitude": 33.309608,
+    "longitude": -111.743835,
+    "reservations": 1,
+    "spend": 65.0
   }
 ]

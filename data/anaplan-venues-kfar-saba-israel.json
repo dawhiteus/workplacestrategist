@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c26d3104-7f2d-4196-84fd-674191bed1cf",
+    "venue_name": "SPACES | Kfar Saba, Menivim",
+    "latitude": 32.173,
+    "longitude": 34.891659,
+    "reservations": 117,
+    "spend": 4130.85
+  },
+  {
+    "venue_id": "8c8d714f-5de9-4875-a8ed-b5cc00e2fe57",
+    "venue_name": "Regus | Kfar Saba, O-Tech",
+    "latitude": 32.167561,
+    "longitude": 34.928616,
+    "reservations": 2,
+    "spend": 72.89
+  }
+]

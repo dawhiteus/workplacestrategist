@@ -2,9 +2,25 @@
   {
     "venue_id": "ba11eec5-4a18-49d4-a27e-f77044b41eba",
     "venue_name": "Venture X | West Palm Beach - CityPlace",
-    "latitude": 26.707130432128906,
-    "longitude": -80.05702209472656,
+    "latitude": 26.70713,
+    "longitude": -80.057022,
     "reservations": 4,
     "spend": 190.0
+  },
+  {
+    "venue_id": "79db3c4f-f562-4ccb-975e-e90b77ff5cce",
+    "venue_name": "Zen in West Palm Beach",
+    "latitude": 26.725487,
+    "longitude": -80.081688,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "7859252e-f548-47ad-a2c0-b87e55d00d13",
+    "venue_name": "Office Evolution | West Palm Beach",
+    "latitude": 26.691484,
+    "longitude": -80.071518,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

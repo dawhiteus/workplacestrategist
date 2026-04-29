@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "66cb8b20-7d7c-4404-a982-67cded7f04fb",
+    "venue_name": "SPACES | SYDNEY, 60 Martin Place",
+    "latitude": -33.867516,
+    "longitude": 151.211975,
+    "reservations": 3,
+    "spend": 621.09
+  },
+  {
+    "venue_id": "5bc7c0d4-243e-4bff-93f3-9a3602d07566",
+    "venue_name": "Regus | Sydney, 20 Martin Place",
+    "latitude": -33.867397,
+    "longitude": 151.208969,
+    "reservations": 1,
+    "spend": 337.85
+  },
+  {
+    "venue_id": "c6a7d42b-fc98-4107-bb4a-8dc3bc7ee684",
+    "venue_name": "WeWork | 383 George St",
+    "latitude": -33.86932,
+    "longitude": 151.206802,
+    "reservations": 3,
+    "spend": 171.45
+  },
+  {
+    "venue_id": "eacc95e1-515b-4fa9-ab60-d5bd2e408242",
+    "venue_name": "Hub Australia | Martin Place",
+    "latitude": -33.867321,
+    "longitude": 151.209549,
+    "reservations": 3,
+    "spend": 170.12
+  },
+  {
+    "venue_id": "2fec2bbc-70cf-4cde-ae3b-867bd4e18cb8",
+    "venue_name": "The Executive Centre - Angel Place",
+    "latitude": -33.866272,
+    "longitude": 151.208374,
+    "reservations": 1,
+    "spend": 68.38
+  },
+  {
+    "venue_id": "c7ce8007-9604-4167-8b92-28f5a2706904",
+    "venue_name": "Regus | Sydney, Chatswood - Zenith Towers",
+    "latitude": -33.7948,
+    "longitude": 151.179001,
+    "reservations": 1,
+    "spend": 62.46
+  }
+]

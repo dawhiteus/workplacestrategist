@@ -2,6 +2,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 16,
     "total_spend": 7184.0,
     "venues": 8,
@@ -10,6 +11,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 9,
     "total_spend": 5133.78,
     "venues": 5,
@@ -18,6 +20,7 @@
   {
     "city": "Greenville",
     "state": "SC",
+    "country": "US",
     "reservations": 6,
     "total_spend": 2591.5,
     "venues": 2,
@@ -26,6 +29,7 @@
   {
     "city": "Arlington",
     "state": "VA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 2429.26,
     "venues": 1,
@@ -34,6 +38,7 @@
   {
     "city": "Minneapolis",
     "state": "MN",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2305.0,
     "venues": 1,
@@ -42,6 +47,7 @@
   {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 5,
     "total_spend": 2221.76,
     "venues": 2,
@@ -50,6 +56,7 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1351.8,
     "venues": 2,
@@ -58,8 +65,27 @@
   {
     "city": "Burlington",
     "state": "MA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1249.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 17,
+    "total_spend": 1020.38,
+    "venues": 4,
+    "members": 1
+  },
+  {
+    "city": "Ancoats",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 3,
+    "total_spend": 913.92,
     "venues": 1,
     "members": 1
   }

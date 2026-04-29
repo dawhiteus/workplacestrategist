@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "1d79d1f2-777e-44bf-93fd-a2c81dd7c3e7",
+    "venue_name": "SPACES | BRISBANE, Spaces Riparian Plaza",
+    "latitude": -27.468256,
+    "longitude": 153.030457,
+    "reservations": 4,
+    "spend": 1589.66
+  },
+  {
+    "venue_id": "45428ffc-fd32-4a2b-854b-096b91bca635",
+    "venue_name": "Regus | Brisbane 80 Ann Street",
+    "latitude": -27.468811,
+    "longitude": 153.022415,
+    "reservations": 1,
+    "spend": 376.01
+  },
+  {
+    "venue_id": "8bb16c4a-674d-40bf-9204-3d013cf05510",
+    "venue_name": "SPACES | Brisbane Jubilee Place Fortitude Valley",
+    "latitude": -27.45348,
+    "longitude": 153.033768,
+    "reservations": 1,
+    "spend": 199.82
+  }
+]

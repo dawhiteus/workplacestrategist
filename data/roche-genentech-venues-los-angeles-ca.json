@@ -2,9 +2,41 @@
   {
     "venue_id": "da8baf69-dbd6-4a9b-a93c-912dedb2b485",
     "venue_name": "Carr Workplaces - DTLA",
-    "latitude": 34.048274993896484,
-    "longitude": -118.25856018066406,
+    "latitude": 34.048275,
+    "longitude": -118.25856,
     "reservations": 4,
     "spend": 790.0
+  },
+  {
+    "venue_id": "227f860d-207b-4c13-941e-f86b16d094fb",
+    "venue_name": "BLANKSPACES Hollywood Sunset",
+    "latitude": 34.097729,
+    "longitude": -118.333458,
+    "reservations": 1,
+    "spend": 640.0
+  },
+  {
+    "venue_id": "66232db0-a90c-4605-81a4-202d39358a1f",
+    "venue_name": "Ethos Society",
+    "latitude": 34.062267,
+    "longitude": -118.298485,
+    "reservations": 2,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "7fd43308-d620-4c48-9a34-286fc86f99b8",
+    "venue_name": "SPACES || City National Plaza",
+    "latitude": 34.051498,
+    "longitude": -118.257004,
+    "reservations": 1,
+    "spend": 177.21
+  },
+  {
+    "venue_id": "5e080182-9688-4f3b-9939-79904d6a5cbf",
+    "venue_name": "The Collection-Monthly Private Offices & Event Location",
+    "latitude": 34.047287,
+    "longitude": -118.256088,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

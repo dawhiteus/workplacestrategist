@@ -2,24 +2,32 @@
   {
     "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
     "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
-    "latitude": 44.9775390625,
-    "longitude": -93.26364135742188,
+    "latitude": 44.977539,
+    "longitude": -93.263641,
     "reservations": 4,
     "spend": 3440.0
   },
   {
     "venue_id": "27c846d0-08fb-41cc-8424-f4490737cb0e",
     "venue_name": "WeWork | 729 N Washington Ave",
-    "latitude": 44.987998962402344,
-    "longitude": -93.27798461914062,
+    "latitude": 44.987999,
+    "longitude": -93.277985,
     "reservations": 4,
     "spend": 1758.0
   },
   {
+    "venue_id": "7edcf090-a391-4435-8a9c-587e3328d53b",
+    "venue_name": "IDS Executive Suites",
+    "latitude": 44.975788,
+    "longitude": -93.272095,
+    "reservations": 1,
+    "spend": 220.0
+  },
+  {
     "venue_id": "ef1bb502-5b33-44fa-9e6e-8dc992705486",
     "venue_name": "Regus | MN, Minneapolis - 7825 Washington Ave",
-    "latitude": 44.860748291015625,
-    "longitude": -93.39823913574219,
+    "latitude": 44.860748,
+    "longitude": -93.398239,
     "reservations": 3,
     "spend": 187.05
   }

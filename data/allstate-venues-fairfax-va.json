@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8bdf3057-b7dd-40fa-8c66-c3ef43dc61ed",
+    "venue_name": "Office Evolution - Fairfax",
+    "latitude": 38.862217,
+    "longitude": -77.303276,
+    "reservations": 1,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "7392cace-8618-4bae-90c7-2f3b5246fbc1",
+    "venue_name": "Metro Offices - Fairfax",
+    "latitude": 38.865841,
+    "longitude": -77.365173,
+    "reservations": 3,
+    "spend": 435.0
+  }
+]

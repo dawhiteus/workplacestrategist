@@ -2,9 +2,17 @@
   {
     "venue_id": "6e87e027-5428-4cee-b034-5f5045e45f9c",
     "venue_name": "CENTRL Office - South Bay",
-    "latitude": 33.90361022949219,
-    "longitude": -118.38570404052734,
+    "latitude": 33.90361,
+    "longitude": -118.385704,
     "reservations": 6,
     "spend": 240.0
+  },
+  {
+    "venue_id": "da81b87c-f0f2-4b99-86c0-8df39c86abfd",
+    "venue_name": "Stanton Road Capital, LLC",
+    "latitude": 33.928734,
+    "longitude": -118.395905,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

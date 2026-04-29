@@ -2,49 +2,137 @@
   {
     "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
     "venue_name": "Jay Suites - Midtown East",
-    "latitude": 40.759788513183594,
-    "longitude": -73.9737548828125,
+    "latitude": 40.759789,
+    "longitude": -73.973755,
     "reservations": 8,
     "spend": 1625.0
   },
   {
     "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
     "venue_name": "The Farm SoHo",
-    "latitude": 40.72059631347656,
-    "longitude": -74.00148010253906,
+    "latitude": 40.720596,
+    "longitude": -74.00148,
     "reservations": 3,
     "spend": 1389.0
   },
   {
     "venue_id": "03eb6821-13f2-4924-91d6-6f273595e966",
     "venue_name": "Select Office Suites - 1115 Broadway Flatiron NYC",
-    "latitude": 40.74293899536133,
-    "longitude": -73.98927307128906,
+    "latitude": 40.742939,
+    "longitude": -73.989273,
     "reservations": 5,
     "spend": 870.0
   },
   {
+    "venue_id": "4bb0d702-11aa-4705-b2a2-6cd347f2ac8b",
+    "venue_name": "Hudson Park Advisors - Park Avenue Conference Room",
+    "latitude": 40.750599,
+    "longitude": -73.978088,
+    "reservations": 2,
+    "spend": 400.0
+  },
+  {
     "venue_id": "b69e0a98-f12b-4462-9a55-e55bd97dade8",
     "venue_name": "Carr Workplaces - Central Park",
-    "latitude": 40.76327133178711,
-    "longitude": -73.97354888916016,
+    "latitude": 40.763271,
+    "longitude": -73.973549,
     "reservations": 4,
     "spend": 195.0
   },
   {
+    "venue_id": "264b3116-5d49-4732-aca1-367af53e6f2c",
+    "venue_name": "Corporate Suites: 1180 6th Ave (46th)",
+    "latitude": 40.757507,
+    "longitude": -73.981888,
+    "reservations": 1,
+    "spend": 180.0
+  },
+  {
     "venue_id": "edffd735-7d3b-448b-84af-f261e97f6611",
     "venue_name": "The Yard: Lower East Side NYC",
-    "latitude": 40.71873092651367,
-    "longitude": -73.98969268798828,
+    "latitude": 40.718731,
+    "longitude": -73.989693,
     "reservations": 5,
     "spend": 175.0
   },
   {
+    "venue_id": "50a8ca07-6698-4e08-8c58-ab3d0818292d",
+    "venue_name": "Executive Offices of New York",
+    "latitude": 40.751953,
+    "longitude": -73.989456,
+    "reservations": 1,
+    "spend": 144.0
+  },
+  {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "7d5a14e7-8fdc-4e0c-9d97-7d8d3cb384f3",
+    "venue_name": "Grand Central Offices",
+    "latitude": 40.756142,
+    "longitude": -73.982834,
+    "reservations": 2,
+    "spend": 110.0
+  },
+  {
+    "venue_id": "fe9dc55c-cacf-44f2-bbbe-a8fc790c8b4e",
+    "venue_name": "Cre8ive NYC",
+    "latitude": 40.74715,
+    "longitude": -73.991776,
+    "reservations": 1,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "efd19f34-1346-4b80-a52b-e759bd6ecd36",
+    "venue_name": "Corporate Suites: 641 Lexington Ave@54th",
+    "latitude": 40.758831,
+    "longitude": -73.96994,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "bb13cadb-57fa-4270-8c96-19c750e7ab03",
+    "venue_name": "SaGE@276Fifth",
+    "latitude": 40.745991,
+    "longitude": -73.98687,
+    "reservations": 1,
+    "spend": 80.0
+  },
+  {
+    "venue_id": "602fd624-23b4-4eb8-99ba-ae2c42556794",
+    "venue_name": "Emerge212 - 3 Columbus Circle",
+    "latitude": 40.76688,
+    "longitude": -73.982239,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "edf7d0a3-4efe-466b-b842-c1b73e69f19a",
+    "venue_name": "Emerge212 - 1185 Avenue of the Americas",
+    "latitude": 40.757877,
+    "longitude": -73.982422,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.746521,
+    "longitude": -73.988052,
+    "reservations": 1,
+    "spend": 29.0
   }
 ]

@@ -2,6 +2,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 458,
     "total_spend": 44053.0,
     "venues": 13,
@@ -10,6 +11,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 83,
     "total_spend": 8138.0,
     "venues": 5,
@@ -18,6 +20,7 @@
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 65,
     "total_spend": 5272.0,
     "venues": 4,
@@ -26,6 +29,7 @@
   {
     "city": "Santa Monica",
     "state": "CA",
+    "country": "US",
     "reservations": 32,
     "total_spend": 2841.0,
     "venues": 2,
@@ -34,6 +38,7 @@
   {
     "city": "Los Angeles",
     "state": "CA",
+    "country": "US",
     "reservations": 6,
     "total_spend": 1338.32,
     "venues": 1,
@@ -42,22 +47,43 @@
   {
     "city": "Culver City",
     "state": "CA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 485.0,
     "venues": 1,
     "members": 7
   },
   {
+    "city": "Hamburg",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 5,
+    "total_spend": 280.19,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Beachwood",
     "state": "OH",
+    "country": "US",
     "reservations": 7,
     "total_spend": 210.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Madrid",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 3,
+    "total_spend": 133.88,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Rye",
     "state": "NY",
+    "country": "US",
     "reservations": 3,
     "total_spend": 105.0,
     "venues": 1,

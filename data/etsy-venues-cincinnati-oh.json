@@ -2,33 +2,57 @@
   {
     "venue_id": "9000b81c-ad8f-4746-9f1b-b3ec4ee5dd68",
     "venue_name": "Regus | PNC Center",
-    "latitude": 39.1015510559082,
-    "longitude": -84.50911712646484,
+    "latitude": 39.101551,
+    "longitude": -84.509117,
     "reservations": 6,
     "spend": 224.64
   },
   {
+    "venue_id": "4339d84c-1ab6-4027-892c-2712c9941924",
+    "venue_name": "Gather Cincy",
+    "latitude": 39.124134,
+    "longitude": -84.483971,
+    "reservations": 1,
+    "spend": 170.0
+  },
+  {
     "venue_id": "ea85aa8c-278a-41ba-8ac1-131d68508fec",
     "venue_name": "COhatch - Kenwood",
-    "latitude": 39.20087432861328,
-    "longitude": -84.37847900390625,
+    "latitude": 39.200874,
+    "longitude": -84.378479,
     "reservations": 3,
     "spend": 106.0
   },
   {
     "venue_id": "ebfebe2c-19c9-4e62-bdd9-63cf33f61102",
     "venue_name": "COhatch - Over The Rhine",
-    "latitude": 39.115501403808594,
-    "longitude": -84.5197982788086,
+    "latitude": 39.115501,
+    "longitude": -84.519798,
     "reservations": 2,
     "spend": 70.0
   },
   {
     "venue_id": "79649a51-a691-4c32-8720-4c334db1390b",
     "venue_name": "COhatch - Hyde Park",
-    "latitude": 39.139896392822266,
-    "longitude": -84.44220733642578,
+    "latitude": 39.139896,
+    "longitude": -84.442207,
     "reservations": 2,
     "spend": 65.0
+  },
+  {
+    "venue_id": "f17e9dd9-6ce6-436c-8a18-0ca3e567b494",
+    "venue_name": "SPACES | Cincinnati - Spaces Over The Rhine",
+    "latitude": 39.1115,
+    "longitude": -84.5158,
+    "reservations": 1,
+    "spend": 39.0
+  },
+  {
+    "venue_id": "ad2d62b3-00ca-488c-99dd-a0e11cef3ded",
+    "venue_name": "SPACES | OH, Cincinnati - Spaces Over The Rhine",
+    "latitude": 39.1115,
+    "longitude": -84.5158,
+    "reservations": 1,
+    "spend": 39.0
   }
 ]

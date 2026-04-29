@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "c45d56dc-0994-4a96-8be4-fe96ab1893f1",
+    "venue_name": "WeWork | 18th & Chet",
+    "latitude": 36.149002,
+    "longitude": -86.794472,
+    "reservations": 1,
+    "spend": 42.0
+  },
+  {
+    "venue_id": "b89f1dfa-5715-4700-9316-26f2834343aa",
+    "venue_name": "WeWork | One Nashville Place",
+    "latitude": 36.162842,
+    "longitude": -86.778008,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6ff5f7b8-2630-4437-ba5e-69c38780e482",
+    "venue_name": "Regus | Osaka, Hankyu Senri Choou",
+    "latitude": 34.810703,
+    "longitude": 135.495804,
+    "reservations": 1,
+    "spend": 139.67
+  },
+  {
+    "venue_id": "f3bce2e7-7dc8-4d2c-a8f1-a1c85d0e31a0",
+    "venue_name": "Regus | Osaka, Shin Osaka Hankyu Building",
+    "latitude": 34.734024,
+    "longitude": 135.500076,
+    "reservations": 1,
+    "spend": 110.81
+  }
+]

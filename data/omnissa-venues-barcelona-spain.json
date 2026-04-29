@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "b8224696-2154-43dd-9105-78629ebc11cf",
+    "venue_name": "Regus | Barcelona Avendia Diagonal 131",
+    "latitude": 41.4062,
+    "longitude": 2.19968,
+    "reservations": 6,
+    "spend": 1715.7
+  },
+  {
+    "venue_id": "25f9144b-ba4c-4347-9546-1c9a61c0ad26",
+    "venue_name": "Cloudworks Sagrada Família",
+    "latitude": 41.400272,
+    "longitude": 2.177037,
+    "reservations": 40,
+    "spend": 1611.64
+  },
+  {
+    "venue_id": "b9d17655-d139-4052-b88d-c0537c398499",
+    "venue_name": "Cloudworks La Rambla Drassanes",
+    "latitude": 41.376514,
+    "longitude": 2.17532,
+    "reservations": 42,
+    "spend": 1208.8
+  },
+  {
+    "venue_id": "641409fa-f9ae-4d20-abfa-a8b607449c0c",
+    "venue_name": "WeWork | Barcelona Glories",
+    "latitude": 41.401783,
+    "longitude": 2.192419,
+    "reservations": 10,
+    "spend": 446.64
+  },
+  {
+    "venue_id": "04f6a22a-ef38-44fd-86f1-14095880de8e",
+    "venue_name": "WeWork | Barcelona Carrer de Pallars, 194",
+    "latitude": 41.401173,
+    "longitude": 2.19821,
+    "reservations": 7,
+    "spend": 311.29
+  },
+  {
+    "venue_id": "aef446fd-8f04-44b2-a372-60b82849cab5",
+    "venue_name": "WeWork | Barcelona Ciutat de Granada, 121",
+    "latitude": 41.402061,
+    "longitude": 2.193079,
+    "reservations": 8,
+    "spend": 235.09
+  },
+  {
+    "venue_id": "344436e4-7949-46e8-bc11-6cc8c47bade8",
+    "venue_name": "Cloudworks Sant Joan",
+    "latitude": 41.398949,
+    "longitude": 2.173387,
+    "reservations": 5,
+    "spend": 214.77
+  }
+]

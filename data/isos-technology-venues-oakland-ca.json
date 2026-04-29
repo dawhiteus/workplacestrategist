@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "7b759c2d-b1b7-49c6-96f1-8a21b515683d",
+    "venue_name": "Artthaus Studios",
+    "latitude": 37.778366,
+    "longitude": -122.233391,
+    "reservations": 1,
+    "spend": 25.0
+  },
+  {
+    "venue_id": "5a05ffcf-99bb-482e-9578-21ac753a86bd",
+    "venue_name": "Port Workspaces @ Uptown Oakland",
+    "latitude": 37.808472,
+    "longitude": -122.265427,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

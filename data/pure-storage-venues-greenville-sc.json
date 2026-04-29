@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3d39c2a3-c3e2-4469-b927-e64c023155b9",
+    "venue_name": "Greenville Flywheel Coworking",
+    "latitude": 34.875751,
+    "longitude": -82.404877,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "0e48eb63-52be-4bc3-bcce-459f02836294",
+    "venue_name": "THRIVE | Greenville",
+    "latitude": 34.849339,
+    "longitude": -82.400124,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

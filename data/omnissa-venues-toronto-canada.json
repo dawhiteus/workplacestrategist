@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2e99e48a-cd86-413a-b89c-ca6bcfb53191",
+    "venue_name": "Intelligent Office First Canadian Place",
+    "latitude": 43.648636,
+    "longitude": -79.381744,
+    "reservations": 2,
+    "spend": 786.18
+  },
+  {
+    "venue_id": "65c28231-fc35-48d0-ac50-02f919e0e502",
+    "venue_name": "SPACES | ON, Toronto - Spaces The Junction",
+    "latitude": 43.664219,
+    "longitude": -79.456146,
+    "reservations": 2,
+    "spend": 133.2
+  }
+]

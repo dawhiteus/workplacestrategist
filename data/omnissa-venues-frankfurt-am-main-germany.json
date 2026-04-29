@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6f057047-60c4-437b-94a9-20af3fd31570",
+    "venue_name": "K-1 BusinessClub Ostend",
+    "latitude": 50.11533,
+    "longitude": 8.724614,
+    "reservations": 4,
+    "spend": 1276.73
+  },
+  {
+    "venue_id": "e1a2b5b1-ea9b-4f7c-8700-ecd0c75298dc",
+    "venue_name": "SPACES | FRANKFURT, Spaces Omniturm",
+    "latitude": 50.111591,
+    "longitude": 8.6734,
+    "reservations": 1,
+    "spend": 372.9
+  }
+]

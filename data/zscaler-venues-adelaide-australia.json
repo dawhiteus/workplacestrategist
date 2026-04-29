@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "63ffb605-d7e4-43da-8797-22eb5a7cd435",
+    "venue_name": "Regus | Adelaide 121 King William Street",
+    "latitude": -34.923866,
+    "longitude": 138.597809,
+    "reservations": 7,
+    "spend": 1239.15
+  },
+  {
+    "venue_id": "1f2977b8-81ee-45e1-961b-46ee2d78b42c",
+    "venue_name": "Regus | ADELAIDE, 121 King William Street",
+    "latitude": -34.925957,
+    "longitude": 138.599121,
+    "reservations": 3,
+    "spend": 790.59
+  },
+  {
+    "venue_id": "8e1202c6-d7cb-4e2a-aa59-77fe7abc2436",
+    "venue_name": "SPACES | Adelaide, Spaces Wayville",
+    "latitude": -34.942371,
+    "longitude": 138.584122,
+    "reservations": 3,
+    "spend": 180.34
+  }
+]

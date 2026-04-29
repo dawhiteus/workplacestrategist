@@ -2,17 +2,49 @@
   {
     "venue_id": "0346af01-926c-4808-8ff7-c0e2df5cd649",
     "venue_name": "Shift Workspaces | Corona",
-    "latitude": 39.721778869628906,
-    "longitude": -104.97438049316406,
+    "latitude": 39.721779,
+    "longitude": -104.97438,
     "reservations": 3,
     "spend": 1770.0
   },
   {
     "venue_id": "3d25e027-bfa6-4035-8e13-d1f89334d2a9",
     "venue_name": "Cherry Creek North",
-    "latitude": 39.71961212158203,
-    "longitude": -104.95738220214844,
+    "latitude": 39.719612,
+    "longitude": -104.957382,
     "reservations": 3,
     "spend": 1500.0
+  },
+  {
+    "venue_id": "286bd6b5-35aa-49bc-b063-440e1eef9881",
+    "venue_name": "Regus | CO, Denver - Cherry Creek",
+    "latitude": 39.718567,
+    "longitude": -104.953056,
+    "reservations": 1,
+    "spend": 637.2
+  },
+  {
+    "venue_id": "ae954f2e-8951-4f60-851f-1be3ea831661",
+    "venue_name": "WeWork | Financial House",
+    "latitude": 39.718208,
+    "longitude": -104.954628,
+    "reservations": 2,
+    "spend": 118.0
+  },
+  {
+    "venue_id": "0d224c90-fd01-4cc0-ac84-7a1558c288ba",
+    "venue_name": "Executive Business Centers - DTC",
+    "latitude": 39.625099,
+    "longitude": -104.897163,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "f19bdf9b-2388-43af-aba2-08ab0d1fe1bc",
+    "venue_name": "Candy Factory Coworking",
+    "latitude": 39.746292,
+    "longitude": -104.995491,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

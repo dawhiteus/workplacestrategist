@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ee0b55ff-bef8-4501-ae3f-0196ad756043",
+    "venue_name": "Regus | YOKOHAMA, Kannai",
+    "latitude": 35.4459,
+    "longitude": 139.634995,
+    "reservations": 3,
+    "spend": 117.55
+  },
+  {
+    "venue_id": "fbe0d2e1-5018-40fb-a9a7-3cbeda379ccc",
+    "venue_name": "Regus | Tokyo Wise Next Shinyokohama",
+    "latitude": 35.509449,
+    "longitude": 139.61586,
+    "reservations": 1,
+    "spend": 86.45
+  },
+  {
+    "venue_id": "1366d58f-677f-4593-bc56-6fc61a102307",
+    "venue_name": "Regus | YOKOHAMA, Yokohamaeki Nishiguchi",
+    "latitude": 35.467373,
+    "longitude": 139.617767,
+    "reservations": 1,
+    "spend": 61.97
+  }
+]

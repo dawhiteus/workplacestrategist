@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "288a0cd0-b01b-4d2f-9fca-e982dc7f2cdd",
+    "venue_name": "District Offices Capitol Hill",
+    "latitude": 38.898991,
+    "longitude": -77.007988,
+    "reservations": 1,
+    "spend": 720.0
+  },
+  {
+    "venue_id": "576cde5d-1e81-4aa1-88b3-1031fa4ed945",
+    "venue_name": "Metro Offices - One Metro Center",
+    "latitude": 38.898781,
+    "longitude": -77.028778,
+    "reservations": 1,
+    "spend": 112.5
+  }
+]

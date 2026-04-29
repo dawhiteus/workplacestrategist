@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "eb56e443-ac66-4820-8bb5-bea1f0abd4c0",
+    "venue_name": "Regus | Kenwood",
+    "latitude": 39.201054,
+    "longitude": -84.371025,
+    "reservations": 1,
+    "spend": 102.0
+  },
+  {
+    "venue_id": "80ceac31-291b-4f22-813b-b82a27a54f87",
+    "venue_name": "Regus | Summit Woods",
+    "latitude": 39.284706,
+    "longitude": -84.367279,
+    "reservations": 1,
+    "spend": 83.0
+  }
+]

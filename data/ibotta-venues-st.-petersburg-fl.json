@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "27ed1866-3677-44ab-b115-d9a01a268609",
+    "venue_name": "Industrious - 200 Central Ave",
+    "latitude": 27.770971,
+    "longitude": -82.636307,
+    "reservations": 2,
+    "spend": 840.0
+  },
+  {
+    "venue_id": "ab1db2f5-d479-43ce-a707-d6fb304b050b",
+    "venue_name": "Thrive DTSP",
+    "latitude": 27.772928,
+    "longitude": -82.638931,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

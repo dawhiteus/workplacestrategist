@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
+    "venue_name": "CENTRL Office - Eastside",
+    "latitude": 45.523796,
+    "longitude": -122.662445,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "8aaa8eb9-b992-4a4d-b482-ca8b068b4ec6",
+    "venue_name": "VIDA Coworking Community",
+    "latitude": 45.525719,
+    "longitude": -122.646866,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

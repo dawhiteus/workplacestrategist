@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Middletown",
+    "state": "CT",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 120.0,
+    "venues": 1,
+    "members": 1
+  }
+]

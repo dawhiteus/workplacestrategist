@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1eab4fc7-8c11-4fcd-a2a2-af248a7e3b62",
+    "venue_name": "Farbman Group | 40 Skokie Property, LLC",
+    "latitude": 42.152039,
+    "longitude": -87.802063,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "29957bd5-bcc8-4cb9-b6f5-4b35d20ba328",
+    "venue_name": "The 899 Building",
+    "latitude": 42.13662,
+    "longitude": -87.79023,
+    "reservations": 1,
+    "spend": 75.0
+  }
+]

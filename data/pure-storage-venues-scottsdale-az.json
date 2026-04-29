@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "f46a35d3-c0c3-420d-8e00-0dbe8e56ac51",
+    "venue_name": "Regus | Promenade Corporate Center",
+    "latitude": 33.6367,
+    "longitude": -111.922997,
+    "reservations": 2,
+    "spend": 247.5
+  },
+  {
+    "venue_id": "69a7c06a-6337-402b-9369-c21c01abe698",
+    "venue_name": "Lucid Private Offices | Kierland-North Scottsdale",
+    "latitude": 33.63393,
+    "longitude": -111.926598,
+    "reservations": 1,
+    "spend": 170.0
+  },
+  {
+    "venue_id": "e8d70708-1b31-4388-aaf2-845ab0f1cd8b",
+    "venue_name": "CUBE Executive Suites at Market Street",
+    "latitude": 33.674129,
+    "longitude": -111.888046,
+    "reservations": 1,
+    "spend": 170.0
+  }
+]

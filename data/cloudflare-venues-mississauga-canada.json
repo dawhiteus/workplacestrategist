@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "91cfeb60-4403-49cd-9784-595f3fca17f1",
+    "venue_name": "Greater Toronto Executive Centre-Airport Corporate",
+    "latitude": 43.662712,
+    "longitude": -79.592972,
+    "reservations": 6,
+    "spend": 728.81
+  },
+  {
+    "venue_id": "1ab663cb-f20f-4347-8027-f73521cd9a50",
+    "venue_name": "BriteSpace Offices",
+    "latitude": 43.605492,
+    "longitude": -79.653336,
+    "reservations": 1,
+    "spend": 88.89
+  }
+]

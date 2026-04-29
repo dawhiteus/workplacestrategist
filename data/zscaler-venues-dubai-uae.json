@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "bcbc0164-f559-4680-83f6-f97a1cd4b39a",
+    "venue_name": "Regus | Dubai, Marina Gate",
+    "latitude": 25.087469,
+    "longitude": 55.146481,
+    "reservations": 17,
+    "spend": 4056.33
+  },
+  {
+    "venue_id": "bea0ae2d-eade-488c-904c-8f60a2ec46ef",
+    "venue_name": "Marina Plaza | Level 32",
+    "latitude": 25.075397,
+    "longitude": 55.139824,
+    "reservations": 6,
+    "spend": 2368.75
+  },
+  {
+    "venue_id": "9ad90e6f-21be-46e4-880d-b7bd345b0d86",
+    "venue_name": "Bayan Business Center",
+    "latitude": 24.997831,
+    "longitude": 55.172684,
+    "reservations": 5,
+    "spend": 2042.0
+  },
+  {
+    "venue_id": "68b3aa24-7485-4247-8e45-8911594d4ae5",
+    "venue_name": "The Dome Tower | Level 35",
+    "latitude": 25.062811,
+    "longitude": 55.137733,
+    "reservations": 4,
+    "spend": 923.89
+  },
+  {
+    "venue_id": "59bd8c18-1546-4d38-9f51-6ba5a962ed4a",
+    "venue_name": "The One Tower | Floor 45",
+    "latitude": 25.101267,
+    "longitude": 55.173828,
+    "reservations": 1,
+    "spend": 214.4
+  },
+  {
+    "venue_id": "3dcc5f75-0c6f-4096-a36d-d08f13b5c324",
+    "venue_name": "API Trio Towers | Level 37",
+    "latitude": 25.112522,
+    "longitude": 55.188965,
+    "reservations": 1,
+    "spend": 204.22
+  },
+  {
+    "venue_id": "734f4d6e-02ba-46b2-b877-3c894342550a",
+    "venue_name": "Jumeirah Lake Towers | Level 36",
+    "latitude": 25.067553,
+    "longitude": 55.14431,
+    "reservations": 1,
+    "spend": 34.03
+  }
+]

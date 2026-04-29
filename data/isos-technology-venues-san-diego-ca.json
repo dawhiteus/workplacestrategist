@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a421ce28-cd9a-4919-a1a4-32c46d79ab60",
+    "venue_name": "Union Cowork North Park",
+    "latitude": 32.748951,
+    "longitude": -117.12989,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "88345dc2-b3a0-49ca-b20d-b3b16a54360c",
+    "venue_name": "Cowork + Connect",
+    "latitude": 32.749039,
+    "longitude": -117.152779,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

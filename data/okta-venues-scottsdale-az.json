@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "40e85f59-b6c0-4daf-9c69-3453085548de",
+    "venue_name": "Regus | Scottsdale Fashion Square",
+    "latitude": 33.502399,
+    "longitude": -111.927002,
+    "reservations": 1,
+    "spend": 216.0
+  },
+  {
+    "venue_id": "e8d70708-1b31-4388-aaf2-845ab0f1cd8b",
+    "venue_name": "CUBE Executive Suites at Market Street",
+    "latitude": 33.674129,
+    "longitude": -111.888046,
+    "reservations": 1,
+    "spend": 165.0
+  }
+]

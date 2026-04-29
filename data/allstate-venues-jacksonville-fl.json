@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "0624d8a4-8c84-4920-8b4f-885833269a34",
+    "venue_name": "Office Evolution - Jacksonville (Town Center)",
+    "latitude": 30.24708,
+    "longitude": -81.533958,
+    "reservations": 4,
+    "spend": 550.0
+  },
+  {
+    "venue_id": "2a4e33f2-8876-425b-a628-5407b99b53be",
+    "venue_name": "Expansive - Groover-Stewart Building",
+    "latitude": 30.325899,
+    "longitude": -81.65387,
+    "reservations": 3,
+    "spend": 317.0
+  },
+  {
+    "venue_id": "b46b08e9-2f0b-4ab8-8c24-2030ed6f67e9",
+    "venue_name": "LionShare Cowork - Professional Meeting Rooms & Offices",
+    "latitude": 30.322302,
+    "longitude": -81.453384,
+    "reservations": 2,
+    "spend": 70.0
+  }
+]

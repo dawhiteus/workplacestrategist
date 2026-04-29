@@ -2,17 +2,25 @@
   {
     "venue_id": "b281264f-1000-47d4-a607-51e73e79e1c6",
     "venue_name": "CENTRL Office - West End",
-    "latitude": 45.52070999145508,
-    "longitude": -122.68387603759766,
+    "latitude": 45.52071,
+    "longitude": -122.683876,
     "reservations": 11,
     "spend": 3325.0
   },
   {
     "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
     "venue_name": "CENTRL Office - Eastside",
-    "latitude": 45.52379608154297,
-    "longitude": -122.66244506835938,
+    "latitude": 45.523796,
+    "longitude": -122.662445,
     "reservations": 5,
     "spend": 775.0
+  },
+  {
+    "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
+    "venue_name": "CENTRL Office - Pearl District",
+    "latitude": 45.525059,
+    "longitude": -122.684799,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

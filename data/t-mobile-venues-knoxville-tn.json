@@ -2,9 +2,17 @@
   {
     "venue_id": "b3b767b9-7a97-4968-a6c9-6c7e51f9246c",
     "venue_name": "Office Options Meeting Room Facilities",
-    "latitude": 35.922115325927734,
-    "longitude": -84.081298828125,
+    "latitude": 35.922115,
+    "longitude": -84.081299,
     "reservations": 3,
     "spend": 415.0
+  },
+  {
+    "venue_id": "d4027ac3-aa7c-4ed1-b127-68423f3dca95",
+    "venue_name": "CPR Choice",
+    "latitude": 35.920044,
+    "longitude": -84.049904,
+    "reservations": 1,
+    "spend": 240.0
   }
 ]

@@ -2,9 +2,25 @@
   {
     "venue_id": "030546d9-6c6d-404b-8fcf-534933c04d92",
     "venue_name": "SPACES | Charlotte - Spaces South End",
-    "latitude": 35.209781646728516,
-    "longitude": -80.86433410644531,
+    "latitude": 35.209782,
+    "longitude": -80.864334,
     "reservations": 3,
     "spend": 496.8
+  },
+  {
+    "venue_id": "54f4f250-e40f-47c3-b446-1c7defaf52f6",
+    "venue_name": "WeWork | The RailYard South End",
+    "latitude": 35.217236,
+    "longitude": -80.855766,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
+    "venue_name": "Expansive - Uptown",
+    "latitude": 35.22784,
+    "longitude": -80.846291,
+    "reservations": 1,
+    "spend": 38.0
   }
 ]

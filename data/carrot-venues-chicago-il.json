@@ -1,10 +1,82 @@
 [
   {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890648,
+    "longitude": -87.626839,
+    "reservations": 1,
+    "spend": 128.0
+  },
+  {
     "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
     "venue_name": "350 Coworking | 350 N. Orleans",
-    "latitude": 41.888038635253906,
-    "longitude": -87.63765716552734,
+    "latitude": 41.888039,
+    "longitude": -87.637657,
     "reservations": 4,
     "spend": 120.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505,
+    "longitude": -87.634575,
+    "reservations": 2,
+    "spend": 76.0
+  },
+  {
+    "venue_id": "c7ae5111-2aa7-4327-b7c1-e2504634ce0c",
+    "venue_name": "Lincoln Park Executive Center",
+    "latitude": 41.927792,
+    "longitude": -87.642349,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "a23d9d6d-f148-4766-be2b-f1e28eba0bcb",
+    "venue_name": "WeWork | 1 South Dearborn",
+    "latitude": 41.88168,
+    "longitude": -87.628746,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.903667,
+    "longitude": -87.631096,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "2a8f36b0-0ac0-4358-955d-ecd5f4d735ae",
+    "venue_name": "Workbox - The Loop",
+    "latitude": 41.879906,
+    "longitude": -87.630463,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "fecd727c-8ce2-4c39-8d5b-02e253d26c69",
+    "venue_name": "Workbox River North",
+    "latitude": 41.894073,
+    "longitude": -87.636063,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "58918a1d-a57a-4ec6-a9a0-fb3c869ed3aa",
+    "venue_name": "Workbox - Fulton Market",
+    "latitude": 41.886284,
+    "longitude": -87.648933,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "c8075780-e397-465b-b631-4b4cd8d62ccd",
+    "venue_name": "Second Shift",
+    "latitude": 41.932182,
+    "longitude": -87.713608,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

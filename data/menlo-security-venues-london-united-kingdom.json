@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2b0c31d4-1063-48df-8042-01e63d47a89b",
+    "venue_name": "FORA | 19 Eastbourne Terrace",
+    "latitude": 51.516777,
+    "longitude": -0.178051,
+    "reservations": 1,
+    "spend": 1383.18
+  },
+  {
+    "venue_id": "ea7558a8-42a9-4587-b04a-09f9b881df2b",
+    "venue_name": "WeWork | 10 Devonshire Square",
+    "latitude": 51.516861,
+    "longitude": -0.078951,
+    "reservations": 2,
+    "spend": 77.41
+  }
+]

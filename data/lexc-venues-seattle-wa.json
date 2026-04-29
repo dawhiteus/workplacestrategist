@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "17b19e76-2fdd-4c3b-9546-e3b11dd787d8",
+    "venue_name": "The Pioneer Collective - Belltown",
+    "latitude": 47.611729,
+    "longitude": -122.344368,
+    "reservations": 2,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "b8ed54f3-97b1-49b2-8c8a-a30160d6ac86",
+    "venue_name": "CENTRL Office - Capitol Hill",
+    "latitude": 47.614807,
+    "longitude": -122.318405,
+    "reservations": 2,
+    "spend": 125.0
+  },
+  {
+    "venue_id": "92049d30-e2b3-4c10-a1d6-98b9997870ff",
+    "venue_name": "thinkspace - Seattle",
+    "latitude": 47.634506,
+    "longitude": -122.3396,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.665913,
+    "longitude": -122.374107,
+    "reservations": 1,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "45fcbce5-acee-44ab-96d1-f067f66f02fe",
+    "venue_name": "(SEA) Seattle Downtown",
+    "latitude": 47.614101,
+    "longitude": -122.33535,
+    "reservations": 1,
+    "spend": 65.0
+  }
+]

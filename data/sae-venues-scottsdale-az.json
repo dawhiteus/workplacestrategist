@@ -2,9 +2,17 @@
   {
     "venue_id": "e8d70708-1b31-4388-aaf2-845ab0f1cd8b",
     "venue_name": "CUBE Executive Suites at Market Street",
-    "latitude": 33.674129486083984,
-    "longitude": -111.88804626464844,
+    "latitude": 33.674129,
+    "longitude": -111.888046,
     "reservations": 3,
     "spend": 1350.0
+  },
+  {
+    "venue_id": "d867434c-4dd7-40cf-9422-c2cdfe6bc275",
+    "venue_name": "Lux Offices - Scottsdale",
+    "latitude": 33.519112,
+    "longitude": -111.925377,
+    "reservations": 1,
+    "spend": 416.0
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "57e89903-545a-4e93-ba13-799da922d127",
     "venue_name": "1010 North Central, LLC",
-    "latitude": 34.16001892089844,
-    "longitude": -118.2568130493164,
+    "latitude": 34.160019,
+    "longitude": -118.256813,
     "reservations": 2,
     "spend": 405.0
+  },
+  {
+    "venue_id": "6d812c76-99fe-4309-9cd4-3b32664945e9",
+    "venue_name": "Regus | Brand Boulevard",
+    "latitude": 34.152794,
+    "longitude": -118.254799,
+    "reservations": 1,
+    "spend": 214.0
   }
 ]

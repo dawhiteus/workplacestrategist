@@ -2,24 +2,24 @@
   {
     "venue_id": "18ce2620-2fa7-4fc0-ae8b-fe844d9972be",
     "venue_name": "NWA Workplaces on 5th St",
-    "latitude": 36.366878509521484,
-    "longitude": -94.19930267333984,
+    "latitude": 36.366879,
+    "longitude": -94.199303,
     "reservations": 53,
     "spend": 11768.0
   },
   {
     "venue_id": "3037aa8e-15d6-488c-8751-f77ba0bdf295",
     "venue_name": "NWA Workplaces Bella Vista",
-    "latitude": 36.41921615600586,
-    "longitude": -94.2220687866211,
+    "latitude": 36.419216,
+    "longitude": -94.222069,
     "reservations": 13,
     "spend": 2747.0
   },
   {
     "venue_id": "5f3e27fc-61c4-4bc2-938e-e9171edb7612",
     "venue_name": "Regus | Bentonville Plaza",
-    "latitude": 36.36299514770508,
-    "longitude": -94.21590423583984,
+    "latitude": 36.362995,
+    "longitude": -94.215904,
     "reservations": 3,
     "spend": 1104.0
   }

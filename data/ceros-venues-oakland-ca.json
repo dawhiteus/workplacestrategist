@@ -2,9 +2,17 @@
   {
     "venue_id": "95f8f876-6b60-4781-b2e3-69a04c617737",
     "venue_name": "WeWork | 2201 Broadway",
-    "latitude": 37.81114959716797,
-    "longitude": -122.2673568725586,
+    "latitude": 37.81115,
+    "longitude": -122.267357,
     "reservations": 43,
     "spend": 1775.0
+  },
+  {
+    "venue_id": "5a05ffcf-99bb-482e-9578-21ac753a86bd",
+    "venue_name": "Port Workspaces @ Uptown Oakland",
+    "latitude": 37.808472,
+    "longitude": -122.265427,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

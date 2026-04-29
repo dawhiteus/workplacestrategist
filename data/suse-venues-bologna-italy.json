@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "16574b70-3627-400e-9faf-04544568ad7b",
+    "venue_name": "Regus | Bologna, Via del Monte 1",
+    "latitude": 44.496254,
+    "longitude": 11.343643,
+    "reservations": 5,
+    "spend": 224.76
+  },
+  {
+    "venue_id": "0b7e829b-7bde-4dbf-a113-2bf21fb874d0",
+    "venue_name": "Regus | Bologna, Rizzoli Copernico",
+    "latitude": 44.495201,
+    "longitude": 11.344923,
+    "reservations": 2,
+    "spend": 106.56
+  },
+  {
+    "venue_id": "711738a9-cd51-4017-88f5-3faea97debb7",
+    "venue_name": "Regus | Bologna, Central Station",
+    "latitude": 44.504242,
+    "longitude": 11.348376,
+    "reservations": 1,
+    "spend": 43.32
+  }
+]

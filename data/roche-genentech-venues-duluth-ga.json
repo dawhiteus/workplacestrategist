@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a70819cd-0aa7-43ba-913b-b53b5d9f61aa",
+    "venue_name": "Office Evolution - Johns Creek - Duluth",
+    "latitude": 34.064278,
+    "longitude": -84.166016,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "52351489-17b0-4229-9ca9-744b5c983f52",
+    "venue_name": "NorthPoint Executive Suites Duluth",
+    "latitude": 33.94725,
+    "longitude": -84.12999,
+    "reservations": 1,
+    "spend": 80.0
+  }
+]

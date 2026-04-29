@@ -2,49 +2,113 @@
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 14,
     "spend": 9495.0
   },
   {
     "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
     "venue_name": "The Malin Soho",
-    "latitude": 40.721004486083984,
-    "longitude": -74.00139617919922,
+    "latitude": 40.721004,
+    "longitude": -74.001396,
     "reservations": 7,
     "spend": 5550.0
   },
   {
+    "venue_id": "e4d1cbe7-1840-4c34-8847-7e42e215c8ee",
+    "venue_name": "Jay Suites - Times Square - 10 Times Sq.",
+    "latitude": 40.754978,
+    "longitude": -73.98719,
+    "reservations": 2,
+    "spend": 1400.0
+  },
+  {
     "venue_id": "bb13cadb-57fa-4270-8c96-19c750e7ab03",
     "venue_name": "SaGE@276Fifth",
-    "latitude": 40.74599075317383,
-    "longitude": -73.98686981201172,
+    "latitude": 40.745991,
+    "longitude": -73.98687,
     "reservations": 7,
     "spend": 1132.0
   },
   {
     "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
     "venue_name": "Nomadworks",
-    "latitude": 40.74652099609375,
-    "longitude": -73.98805236816406,
+    "latitude": 40.746521,
+    "longitude": -73.988052,
     "reservations": 3,
     "spend": 990.0
   },
   {
     "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
     "venue_name": "The Farm SoHo",
-    "latitude": 40.72059631347656,
-    "longitude": -74.00148010253906,
+    "latitude": 40.720596,
+    "longitude": -74.00148,
     "reservations": 3,
     "spend": 569.0
   },
   {
     "venue_id": "bdca4ce4-7a0d-4ea0-adce-f36142528335",
     "venue_name": "Quest Workspaces - 48 Wall St.",
-    "latitude": 40.7065544128418,
-    "longitude": -74.00919342041016,
+    "latitude": 40.706554,
+    "longitude": -74.009193,
     "reservations": 3,
     "spend": 485.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825,
+    "longitude": -74.013031,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "9f1a513c-fb77-4bf0-b73f-edeb6685f27f",
+    "venue_name": "Bond Collective at 60 Broad Street",
+    "latitude": 40.705158,
+    "longitude": -74.011749,
+    "reservations": 1,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855,
+    "longitude": -74.00898,
+    "reservations": 1,
+    "spend": 345.0
+  },
+  {
+    "venue_id": "5e4099db-a072-44ba-ae14-e1f54339e643",
+    "venue_name": "Firm & Co. Tribeca / Foley Square ",
+    "latitude": 40.715477,
+    "longitude": -74.005547,
+    "reservations": 1,
+    "spend": 230.0
+  },
+  {
+    "venue_id": "fe9dc55c-cacf-44f2-bbbe-a8fc790c8b4e",
+    "venue_name": "Cre8ive NYC",
+    "latitude": 40.74715,
+    "longitude": -73.991776,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "602fd624-23b4-4eb8-99ba-ae2c42556794",
+    "venue_name": "Emerge212 - 3 Columbus Circle",
+    "latitude": 40.76688,
+    "longitude": -73.982239,
+    "reservations": 1,
+    "spend": 102.5
+  },
+  {
+    "venue_id": "4bb0d702-11aa-4705-b2a2-6cd347f2ac8b",
+    "venue_name": "Hudson Park Advisors - Park Avenue Conference Room",
+    "latitude": 40.750599,
+    "longitude": -73.978088,
+    "reservations": 1,
+    "spend": 90.0
   }
 ]

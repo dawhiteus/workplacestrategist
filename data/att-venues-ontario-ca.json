@@ -2,9 +2,17 @@
   {
     "venue_id": "bb0ca5c2-cdd6-44fa-9bed-24ae2d1e3868",
     "venue_name": "Office Evolution - Ontario",
-    "latitude": 34.06977081298828,
-    "longitude": -117.57830810546875,
+    "latitude": 34.069771,
+    "longitude": -117.578308,
     "reservations": 6,
     "spend": 1560.0
+  },
+  {
+    "venue_id": "8ef455e4-9043-4ca6-94cc-31021dc49c1b",
+    "venue_name": "Regus | CA, Ontario -  One Lakeshore",
+    "latitude": 34.064999,
+    "longitude": -117.580002,
+    "reservations": 1,
+    "spend": 120.0
   }
 ]

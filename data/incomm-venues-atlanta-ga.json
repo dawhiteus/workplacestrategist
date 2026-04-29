@@ -2,9 +2,25 @@
   {
     "venue_id": "76a9d596-203d-42e0-a964-6592d95580aa",
     "venue_name": "Serendipity Labs - Atlanta Buckhead",
-    "latitude": 33.851959228515625,
-    "longitude": -84.36759185791016,
+    "latitude": 33.851959,
+    "longitude": -84.367592,
     "reservations": 5,
     "spend": 4291.0
+  },
+  {
+    "venue_id": "7ad70ba2-07cf-4dc7-ad3a-43ebfed775e2",
+    "venue_name": "Regus | Peachtree Road",
+    "latitude": 33.848679,
+    "longitude": -84.36705,
+    "reservations": 2,
+    "spend": 519.0
+  },
+  {
+    "venue_id": "038c7481-0839-47e1-a557-890637b58104",
+    "venue_name": "Regus | Sterling Pointe",
+    "latitude": 33.928299,
+    "longitude": -84.333702,
+    "reservations": 1,
+    "spend": 127.2
   }
 ]

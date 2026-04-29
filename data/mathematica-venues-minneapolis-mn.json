@@ -2,9 +2,17 @@
   {
     "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
     "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
-    "latitude": 44.9775390625,
-    "longitude": -93.26364135742188,
+    "latitude": 44.977539,
+    "longitude": -93.263641,
     "reservations": 3,
     "spend": 135.0
+  },
+  {
+    "venue_id": "f7841047-53ad-4e59-bf46-e1c10e26120f",
+    "venue_name": "Coco Northeast Minneapolis",
+    "latitude": 45.002602,
+    "longitude": -93.248878,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

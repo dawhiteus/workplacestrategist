@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "20fe2fa2-28e9-401b-8c51-9119f7c58768",
+    "venue_name": "WeWork | Midtown Jalisco",
+    "latitude": 20.694197,
+    "longitude": -103.375183,
+    "reservations": 2,
+    "spend": 59.52
+  },
+  {
+    "venue_id": "7879e416-701a-4ff2-86ba-97d8a84f749b",
+    "venue_name": "IOS OFFICES | Torre Américas 1500",
+    "latitude": 20.698011,
+    "longitude": -103.373573,
+    "reservations": 2,
+    "spend": 42.12
+  }
+]

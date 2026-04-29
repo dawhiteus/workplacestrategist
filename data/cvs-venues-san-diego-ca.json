@@ -2,17 +2,25 @@
   {
     "venue_id": "e37a8032-f692-45e4-be38-2d632c24ad01",
     "venue_name": "Hera Hub- Mission Valley",
-    "latitude": 32.77460861206055,
-    "longitude": -117.1382064819336,
+    "latitude": 32.774609,
+    "longitude": -117.138206,
     "reservations": 6,
     "spend": 660.0
   },
   {
     "venue_id": "54d73257-d5e2-4ffe-bdff-34f316ae85da",
     "venue_name": "(MV1) Mission Valley",
-    "latitude": 32.776676177978516,
-    "longitude": -117.13864135742188,
+    "latitude": 32.776676,
+    "longitude": -117.138641,
     "reservations": 3,
     "spend": 305.0
+  },
+  {
+    "venue_id": "70771d0b-43df-4842-b111-c08cf9da05a0",
+    "venue_name": "SMARTSPACE - San Diego",
+    "latitude": 32.824982,
+    "longitude": -117.118706,
+    "reservations": 1,
+    "spend": 150.0
   }
 ]

@@ -2,9 +2,33 @@
   {
     "venue_id": "db8d87b2-c3e8-429a-88e1-134f00e15eec",
     "venue_name": "Downtown Works Carlsbad",
-    "latitude": 33.1198616027832,
-    "longitude": -117.28050994873047,
+    "latitude": 33.119862,
+    "longitude": -117.28051,
     "reservations": 5,
     "spend": 1585.0
+  },
+  {
+    "venue_id": "e1dbee10-1612-4433-a9de-207317c06d71",
+    "venue_name": "Regus | Pacific Center",
+    "latitude": 33.121532,
+    "longitude": -117.323715,
+    "reservations": 1,
+    "spend": 462.0
+  },
+  {
+    "venue_id": "c669d7c9-38f1-4089-a29b-de1853a42551",
+    "venue_name": "CommonGrounds Workplace | Carlsbad",
+    "latitude": 33.10989,
+    "longitude": -117.318077,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "711d7ec5-c7aa-4c78-ab85-2a08ee8f72d4",
+    "venue_name": "Hera Hub Carlsbad",
+    "latitude": 33.134415,
+    "longitude": -117.272705,
+    "reservations": 1,
+    "spend": 270.0
   }
 ]

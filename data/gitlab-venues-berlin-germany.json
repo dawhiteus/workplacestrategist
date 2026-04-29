@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "805c72e7-6ac5-4ab0-8487-77267d056454",
+    "venue_name": "WeWork | 43-45 Rosenthaler Straße",
+    "latitude": 52.524029,
+    "longitude": 13.402999,
+    "reservations": 3,
+    "spend": 160.32
+  },
+  {
+    "venue_id": "3ab99252-b3cc-485e-b0a2-1088a3079978",
+    "venue_name": "Space Shack Coworking",
+    "latitude": 52.486763,
+    "longitude": 13.355595,
+    "reservations": 2,
+    "spend": 70.42
+  },
+  {
+    "venue_id": "04e9ef52-24ca-4561-944d-13c9d85b320d",
+    "venue_name": "WeWork | Warschauer Platz 11-13",
+    "latitude": 52.504425,
+    "longitude": 13.449361,
+    "reservations": 1,
+    "spend": 60.91
+  },
+  {
+    "venue_id": "eef92001-467b-4843-8781-4c1c9de84e33",
+    "venue_name": "WeWork | Sony Center",
+    "latitude": 52.510792,
+    "longitude": 13.372133,
+    "reservations": 1,
+    "spend": 55.74
+  },
+  {
+    "venue_id": "8fd0d8b4-2bef-4bd1-ba44-d867f2e7ebe9",
+    "venue_name": "Regus | Berlin Alexanderplatz",
+    "latitude": 52.52079,
+    "longitude": 13.4113,
+    "reservations": 2,
+    "spend": 37.81
+  }
+]

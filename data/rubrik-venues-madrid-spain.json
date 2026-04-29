@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "dd461ba8-e3a9-482a-b309-37ea2775f5f2",
+    "venue_name": "SPACES | Madrid Paseo de la Castellana 81",
+    "latitude": 40.447655,
+    "longitude": -3.69204,
+    "reservations": 6,
+    "spend": 2673.4
+  },
+  {
+    "venue_id": "356a79fb-d756-4a41-965c-cdf980174b6b",
+    "venue_name": "SPACES | Madrid, Spaces Bernabéu",
+    "latitude": 40.451542,
+    "longitude": -3.692811,
+    "reservations": 7,
+    "spend": 976.6
+  },
+  {
+    "venue_id": "7d026214-0a0e-407c-bec5-f149d2a70eb7",
+    "venue_name": "Regus | Madrid, LasTablas",
+    "latitude": 40.513813,
+    "longitude": -3.67181,
+    "reservations": 2,
+    "spend": 473.1
+  },
+  {
+    "venue_id": "571efd4b-2d6b-4fe3-aabf-4705848516db",
+    "venue_name": "SPACES | Madrid, Spaces Castellana",
+    "latitude": 40.462502,
+    "longitude": -3.68866,
+    "reservations": 2,
+    "spend": 389.3
+  },
+  {
+    "venue_id": "36f63d7b-a451-4727-959d-845b4f0cfc8a",
+    "venue_name": "Regus | Madrid Jose Abascal 41",
+    "latitude": 40.438499,
+    "longitude": -3.696075,
+    "reservations": 2,
+    "spend": 204.61
+  },
+  {
+    "venue_id": "3444d56e-4b96-48e7-b8e9-9a66efc54830",
+    "venue_name": "Regus | Madrid Paseo de Recoletos 5",
+    "latitude": 40.420723,
+    "longitude": -3.693204,
+    "reservations": 1,
+    "spend": 122.43
+  },
+  {
+    "venue_id": "d1f5da56-3333-423a-8f92-a0e4a6263281",
+    "venue_name": "Regus | Madrid, Regus Luca de Tena",
+    "latitude": 40.447498,
+    "longitude": -3.6364,
+    "reservations": 1,
+    "spend": 80.9
+  }
+]

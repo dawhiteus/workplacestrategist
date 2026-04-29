@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "3e861d4c-7b6b-4c14-983f-ec7ed5ad9bad",
+    "venue_name": "HQ | PA, Pittsburgh - Alpha Dr",
+    "latitude": 40.492439,
+    "longitude": -79.86985,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "39d29123-e0ee-49e5-b779-bf6180e2ca68",
+    "venue_name": "Regus | Pittsburgh - Corporate Dr",
+    "latitude": 40.562725,
+    "longitude": -80.021347,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "558dff18-ca74-47bd-aa40-4d560d88021a",
+    "venue_name": "Regus | Pittsburgh - Washington Rd",
+    "latitude": 40.381271,
+    "longitude": -80.04464,
+    "reservations": 1,
+    "spend": 29.0
+  },
+  {
+    "venue_id": "75c2142f-82d4-4299-9c26-68eae8f3417d",
+    "venue_name": "HQ | PA, Pittsburgh - Ardmore Blvd",
+    "latitude": 40.415112,
+    "longitude": -79.848038,
+    "reservations": 1,
+    "spend": 18.75
+  }
+]

@@ -2,17 +2,41 @@
   {
     "venue_id": "30a7f2c3-1d12-4e74-9d5b-515cedfdc6b9",
     "venue_name": "The Malin Williamsburg",
-    "latitude": 40.72229766845703,
-    "longitude": -73.9568862915039,
+    "latitude": 40.722298,
+    "longitude": -73.956886,
     "reservations": 17,
     "spend": 4725.0
   },
   {
     "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
     "venue_name": "The New Work Project",
-    "latitude": 40.72095489501953,
-    "longitude": -73.95805358886719,
+    "latitude": 40.720955,
+    "longitude": -73.958054,
     "reservations": 4,
     "spend": 2510.0
+  },
+  {
+    "venue_id": "4bce5925-e8ac-4a73-b77b-0cc483ad497b",
+    "venue_name": "Soho Works | 55 Water ",
+    "latitude": 40.703419,
+    "longitude": -73.991608,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "ab0b684f-7297-4e34-83e1-4adb99b282c2",
+    "venue_name": "BKLYN Commons - Brooklyn NY",
+    "latitude": 40.662239,
+    "longitude": -73.961609,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "eedf307c-d603-4e27-b9fb-ee697ffecba4",
+    "venue_name": "Bond Collective Bushwick",
+    "latitude": 40.699249,
+    "longitude": -73.93837,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

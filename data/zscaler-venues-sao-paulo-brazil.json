@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6c74ee98-b4f3-4197-bcd2-680dfc67ab60",
+    "venue_name": "Regus | Sao Paulo, Rochavera - Morumbi",
+    "latitude": -23.622005,
+    "longitude": -46.70118,
+    "reservations": 2,
+    "spend": 233.62
+  },
+  {
+    "venue_id": "cfcf3cd1-3614-474f-a1d5-7ab58af58a12",
+    "venue_name": "Regus | Sao Paolo, JK 1455 - Juscelino Kubitschek",
+    "latitude": -23.591358,
+    "longitude": -46.682831,
+    "reservations": 3,
+    "spend": 194.85
+  }
+]

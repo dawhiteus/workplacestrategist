@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a0b3a526-682c-4499-8c10-4582099816e9",
+    "venue_name": "SPACES | Warsaw, Marszałkowska",
+    "latitude": 52.234699,
+    "longitude": 21.009399,
+    "reservations": 7,
+    "spend": 1326.0
+  },
+  {
+    "venue_id": "b8b593fc-f559-43e5-9321-f775d9f326c8",
+    "venue_name": "Regus | Warsaw, Polna Corner",
+    "latitude": 52.218712,
+    "longitude": 21.015059,
+    "reservations": 1,
+    "spend": 40.92
+  }
+]

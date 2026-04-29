@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "city": "Barcelona",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 14,
+    "total_spend": 397.38,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Amsterdam",
+    "state": "Netherlands",
+    "country": "Netherlands",
+    "reservations": 13,
+    "total_spend": 383.8,
+    "venues": 2,
+    "members": 1
+  }
+]

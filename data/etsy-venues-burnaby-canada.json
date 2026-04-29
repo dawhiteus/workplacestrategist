@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "b20c4b49-fccd-457e-8145-36cf496c9b71",
+    "venue_name": "Regus | Solo District",
+    "latitude": 49.265869,
+    "longitude": -123.003494,
+    "reservations": 1,
+    "spend": 79.6
+  },
+  {
+    "venue_id": "8473212c-0e4d-4ff4-8345-4edb0af1ad10",
+    "venue_name": "WeWork | Station Square",
+    "latitude": 49.228237,
+    "longitude": -123.002609,
+    "reservations": 1,
+    "spend": 31.58
+  }
+]

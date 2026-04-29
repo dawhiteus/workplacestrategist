@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "de9f9548-7281-4e5e-90f8-b79ef224c22a",
+    "venue_name": "DSH Investments LLC ",
+    "latitude": 33.427731,
+    "longitude": -86.822937,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "85f3f34f-cbcd-49ba-a69e-5a4690fe0588",
+    "venue_name": "Regus | Chase Corporate Center",
+    "latitude": 33.371529,
+    "longitude": -86.801689,
+    "reservations": 1,
+    "spend": 54.0
+  }
+]

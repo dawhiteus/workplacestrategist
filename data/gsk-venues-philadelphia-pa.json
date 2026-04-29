@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "fdd45d32-9f6c-4e38-af7d-fd9ec5a561c8",
+    "venue_name": "WeWork | 1900 Market",
+    "latitude": 39.95311,
+    "longitude": -75.172455,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "9da6571c-f8f5-441b-8fdd-390ea885e65d",
+    "venue_name": "Intelligent Office Philadelphia",
+    "latitude": 39.953003,
+    "longitude": -75.16877,
+    "reservations": 1,
+    "spend": 50.0
+  }
+]

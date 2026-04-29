@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "6c38b27a-6d34-4ac8-9532-10c8bda771c8",
+    "venue_name": "Regus | Rotterdam, Too De Rotterdam",
+    "latitude": 51.90678,
+    "longitude": 4.488135,
+    "reservations": 1,
+    "spend": 316.61
+  },
+  {
+    "venue_id": "6e06bf59-c9b5-4af3-bc34-f33264808556",
+    "venue_name": "Regus | Rotterdam, Too  Delftse Poort",
+    "latitude": 51.923653,
+    "longitude": 4.471618,
+    "reservations": 1,
+    "spend": 249.03
+  },
+  {
+    "venue_id": "b0d4dd7b-bebd-464b-a1c6-27a75ed9c6f1",
+    "venue_name": "Regus | Rotterdam, Central NS International",
+    "latitude": 51.92458,
+    "longitude": 4.469923,
+    "reservations": 1,
+    "spend": 245.33
+  }
+]

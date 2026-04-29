@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "592b0f5a-45a8-463b-97d5-b47a3450a1aa",
+    "venue_name": "Regus | Amsterdam Sarphati Plaza",
+    "latitude": 52.360863,
+    "longitude": 4.907457,
+    "reservations": 2,
+    "spend": 455.49
+  },
+  {
+    "venue_id": "bffe822a-cb02-4582-b36f-7440e332b6db",
+    "venue_name": "SPACES | The Cloud",
+    "latitude": 52.348446,
+    "longitude": 4.914587,
+    "reservations": 1,
+    "spend": 175.12
+  }
+]

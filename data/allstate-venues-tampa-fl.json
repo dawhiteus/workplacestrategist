@@ -1,1 +1,50 @@
-[{"venue_id":"tampa-fl-venue-1","venue_name":"IWG | Tampa Downtown","latitude":27.9471,"longitude":-82.4394,"reservations":46,"spend":13978.14},{"venue_id":"tampa-fl-venue-2","venue_name":"HQ | Tampa North","latitude":28.015,"longitude":-82.3703,"reservations":17,"spend":5112.43},{"venue_id":"tampa-fl-venue-3","venue_name":"Novel Coworking | Tampa West","latitude":27.938,"longitude":-82.378,"reservations":12,"spend":3678.2},{"venue_id":"tampa-fl-venue-4","venue_name":"Knotel | Tampa Central","latitude":27.9127,"longitude":-82.3711,"reservations":7,"spend":2184.93},{"venue_id":"tampa-fl-venue-5","venue_name":"Knotel | Tampa East","latitude":27.9143,"longitude":-82.5425,"reservations":6,"spend":1976.53},{"venue_id":"tampa-fl-venue-6","venue_name":"WorkSuites | Tampa Financial District","latitude":27.8621,"longitude":-82.3813,"reservations":6,"spend":1861.67},{"venue_id":"tampa-fl-venue-7","venue_name":"Lucid Private Offices | Tampa Midtown","latitude":27.9852,"longitude":-82.4259,"reservations":3,"spend":932.11}]
+[
+  {
+    "venue_id": "f36be385-ea35-4534-abb0-0cac35cf51c7",
+    "venue_name": "Office Evolution - Tampa | Harbour Island",
+    "latitude": 27.938725,
+    "longitude": -82.45488,
+    "reservations": 77,
+    "spend": 24425.0
+  },
+  {
+    "venue_id": "3180a033-521f-41ee-8606-1ceef3563588",
+    "venue_name": "Industrious - Centro Ybor",
+    "latitude": 27.960709,
+    "longitude": -82.441887,
+    "reservations": 4,
+    "spend": 2594.0
+  },
+  {
+    "venue_id": "de002319-059e-45cc-a379-ddd3775a2a64",
+    "venue_name": "Quest Workspaces Rivergate Tampa",
+    "latitude": 27.947868,
+    "longitude": -82.460724,
+    "reservations": 15,
+    "spend": 2411.0
+  },
+  {
+    "venue_id": "a9ed4dac-4f9b-43bb-9969-cc69900fd846",
+    "venue_name": "CoWorkTampa",
+    "latitude": 27.967623,
+    "longitude": -82.485153,
+    "reservations": 5,
+    "spend": 1012.0
+  },
+  {
+    "venue_id": "d054412d-e663-4351-9efc-4163da1fc66f",
+    "venue_name": "Office Evolution - Tampa",
+    "latitude": 27.945858,
+    "longitude": -82.533974,
+    "reservations": 2,
+    "spend": 360.0
+  },
+  {
+    "venue_id": "03aa435d-7862-421c-bffe-99b9d0348eed",
+    "venue_name": "On Point Executive Center",
+    "latitude": 27.96871,
+    "longitude": -82.569267,
+    "reservations": 1,
+    "spend": 325.0
+  }
+]

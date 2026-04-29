@@ -2,17 +2,73 @@
   {
     "venue_id": "3691dac1-4fc0-4e5b-9121-8cae6f093378",
     "venue_name": "WeWork | One Seaport Square",
-    "latitude": 42.35343551635742,
-    "longitude": -71.04767608642578,
+    "latitude": 42.353436,
+    "longitude": -71.047676,
     "reservations": 90,
     "spend": 10018.0
   },
   {
     "venue_id": "6ba2ee5c-e0ae-46f8-9a54-b0659240e88b",
     "venue_name": "Industrious - Back Bay",
-    "latitude": 42.34886169433594,
-    "longitude": -71.08296966552734,
+    "latitude": 42.348862,
+    "longitude": -71.08297,
     "reservations": 5,
     "spend": 375.0
+  },
+  {
+    "venue_id": "289ed2cd-6bbb-47b7-9b40-811b7d887f19",
+    "venue_name": "WeWork | One Lincoln",
+    "latitude": 42.353172,
+    "longitude": -71.059235,
+    "reservations": 1,
+    "spend": 234.0
+  },
+  {
+    "venue_id": "f0339915-88cb-4c9f-883f-19c02be6e4f1",
+    "venue_name": "Regus | MA, Boston - Post Office Square",
+    "latitude": 42.357491,
+    "longitude": -71.055588,
+    "reservations": 1,
+    "spend": 183.48
+  },
+  {
+    "venue_id": "f036d99b-094c-4b12-8c72-4ae1167a0221",
+    "venue_name": "Industrious - Seaport",
+    "latitude": 42.350445,
+    "longitude": -71.046974,
+    "reservations": 2,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "f67a4d86-a7b3-406a-8c7a-592156345ce7",
+    "venue_name": "WeWork | 501 Boylston St",
+    "latitude": 42.351204,
+    "longitude": -71.074524,
+    "reservations": 2,
+    "spend": 118.0
+  },
+  {
+    "venue_id": "3f791a67-e47e-48d9-81c8-d2f408d964bf",
+    "venue_name": "Staples Coworking Boston (Government Center)",
+    "latitude": 42.359295,
+    "longitude": -71.057991,
+    "reservations": 1,
+    "spend": 58.0
+  },
+  {
+    "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
+    "venue_name": "Idea Space - Back Bay",
+    "latitude": 42.348598,
+    "longitude": -71.083443,
+    "reservations": 1,
+    "spend": 49.0
+  },
+  {
+    "venue_id": "e1ee2389-a21b-47e3-ad84-455f12be8116",
+    "venue_name": "The Village Works - Jamaica Plain",
+    "latitude": 42.310081,
+    "longitude": -71.115364,
+    "reservations": 1,
+    "spend": 45.0
   }
 ]

@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "36313d6b-1824-4ab7-9e5e-79d129d783c2",
+    "venue_name": "Workbar Back Bay",
+    "latitude": 42.35181,
+    "longitude": -71.072182,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
     "venue_id": "74d712f5-cc68-4d25-afc5-d8f11d52d442",
     "venue_name": "Workbar Downtown",
-    "latitude": 42.35727310180664,
-    "longitude": -71.05896759033203,
+    "latitude": 42.357273,
+    "longitude": -71.058968,
     "reservations": 3,
     "spend": 27.0
   }

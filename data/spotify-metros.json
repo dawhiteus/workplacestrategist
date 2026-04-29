@@ -2,6 +2,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 297,
     "total_spend": 71483.72,
     "venues": 41,
@@ -10,30 +11,106 @@
   {
     "city": "San Francisco",
     "state": "CA",
-    "reservations": 123,
-    "total_spend": 51354.57,
-    "venues": 18,
-    "members": 9
+    "country": "US",
+    "reservations": 126,
+    "total_spend": 51986.68,
+    "venues": 19,
+    "members": 10
+  },
+  {
+    "city": "Montreal",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 397,
+    "total_spend": 20117.65,
+    "venues": 8,
+    "members": 4
   },
   {
     "city": "Austin",
     "state": "TX",
-    "reservations": 429,
-    "total_spend": 17033.5,
+    "country": "US",
+    "reservations": 431,
+    "total_spend": 17143.5,
     "venues": 20,
     "members": 9
   },
   {
+    "city": "Edinburgh",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 127,
+    "total_spend": 12173.55,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Grosseto",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 197,
+    "total_spend": 9387.31,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 125,
     "total_spend": 5245.0,
     "venues": 3,
     "members": 3
   },
   {
+    "city": "Barcelona",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 93,
+    "total_spend": 2498.17,
+    "venues": 7,
+    "members": 13
+  },
+  {
+    "city": "Cambridge",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 45,
+    "total_spend": 2469.3,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Manchester",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 62,
+    "total_spend": 2325.53,
+    "venues": 6,
+    "members": 3
+  },
+  {
+    "city": "Summertown",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 58,
+    "total_spend": 2232.54,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Las Palmas De Gran Canaria",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 92,
+    "total_spend": 2127.7,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Houston",
     "state": "TX",
+    "country": "US",
     "reservations": 23,
     "total_spend": 2070.0,
     "venues": 1,
@@ -42,30 +119,43 @@
   {
     "city": "Richmond",
     "state": "VA",
+    "country": "US",
     "reservations": 48,
     "total_spend": 1777.0,
     "venues": 3,
     "members": 2
   },
   {
-    "city": "Dallas",
-    "state": "TX",
-    "reservations": 12,
-    "total_spend": 1455.0,
-    "venues": 6,
-    "members": 3
-  },
-  {
     "city": "Kingston",
     "state": "NY",
+    "country": "US",
     "reservations": 41,
     "total_spend": 1455.0,
     "venues": 2,
     "members": 1
   },
   {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "reservations": 12,
+    "total_spend": 1455.0,
+    "venues": 6,
+    "members": 3
+  },
+  {
+    "city": "Madrid",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 24,
+    "total_spend": 1179.61,
+    "venues": 5,
+    "members": 8
+  },
+  {
     "city": "Wake Forest",
     "state": "NC",
+    "country": "US",
     "reservations": 39,
     "total_spend": 1178.0,
     "venues": 1,
@@ -74,6 +164,7 @@
   {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 27,
     "total_spend": 1127.13,
     "venues": 8,
@@ -82,6 +173,7 @@
   {
     "city": "Minneapolis",
     "state": "MN",
+    "country": "US",
     "reservations": 4,
     "total_spend": 954.67,
     "venues": 4,
@@ -90,6 +182,7 @@
   {
     "city": "Philadelphia",
     "state": "PA",
+    "country": "US",
     "reservations": 24,
     "total_spend": 778.0,
     "venues": 4,
@@ -98,30 +191,34 @@
   {
     "city": "Wyncote",
     "state": "PA",
+    "country": "US",
     "reservations": 15,
     "total_spend": 750.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Zionsville",
+    "state": "IN",
+    "country": "US",
+    "reservations": 21,
+    "total_spend": 735.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Columbus",
     "state": "OH",
+    "country": "US",
     "reservations": 23,
     "total_spend": 722.75,
     "venues": 4,
     "members": 1
   },
   {
-    "city": "Zionsville",
-    "state": "IN",
-    "reservations": 20,
-    "total_spend": 700.0,
-    "venues": 1,
-    "members": 1
-  },
-  {
     "city": "Jacksonville",
     "state": "FL",
+    "country": "US",
     "reservations": 6,
     "total_spend": 700.0,
     "venues": 2,
@@ -130,14 +227,25 @@
   {
     "city": "Arlington Heights",
     "state": "IL",
+    "country": "US",
     "reservations": 9,
     "total_spend": 675.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Gijon",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 23,
+    "total_spend": 623.54,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Alpharetta",
     "state": "GA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 605.0,
     "venues": 2,
@@ -146,14 +254,34 @@
   {
     "city": "Cincinnati",
     "state": "OH",
+    "country": "US",
     "reservations": 8,
     "total_spend": 591.0,
     "venues": 3,
     "members": 2
   },
   {
+    "city": "Dorval",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 20,
+    "total_spend": 506.78,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Munchen",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 17,
+    "total_spend": 479.89,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Decatur",
     "state": "GA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 469.4,
     "venues": 2,
@@ -162,6 +290,7 @@
   {
     "city": "Syosset",
     "state": "NY",
+    "country": "US",
     "reservations": 8,
     "total_spend": 462.0,
     "venues": 1,
@@ -170,6 +299,7 @@
   {
     "city": "Park City",
     "state": "UT",
+    "country": "US",
     "reservations": 7,
     "total_spend": 455.0,
     "venues": 1,
@@ -178,6 +308,7 @@
   {
     "city": "Littleton",
     "state": "CO",
+    "country": "US",
     "reservations": 6,
     "total_spend": 450.0,
     "venues": 1,
@@ -186,38 +317,88 @@
   {
     "city": "Raleigh",
     "state": "NC",
+    "country": "US",
     "reservations": 10,
     "total_spend": 398.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Saint Paul'S",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 8,
+    "total_spend": 384.52,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Glen Allen",
     "state": "VA",
+    "country": "US",
     "reservations": 7,
     "total_spend": 350.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Ciutat Vella",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 12,
+    "total_spend": 329.03,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "San Mateo",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 295.9,
     "venues": 2,
     "members": 1
   },
   {
+    "city": "Dresden",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 11,
+    "total_spend": 294.71,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Fagelbo-Vaster-Oster",
+    "state": "Sweden",
+    "country": "Sweden",
+    "reservations": 10,
+    "total_spend": 284.64,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Fort Wayne",
     "state": "IN",
+    "country": "US",
     "reservations": 4,
     "total_spend": 180.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Glasgow",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 5,
+    "total_spend": 167.84,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 6,
     "total_spend": 160.0,
     "venues": 5,
@@ -226,14 +407,25 @@
   {
     "city": "Midlothian",
     "state": "VA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 150.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Torino",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 7,
+    "total_spend": 131.71,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Ann Arbor",
     "state": "MI",
+    "country": "US",
     "reservations": 4,
     "total_spend": 130.0,
     "venues": 2,
@@ -242,6 +434,7 @@
   {
     "city": "Ashburn",
     "state": "VA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 120.0,
     "venues": 1,
@@ -250,14 +443,25 @@
   {
     "city": "Boulder",
     "state": "CO",
+    "country": "US",
     "reservations": 3,
     "total_spend": 119.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Cologne",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 3,
+    "total_spend": 115.7,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Asheville",
     "state": "NC",
+    "country": "US",
     "reservations": 4,
     "total_spend": 115.0,
     "venues": 2,

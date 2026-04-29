@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "430eee3b-23c4-47c4-8ff9-ac65eba4328b",
+    "venue_name": "iQ Offices | 545 King Street",
+    "latitude": 43.644218,
+    "longitude": -79.398689,
+    "reservations": 1,
+    "spend": 445.18
+  },
+  {
+    "venue_id": "0d9e6b20-1f0f-4c52-9a69-bdc4bbe992f4",
+    "venue_name": "WeWork | 1 University Ave",
+    "latitude": 43.645885,
+    "longitude": -79.383041,
+    "reservations": 2,
+    "spend": 335.97
+  },
+  {
+    "venue_id": "5166b75a-818a-4fa2-a99e-5cdc3bdefe09",
+    "venue_name": "Regus | West Toronto - Etobicoke",
+    "latitude": 43.647289,
+    "longitude": -79.561821,
+    "reservations": 1,
+    "spend": 176.06
+  }
+]

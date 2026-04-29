@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a81af50a-9c16-4d29-80bf-9ef618234a42",
+    "venue_name": "Servcorp Bell Gully Building",
+    "latitude": -41.282303,
+    "longitude": 174.778885,
+    "reservations": 6,
+    "spend": 1242.25
+  },
+  {
+    "venue_id": "52857dea-18ab-4653-a4c9-94eefbdfd59d",
+    "venue_name": "Regus | WELLINGTON, Willis Street",
+    "latitude": -41.286579,
+    "longitude": 174.77626,
+    "reservations": 10,
+    "spend": 559.18
+  }
+]

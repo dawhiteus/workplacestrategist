@@ -2,17 +2,41 @@
   {
     "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
     "venue_name": "Working From_",
-    "latitude": 41.88585662841797,
-    "longitude": -87.64905548095703,
+    "latitude": 41.885857,
+    "longitude": -87.649055,
     "reservations": 75,
     "spend": 7865.0
   },
   {
     "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
     "venue_name": "Workbox Gold Coast",
-    "latitude": 41.90366744995117,
-    "longitude": -87.63109588623047,
+    "latitude": 41.903667,
+    "longitude": -87.631096,
     "reservations": 5,
     "spend": 175.0
+  },
+  {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505,
+    "longitude": -87.634575,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "edf0548a-07d1-49ca-b642-b09a0ab1fe19",
+    "venue_name": "Workbox Magnificent Mile",
+    "latitude": 41.889839,
+    "longitude": -87.6269,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "200cae30-0653-46f9-909d-70006ff2953d",
+    "venue_name": "DeskLabs",
+    "latitude": 41.937294,
+    "longitude": -87.648361,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

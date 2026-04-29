@@ -2,14 +2,16 @@
   {
     "city": "Atlanta",
     "state": "GA",
-    "reservations": 158,
-    "total_spend": 15611.76,
+    "country": "US",
+    "reservations": 159,
+    "total_spend": 15750.76,
     "venues": 23,
     "members": 18
   },
   {
     "city": "Charlotte",
     "state": "NC",
+    "country": "US",
     "reservations": 100,
     "total_spend": 9533.56,
     "venues": 14,
@@ -18,14 +20,16 @@
   {
     "city": "Houston",
     "state": "TX",
-    "reservations": 40,
-    "total_spend": 3366.0,
-    "venues": 14,
+    "country": "US",
+    "reservations": 39,
+    "total_spend": 3336.0,
+    "venues": 13,
     "members": 23
   },
   {
     "city": "Dallas",
     "state": "TX",
+    "country": "US",
     "reservations": 106,
     "total_spend": 3217.0,
     "venues": 8,
@@ -34,6 +38,7 @@
   {
     "city": "Austin",
     "state": "TX",
+    "country": "US",
     "reservations": 29,
     "total_spend": 1955.0,
     "venues": 6,
@@ -42,6 +47,7 @@
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 9,
     "total_spend": 1465.88,
     "venues": 4,
@@ -50,6 +56,7 @@
   {
     "city": "Reston",
     "state": "VA",
+    "country": "US",
     "reservations": 12,
     "total_spend": 1320.0,
     "venues": 2,
@@ -58,6 +65,7 @@
   {
     "city": "Dublin",
     "state": "OH",
+    "country": "US",
     "reservations": 33,
     "total_spend": 1070.0,
     "venues": 2,
@@ -66,6 +74,7 @@
   {
     "city": "Fairfax",
     "state": "VA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 875.0,
     "venues": 3,
@@ -74,6 +83,7 @@
   {
     "city": "Denver",
     "state": "CO",
+    "country": "US",
     "reservations": 22,
     "total_spend": 760.0,
     "venues": 2,
@@ -82,6 +92,7 @@
   {
     "city": "Fort Worth",
     "state": "TX",
+    "country": "US",
     "reservations": 17,
     "total_spend": 671.42,
     "venues": 4,
@@ -90,6 +101,7 @@
   {
     "city": "Sandy Springs",
     "state": "GA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 550.0,
     "venues": 1,
@@ -98,6 +110,7 @@
   {
     "city": "Irving",
     "state": "TX",
+    "country": "US",
     "reservations": 8,
     "total_spend": 480.0,
     "venues": 1,
@@ -106,6 +119,7 @@
   {
     "city": "Carmel",
     "state": "IN",
+    "country": "US",
     "reservations": 4,
     "total_spend": 452.53,
     "venues": 1,
@@ -114,6 +128,7 @@
   {
     "city": "Columbus",
     "state": "OH",
+    "country": "US",
     "reservations": 14,
     "total_spend": 412.5,
     "venues": 4,
@@ -122,6 +137,7 @@
   {
     "city": "Plano",
     "state": "TX",
+    "country": "US",
     "reservations": 10,
     "total_spend": 406.0,
     "venues": 4,
@@ -130,6 +146,7 @@
   {
     "city": "Greenwood Village",
     "state": "CO",
+    "country": "US",
     "reservations": 7,
     "total_spend": 378.0,
     "venues": 2,
@@ -138,6 +155,7 @@
   {
     "city": "Alpharetta",
     "state": "GA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 363.0,
     "venues": 2,
@@ -146,6 +164,7 @@
   {
     "city": "Lewisville",
     "state": "TX",
+    "country": "US",
     "reservations": 4,
     "total_spend": 300.0,
     "venues": 1,
@@ -154,6 +173,7 @@
   {
     "city": "Culver City",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 227.2,
     "venues": 1,
@@ -162,6 +182,7 @@
   {
     "city": "Salt Lake City",
     "state": "UT",
+    "country": "US",
     "reservations": 4,
     "total_spend": 180.0,
     "venues": 2,
@@ -170,6 +191,7 @@
   {
     "city": "Cincinnati",
     "state": "OH",
+    "country": "US",
     "reservations": 5,
     "total_spend": 158.0,
     "venues": 2,
@@ -178,14 +200,25 @@
   {
     "city": "Grapevine",
     "state": "TX",
+    "country": "US",
     "reservations": 4,
     "total_spend": 130.0,
     "venues": 2,
     "members": 4
   },
   {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 129.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
     "city": "Charleston",
     "state": "SC",
+    "country": "US",
     "reservations": 3,
     "total_spend": 120.0,
     "venues": 1,
@@ -194,6 +227,7 @@
   {
     "city": "Westerville",
     "state": "OH",
+    "country": "US",
     "reservations": 3,
     "total_spend": 90.0,
     "venues": 1,
@@ -202,6 +236,7 @@
   {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 3,
     "total_spend": 75.0,
     "venues": 2,

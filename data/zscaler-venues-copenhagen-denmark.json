@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "ff8f33e4-14a5-4e50-a845-9b68d1be0b2d",
+    "venue_name": "Regus | Copenhagen, Raadhuspladsen",
+    "latitude": 55.675999,
+    "longitude": 12.5672,
+    "reservations": 37,
+    "spend": 22866.8
+  },
+  {
+    "venue_id": "7d931829-cb18-4930-9fd3-e049a6b9c3b0",
+    "venue_name": "Regus | Copenhagen, Strandvejen",
+    "latitude": 55.7271,
+    "longitude": 12.5769,
+    "reservations": 17,
+    "spend": 13197.37
+  },
+  {
+    "venue_id": "38a67b01-243a-49e0-af64-10f5554ddb1a",
+    "venue_name": "SPACES | Copenhagen, Ny Carlsberg Vej",
+    "latitude": 55.667,
+    "longitude": 12.5368,
+    "reservations": 21,
+    "spend": 4803.55
+  },
+  {
+    "venue_id": "1bc1a63c-f2d8-43d8-9f19-f4f4df1a9c37",
+    "venue_name": "Regus | COPENHAGEN AIRPORT TERMINAL 3, Regus Express",
+    "latitude": 55.6297,
+    "longitude": 12.6445,
+    "reservations": 1,
+    "spend": 1382.63
+  },
+  {
+    "venue_id": "2065b968-4ffd-4fbe-b6ac-814ddd1b1733",
+    "venue_name": "Regus | Copenhagen, Winghouse",
+    "latitude": 55.632198,
+    "longitude": 12.5811,
+    "reservations": 5,
+    "spend": 1123.23
+  },
+  {
+    "venue_id": "2732b756-dbb2-4094-bae7-5f20ff730357",
+    "venue_name": "Regus | Copenhagen, Havnegade",
+    "latitude": 55.677399,
+    "longitude": 12.5904,
+    "reservations": 1,
+    "spend": 518.38
+  },
+  {
+    "venue_id": "a5c0b1d7-1862-400e-b5ff-813ebda17719",
+    "venue_name": "Regus | Copenhagen, Lyngby Hovedgade",
+    "latitude": 55.775002,
+    "longitude": 12.4975,
+    "reservations": 2,
+    "spend": 347.01
+  }
+]

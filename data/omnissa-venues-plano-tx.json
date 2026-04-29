@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "65867243-9a17-411d-b265-e59e5519ddcb",
+    "venue_name": "Common Desk - Granite Park",
+    "latitude": 33.087551,
+    "longitude": -96.821114,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "8c6522a0-60a7-41a2-89f5-34dfb015fda2",
+    "venue_name": "HQ || Plano on Park",
+    "latitude": 33.029659,
+    "longitude": -96.706078,
+    "reservations": 2,
+    "spend": 100.8
+  },
+  {
+    "venue_id": "e9df505f-8783-4672-8378-1a9bde5d97d3",
+    "venue_name": "Lucid Private Offices | West Plano - Willow Bend",
+    "latitude": 33.02174,
+    "longitude": -96.832359,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "47bb81a0-46f8-4c37-b4b6-e3f413cb121c",
+    "venue_name": "Regus | Schiphol Airport, Tetra",
+    "latitude": 52.292271,
+    "longitude": 4.710347,
+    "reservations": 1,
+    "spend": 45.77
+  },
+  {
+    "venue_id": "f6f7bbb4-c42a-40b2-a0ba-c0b67b32f0de",
+    "venue_name": "Regus | Hoofddorp, Azura",
+    "latitude": 52.294415,
+    "longitude": 4.698618,
+    "reservations": 1,
+    "spend": 42.08
+  }
+]

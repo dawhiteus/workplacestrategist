@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "city": "Rome",
+    "state": "Italy",
+    "country": "Italy",
+    "reservations": 14,
+    "total_spend": 5827.08,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Sydney",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 12,
+    "total_spend": 1431.34,
+    "venues": 6,
+    "members": 3
+  }
+]

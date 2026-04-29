@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "b85e0345-c801-4f81-84b4-b99a31d3c128",
+    "venue_name": "Regus | BRASILIA, Ed Varig - Asa Norte",
+    "latitude": -15.786214,
+    "longitude": -47.887131,
+    "reservations": 21,
+    "spend": 1284.48
+  },
+  {
+    "venue_id": "1df4cfdf-dd7d-4af0-b7b9-450c26e322e4",
+    "venue_name": "Regus | Brasilia, Parque Cidade Corporate",
+    "latitude": -15.795811,
+    "longitude": -47.893902,
+    "reservations": 1,
+    "spend": 64.35
+  },
+  {
+    "venue_id": "0d58c278-79f7-4bc0-9ce0-36b9ae360dc2",
+    "venue_name": "Regus | BRASILIA, Corporate Financial Center – Asa Norte",
+    "latitude": -15.788566,
+    "longitude": -47.884281,
+    "reservations": 1,
+    "spend": 38.3
+  }
+]

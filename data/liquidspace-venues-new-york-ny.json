@@ -1,42 +1,122 @@
 [
   {
+    "venue_id": "408c9023-8523-4da0-ba96-e6937ac6fe3a",
+    "venue_name": "The Malin NoMad",
+    "latitude": 40.742805,
+    "longitude": -73.984062,
+    "reservations": 3,
+    "spend": 652.5
+  },
+  {
     "venue_id": "64720c6f-d267-4eae-895f-c5ec2170a06d",
     "venue_name": "The Malin Soho",
-    "latitude": 40.721004486083984,
-    "longitude": -74.00139617919922,
+    "latitude": 40.721004,
+    "longitude": -74.001396,
     "reservations": 6,
     "spend": 450.0
   },
   {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825,
+    "longitude": -74.013031,
+    "reservations": 1,
+    "spend": 440.0
+  },
+  {
     "venue_id": "84f864a3-120a-4124-82ee-a1fa9413d1e7",
     "venue_name": "The Malin Flatiron",
-    "latitude": 40.738895416259766,
-    "longitude": -73.989990234375,
+    "latitude": 40.738895,
+    "longitude": -73.98999,
     "reservations": 3,
     "spend": 235.0
   },
   {
     "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
     "venue_name": "Nomadworks",
-    "latitude": 40.74652099609375,
-    "longitude": -73.98805236816406,
+    "latitude": 40.746521,
+    "longitude": -73.988052,
     "reservations": 4,
     "spend": 185.0
   },
   {
     "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
     "venue_name": "Workville",
-    "latitude": 40.753639221191406,
-    "longitude": -73.98652648925781,
+    "latitude": 40.753639,
+    "longitude": -73.986526,
     "reservations": 3,
     "spend": 147.0
   },
   {
     "venue_id": "654be2b9-cc4d-4f76-90d3-0097805f0a08",
     "venue_name": "WeWork | 18 West 18th Street",
-    "latitude": 40.7420539855957,
-    "longitude": -74.00023651123047,
+    "latitude": 40.742054,
+    "longitude": -74.000237,
     "reservations": 3,
     "spend": 141.0
+  },
+  {
+    "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
+    "venue_name": "Workspace by Rockefeller Group",
+    "latitude": 40.759411,
+    "longitude": -73.978142,
+    "reservations": 1,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "2aac1bad-7037-490a-8f9d-bbbca3c43e70",
+    "venue_name": "The Malin West Village",
+    "latitude": 40.734024,
+    "longitude": -74.007866,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "505dfae7-a576-4b3a-a8e6-7ff1f8834fdb",
+    "venue_name": "WeWork | 450 Lexington Ave",
+    "latitude": 40.753265,
+    "longitude": -73.975441,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
+    "venue_name": "WorkHouse NYC | Midtown - Grand Central",
+    "latitude": 40.756721,
+    "longitude": -73.980042,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "71dcd609-3551-45cd-8adb-1bd811a52cc0",
+    "venue_name": "Hines | The Square at 205 Hudson Street",
+    "latitude": 40.723728,
+    "longitude": -74.008438,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "9db693ca-972a-4b7b-a801-665ea022b3bf",
+    "venue_name": "Serendipity Labs - New York - Grand Central",
+    "latitude": 40.750938,
+    "longitude": -73.973503,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "aeca193f-16ef-41b7-81a9-6df428dfd21b",
+    "venue_name": "The Yard: Lincoln Square",
+    "latitude": 40.774311,
+    "longitude": -73.980797,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "1e1f1c4c-0464-40d9-a2f6-6ed94b581d95",
+    "venue_name": "KettleSpace @ Crave Fishbar",
+    "latitude": 40.784286,
+    "longitude": -73.977798,
+    "reservations": 1,
+    "spend": 20.0
   }
 ]

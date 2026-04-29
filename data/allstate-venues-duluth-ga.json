@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "52351489-17b0-4229-9ca9-744b5c983f52",
+    "venue_name": "NorthPoint Executive Suites Duluth",
+    "latitude": 33.94725,
+    "longitude": -84.12999,
+    "reservations": 5,
+    "spend": 1260.0
+  },
+  {
+    "venue_id": "95a257fe-6aa5-4b9f-b212-c3e74aefbb6e",
+    "venue_name": "THRIVE | Duluth",
+    "latitude": 34.001068,
+    "longitude": -84.146538,
+    "reservations": 8,
+    "spend": 240.0
+  }
+]

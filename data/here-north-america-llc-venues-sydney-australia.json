@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 28,
+    "spend": 1151.44
+  },
+  {
+    "venue_id": "99fa5077-7b9b-4c7a-84b1-ea3f06a456c9",
+    "venue_name": "GPT Space&Co 580 George",
+    "latitude": -33.874798,
+    "longitude": 151.206955,
+    "reservations": 7,
+    "spend": 745.95
+  },
+  {
+    "venue_id": "d18a9f60-2ae3-4d24-a3d3-4fd21817029b",
+    "venue_name": "The Executive Centre - Three International Towers",
+    "latitude": -33.865059,
+    "longitude": 151.201904,
+    "reservations": 9,
+    "spend": 322.17
+  },
+  {
+    "venue_id": "b41cdc2a-3328-439f-9671-724199b36da4",
+    "venue_name": "Regus | Wollongong Burelli Street",
+    "latitude": -34.427376,
+    "longitude": 150.901611,
+    "reservations": 3,
+    "spend": 172.86
+  },
+  {
+    "venue_id": "b70b2315-425a-4bfd-8536-dd1bfd5b12b1",
+    "venue_name": "The Great Room at 85 Castlereagh St",
+    "latitude": -33.869972,
+    "longitude": 151.209366,
+    "reservations": 3,
+    "spend": 139.78
+  },
+  {
+    "venue_id": "c6a7d42b-fc98-4107-bb4a-8dc3bc7ee684",
+    "venue_name": "WeWork | 383 George St",
+    "latitude": -33.86932,
+    "longitude": 151.206802,
+    "reservations": 3,
+    "spend": 106.27
+  },
+  {
+    "venue_id": "1f7833ef-29ab-4003-9836-bafa1a74c0fc",
+    "venue_name": "WeWork | 320 Pitt St.",
+    "latitude": -33.875465,
+    "longitude": 151.208191,
+    "reservations": 3,
+    "spend": 104.81
+  },
+  {
+    "venue_id": "18285a26-e290-4b09-b756-5a22fbe04726",
+    "venue_name": "WeWork | 64 York St",
+    "latitude": -33.869835,
+    "longitude": 151.206329,
+    "reservations": 1,
+    "spend": 35.3
+  }
+]

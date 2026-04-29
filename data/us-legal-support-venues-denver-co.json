@@ -2,25 +2,57 @@
   {
     "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
     "venue_name": "Venture X | Denver - Uptown",
-    "latitude": 39.741546630859375,
-    "longitude": -104.98779296875,
+    "latitude": 39.741547,
+    "longitude": -104.987793,
     "reservations": 2,
     "spend": 1000.0
   },
   {
     "venue_id": "b0b59cc8-7292-49cb-a21f-136dbbba5a3d",
     "venue_name": "Office Evolution - One Cherry Creek",
-    "latitude": 39.70690155029297,
-    "longitude": -104.93441009521484,
+    "latitude": 39.706902,
+    "longitude": -104.93441,
     "reservations": 2,
     "spend": 700.0
   },
   {
     "venue_id": "ecc9eb17-9a1d-49a1-8ab1-eb99012fa607",
     "venue_name": "Runway Workspaces (formerly SmartSpace)",
-    "latitude": 39.751220703125,
-    "longitude": -104.88986206054688,
+    "latitude": 39.751221,
+    "longitude": -104.889862,
     "reservations": 3,
     "spend": 385.0
+  },
+  {
+    "venue_id": "0d224c90-fd01-4cc0-ac84-7a1558c288ba",
+    "venue_name": "Executive Business Centers - DTC",
+    "latitude": 39.625099,
+    "longitude": -104.897163,
+    "reservations": 1,
+    "spend": 380.0
+  },
+  {
+    "venue_id": "258b7d7b-eac3-4ff2-9922-db561f467a68",
+    "venue_name": "Venture X | Denver South",
+    "latitude": 39.680866,
+    "longitude": -104.938019,
+    "reservations": 1,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "6ebca81c-b87c-4e3a-b68c-278584557e26",
+    "venue_name": "Intelligent Office Denver (Cherry Creek)",
+    "latitude": 39.71682,
+    "longitude": -104.946999,
+    "reservations": 1,
+    "spend": 275.0
+  },
+  {
+    "venue_id": "3666bdef-5130-40b6-957f-5799139db32a",
+    "venue_name": "YourOffice (Denver, CO)",
+    "latitude": 39.745289,
+    "longitude": -104.990799,
+    "reservations": 1,
+    "spend": 140.0
   }
 ]

@@ -1,0 +1,155 @@
+[
+  {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 59,
+    "total_spend": 30041.5,
+    "venues": 19,
+    "members": 15
+  },
+  {
+    "city": "Washington",
+    "state": "DC",
+    "country": "US",
+    "reservations": 11,
+    "total_spend": 8510.0,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "reservations": 23,
+    "total_spend": 8238.0,
+    "venues": 9,
+    "members": 9
+  },
+  {
+    "city": "Brooklyn",
+    "state": "NY",
+    "country": "US",
+    "reservations": 21,
+    "total_spend": 7598.0,
+    "venues": 7,
+    "members": 9
+  },
+  {
+    "city": "Greensboro",
+    "state": "NC",
+    "country": "US",
+    "reservations": 20,
+    "total_spend": 3170.0,
+    "venues": 2,
+    "members": 5
+  },
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "reservations": 12,
+    "total_spend": 3115.0,
+    "venues": 3,
+    "members": 6
+  },
+  {
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "reservations": 10,
+    "total_spend": 2960.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 2658.0,
+    "venues": 4,
+    "members": 4
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 2640.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 2525.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 2300.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 2220.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "reservations": 10,
+    "total_spend": 1385.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 1110.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 795.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Marlborough",
+    "state": "MA",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 160.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 120.0,
+    "venues": 1,
+    "members": 1
+  }
+]

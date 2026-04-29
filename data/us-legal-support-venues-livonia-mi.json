@@ -2,9 +2,17 @@
   {
     "venue_id": "1ee0d221-6b0d-4175-b77f-1bb59adbd19b",
     "venue_name": "AmeriCenter of Livonia",
-    "latitude": 42.40993881225586,
-    "longitude": -83.4295654296875,
+    "latitude": 42.409939,
+    "longitude": -83.429565,
     "reservations": 5,
     "spend": 1050.0
+  },
+  {
+    "venue_id": "4d69c82d-640d-4073-9ca8-c757fb37ad8b",
+    "venue_name": "Jadigo Office",
+    "latitude": 42.381096,
+    "longitude": -83.408424,
+    "reservations": 1,
+    "spend": 78.0
   }
 ]

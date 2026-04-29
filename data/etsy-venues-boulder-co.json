@@ -2,17 +2,33 @@
   {
     "venue_id": "4681c910-6adf-4bf4-8a2e-2570211a0565",
     "venue_name": "Regus | CO, Boulder - Center Green Dr",
-    "latitude": 40.03109359741211,
-    "longitude": -105.24655151367188,
+    "latitude": 40.031094,
+    "longitude": -105.246552,
     "reservations": 3,
     "spend": 180.17
   },
   {
+    "venue_id": "a630b459-4cb6-4592-a3f2-0ba9468d5fb6",
+    "venue_name": "Regus | Downtown Boulder",
+    "latitude": 40.019501,
+    "longitude": -105.277,
+    "reservations": 1,
+    "spend": 159.76
+  },
+  {
     "venue_id": "98e8a00b-7df1-4bea-be2c-d8ee7cf2787b",
     "venue_name": "Office Evolution - Boulder",
-    "latitude": 40.0217399597168,
-    "longitude": -105.24072265625,
+    "latitude": 40.02174,
+    "longitude": -105.240723,
     "reservations": 2,
     "spend": 63.0
+  },
+  {
+    "venue_id": "c5845ed8-2f22-453e-8c17-dc0fa5ad0202",
+    "venue_name": "WeWork | Canyon 28",
+    "latitude": 40.017635,
+    "longitude": -105.259033,
+    "reservations": 1,
+    "spend": 45.0
   }
 ]

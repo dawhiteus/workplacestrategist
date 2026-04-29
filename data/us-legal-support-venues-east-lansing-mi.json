@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "725814d1-b672-4d34-9b62-4313c53a8d63",
+    "venue_name": "HQ | MI, East Lansing - Grand River",
+    "latitude": 42.734623,
+    "longitude": -84.480263,
+    "reservations": 1,
+    "spend": 367.5
+  },
+  {
+    "venue_id": "a28fa76e-ad5e-4c42-b304-88587cb2ff4a",
+    "venue_name": "Regus | East Lansing ‚Äì Lake Lansing",
+    "latitude": 42.766178,
+    "longitude": -84.510529,
+    "reservations": 1,
+    "spend": 261.6
+  }
+]

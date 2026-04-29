@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "45fd4448-45f9-4cf6-8270-f34796a3008f",
+    "venue_name": "Regus | Aichi, Kariya (Open Office)",
+    "latitude": 34.987648,
+    "longitude": 137.00708,
+    "reservations": 8,
+    "spend": 316.36
+  },
+  {
+    "venue_id": "8d70962a-14d2-42d2-8d87-c8bb2e20a1a0",
+    "venue_name": "Regus | Aichi, Toyota (Open Office)",
+    "latitude": 35.088032,
+    "longitude": 137.15242,
+    "reservations": 3,
+    "spend": 130.52
+  }
+]

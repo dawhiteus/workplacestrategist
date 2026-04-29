@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8227efc4-9911-4543-a08a-d72163fa01c4",
+    "venue_name": "Harbor + Union",
+    "latitude": 35.933254,
+    "longitude": -86.861282,
+    "reservations": 1,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "1b88e6de-f5bd-41d3-b10f-e2b4dbb8171e",
+    "venue_name": "e|spaces Franklin Square",
+    "latitude": 35.925331,
+    "longitude": -86.868286,
+    "reservations": 2,
+    "spend": 480.0
+  }
+]

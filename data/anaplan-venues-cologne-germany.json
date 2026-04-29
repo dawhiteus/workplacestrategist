@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "49a6bf02-07ee-4b70-831b-065c92d3e11b",
+    "venue_name": "Signature | Cologne, KolnTurm",
+    "latitude": 50.948242,
+    "longitude": 6.942993,
+    "reservations": 2,
+    "spend": 329.69
+  },
+  {
+    "venue_id": "7ec637d2-d389-4eaf-9b3c-ebaf13b0e777",
+    "venue_name": "Regus | Cologne, Kranhaus 1",
+    "latitude": 50.927395,
+    "longitude": 6.965574,
+    "reservations": 1,
+    "spend": 204.9
+  },
+  {
+    "venue_id": "a46cb436-d810-43b0-8b94-17cdb9ee64b9",
+    "venue_name": "Regus | COLOGNE, Neumarkt Galerie",
+    "latitude": 50.93713,
+    "longitude": 6.947899,
+    "reservations": 1,
+    "spend": 45.93
+  }
+]

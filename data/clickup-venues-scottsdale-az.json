@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4ba07d74-7464-4dd3-a1ee-352b5942b2ed",
+    "venue_name": "Regus | Scottsdale Financial Center III",
+    "latitude": 33.495098,
+    "longitude": -111.924004,
+    "reservations": 1,
+    "spend": 119.0
+  },
+  {
+    "venue_id": "14f2bb12-12fe-41ed-8d6b-69e33175c026",
+    "venue_name": "SPACES | Old Town Scottsdale",
+    "latitude": 33.500401,
+    "longitude": -111.925003,
+    "reservations": 2,
+    "spend": 117.81
+  }
+]

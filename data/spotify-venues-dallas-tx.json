@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "dfb8c7e0-378f-4468-a57d-ca23da35c53b",
+    "venue_name": "(TCV) Two Turtle Creek",
+    "latitude": 32.814705,
+    "longitude": -96.801353,
+    "reservations": 2,
+    "spend": 900.0
+  },
+  {
+    "venue_id": "381600dc-64f7-4273-8a57-65d55bca811c",
+    "venue_name": "Regus | Highland Park Place",
+    "latitude": 32.821999,
+    "longitude": -96.789497,
+    "reservations": 1,
+    "spend": 295.0
+  },
+  {
+    "venue_id": "bdabe831-94b0-4710-ad67-371b54edb4d7",
+    "venue_name": "Venture X | Dallas by the Galleria",
+    "latitude": 32.933678,
+    "longitude": -96.817162,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "06ee9527-f27f-43fe-ae6a-ba36003a0000",
+    "venue_name": "Flex at The Gild",
+    "latitude": 32.863899,
+    "longitude": -96.769119,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

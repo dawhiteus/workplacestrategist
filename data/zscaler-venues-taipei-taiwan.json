@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0419f178-40e4-4905-8584-9e2423b2513f",
+    "venue_name": "Regus | Taipei, Landmark",
+    "latitude": 25.040545,
+    "longitude": 121.566788,
+    "reservations": 35,
+    "spend": 9243.64
+  },
+  {
+    "venue_id": "c8250901-49a5-46a4-a8b6-228f36deac1e",
+    "venue_name": "HQ | Taipei, Yangde Building",
+    "latitude": 25.052502,
+    "longitude": 121.537949,
+    "reservations": 1,
+    "spend": 14.11
+  }
+]

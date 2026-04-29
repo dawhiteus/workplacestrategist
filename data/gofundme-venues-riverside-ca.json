@@ -2,9 +2,17 @@
   {
     "venue_id": "f1dd867d-e856-407a-af35-fc57f1a47722",
     "venue_name": "Via Avalon",
-    "latitude": 33.94329833984375,
-    "longitude": -117.39204406738281,
+    "latitude": 33.943298,
+    "longitude": -117.392044,
     "reservations": 8,
     "spend": 1120.0
+  },
+  {
+    "venue_id": "6841299b-5fcf-4427-9849-2d64e47adb3f",
+    "venue_name": "Jurupa Valley Executive Suites",
+    "latitude": 33.978317,
+    "longitude": -117.461868,
+    "reservations": 1,
+    "spend": 120.0
   }
 ]

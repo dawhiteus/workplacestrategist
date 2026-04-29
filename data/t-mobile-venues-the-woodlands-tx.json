@@ -1,10 +1,26 @@
 [
   {
+    "venue_id": "bfb95313-b5eb-426d-98c8-3e684c539ae1",
+    "venue_name": "Lucid Private Offices | The Woodlands",
+    "latitude": 30.157499,
+    "longitude": -95.469345,
+    "reservations": 1,
+    "spend": 425.0
+  },
+  {
     "venue_id": "0453472f-c9a5-406e-b9de-48891180c9f9",
     "venue_name": "Regus | Market Street",
-    "latitude": 30.163497924804688,
-    "longitude": -95.46305084228516,
+    "latitude": 30.163498,
+    "longitude": -95.463051,
     "reservations": 2,
     "spend": 414.0
+  },
+  {
+    "venue_id": "698db06f-fe67-456c-8f5d-978f1f7a6a9f",
+    "venue_name": "The Woodlands Office Suites",
+    "latitude": 30.167009,
+    "longitude": -95.463341,
+    "reservations": 1,
+    "spend": 319.0
   }
 ]

@@ -2,17 +2,41 @@
   {
     "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
     "venue_name": "Carr Workplaces - Aon Center",
-    "latitude": 41.885284423828125,
-    "longitude": -87.62151336669922,
+    "latitude": 41.885284,
+    "longitude": -87.621513,
     "reservations": 6,
     "spend": 4380.0
   },
   {
+    "venue_id": "5a9407ec-0cd4-420b-816a-06845bdf8163",
+    "venue_name": "Regus | 401 North Michigan",
+    "latitude": 41.889576,
+    "longitude": -87.623085,
+    "reservations": 1,
+    "spend": 497.0
+  },
+  {
     "venue_id": "1bb8484d-f72f-4f39-a55c-23498f14ed24",
     "venue_name": "WeWork | 515 N State",
-    "latitude": 41.891422271728516,
-    "longitude": -87.62734985351562,
+    "latitude": 41.891422,
+    "longitude": -87.62735,
     "reservations": 8,
     "spend": 376.0
+  },
+  {
+    "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
+    "venue_name": "HUB116 - River North",
+    "latitude": 41.890244,
+    "longitude": -87.631897,
+    "reservations": 1,
+    "spend": 350.0
+  },
+  {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890648,
+    "longitude": -87.626839,
+    "reservations": 1,
+    "spend": 100.0
   }
 ]

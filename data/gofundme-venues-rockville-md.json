@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "33a0c700-7d2d-4a46-b8bb-7ab97bd3ebac",
+    "venue_name": "TKO Suites Rockville",
+    "latitude": 39.066246,
+    "longitude": -77.128563,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "bea6c0d3-13c6-465d-8852-b85beee5c147",
+    "venue_name": "Launch Workplaces Rockville",
+    "latitude": 39.064293,
+    "longitude": -77.16011,
+    "reservations": 1,
+    "spend": 20.0
+  }
+]

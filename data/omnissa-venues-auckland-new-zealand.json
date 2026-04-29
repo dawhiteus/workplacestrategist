@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "e8291d4d-f4e2-481d-9c74-b664cc12cbc6",
+    "venue_name": "Regus | AUCKLAND, 21 Queen Street",
+    "latitude": -36.84407,
+    "longitude": 174.766724,
+    "reservations": 2,
+    "spend": 175.32
+  },
+  {
+    "venue_id": "c6e59afa-5890-42c5-a20e-ee755a00fe5b",
+    "venue_name": "Regus | Auckland 61 Constellation Drive",
+    "latitude": -36.749832,
+    "longitude": 174.729965,
+    "reservations": 1,
+    "spend": 113.68
+  },
+  {
+    "venue_id": "be7d011f-f509-4d5c-8d51-7590ca80ad43",
+    "venue_name": "Regus | Mount Wellington, Sylvia Park",
+    "latitude": -36.914436,
+    "longitude": 174.839218,
+    "reservations": 1,
+    "spend": 79.63
+  }
+]

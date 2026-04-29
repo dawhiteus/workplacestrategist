@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "bade11c4-fe33-4df1-8828-32d3d001e22d",
+    "venue_name": "Intelligent Office - Columbus",
+    "latitude": 39.958729,
+    "longitude": -82.997673,
+    "reservations": 1,
+    "spend": 240.0
+  },
+  {
+    "venue_id": "256880a2-5011-4fc5-ac51-da6955619a0c",
+    "venue_name": "THRIVE | Columbus",
+    "latitude": 39.960777,
+    "longitude": -83.013535,
+    "reservations": 1,
+    "spend": 70.0
+  }
+]

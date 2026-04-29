@@ -2,41 +2,113 @@
   {
     "venue_id": "69eadbe5-702b-4405-ad25-3b39d7b218d2",
     "venue_name": "Carr Workplaces - Aon Center",
-    "latitude": 41.885284423828125,
-    "longitude": -87.62151336669922,
+    "latitude": 41.885284,
+    "longitude": -87.621513,
     "reservations": 50,
     "spend": 4440.0
   },
   {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505,
+    "longitude": -87.634575,
+    "reservations": 2,
+    "spend": 1875.0
+  },
+  {
     "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
     "venue_name": "Working From_",
-    "latitude": 41.88585662841797,
-    "longitude": -87.64905548095703,
+    "latitude": 41.885857,
+    "longitude": -87.649055,
     "reservations": 62,
     "spend": 1860.0
   },
   {
     "venue_id": "549966a2-ad66-4a1e-994e-a81fe9d3ae1e",
     "venue_name": "HUB116 - River North",
-    "latitude": 41.89024353027344,
-    "longitude": -87.63189697265625,
+    "latitude": 41.890244,
+    "longitude": -87.631897,
     "reservations": 9,
     "spend": 1463.0
   },
   {
     "venue_id": "348a8f66-fb0f-4cb6-bc3b-9c03a0fec9d0",
     "venue_name": "Office Evolution - Chicago/ O'Hare",
-    "latitude": 41.98590087890625,
-    "longitude": -87.84526062011719,
+    "latitude": 41.985901,
+    "longitude": -87.845261,
     "reservations": 10,
     "spend": 1079.0
   },
   {
     "venue_id": "fbd8397a-5479-41e4-b44a-fd33ad5fa59e",
     "venue_name": "350 Coworking | 350 N. Orleans",
-    "latitude": 41.888038635253906,
-    "longitude": -87.63765716552734,
+    "latitude": 41.888039,
+    "longitude": -87.637657,
     "reservations": 6,
     "spend": 390.0
+  },
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944,
+    "longitude": -87.636009,
+    "reservations": 2,
+    "spend": 230.0
+  },
+  {
+    "venue_id": "0238e282-8f92-425a-b950-354cd9718962",
+    "venue_name": "Regus | Hyde Park",
+    "latitude": 41.802052,
+    "longitude": -87.589088,
+    "reservations": 1,
+    "spend": 101.0
+  },
+  {
+    "venue_id": "1bb8484d-f72f-4f39-a55c-23498f14ed24",
+    "venue_name": "WeWork | 515 N State",
+    "latitude": 41.891422,
+    "longitude": -87.62735,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890648,
+    "longitude": -87.626839,
+    "reservations": 2,
+    "spend": 55.0
+  },
+  {
+    "venue_id": "14d256c9-8a0d-40a7-8d5d-93a483e1e731",
+    "venue_name": "Expansive - The Loop",
+    "latitude": 41.880531,
+    "longitude": -87.63028,
+    "reservations": 1,
+    "spend": 49.0
+  },
+  {
+    "venue_id": "edf0548a-07d1-49ca-b642-b09a0ab1fe19",
+    "venue_name": "Workbox Magnificent Mile",
+    "latitude": 41.889839,
+    "longitude": -87.6269,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "0f6b3b8c-534b-4b7d-a349-8dbe72e91adc",
+    "venue_name": "Workbox Union Station",
+    "latitude": 41.879162,
+    "longitude": -87.643929,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "6ec7f4f0-010e-4aa2-83db-08fc5aea5bd8",
+    "venue_name": "Industrious - Fulton Market",
+    "latitude": 41.885071,
+    "longitude": -87.654167,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

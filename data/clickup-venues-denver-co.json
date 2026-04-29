@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "947cf0f4-5dd0-405d-bb49-78bc68dd8e30",
+    "venue_name": "SPACES | Denver - Ballpark",
+    "latitude": 39.757561,
+    "longitude": -104.990601,
+    "reservations": 1,
+    "spend": 129.0
+  },
+  {
+    "venue_id": "ec9acc42-ec98-41f4-a58f-a131d49083ed",
+    "venue_name": "WeWork | Wells Fargo Center",
+    "latitude": 39.743637,
+    "longitude": -104.985443,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "c1ca6830-86b1-446e-8486-4a12ee7ab1da",
+    "venue_name": "Shift Workspaces | Bannock",
+    "latitude": 39.73222,
+    "longitude": -104.990662,
+    "reservations": 1,
+    "spend": 32.0
+  },
+  {
+    "venue_id": "f19bdf9b-2388-43af-aba2-08ab0d1fe1bc",
+    "venue_name": "Candy Factory Coworking",
+    "latitude": 39.746292,
+    "longitude": -104.995491,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

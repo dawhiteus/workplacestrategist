@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ecc9eb17-9a1d-49a1-8ab1-eb99012fa607",
+    "venue_name": "Runway Workspaces (formerly SmartSpace)",
+    "latitude": 39.751221,
+    "longitude": -104.889862,
+    "reservations": 2,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "d8afe4ce-6d70-4d19-93ca-b403fd7e53c6",
+    "venue_name": "Venture X | Denver North",
+    "latitude": 39.753468,
+    "longitude": -104.979317,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "6dec1a18-4016-4954-af3b-e21d74ac2f28",
+    "venue_name": "Thrive Workplace @ Ballpark",
+    "latitude": 39.756802,
+    "longitude": -104.989906,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

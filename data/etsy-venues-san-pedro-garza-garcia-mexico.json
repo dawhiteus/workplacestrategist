@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5aefc126-f60e-4e45-a5ad-da2c4155e769",
+    "venue_name": "IOS OFFICES | Real San Agustin",
+    "latitude": 25.648045,
+    "longitude": -100.333061,
+    "reservations": 1,
+    "spend": 21.81
+  },
+  {
+    "venue_id": "8a3624bc-1ea3-428d-8694-a2be4680deec",
+    "venue_name": "IOS OFFICES | KOI",
+    "latitude": 25.642805,
+    "longitude": -100.321465,
+    "reservations": 1,
+    "spend": 19.68
+  }
+]

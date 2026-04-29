@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "2383a89d-a028-4be0-81ed-da8dbf801263",
+    "venue_name": "SPACES | Berlin Prenzlauer Berg",
+    "latitude": 52.530148,
+    "longitude": 13.425276,
+    "reservations": 3,
+    "spend": 866.64
+  },
+  {
+    "venue_id": "8fd0d8b4-2bef-4bd1-ba44-d867f2e7ebe9",
+    "venue_name": "Regus | Berlin Alexanderplatz",
+    "latitude": 52.52079,
+    "longitude": 13.4113,
+    "reservations": 1,
+    "spend": 299.01
+  }
+]

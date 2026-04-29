@@ -2,6 +2,7 @@
   {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 42,
     "total_spend": 2890.0,
     "venues": 11,
@@ -10,6 +11,7 @@
   {
     "city": "Atlanta",
     "state": "GA",
+    "country": "US",
     "reservations": 16,
     "total_spend": 1684.0,
     "venues": 5,
@@ -18,6 +20,7 @@
   {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 27,
     "total_spend": 1434.0,
     "venues": 13,
@@ -26,6 +29,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 7,
     "total_spend": 1265.0,
     "venues": 5,
@@ -34,6 +38,7 @@
   {
     "city": "Baltimore",
     "state": "MD",
+    "country": "US",
     "reservations": 11,
     "total_spend": 840.0,
     "venues": 2,
@@ -42,6 +47,7 @@
   {
     "city": "Upper Saint Clair",
     "state": "PA",
+    "country": "US",
     "reservations": 23,
     "total_spend": 810.0,
     "venues": 1,
@@ -50,6 +56,7 @@
   {
     "city": "Sandy Springs",
     "state": "GA",
+    "country": "US",
     "reservations": 11,
     "total_spend": 550.0,
     "venues": 1,
@@ -58,6 +65,7 @@
   {
     "city": "Seattle",
     "state": "WA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 467.0,
     "venues": 2,
@@ -66,6 +74,7 @@
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 5,
     "total_spend": 390.03,
     "venues": 3,
@@ -74,6 +83,7 @@
   {
     "city": "Los Angeles",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 245.0,
     "venues": 3,
@@ -82,6 +92,7 @@
   {
     "city": "Beachwood",
     "state": "OH",
+    "country": "US",
     "reservations": 4,
     "total_spend": 120.0,
     "venues": 1,
@@ -90,6 +101,7 @@
   {
     "city": "Philadelphia",
     "state": "PA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 100.0,
     "venues": 2,

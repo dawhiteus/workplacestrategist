@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "6c0c3627-167f-4f65-b618-40d08f7a36a3",
+    "venue_name": "Office Evolution - Folsom",
+    "latitude": 38.64378,
+    "longitude": -121.142525,
+    "reservations": 2,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "e27e0f39-ba87-4b14-b630-5426f142b41a",
+    "venue_name": "Business Central Folsom",
+    "latitude": 38.657059,
+    "longitude": -121.186783,
+    "reservations": 1,
+    "spend": 250.0
+  }
+]

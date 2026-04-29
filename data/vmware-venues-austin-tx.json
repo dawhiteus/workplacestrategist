@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "de3ed332-a021-44f3-89dc-473da893654d",
+    "venue_name": "fibercove",
+    "latitude": 30.251471,
+    "longitude": -97.766937,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "ffcf6a7a-a6f2-465b-a6ad-5c3713ced2ab",
+    "venue_name": "Executive Workspace| West Austin",
+    "latitude": 30.306797,
+    "longitude": -97.826683,
+    "reservations": 1,
+    "spend": 275.0
+  }
+]

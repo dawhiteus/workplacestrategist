@@ -2,9 +2,17 @@
   {
     "venue_id": "93a1e347-d2e6-4939-826b-b2b2ac887d8f",
     "venue_name": "Alloy 26",
-    "latitude": 40.4499626159668,
-    "longitude": -80.00527954101562,
+    "latitude": 40.449963,
+    "longitude": -80.00528,
     "reservations": 6,
     "spend": 210.0
+  },
+  {
+    "venue_id": "ae8fb32a-1efa-4342-946f-63ef379f8b76",
+    "venue_name": "Regus | One Oxford",
+    "latitude": 40.438217,
+    "longitude": -79.99868,
+    "reservations": 1,
+    "spend": 30.63
   }
 ]

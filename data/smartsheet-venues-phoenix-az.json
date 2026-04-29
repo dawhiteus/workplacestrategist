@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8b1b43ff-8c7a-4cc8-aeb5-f0ddaab1dc8a",
+    "venue_name": "Expansive - Midtown",
+    "latitude": 33.479973,
+    "longitude": -112.074509,
+    "reservations": 2,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "7a5c23e9-5775-4577-a285-b4373cfbf6b1",
+    "venue_name": "SPACES | One Renaissance Tower",
+    "latitude": 33.448502,
+    "longitude": -112.073997,
+    "reservations": 2,
+    "spend": 602.0
+  }
+]

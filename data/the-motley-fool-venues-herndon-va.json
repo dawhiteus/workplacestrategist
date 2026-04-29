@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "18d7b8ee-161e-42d3-b7fd-8cc881d5ca89",
+    "venue_name": "Regus | Dulles Corner",
+    "latitude": 38.953587,
+    "longitude": -77.424713,
+    "reservations": 2,
+    "spend": 64.69
+  },
+  {
+    "venue_id": "0e0f67fe-b10c-4ac9-be1e-549a98df0eba",
+    "venue_name": "Metro Offices - Dulles/Herndon",
+    "latitude": 38.953209,
+    "longitude": -77.401497,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

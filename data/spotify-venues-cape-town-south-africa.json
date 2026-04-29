@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d13f7071-d68d-40c8-ab9d-f752b4cf0096",
+    "venue_name": "AfricaWorks Cape Town",
+    "latitude": -33.917774,
+    "longitude": 18.422165,
+    "reservations": 1,
+    "spend": 79.04
+  },
+  {
+    "venue_id": "a0b7d013-0e1c-45eb-a9f2-b6c30a7eb5b6",
+    "venue_name": "Regus | Cape Town Dock Road Junction",
+    "latitude": -33.914688,
+    "longitude": 18.422695,
+    "reservations": 1,
+    "spend": 30.81
+  }
+]

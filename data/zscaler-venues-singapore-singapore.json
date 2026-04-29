@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "3fd62e7c-d54b-45d6-8f06-a96e6d47dae1",
+    "venue_name": "Regus | Singapore Wisma Atria",
+    "latitude": 1.303793,
+    "longitude": 103.83316,
+    "reservations": 1,
+    "spend": 179.75
+  },
+  {
+    "venue_id": "90072ca8-8d6a-402c-8c11-abc9f89b8502",
+    "venue_name": "Regus | Singapore One Raffles Place Tower 2",
+    "latitude": 1.28448,
+    "longitude": 103.850998,
+    "reservations": 1,
+    "spend": 124.53
+  },
+  {
+    "venue_id": "b1dc8953-2979-4ec4-a431-e63317eebc3c",
+    "venue_name": "City Hall | Funan Mall",
+    "latitude": 1.291477,
+    "longitude": 103.8498,
+    "reservations": 1,
+    "spend": 38.3
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "437b5fba-b54e-4799-b274-e6002ae46b55",
+    "venue_name": "Iconic Offices | The Lennox Building",
+    "latitude": 53.331272,
+    "longitude": -6.264559,
+    "reservations": 2,
+    "spend": 1019.23
+  },
+  {
+    "venue_id": "dfa20577-ce99-484c-90e3-c233321c4daa",
+    "venue_name": "WeWork | Dublin Charlemont Exchange",
+    "latitude": 53.331062,
+    "longitude": -6.260553,
+    "reservations": 1,
+    "spend": 441.21
+  },
+  {
+    "venue_id": "836347e4-3d44-4274-95f5-027c94aad538",
+    "venue_name": "Regus | Dublin, 2 Harcourt",
+    "latitude": 53.33284,
+    "longitude": -6.263881,
+    "reservations": 1,
+    "spend": 403.79
+  },
+  {
+    "venue_id": "15dec247-8f06-45dd-a0e0-b8813e4daf0a",
+    "venue_name": "Iconic Offices | South Point",
+    "latitude": 53.341202,
+    "longitude": -6.244351,
+    "reservations": 2,
+    "spend": 255.36
+  },
+  {
+    "venue_id": "377318b3-c690-4718-a979-4530d8842f52",
+    "venue_name": "Regus | Dublin, 2 Pembroke House",
+    "latitude": 53.335278,
+    "longitude": -6.253977,
+    "reservations": 1,
+    "spend": 165.68
+  },
+  {
+    "venue_id": "1a9acb23-73f2-4182-9e16-ec7ff3ef3f83",
+    "venue_name": "Iconic Offices | The Greenway",
+    "latitude": 53.336952,
+    "longitude": -6.259999,
+    "reservations": 3,
+    "spend": 110.17
+  },
+  {
+    "venue_id": "5c532779-0294-4984-a24c-702b045b77b3",
+    "venue_name": "The Tara Building",
+    "latitude": 53.346889,
+    "longitude": -6.255342,
+    "reservations": 2,
+    "spend": 81.2
+  }
+]

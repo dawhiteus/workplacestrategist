@@ -2,9 +2,17 @@
   {
     "venue_id": "cda2c1c5-d989-4afd-9d3b-c078e8914ddf",
     "venue_name": "Colab Space",
-    "latitude": 33.672916412353516,
-    "longitude": -117.86277770996094,
+    "latitude": 33.672916,
+    "longitude": -117.862778,
     "reservations": 4,
     "spend": 2320.0
+  },
+  {
+    "venue_id": "9a88f254-ec07-4af2-840c-336a13d3d5ec",
+    "venue_name": "(AES) Airport Executive Suites ",
+    "latitude": 33.680122,
+    "longitude": -117.855217,
+    "reservations": 1,
+    "spend": 520.0
   }
 ]

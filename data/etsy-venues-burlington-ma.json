@@ -2,9 +2,17 @@
   {
     "venue_id": "e0c512af-695b-444e-96b0-daac1a9df9cb",
     "venue_name": "Workbar Burlington",
-    "latitude": 42.47618865966797,
-    "longitude": -71.2154541015625,
+    "latitude": 42.476189,
+    "longitude": -71.215454,
     "reservations": 4,
     "spend": 116.0
+  },
+  {
+    "venue_id": "cf027884-f8bf-4045-b3c4-94e349a0f0da",
+    "venue_name": "Office Evolution - Burlington",
+    "latitude": 42.487495,
+    "longitude": -71.197342,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

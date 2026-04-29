@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "3374eff4-26de-432d-bd3e-ab2c642a5e08",
+    "venue_name": "Regus || CA, Novato - Bel Marin Keys Blvd",
+    "latitude": 38.073677,
+    "longitude": -122.537994,
+    "reservations": 1,
+    "spend": 74.64
+  },
+  {
+    "venue_id": "f6719664-b670-4ce1-9704-f93de91f31ad",
+    "venue_name": "Regus || Woodside Novato",
+    "latitude": 38.1045,
+    "longitude": -122.57,
+    "reservations": 1,
+    "spend": 58.0
+  }
+]

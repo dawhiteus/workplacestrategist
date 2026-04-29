@@ -2,25 +2,65 @@
   {
     "venue_id": "39563aea-363c-4efa-b04a-456fbf0ae1c8",
     "venue_name": "Venture X | Durham",
-    "latitude": 35.89724349975586,
-    "longitude": -78.87003326416016,
+    "latitude": 35.897243,
+    "longitude": -78.870033,
     "reservations": 9,
     "spend": 1695.0
   },
   {
     "venue_id": "12e74492-eae7-4f8e-8ef7-a1d87b645c17",
     "venue_name": "WeWork | One City Center",
-    "latitude": 35.995819091796875,
-    "longitude": -78.90138244628906,
+    "latitude": 35.995819,
+    "longitude": -78.901382,
     "reservations": 4,
     "spend": 1123.2
   },
   {
+    "venue_id": "f688fc90-c1f5-4d58-b6ee-e48796698df5",
+    "venue_name": "Towerview Office Suites- Page Creek ",
+    "latitude": 35.882809,
+    "longitude": -78.842239,
+    "reservations": 2,
+    "spend": 945.0
+  },
+  {
     "venue_id": "2599e66d-7013-49f1-8bf9-cfe03b6750e5",
     "venue_name": "Regus | NC, Durham - RTP Meridian",
-    "latitude": 35.911312103271484,
-    "longitude": -78.89999389648438,
+    "latitude": 35.911312,
+    "longitude": -78.899994,
     "reservations": 4,
     "spend": 565.8
+  },
+  {
+    "venue_id": "8c63af41-1dab-49e4-b6fc-8bddf401d4aa",
+    "venue_name": "Regus | Meridian Parkway",
+    "latitude": 35.911312,
+    "longitude": -78.899994,
+    "reservations": 1,
+    "spend": 115.19
+  },
+  {
+    "venue_id": "e2c61dc5-d433-4130-bf30-d7ce935db5c1",
+    "venue_name": "Regus | Durham - 3511 Shannon Road",
+    "latitude": 35.960499,
+    "longitude": -78.954582,
+    "reservations": 1,
+    "spend": 103.55
+  },
+  {
+    "venue_id": "312b2a4b-9b09-4f2c-b695-31eb861d61f1",
+    "venue_name": "SPACES | Durham - Spaces Mangum Street",
+    "latitude": 35.990501,
+    "longitude": -78.901802,
+    "reservations": 1,
+    "spend": 90.75
+  },
+  {
+    "venue_id": "ff59b8aa-6990-4119-9697-f699f9a8b4ba",
+    "venue_name": "Apt CoWork at Heights at Meridian",
+    "latitude": 35.911037,
+    "longitude": -78.90258,
+    "reservations": 2,
+    "spend": 60.0
   }
 ]

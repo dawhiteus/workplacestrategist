@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "02f85422-e89a-4a9c-86d5-e7c80aa989c9",
+    "venue_name": "Signature | Rotterdam, Signature Coolsingel",
+    "latitude": 51.922161,
+    "longitude": 4.478224,
+    "reservations": 1,
+    "spend": 650.04
+  },
+  {
+    "venue_id": "b0d4dd7b-bebd-464b-a1c6-27a75ed9c6f1",
+    "venue_name": "Regus | Rotterdam, Central NS International",
+    "latitude": 51.92458,
+    "longitude": 4.469923,
+    "reservations": 1,
+    "spend": 245.73
+  },
+  {
+    "venue_id": "ae4e9737-8f92-4d6d-b3ba-f34ea5b4512a",
+    "venue_name": "Regus | Rotterdam, City WNA",
+    "latitude": 51.923328,
+    "longitude": 4.474218,
+    "reservations": 1,
+    "spend": 245.47
+  }
+]

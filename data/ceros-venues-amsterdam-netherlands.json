@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "b1ce2db2-88f6-41c0-bb9d-9fc1e8888051",
+    "venue_name": "RIVVIA Keizersgracht 127",
+    "latitude": 52.376301,
+    "longitude": 4.887353,
+    "reservations": 9,
+    "spend": 304.73
+  },
+  {
+    "venue_id": "3eb959aa-a083-4f67-8780-5768f296e2f3",
+    "venue_name": "Buro De Pijp",
+    "latitude": 52.353844,
+    "longitude": 4.890151,
+    "reservations": 5,
+    "spend": 249.15
+  },
+  {
+    "venue_id": "3a08dc87-bf07-4793-867a-1d3169a20048",
+    "venue_name": "StartDock Coworking - Keizersgracht",
+    "latitude": 52.366261,
+    "longitude": 4.885163,
+    "reservations": 1,
+    "spend": 22.23
+  }
+]

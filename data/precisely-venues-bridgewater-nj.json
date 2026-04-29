@@ -2,16 +2,16 @@
   {
     "venue_id": "71d4c797-9059-4c9c-b3fc-edd5d377afb2",
     "venue_name": "Life Time Work - Bridgewater",
-    "latitude": 40.58698654174805,
-    "longitude": -74.62604522705078,
+    "latitude": 40.586987,
+    "longitude": -74.626045,
     "reservations": 7,
     "spend": 505.0
   },
   {
     "venue_id": "44cb7bc5-4b81-4d25-9412-ffcd0fa994f3",
     "venue_name": "Flex 22",
-    "latitude": 40.564090728759766,
-    "longitude": -74.55378723144531,
+    "latitude": 40.564091,
+    "longitude": -74.553787,
     "reservations": 6,
     "spend": 290.0
   }

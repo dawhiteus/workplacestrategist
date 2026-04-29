@@ -1,10 +1,26 @@
 [
   {
+    "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
+    "venue_name": "Nimbler-Spaces - 444 N. Wabash",
+    "latitude": 41.890648,
+    "longitude": -87.626839,
+    "reservations": 2,
+    "spend": 235.0
+  },
+  {
     "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
     "venue_name": "Working From_",
-    "latitude": 41.88585662841797,
-    "longitude": -87.64905548095703,
+    "latitude": 41.885857,
+    "longitude": -87.649055,
     "reservations": 5,
     "spend": 155.0
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.903667,
+    "longitude": -87.631096,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

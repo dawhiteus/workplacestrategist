@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ad06a081-b935-4e06-b317-11464588100f",
+    "venue_name": "SPOT cowork - Rochester",
+    "latitude": 43.157135,
+    "longitude": -77.601379,
+    "reservations": 3,
+    "spend": 795.0
+  },
+  {
+    "venue_id": "f8bf4191-ad9b-4774-96e8-c3d3192095c2",
+    "venue_name": "Serendipity Labs - Rochester - Innovation Square",
+    "latitude": 43.154652,
+    "longitude": -77.604698,
+    "reservations": 1,
+    "spend": 178.0
+  }
+]

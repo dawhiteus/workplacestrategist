@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ef0bdcc7-95f1-41f5-901a-101a2d44cb28",
+    "venue_name": "Office Evolution Clayton",
+    "latitude": 38.646652,
+    "longitude": -90.337914,
+    "reservations": 2,
+    "spend": 528.0
+  },
+  {
+    "venue_id": "09fe40e2-86b0-4fc4-9e76-fe79d1064b31",
+    "venue_name": "WorkWise",
+    "latitude": 38.628799,
+    "longitude": -90.286774,
+    "reservations": 1,
+    "spend": 90.0
+  }
+]

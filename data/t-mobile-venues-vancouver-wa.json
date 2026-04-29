@@ -2,9 +2,25 @@
   {
     "venue_id": "5ea303cd-e440-44ce-b50a-5be7d1a1f590",
     "venue_name": "Regus | 1220 Main Place",
-    "latitude": 45.630615234375,
-    "longitude": -122.6717758178711,
+    "latitude": 45.630615,
+    "longitude": -122.671776,
     "reservations": 4,
     "spend": 587.18
+  },
+  {
+    "venue_id": "4bed3656-8227-4a40-9514-7d17b5fc0eec",
+    "venue_name": "Regus | ELW Building",
+    "latitude": 45.653999,
+    "longitude": -122.595001,
+    "reservations": 1,
+    "spend": 328.8
+  },
+  {
+    "venue_id": "ee94ad95-5969-48e6-8d09-578a8979f1cc",
+    "venue_name": "Regus || Vancouver - NE 136th Ave",
+    "latitude": 45.626171,
+    "longitude": -122.53299,
+    "reservations": 1,
+    "spend": 99.0
   }
 ]

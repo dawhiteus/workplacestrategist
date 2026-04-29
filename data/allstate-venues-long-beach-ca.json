@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ab0b0f4b-74c7-479c-83a9-cea827d4d22a",
+    "venue_name": "Bixby Business Center",
+    "latitude": 33.83691,
+    "longitude": -118.185364,
+    "reservations": 1,
+    "spend": 750.0
+  },
+  {
+    "venue_id": "792bd408-584c-47c2-bd84-b40bf4a7b371",
+    "venue_name": "(LBP) 444 W Ocean",
+    "latitude": 33.766708,
+    "longitude": -118.197601,
+    "reservations": 1,
+    "spend": 66.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "aca2a7c5-d026-49c1-8f85-e85bd15a3ce6",
+    "venue_name": "Regus | Belfast City Centre",
+    "latitude": 54.5956,
+    "longitude": -5.92354,
+    "reservations": 2,
+    "spend": 134.2
+  },
+  {
+    "venue_id": "de75eb7e-68ce-4368-a4bf-c70f94635ffe",
+    "venue_name": "Regus | Belfast, Cathedral Quarter",
+    "latitude": 54.600201,
+    "longitude": -5.92775,
+    "reservations": 1,
+    "spend": 89.63
+  }
+]

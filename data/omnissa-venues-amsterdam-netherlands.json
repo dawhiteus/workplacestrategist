@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "4ac86506-8ca3-406f-a232-30ef12941d94",
+    "venue_name": "SPACES | Amsterdam Herengracht 124-128",
+    "latitude": 52.375702,
+    "longitude": 4.88837,
+    "reservations": 3,
+    "spend": 1052.49
+  },
+  {
+    "venue_id": "3eb959aa-a083-4f67-8780-5768f296e2f3",
+    "venue_name": "Buro De Pijp",
+    "latitude": 52.353844,
+    "longitude": 4.890151,
+    "reservations": 2,
+    "spend": 780.31
+  },
+  {
+    "venue_id": "e5ff765c-9b5c-4691-9436-639a031acdc9",
+    "venue_name": "Regus | Amsterdam Kraanspoor 50",
+    "latitude": 52.403854,
+    "longitude": 4.886369,
+    "reservations": 1,
+    "spend": 423.61
+  },
+  {
+    "venue_id": "625d045b-cc1e-4c01-9301-4afb781ae4c0",
+    "venue_name": "Regus | Amsterdam Laarderhoogtweg 25",
+    "latitude": 52.301502,
+    "longitude": 4.94687,
+    "reservations": 2,
+    "spend": 369.84
+  },
+  {
+    "venue_id": "cf931c55-f6cd-4aae-bca4-d3b48b07f5fd",
+    "venue_name": "Regus | Amsterdam Arena Business Park",
+    "latitude": 52.306931,
+    "longitude": 4.94187,
+    "reservations": 1,
+    "spend": 257.68
+  },
+  {
+    "venue_id": "c81405c7-4389-4e55-ae72-fbb5e8bd149e",
+    "venue_name": "SPACES | Amsterdam Keizersqracht 555",
+    "latitude": 52.364582,
+    "longitude": 4.889861,
+    "reservations": 1,
+    "spend": 15.89
+  }
+]

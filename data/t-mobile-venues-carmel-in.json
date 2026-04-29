@@ -2,17 +2,33 @@
   {
     "venue_id": "63e681e4-e0ec-40d7-a4d2-4e85bdb5a0a2",
     "venue_name": "Serendipity Labs Carmel",
-    "latitude": 39.97439193725586,
-    "longitude": -86.12930297851562,
+    "latitude": 39.974392,
+    "longitude": -86.129303,
     "reservations": 7,
     "spend": 4941.0
   },
   {
+    "venue_id": "861bec78-2f06-4986-b3ec-026608a22cb1",
+    "venue_name": "Industrious - Carmel City Center - 750 Veterans Way",
+    "latitude": 39.969543,
+    "longitude": -86.128502,
+    "reservations": 1,
+    "spend": 1485.5
+  },
+  {
     "venue_id": "466c126e-7d9f-4043-a0c4-ac5f0bb0fedc",
     "venue_name": "Office Evolution - Carmel",
-    "latitude": 39.960391998291016,
-    "longitude": -86.14946746826172,
+    "latitude": 39.960392,
+    "longitude": -86.149467,
     "reservations": 5,
     "spend": 765.0
+  },
+  {
+    "venue_id": "f4775df5-1e59-479e-85b1-822a417cf602",
+    "venue_name": "COhatch - Carmel",
+    "latitude": 39.978668,
+    "longitude": -86.126099,
+    "reservations": 1,
+    "spend": 120.0
   }
 ]

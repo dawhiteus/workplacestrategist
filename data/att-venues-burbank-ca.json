@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5b4f4324-fbfa-43c1-925a-82ec38b6a53e",
+    "venue_name": "The Muse Rooms Toluca Lake Barham",
+    "latitude": 34.143768,
+    "longitude": -118.340843,
+    "reservations": 1,
+    "spend": 730.0
+  },
+  {
+    "venue_id": "19fbd862-ab96-4eb4-92e8-701d48e5a47e",
+    "venue_name": "Barrister Executive Suites | Burbank",
+    "latitude": 34.152542,
+    "longitude": -118.337952,
+    "reservations": 1,
+    "spend": 175.0
+  }
+]

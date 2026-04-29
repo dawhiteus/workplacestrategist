@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "26b2a2ab-c964-45b1-8d62-e45aafcc1fa3",
+    "venue_name": "Regus | CO, Loveland - Foxtrail Drive",
+    "latitude": 40.409752,
+    "longitude": -105.0009,
+    "reservations": 1,
+    "spend": 195.11
+  },
+  {
     "venue_id": "0cdf82b1-5964-4afd-9528-6da844f57451",
     "venue_name": "desk chair",
-    "latitude": 40.395748138427734,
-    "longitude": -105.07432556152344,
+    "latitude": 40.395748,
+    "longitude": -105.074326,
     "reservations": 4,
     "spend": 125.0
   }

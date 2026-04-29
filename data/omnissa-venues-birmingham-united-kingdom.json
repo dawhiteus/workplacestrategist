@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "ac66a30e-3272-4402-b128-8d5a3873b71a",
+    "venue_name": "Landmark | Birmingham Brindleyplace",
+    "latitude": 52.478477,
+    "longitude": -1.913128,
+    "reservations": 1,
+    "spend": 450.37
+  },
+  {
+    "venue_id": "6a4eff3a-4712-49de-b90c-b9631b2e2a89",
+    "venue_name": "Regus | Birmingham Airport",
+    "latitude": 52.453243,
+    "longitude": -1.731368,
+    "reservations": 1,
+    "spend": 258.04
+  },
+  {
+    "venue_id": "8372ceb2-b362-4df1-8f87-02ba7d5ed6e3",
+    "venue_name": "Regus | Birmingham NEC/Airport",
+    "latitude": 52.467262,
+    "longitude": -1.721728,
+    "reservations": 1,
+    "spend": 155.29
+  },
+  {
+    "venue_id": "460ce4a9-6ca4-4064-acfb-f5fcc6b6772c",
+    "venue_name": "SPACES | Birmingham, Lewis Building",
+    "latitude": 52.482235,
+    "longitude": -1.896378,
+    "reservations": 1,
+    "spend": 81.68
+  }
+]

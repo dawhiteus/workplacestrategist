@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8d8df3c2-7a7b-45dd-be4e-7caba98d70ed",
+    "venue_name": "SPACES | ON, Toronto – Spaces The Permanent",
+    "latitude": 43.649612,
+    "longitude": -79.380836,
+    "reservations": 1,
+    "spend": 39.77
+  },
+  {
+    "venue_id": "08f1a564-7631-43b8-981f-388e4e808fa7",
+    "venue_name": "Regus | Bloor and Yonge",
+    "latitude": 43.67028,
+    "longitude": -79.387131,
+    "reservations": 1,
+    "spend": 29.65
+  }
+]

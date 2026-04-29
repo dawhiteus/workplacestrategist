@@ -2,33 +2,49 @@
   {
     "venue_id": "080022c5-6306-4702-b881-fe3098116727",
     "venue_name": "Office Evolution - Greensboro",
-    "latitude": 36.09095001220703,
-    "longitude": -79.81592559814453,
+    "latitude": 36.09095,
+    "longitude": -79.815926,
     "reservations": 36,
     "spend": 6800.0
   },
   {
     "venue_id": "33837483-bfe0-42cd-a496-0a48ad2268c5",
     "venue_name": "Venture X | Greensboro",
-    "latitude": 36.090187072753906,
-    "longitude": -79.82506561279297,
+    "latitude": 36.090187,
+    "longitude": -79.825066,
     "reservations": 10,
     "spend": 3608.0
   },
   {
     "venue_id": "a8cb3975-e51d-47dc-a4fd-ecd0d13a0991",
     "venue_name": "Regus | Green Valley Office Park",
-    "latitude": 36.09235763549805,
-    "longitude": -79.82190704345703,
-    "reservations": 8,
-    "spend": 1263.0
+    "latitude": 36.092358,
+    "longitude": -79.821907,
+    "reservations": 9,
+    "spend": 1403.0
   },
   {
     "venue_id": "972a3df9-b7af-43ff-960b-d0f851e06dff",
     "venue_name": "Byron Office Space Solutions-Greensboro Suburban Office",
-    "latitude": 36.12242126464844,
-    "longitude": -79.79427337646484,
+    "latitude": 36.122421,
+    "longitude": -79.794273,
     "reservations": 5,
     "spend": 630.0
+  },
+  {
+    "venue_id": "98b287a0-aaa8-4904-a9dd-7302eadca89b",
+    "venue_name": "THRIVE | Greensboro Lewis",
+    "latitude": 36.065918,
+    "longitude": -79.791389,
+    "reservations": 1,
+    "spend": 390.0
+  },
+  {
+    "venue_id": "66e357bc-5066-44bf-a89e-59f3af2a62e1",
+    "venue_name": "Regus | NC, Greensboro - 301 N Elm",
+    "latitude": 36.075508,
+    "longitude": -79.790421,
+    "reservations": 1,
+    "spend": 58.0
   }
 ]

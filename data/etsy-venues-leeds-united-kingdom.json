@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f362826e-606e-4f3e-b723-a55498aba2bd",
+    "venue_name": "Flexico Workspace | Number 32",
+    "latitude": 53.798576,
+    "longitude": -1.550405,
+    "reservations": 2,
+    "spend": 58.74
+  },
+  {
+    "venue_id": "8cbbb182-5f0d-4879-8332-a19bb46f1100",
+    "venue_name": "Wizu Workspace | 55 St Paul's, Leeds",
+    "latitude": 53.798203,
+    "longitude": -1.552921,
+    "reservations": 1,
+    "spend": 22.83
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Cincinnati",
+    "state": "OH",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 4369.0,
+    "venues": 2,
+    "members": 2
+  }
+]

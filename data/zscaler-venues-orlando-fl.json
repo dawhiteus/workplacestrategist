@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "dc636eef-6ae2-40ca-9654-7934252c879d",
+    "venue_name": "Serendipity Labs Orlando - Downtown",
+    "latitude": 28.537056,
+    "longitude": -81.379333,
+    "reservations": 2,
+    "spend": 294.0
+  },
+  {
+    "venue_id": "627caa8c-c0da-495e-b434-e4ed0bfccc6b",
+    "venue_name": "Orlando Office Space",
+    "latitude": 28.42922,
+    "longitude": -81.406219,
+    "reservations": 2,
+    "spend": 280.0
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "4bf41ef2-4221-4bd1-aa49-3a991795a09a",
     "venue_name": "CENTRL Office - Lake Oswego",
-    "latitude": 45.421287536621094,
-    "longitude": -122.66616821289062,
+    "latitude": 45.421288,
+    "longitude": -122.666168,
     "reservations": 11,
     "spend": 740.0
+  },
+  {
+    "venue_id": "ee7ced0b-9cd4-4688-a805-c6b9759f6abf",
+    "venue_name": "Regus | Centerpointe",
+    "latitude": 45.422298,
+    "longitude": -122.740997,
+    "reservations": 1,
+    "spend": 142.31
   }
 ]

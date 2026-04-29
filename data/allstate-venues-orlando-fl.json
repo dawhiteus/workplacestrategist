@@ -1,1 +1,74 @@
-[{"venue_id":"orlando-fl-venue-1","venue_name":"Roam | Orlando Downtown","latitude":28.6245,"longitude":-81.415,"reservations":19,"spend":4966.87},{"venue_id":"orlando-fl-venue-2","venue_name":"CommonGrounds | Orlando North","latitude":28.5844,"longitude":-81.4585,"reservations":16,"spend":4372.78},{"venue_id":"orlando-fl-venue-3","venue_name":"Coda | Orlando West","latitude":28.5693,"longitude":-81.3203,"reservations":7,"spend":1844.34},{"venue_id":"orlando-fl-venue-4","venue_name":"Flex by JLL | Orlando Central","latitude":28.4524,"longitude":-81.2704,"reservations":7,"spend":1796.52},{"venue_id":"orlando-fl-venue-5","venue_name":"Knotel | Orlando East","latitude":28.6219,"longitude":-81.2801,"reservations":5,"spend":1405.23},{"venue_id":"orlando-fl-venue-6","venue_name":"Industrious | Orlando Financial District","latitude":28.5413,"longitude":-81.4375,"reservations":4,"spend":973.98},{"venue_id":"orlando-fl-venue-7","venue_name":"IWG | Orlando Midtown","latitude":28.5591,"longitude":-81.3942,"reservations":2,"spend":500.5},{"venue_id":"orlando-fl-venue-8","venue_name":"Lucid Private Offices | Orlando Uptown","latitude":28.4513,"longitude":-81.4608,"reservations":2,"spend":474.77}]
+[
+  {
+    "venue_id": "d714d621-b214-466e-b2c1-8ea2cb84bf7d",
+    "venue_name": "e|spaces Orlando",
+    "latitude": 28.538706,
+    "longitude": -81.381165,
+    "reservations": 4,
+    "spend": 4445.0
+  },
+  {
+    "venue_id": "d5245fc0-c800-4677-9cd4-e47a5c35ea05",
+    "venue_name": "Coworkers Zone Hunters Creek",
+    "latitude": 28.369251,
+    "longitude": -81.428574,
+    "reservations": 28,
+    "spend": 3825.0
+  },
+  {
+    "venue_id": "a618d4e6-7db4-4573-ada2-9be9795d76a8",
+    "venue_name": "Industrious - Downtown Orlando",
+    "latitude": 28.538769,
+    "longitude": -81.379295,
+    "reservations": 2,
+    "spend": 3240.0
+  },
+  {
+    "venue_id": "dc636eef-6ae2-40ca-9654-7934252c879d",
+    "venue_name": "Serendipity Labs Orlando - Downtown",
+    "latitude": 28.537056,
+    "longitude": -81.379333,
+    "reservations": 19,
+    "spend": 3170.0
+  },
+  {
+    "venue_id": "65fb4656-c5b6-46d1-8f52-a4529f7dcf34",
+    "venue_name": "The Conduit",
+    "latitude": 28.558123,
+    "longitude": -81.378822,
+    "reservations": 2,
+    "spend": 935.0
+  },
+  {
+    "venue_id": "fe7cb8c1-7d06-40a7-8b7b-38d5d0322818",
+    "venue_name": "Venture X | Downtown Orlando",
+    "latitude": 28.541105,
+    "longitude": -81.3769,
+    "reservations": 4,
+    "spend": 645.0
+  },
+  {
+    "venue_id": "24056e0d-1144-4d6e-98e7-4a78c9744231",
+    "venue_name": "Regus | Lake Nona Center",
+    "latitude": 28.372463,
+    "longitude": -81.278725,
+    "reservations": 1,
+    "spend": 475.0
+  },
+  {
+    "venue_id": "a6f8d5c5-c3ab-403b-8a38-156159f2e3a7",
+    "venue_name": "CCLG Workspace Center",
+    "latitude": 28.555557,
+    "longitude": -81.207611,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "217a8d02-18ca-4308-9488-072272b2b399",
+    "venue_name": "YourOffice - Downtown Orlando",
+    "latitude": 28.541023,
+    "longitude": -81.378708,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

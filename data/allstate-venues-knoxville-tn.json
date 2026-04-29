@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "17f13033-9160-495c-9a84-a4da661c7d39",
+    "venue_name": "TKO Suites Knoxville TN",
+    "latitude": 35.923447,
+    "longitude": -84.087257,
+    "reservations": 12,
+    "spend": 2270.0
+  },
+  {
+    "venue_id": "b3b767b9-7a97-4968-a6c9-6c7e51f9246c",
+    "venue_name": "Office Options Meeting Room Facilities",
+    "latitude": 35.922115,
+    "longitude": -84.081299,
+    "reservations": 9,
+    "spend": 825.0
+  },
+  {
+    "venue_id": "e518f7c5-5d26-4297-9c71-10ea27260a27",
+    "venue_name": "MyNextSuite",
+    "latitude": 35.90538,
+    "longitude": -84.122299,
+    "reservations": 1,
+    "spend": 240.0
+  }
+]

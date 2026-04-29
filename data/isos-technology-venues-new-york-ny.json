@@ -2,9 +2,81 @@
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 3,
     "spend": 1640.0
+  },
+  {
+    "venue_id": "c2f6af8f-82d1-4847-b574-4d22d263ec2d",
+    "venue_name": "Nomadworks",
+    "latitude": 40.746521,
+    "longitude": -73.988052,
+    "reservations": 1,
+    "spend": 680.0
+  },
+  {
+    "venue_id": "a2917960-f367-43d6-8c66-d319da1ae72b",
+    "venue_name": "The Farm SoHo",
+    "latitude": 40.720596,
+    "longitude": -74.00148,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "52d81a69-bad3-4148-9fb6-e8684dabc3b5",
+    "venue_name": "WeWork | 1460 Broadway",
+    "latitude": 40.755104,
+    "longitude": -73.986206,
+    "reservations": 1,
+    "spend": 312.0
+  },
+  {
+    "venue_id": "efd19f34-1346-4b80-a52b-e759bd6ecd36",
+    "venue_name": "Corporate Suites: 641 Lexington Ave@54th",
+    "latitude": 40.758831,
+    "longitude": -73.96994,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855,
+    "longitude": -74.00898,
+    "reservations": 1,
+    "spend": 69.0
+  },
+  {
+    "venue_id": "26a0cbfc-d344-4be7-9c4c-2240a9ce16d0",
+    "venue_name": "WeWork | 575 Lexington Avenue",
+    "latitude": 40.757374,
+    "longitude": -73.971504,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "406f9611-22f1-4a90-a67d-b6453652b272",
+    "venue_name": "Jay Suites - Wall Street",
+    "latitude": 40.706264,
+    "longitude": -74.009857,
+    "reservations": 1,
+    "spend": 40.0
+  },
+  {
+    "venue_id": "ca35b5dc-85a2-4e5f-87bf-e065f32d9d63",
+    "venue_name": "Bond Collective 55 Broadway",
+    "latitude": 40.706825,
+    "longitude": -74.013031,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

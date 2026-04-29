@@ -2,41 +2,49 @@
   {
     "venue_id": "4aa0aa63-1c66-426b-9c0c-7d270054a7da",
     "venue_name": "Common Desk - Dallas Arts District",
-    "latitude": 32.787532806396484,
-    "longitude": -96.79916381835938,
+    "latitude": 32.787533,
+    "longitude": -96.799164,
     "reservations": 56,
     "spend": 1400.0
   },
   {
     "venue_id": "133cd726-1477-40ed-81d8-1720892fc5c7",
     "venue_name": "WeWork | 1920 McKinney Ave",
-    "latitude": 32.79012680053711,
-    "longitude": -96.80328369140625,
+    "latitude": 32.790127,
+    "longitude": -96.803284,
     "reservations": 23,
     "spend": 1081.0
   },
   {
     "venue_id": "ec62aaf5-1e33-4e47-85a8-307344f7d15c",
     "venue_name": "Hatchways Victory Park",
-    "latitude": 32.78645706176758,
-    "longitude": -96.8093490600586,
+    "latitude": 32.786457,
+    "longitude": -96.809349,
     "reservations": 24,
     "spend": 720.0
   },
   {
     "venue_id": "b3a8efd8-f528-4c94-8bef-86100b01344f",
     "venue_name": "Common Desk - West End",
-    "latitude": 32.78316879272461,
-    "longitude": -96.80786895751953,
+    "latitude": 32.783169,
+    "longitude": -96.807869,
     "reservations": 23,
     "spend": 575.0
   },
   {
     "venue_id": "55a81b63-e3dc-429e-afb1-081ce444437d",
     "venue_name": "Venture X Dallas - Braniff Center",
-    "latitude": 32.84946823120117,
-    "longitude": -96.84017181396484,
+    "latitude": 32.849468,
+    "longitude": -96.840172,
     "reservations": 4,
     "spend": 160.0
+  },
+  {
+    "venue_id": "6024185c-d5aa-4a5e-ab11-ddc57504ba20",
+    "venue_name": "WeWork | Preston Center",
+    "latitude": 32.86422,
+    "longitude": -96.810204,
+    "reservations": 2,
+    "spend": 94.0
   }
 ]

@@ -2,49 +2,65 @@
   {
     "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
     "venue_name": "Carr Workplaces - Embarcadero Center",
-    "latitude": 37.79469680786133,
-    "longitude": -122.39987182617188,
+    "latitude": 37.794697,
+    "longitude": -122.399872,
     "reservations": 3,
     "spend": 1545.0
   },
   {
     "venue_id": "d5fe14f4-1035-4935-9a57-b472b20703b4",
     "venue_name": "Townsend Enterprises",
-    "latitude": 37.77622604370117,
-    "longitude": -122.3965072631836,
+    "latitude": 37.776226,
+    "longitude": -122.396507,
     "reservations": 2,
     "spend": 1000.0
   },
   {
     "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
     "venue_name": "Pacific Workplaces - San Francisco SOMA",
-    "latitude": 37.79138946533203,
-    "longitude": -122.39215087890625,
+    "latitude": 37.791389,
+    "longitude": -122.392151,
     "reservations": 2,
     "spend": 975.0
   },
   {
     "venue_id": "03dbac2d-0388-4c2b-bd29-f247c6c6e6e4",
     "venue_name": "EcoSystem Coworking",
-    "latitude": 37.78769302368164,
-    "longitude": -122.3973388671875,
+    "latitude": 37.787693,
+    "longitude": -122.397339,
     "reservations": 2,
     "spend": 550.0
   },
   {
     "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
     "venue_name": "WeWork | Salesforce Tower",
-    "latitude": 37.789817810058594,
-    "longitude": -122.39690399169922,
+    "latitude": 37.789818,
+    "longitude": -122.396904,
     "reservations": 3,
     "spend": 246.0
   },
   {
     "venue_id": "b44a4d96-3605-48f9-8446-af17d1e89845",
     "venue_name": "Offix Edge LLC",
-    "latitude": 37.753509521484375,
-    "longitude": -122.48863220214844,
+    "latitude": 37.75351,
+    "longitude": -122.488632,
     "reservations": 4,
     "spend": 86.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.792622,
+    "longitude": -122.398911,
+    "reservations": 1,
+    "spend": 30.0
+  },
+  {
+    "venue_id": "524c0bbc-2c04-4ae5-b9db-a82df3d6f0ad",
+    "venue_name": "William Duff Architects",
+    "latitude": 37.773899,
+    "longitude": -122.411057,
+    "reservations": 1,
+    "spend": 20.0
   }
 ]

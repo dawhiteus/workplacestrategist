@@ -2,9 +2,17 @@
   {
     "venue_id": "3b3d0208-e52b-449d-b02d-4e60e3680066",
     "venue_name": "SPACES | State Street",
-    "latitude": 42.358638763427734,
-    "longitude": -71.05512237548828,
+    "latitude": 42.358639,
+    "longitude": -71.055122,
     "reservations": 3,
     "spend": 1644.66
+  },
+  {
+    "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
+    "venue_name": "Idea Space - Back Bay",
+    "latitude": 42.348598,
+    "longitude": -71.083443,
+    "reservations": 1,
+    "spend": 199.0
   }
 ]

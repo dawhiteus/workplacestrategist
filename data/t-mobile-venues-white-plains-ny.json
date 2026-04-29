@@ -2,9 +2,17 @@
   {
     "venue_id": "ad4d6759-b208-47b8-bc02-7e29f85e182b",
     "venue_name": "Serendipity Labs - White Plains - Downtown",
-    "latitude": 41.031002044677734,
-    "longitude": -73.76178741455078,
+    "latitude": 41.031002,
+    "longitude": -73.761787,
     "reservations": 7,
     "spend": 1185.0
+  },
+  {
+    "venue_id": "2cf30b5a-5ad4-4946-bc52-ff5b62e4c427",
+    "venue_name": "Regus | White Plains",
+    "latitude": 41.031487,
+    "longitude": -73.773659,
+    "reservations": 1,
+    "spend": 708.5
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d7db45ff-307e-4ad5-8dd8-4d3a87a38bb8",
+    "venue_name": "Vintage City Offices",
+    "latitude": 40.665451,
+    "longitude": -74.217316,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "925693a9-937d-479b-bc7a-bef63f33ad7d",
+    "venue_name": "Small Officer - Elizabeth",
+    "latitude": 40.665451,
+    "longitude": -74.217316,
+    "reservations": 1,
+    "spend": 32.0
+  }
+]

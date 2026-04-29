@@ -2,6 +2,7 @@
   {
     "city": "Pearl River",
     "state": "NY",
+    "country": "US",
     "reservations": 19,
     "total_spend": 9520.0,
     "venues": 1,
@@ -10,14 +11,52 @@
   {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 9,
     "total_spend": 7456.8,
     "venues": 3,
     "members": 2
   },
   {
+    "city": "Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 58,
+    "total_spend": 7418.8,
+    "venues": 7,
+    "members": 7
+  },
+  {
+    "city": "London",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 15,
+    "total_spend": 5071.83,
+    "venues": 10,
+    "members": 12
+  },
+  {
+    "city": "Almondsbury",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 15,
+    "total_spend": 4120.68,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Bristol",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 17,
+    "total_spend": 3585.32,
+    "venues": 2,
+    "members": 2
+  },
+  {
     "city": "Fort Lauderdale",
     "state": "FL",
+    "country": "US",
     "reservations": 6,
     "total_spend": 3510.0,
     "venues": 2,
@@ -26,6 +65,7 @@
   {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 8,
     "total_spend": 3278.39,
     "venues": 3,
@@ -34,14 +74,25 @@
   {
     "city": "Columbus",
     "state": "OH",
+    "country": "US",
     "reservations": 10,
     "total_spend": 2700.0,
     "venues": 2,
     "members": 3
   },
   {
+    "city": "Toronto",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 4,
+    "total_spend": 2556.5,
+    "venues": 1,
+    "members": 2
+  },
+  {
     "city": "Washington",
     "state": "DC",
+    "country": "US",
     "reservations": 8,
     "total_spend": 2188.0,
     "venues": 8,
@@ -50,6 +101,7 @@
   {
     "city": "Chicago",
     "state": "IL",
+    "country": "US",
     "reservations": 51,
     "total_spend": 2109.0,
     "venues": 10,
@@ -58,22 +110,52 @@
   {
     "city": "Westerville",
     "state": "OH",
+    "country": "US",
     "reservations": 9,
     "total_spend": 2048.0,
     "venues": 1,
     "members": 2
   },
   {
+    "city": "Brussel",
+    "state": "Belgium",
+    "country": "Belgium",
+    "reservations": 14,
+    "total_spend": 2045.77,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Wrocaw",
+    "state": "Poland",
+    "country": "Poland",
+    "reservations": 78,
+    "total_spend": 2039.26,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Irvine",
     "state": "CA",
+    "country": "US",
     "reservations": 7,
     "total_spend": 2037.0,
     "venues": 2,
     "members": 5
   },
   {
+    "city": "Fitzroy",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 57,
+    "total_spend": 1658.32,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "New York",
     "state": "NY",
+    "country": "US",
     "reservations": 27,
     "total_spend": 1432.0,
     "venues": 13,
@@ -82,38 +164,115 @@
   {
     "city": "Tempe",
     "state": "AZ",
+    "country": "US",
     "reservations": 4,
     "total_spend": 1382.4,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Brussels",
+    "state": "Belgium",
+    "country": "Belgium",
+    "reservations": 6,
+    "total_spend": 1287.63,
+    "venues": 3,
+    "members": 1
+  },
+  {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1229.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Barcelona",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 21,
+    "total_spend": 1159.66,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Edinburgh",
+    "state": "United Kingdom",
+    "country": "United Kingdom",
+    "reservations": 7,
+    "total_spend": 874.1,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Mont Albert",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 21,
+    "total_spend": 835.74,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Sevilla",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 22,
+    "total_spend": 712.17,
+    "venues": 2,
+    "members": 2
+  },
+  {
     "city": "Newport Beach",
     "state": "CA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 630.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Narre Warren",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 19,
+    "total_spend": 602.68,
+    "venues": 1,
+    "members": 1
+  },
+  {
     "city": "Anaheim",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 575.0,
     "venues": 1,
     "members": 2
   },
   {
+    "city": "Dhapa",
+    "state": "India",
+    "country": "India",
+    "reservations": 5,
+    "total_spend": 514.45,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 12,
+    "total_spend": 456.68,
+    "venues": 5,
+    "members": 7
+  },
+  {
     "city": "Pittsburgh",
     "state": "PA",
+    "country": "US",
     "reservations": 4,
     "total_spend": 437.75,
     "venues": 4,
@@ -122,14 +281,43 @@
   {
     "city": "Brooklyn",
     "state": "NY",
+    "country": "US",
     "reservations": 7,
     "total_spend": 395.0,
     "venues": 2,
     "members": 2
   },
   {
+    "city": "Sant Cugat Del Valles",
+    "state": "Spain",
+    "country": "Spain",
+    "reservations": 7,
+    "total_spend": 376.96,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Pune",
+    "state": "India",
+    "country": "India",
+    "reservations": 3,
+    "total_spend": 341.73,
+    "venues": 3,
+    "members": 2
+  },
+  {
+    "city": "Bruxelles",
+    "state": "Belgium",
+    "country": "Belgium",
+    "reservations": 7,
+    "total_spend": 292.09,
+    "venues": 3,
+    "members": 2
+  },
+  {
     "city": "Weston",
     "state": "FL",
+    "country": "US",
     "reservations": 5,
     "total_spend": 292.0,
     "venues": 1,
@@ -138,6 +326,7 @@
   {
     "city": "Cupertino",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 120.0,
     "venues": 1,
@@ -146,9 +335,19 @@
   {
     "city": "Cleveland",
     "state": "OH",
+    "country": "US",
     "reservations": 4,
     "total_spend": 117.19,
     "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Ste-Foy",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 4,
+    "total_spend": 95.66,
+    "venues": 1,
     "members": 1
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "eccb3c79-797d-49e9-94d2-e779659cbaa5",
+    "venue_name": "YourOffice - Philadelphia",
+    "latitude": 39.954189,
+    "longitude": -75.169952,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "34535f82-d7ac-4f59-b4af-5e7dfa39e067",
+    "venue_name": "Regus | Philadelphia - Chestnut Street",
+    "latitude": 39.9491,
+    "longitude": -75.147102,
+    "reservations": 1,
+    "spend": 94.8
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ab0b684f-7297-4e34-83e1-4adb99b282c2",
+    "venue_name": "BKLYN Commons - Brooklyn NY",
+    "latitude": 40.662239,
+    "longitude": -73.961609,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "713ccec3-af30-4b34-a1d6-e79c6de9695a",
+    "venue_name": "WeWork | Dumbo Heights (Sands)",
+    "latitude": 40.700348,
+    "longitude": -73.987434,
+    "reservations": 1,
+    "spend": 187.2
+  }
+]

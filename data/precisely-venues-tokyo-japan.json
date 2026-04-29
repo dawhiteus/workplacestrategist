@@ -1,0 +1,194 @@
+[
+  {
+    "venue_id": "bba85838-3662-40a4-8718-26c4bdae1283",
+    "venue_name": "Regus | Tokyo ARK Mori Building",
+    "latitude": 35.667477,
+    "longitude": 139.740143,
+    "reservations": 43,
+    "spend": 10657.39
+  },
+  {
+    "venue_id": "ce28a534-590b-4c4a-a476-235a04fb390a",
+    "venue_name": "Regus | TOKYO, Shinagawa East One Tower",
+    "latitude": 35.627735,
+    "longitude": 139.740814,
+    "reservations": 4,
+    "spend": 359.6
+  },
+  {
+    "venue_id": "a3a4e152-9ff5-43d2-840d-a099f536a335",
+    "venue_name": "Regus | Tokyo Arca Central Building",
+    "latitude": 35.697323,
+    "longitude": 139.811401,
+    "reservations": 8,
+    "spend": 337.1
+  },
+  {
+    "venue_id": "4fbc5734-9462-4493-b423-5952487cb213",
+    "venue_name": "Signature | Tokyo, Signature Roppongi",
+    "latitude": 35.6605,
+    "longitude": 139.729279,
+    "reservations": 2,
+    "spend": 295.05
+  },
+  {
+    "venue_id": "8c810c49-e0a7-4a90-93d7-0007ad5da039",
+    "venue_name": "Regus | Tokyo Shinjuku Nishiguchi Takagi",
+    "latitude": 35.688068,
+    "longitude": 139.69632,
+    "reservations": 3,
+    "spend": 294.24
+  },
+  {
+    "venue_id": "69484d0c-f9b0-4ab1-b4c5-16d03292f679",
+    "venue_name": "Regus | TOKYO, Shinjuku Minamiguchi",
+    "latitude": 35.686775,
+    "longitude": 139.702972,
+    "reservations": 3,
+    "spend": 254.52
+  },
+  {
+    "venue_id": "dce2e574-44ae-4c76-a727-a79e6274b3fc",
+    "venue_name": "Regus | TOKYO, Ginza Yurakucho",
+    "latitude": 35.6744,
+    "longitude": 139.764008,
+    "reservations": 3,
+    "spend": 203.78
+  },
+  {
+    "venue_id": "e452b806-7686-428e-a8f8-87638e2be358",
+    "venue_name": "Regus | Tokyo Pacific Century Place",
+    "latitude": 35.678196,
+    "longitude": 139.766937,
+    "reservations": 1,
+    "spend": 178.95
+  },
+  {
+    "venue_id": "6edc0170-edb4-464f-96f0-337ab282fa0b",
+    "venue_name": "SPACES | Tokyo Otemachi Building",
+    "latitude": 35.686428,
+    "longitude": 139.764908,
+    "reservations": 2,
+    "spend": 174.5
+  },
+  {
+    "venue_id": "48d0e044-19fb-4ab3-b628-290dd4ad17d9",
+    "venue_name": "Open Office | TOKYO, Nihonbashi Central",
+    "latitude": 35.683201,
+    "longitude": 139.773972,
+    "reservations": 5,
+    "spend": 151.37
+  },
+  {
+    "venue_id": "3a2563c3-75a1-41ab-b6a7-6459b7d73978",
+    "venue_name": "Open Office | TOKYO, Gotanda Eki Nishiguchi",
+    "latitude": 35.62434,
+    "longitude": 139.722565,
+    "reservations": 2,
+    "spend": 120.78
+  },
+  {
+    "venue_id": "00678565-a04a-49fc-b2d7-d63721337dc8",
+    "venue_name": "Regus | Tokyo Shibuya Mark City",
+    "latitude": 35.657902,
+    "longitude": 139.697998,
+    "reservations": 1,
+    "spend": 114.18
+  },
+  {
+    "venue_id": "89d04621-c04f-49ce-9a8c-916c3a803fca",
+    "venue_name": "Regus | Tokyo Shinagawa Grand Central",
+    "latitude": 35.626724,
+    "longitude": 139.740524,
+    "reservations": 1,
+    "spend": 105.52
+  },
+  {
+    "venue_id": "e8d57684-d89f-405d-9fd4-12fff8624231",
+    "venue_name": "Regus | Tokyo, Ikebukuro Sunshine 60",
+    "latitude": 35.72945,
+    "longitude": 139.718155,
+    "reservations": 1,
+    "spend": 91.92
+  },
+  {
+    "venue_id": "fb8b5532-d77c-4686-acbd-d0c0d1178542",
+    "venue_name": "Regus | Tokyo, Machida Ekimae",
+    "latitude": 35.546043,
+    "longitude": 139.445023,
+    "reservations": 1,
+    "spend": 88.94
+  },
+  {
+    "venue_id": "f7fb966e-d2f6-43ba-b62f-1d0354f1ecff",
+    "venue_name": "Regus | TOKYO, Kanda",
+    "latitude": 35.695518,
+    "longitude": 139.769867,
+    "reservations": 1,
+    "spend": 85.64
+  },
+  {
+    "venue_id": "a0e300b5-8864-43e3-94e1-135a59ac96c5",
+    "venue_name": "Open Office | TOKYO, OpenOffice Osaki Eki Nishiguchi",
+    "latitude": 35.6208,
+    "longitude": 139.725998,
+    "reservations": 1,
+    "spend": 66.81
+  },
+  {
+    "venue_id": "e6d8bb0b-81a7-4546-8578-1f33205d351a",
+    "venue_name": "Open Office | TOKYO, Azabujuban",
+    "latitude": 35.655685,
+    "longitude": 139.744751,
+    "reservations": 1,
+    "spend": 55.56
+  },
+  {
+    "venue_id": "240134c8-31ff-447b-a889-c48af1bc4d40",
+    "venue_name": "Open Office | TOKYO, OpenOffice Daimon Ekimae",
+    "latitude": 35.656681,
+    "longitude": 139.753357,
+    "reservations": 1,
+    "spend": 52.71
+  },
+  {
+    "venue_id": "d8cf1024-dadc-484c-9aa7-09317c5c9bf0",
+    "venue_name": "SPACES | TOKYO, Spaces Shinjuku",
+    "latitude": 35.693157,
+    "longitude": 139.697769,
+    "reservations": 1,
+    "spend": 41.91
+  },
+  {
+    "venue_id": "fed66ce4-5ebf-49fd-aef0-c38eec6ed768",
+    "venue_name": "Regus | TOKYO, Shinbashi Tokyu",
+    "latitude": 35.664165,
+    "longitude": 139.757965,
+    "reservations": 1,
+    "spend": 32.76
+  },
+  {
+    "venue_id": "ebe8e181-8332-40f3-9436-b819a2812090",
+    "venue_name": "Open Office | Tokyo Akasaka Business Place",
+    "latitude": 35.672379,
+    "longitude": 139.73793,
+    "reservations": 1,
+    "spend": 32.32
+  },
+  {
+    "venue_id": "49bfc5c3-4fde-4be6-b801-fbb7c5ff3436",
+    "venue_name": "Signature | Tokyo, Signature Nippon Life Marunouchi",
+    "latitude": 35.683216,
+    "longitude": 139.765839,
+    "reservations": 1,
+    "spend": 31.67
+  },
+  {
+    "venue_id": "05b838fb-e8f0-4cff-a287-131cae0a0c9a",
+    "venue_name": "Open Office | TOKYO, Nishi-Shinjuku Ekimae",
+    "latitude": 35.695328,
+    "longitude": 139.692688,
+    "reservations": 1,
+    "spend": 8.78
+  }
+]

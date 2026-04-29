@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "820d5ae7-41bc-42dd-8de7-5274ea5471c4",
+    "venue_name": "Clubhouse Work & Golf",
+    "latitude": 39.612228,
+    "longitude": -104.898918,
+    "reservations": 2,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "79587c5f-87bd-459d-8459-ab992811088a",
+    "venue_name": "Expansive - Denver Tech Center",
+    "latitude": 39.622322,
+    "longitude": -104.889107,
+    "reservations": 2,
+    "spend": 224.0
+  }
+]

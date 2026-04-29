@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "49a6bf02-07ee-4b70-831b-065c92d3e11b",
+    "venue_name": "Signature | Cologne, KolnTurm",
+    "latitude": 50.948242,
+    "longitude": 6.942993,
+    "reservations": 3,
+    "spend": 115.7
+  },
+  {
+    "venue_id": "aaa000e9-35cb-4459-8e46-bcca32eb8b4f",
+    "venue_name": "SPACES | Cologne, Breite Strasse",
+    "latitude": 50.938366,
+    "longitude": 6.945819,
+    "reservations": 1,
+    "spend": 68.57
+  }
+]

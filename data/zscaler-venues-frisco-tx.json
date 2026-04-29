@@ -2,9 +2,17 @@
   {
     "venue_id": "3d8ad5cb-83df-4e56-a20e-d2641a2e7aaa",
     "venue_name": "25N Coworking - Frisco",
-    "latitude": 33.15519714355469,
-    "longitude": -96.83062744140625,
+    "latitude": 33.155197,
+    "longitude": -96.830627,
     "reservations": 4,
     "spend": 1495.0
+  },
+  {
+    "venue_id": "0659fdb8-b5eb-464c-ab8d-445a4c3878b5",
+    "venue_name": "Executive Workspace| Frisco Station",
+    "latitude": 33.107189,
+    "longitude": -96.833176,
+    "reservations": 1,
+    "spend": 260.0
   }
 ]

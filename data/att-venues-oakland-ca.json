@@ -2,9 +2,25 @@
   {
     "venue_id": "4f944ccf-26f7-46e6-a519-d07fea84dff7",
     "venue_name": "Pacific Workplaces - Oakland",
-    "latitude": 37.80472183227539,
-    "longitude": -122.27381896972656,
+    "latitude": 37.804722,
+    "longitude": -122.273819,
     "reservations": 7,
     "spend": 2420.0
+  },
+  {
+    "venue_id": "b7df658b-ca24-4a70-8104-44653831ea34",
+    "venue_name": "Port Labs",
+    "latitude": 37.809647,
+    "longitude": -122.266495,
+    "reservations": 1,
+    "spend": 25.0
+  },
+  {
+    "venue_id": "5a05ffcf-99bb-482e-9578-21ac753a86bd",
+    "venue_name": "Port Workspaces @ Uptown Oakland",
+    "latitude": 37.808472,
+    "longitude": -122.265427,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

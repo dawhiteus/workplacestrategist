@@ -2,9 +2,25 @@
   {
     "venue_id": "0f2e3975-6fa5-47d3-b1e4-c6a87eaa2b45",
     "venue_name": "The Mark at Manhattan Laundry",
-    "latitude": 38.91984939575195,
-    "longitude": -77.03076171875,
+    "latitude": 38.919849,
+    "longitude": -77.030762,
     "reservations": 5,
     "spend": 4800.0
+  },
+  {
+    "venue_id": "288a0cd0-b01b-4d2f-9fca-e982dc7f2cdd",
+    "venue_name": "District Offices Capitol Hill",
+    "latitude": 38.898991,
+    "longitude": -77.007988,
+    "reservations": 1,
+    "spend": 720.0
+  },
+  {
+    "venue_id": "bf2946c2-26c9-43b1-b6f4-c75e645923f5",
+    "venue_name": "Carr Workplaces - Capitol Hill",
+    "latitude": 38.894432,
+    "longitude": -77.011581,
+    "reservations": 2,
+    "spend": 590.0
   }
 ]

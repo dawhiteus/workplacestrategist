@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "56f0359b-2b83-4fb8-8ba6-cebb3587ee3f",
+    "venue_name": "The Malin East Austin",
+    "latitude": 30.25848,
+    "longitude": -97.728958,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "b60bc01e-0f72-4d0b-a176-02cb016767fa",
+    "venue_name": "Common Desk - Anderson Lane",
+    "latitude": 30.355192,
+    "longitude": -97.730339,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

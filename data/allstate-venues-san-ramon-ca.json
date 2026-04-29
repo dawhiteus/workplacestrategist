@@ -1,1 +1,26 @@
-[{"venue_id":"san-ramon-ca-venue-1","venue_name":"Spaces | San Ramon Downtown","latitude":37.8563,"longitude":-121.893,"reservations":51,"spend":8229.33},{"venue_id":"san-ramon-ca-venue-2","venue_name":"Roam | San Ramon North","latitude":37.8268,"longitude":-121.9639,"reservations":24,"spend":3861.4},{"venue_id":"san-ramon-ca-venue-3","venue_name":"Regus | San Ramon West","latitude":37.7974,"longitude":-121.9325,"reservations":18,"spend":2836.07}]
+[
+  {
+    "venue_id": "6cbf95f8-48fb-4151-ac9b-1ab23df9d6c4",
+    "venue_name": "Executive Base Network",
+    "latitude": 37.774189,
+    "longitude": -121.989319,
+    "reservations": 89,
+    "spend": 13640.0
+  },
+  {
+    "venue_id": "1bf3abe6-3e31-43f6-bf6e-91e5600950a5",
+    "venue_name": "One Eleven One Ninety",
+    "latitude": 37.773941,
+    "longitude": -121.989151,
+    "reservations": 4,
+    "spend": 1400.0
+  },
+  {
+    "venue_id": "4c398f8b-5239-419e-bbfe-d48b645e86c5",
+    "venue_name": "WeWork | 3001 Bishop Drive",
+    "latitude": 37.764557,
+    "longitude": -121.962387,
+    "reservations": 1,
+    "spend": 46.8
+  }
+]

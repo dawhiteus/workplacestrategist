@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "602ffd7f-ed22-48e8-b11a-c59773842825",
+    "venue_name": "iQ Offices | 1155 Metcalfe Inc.",
+    "latitude": 45.500252,
+    "longitude": -73.570183,
+    "reservations": 2,
+    "spend": 144.16
+  },
+  {
+    "venue_id": "25702fdc-4690-458c-9a42-2d075063100e",
+    "venue_name": "Halte 24-7 Montreal",
+    "latitude": 45.526928,
+    "longitude": -73.574875,
+    "reservations": 1,
+    "spend": 21.9
+  }
+]

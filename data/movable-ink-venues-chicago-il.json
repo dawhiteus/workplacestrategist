@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "a23d9d6d-f148-4766-be2b-f1e28eba0bcb",
+    "venue_name": "WeWork | 1 South Dearborn",
+    "latitude": 41.88168,
+    "longitude": -87.628746,
+    "reservations": 2,
+    "spend": 1684.6
+  },
+  {
+    "venue_id": "16b23470-afdc-4693-898a-ce3e7f823b54",
+    "venue_name": "Regus | IL, Chicago - 150 N. Michigan",
+    "latitude": 41.885017,
+    "longitude": -87.624954,
+    "reservations": 1,
+    "spend": 423.51
+  }
+]

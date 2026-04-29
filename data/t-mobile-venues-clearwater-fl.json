@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "30e1c3fe-58fd-4b30-b14f-de9c0f2c77cc",
+    "venue_name": "Oz Net Inc",
+    "latitude": 27.937737,
+    "longitude": -82.72924,
+    "reservations": 1,
+    "spend": 325.0
+  },
+  {
+    "venue_id": "ea9fe3fb-a692-4033-83c0-c5047e070386",
+    "venue_name": "Bayside One",
+    "latitude": 27.961029,
+    "longitude": -82.707848,
+    "reservations": 1,
+    "spend": 150.0
+  }
+]

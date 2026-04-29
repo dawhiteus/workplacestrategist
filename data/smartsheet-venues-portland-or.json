@@ -2,9 +2,25 @@
   {
     "venue_id": "e55854e2-04fd-41c1-9c77-2eb1a154091f",
     "venue_name": "CENTRL Office - Pearl District",
-    "latitude": 45.52505874633789,
-    "longitude": -122.68479919433594,
+    "latitude": 45.525059,
+    "longitude": -122.684799,
     "reservations": 19,
     "spend": 10035.0
+  },
+  {
+    "venue_id": "101e73a7-e37a-456f-ab8e-703c92111f39",
+    "venue_name": "Kiln - Portland",
+    "latitude": 45.5126,
+    "longitude": -122.654167,
+    "reservations": 1,
+    "spend": 1000.0
+  },
+  {
+    "venue_id": "7ea36961-9dc7-4c43-a3da-094feb5a7b21",
+    "venue_name": "CENTRL Office - Eastside",
+    "latitude": 45.523796,
+    "longitude": -122.662445,
+    "reservations": 1,
+    "spend": 600.0
   }
 ]

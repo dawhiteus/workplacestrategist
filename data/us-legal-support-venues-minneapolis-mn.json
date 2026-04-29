@@ -2,9 +2,25 @@
   {
     "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
     "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
-    "latitude": 44.9775390625,
-    "longitude": -93.26364135742188,
+    "latitude": 44.977539,
+    "longitude": -93.263641,
     "reservations": 3,
     "spend": 2025.0
+  },
+  {
+    "venue_id": "cd67298d-5fd8-4982-ae5b-195fdfe2a419",
+    "venue_name": "Regus | Minneapolis - Lagoon Ave",
+    "latitude": 44.949036,
+    "longitude": -93.297348,
+    "reservations": 1,
+    "spend": 665.0
+  },
+  {
+    "venue_id": "f80ae2cb-2531-4558-9a61-fe201d7a804e",
+    "venue_name": "1600 Executive Suites",
+    "latitude": 44.973701,
+    "longitude": -93.270012,
+    "reservations": 1,
+    "spend": 375.0
   }
 ]

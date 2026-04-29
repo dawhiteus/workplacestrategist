@@ -2,65 +2,81 @@
   {
     "venue_id": "707cdd74-b8a1-44ec-bb14-e62678f7af12",
     "venue_name": "ZED Coworking",
-    "latitude": 37.31459045410156,
-    "longitude": -121.97608947753906,
+    "latitude": 37.31459,
+    "longitude": -121.976089,
     "reservations": 61,
     "spend": 9725.0
   },
   {
     "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
     "venue_name": "Expansive - North First",
-    "latitude": 37.37726974487305,
-    "longitude": -121.92033386230469,
+    "latitude": 37.37727,
+    "longitude": -121.920334,
     "reservations": 50,
     "spend": 5501.0
   },
   {
     "venue_id": "85061ae0-cd8c-4364-a569-69bd69d0188e",
     "venue_name": "SPACES | Santana Row",
-    "latitude": 37.317535400390625,
-    "longitude": -121.94762420654297,
+    "latitude": 37.317535,
+    "longitude": -121.947624,
     "reservations": 56,
     "spend": 4159.86
   },
   {
     "venue_id": "2a9efa7e-e69b-415b-a85c-8563c0bce30f",
     "venue_name": "Pacific Workplaces - San Jose",
-    "latitude": 37.33527374267578,
-    "longitude": -121.89152526855469,
+    "latitude": 37.335274,
+    "longitude": -121.891525,
     "reservations": 16,
     "spend": 985.0
   },
   {
     "venue_id": "e0fb972e-1999-42ca-8079-5320837d5499",
     "venue_name": "WeWork | Riverpark Tower",
-    "latitude": 37.32887268066406,
-    "longitude": -121.89356994628906,
+    "latitude": 37.328873,
+    "longitude": -121.89357,
     "reservations": 14,
     "spend": 718.0
   },
   {
     "venue_id": "a4d5fd04-bc63-4484-97eb-9cd3255c9e40",
     "venue_name": "Regus || Downtown San Jose",
-    "latitude": 37.332584381103516,
-    "longitude": -121.8943099975586,
+    "latitude": 37.332584,
+    "longitude": -121.89431,
     "reservations": 4,
     "spend": 585.14
   },
   {
     "venue_id": "23abbae6-932d-499a-a20c-0c1e8235eb17",
     "venue_name": "Regus | CA, San Jose - South San Jose",
-    "latitude": 37.23640060424805,
-    "longitude": -121.77799987792969,
+    "latitude": 37.236401,
+    "longitude": -121.778,
     "reservations": 3,
     "spend": 295.11
   },
   {
     "venue_id": "a5e1d1d2-fb03-4cb5-8e16-0bff7c14fdc0",
     "venue_name": "(SJ2) Silicon Valley Center",
-    "latitude": 37.38529968261719,
-    "longitude": -121.9248275756836,
+    "latitude": 37.3853,
+    "longitude": -121.924828,
     "reservations": 2,
     "spend": 200.0
+  },
+  {
+    "venue_id": "8ceed805-b13d-4444-ba88-3b7c82727248",
+    "venue_name": "Regus | San Jose Airport",
+    "latitude": 37.371094,
+    "longitude": -121.925476,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "96440aaf-b95d-4435-b5ed-30f92297a54a",
+    "venue_name": "Regus | San Jose - S 1st St",
+    "latitude": 37.33091,
+    "longitude": -121.887108,
+    "reservations": 1,
+    "spend": 149.0
   }
 ]

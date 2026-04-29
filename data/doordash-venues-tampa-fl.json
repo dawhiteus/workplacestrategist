@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "487d44b9-a11e-4b61-88ad-68dc80308045",
+    "venue_name": "F.Jenar Inc - D.B.A. Tampa Medical College ",
+    "latitude": 27.994244,
+    "longitude": -82.389282,
+    "reservations": 1,
+    "spend": 45.0
+  },
+  {
+    "venue_id": "5a759a02-6159-4b4c-88e2-1a4d6ea855f9",
+    "venue_name": "WeWork | WeWork Place",
+    "latitude": 27.947906,
+    "longitude": -82.455597,
+    "reservations": 1,
+    "spend": 29.0
+  }
+]

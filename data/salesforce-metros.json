@@ -2,9 +2,10 @@
   {
     "city": "New York",
     "state": "NY",
-    "reservations": 266,
-    "total_spend": 274705.6,
+    "country": "US",
+    "reservations": 271,
+    "total_spend": 279500.6,
     "venues": 36,
-    "members": 123
+    "members": 126
   }
 ]

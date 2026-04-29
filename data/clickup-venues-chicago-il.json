@@ -2,9 +2,25 @@
   {
     "venue_id": "9deb4de2-3b75-4b80-91a1-d226443d67ed",
     "venue_name": "Industrious - Millennium Park",
-    "latitude": 41.88334274291992,
-    "longitude": -87.626953125,
+    "latitude": 41.883343,
+    "longitude": -87.626953,
     "reservations": 3,
     "spend": 225.0
+  },
+  {
+    "venue_id": "3af0e528-8d13-4726-9783-3d89dd2eac80",
+    "venue_name": "Industrious - Ogilvie",
+    "latitude": 41.88232,
+    "longitude": -87.640465,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "edf0548a-07d1-49ca-b642-b09a0ab1fe19",
+    "venue_name": "Workbox Magnificent Mile",
+    "latitude": 41.889839,
+    "longitude": -87.6269,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

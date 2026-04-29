@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "446f66df-a776-4b4b-85e1-3253d1030dd5",
+    "venue_name": "WeWork | Grzybowska 62",
+    "latitude": 52.234283,
+    "longitude": 20.986151,
+    "reservations": 36,
+    "spend": 2004.5
+  },
+  {
+    "venue_id": "3c2afdd8-b31c-4b1f-a9f9-b3348fc58201",
+    "venue_name": "WeWork | Hotel Europejski",
+    "latitude": 52.242054,
+    "longitude": 21.014517,
+    "reservations": 8,
+    "spend": 443.61
+  },
+  {
+    "venue_id": "b14fded3-ca54-4008-8b1c-3e661c6c61bd",
+    "venue_name": "WeWork | Krucza 50",
+    "latitude": 52.23151,
+    "longitude": 21.016747,
+    "reservations": 3,
+    "spend": 175.4
+  },
+  {
+    "venue_id": "a2d5bc5e-1a2c-4fe1-bb81-dd9f8370c42d",
+    "venue_name": "WeWork | Grzybowska 60",
+    "latitude": 52.234386,
+    "longitude": 20.987204,
+    "reservations": 1,
+    "spend": 43.12
+  }
+]

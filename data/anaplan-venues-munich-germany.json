@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "32464591-a25a-44fc-bbcf-92cf6122c208",
+    "venue_name": "SPACES | MUNICH, Spaces Werksviertel",
+    "latitude": 48.128151,
+    "longitude": 11.609982,
+    "reservations": 11,
+    "spend": 5234.08
+  },
+  {
+    "venue_id": "4bb74fef-a2d2-41be-ab22-d7459ced9a16",
+    "venue_name": "WeWork | Oskar-von-Miller-Ring 20",
+    "latitude": 48.145435,
+    "longitude": 11.5756,
+    "reservations": 40,
+    "spend": 3549.92
+  },
+  {
+    "venue_id": "0e8111e8-75e1-493c-87fb-eae49ad51cc2",
+    "venue_name": "Regus | Munich Arondo Five Rings",
+    "latitude": 48.132561,
+    "longitude": 11.615403,
+    "reservations": 9,
+    "spend": 3356.19
+  },
+  {
+    "venue_id": "050b1c7d-e5b5-4f08-a379-40db394942a7",
+    "venue_name": "Regus | Munich Stachus",
+    "latitude": 48.136383,
+    "longitude": 11.566062,
+    "reservations": 1,
+    "spend": 322.51
+  },
+  {
+    "venue_id": "3ae3505a-e38b-45e3-9a63-86a77db63d59",
+    "venue_name": "Regus | MUNICH, Westend",
+    "latitude": 48.139992,
+    "longitude": 11.52803,
+    "reservations": 1,
+    "spend": 191.49
+  },
+  {
+    "venue_id": "16c3f3a1-007c-40e2-bb62-e3a9fde815b1",
+    "venue_name": "Regus | Munich Airport",
+    "latitude": 48.353848,
+    "longitude": 11.787453,
+    "reservations": 1,
+    "spend": 25.61
+  }
+]

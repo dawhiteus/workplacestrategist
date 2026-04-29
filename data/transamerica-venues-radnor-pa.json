@@ -2,9 +2,17 @@
   {
     "venue_id": "dbaa7ccd-4950-4a97-8ea6-3e17aef67f3c",
     "venue_name": "AEC - Radnor",
-    "latitude": 40.04315948486328,
-    "longitude": -75.36607360839844,
+    "latitude": 40.043159,
+    "longitude": -75.366074,
     "reservations": 9,
     "spend": 2372.0
+  },
+  {
+    "venue_id": "15f39c46-d84b-4599-b27b-f61c1e072f87",
+    "venue_name": "Regus | Radnor Financial",
+    "latitude": 40.043701,
+    "longitude": -75.356598,
+    "reservations": 1,
+    "spend": 262.0
   }
 ]

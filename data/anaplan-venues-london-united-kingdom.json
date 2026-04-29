@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "57c7b3dd-e8d8-4892-b68e-c66f1236e7f6",
+    "venue_name": "Regus | Euston Warren Street",
+    "latitude": 51.524456,
+    "longitude": -0.139053,
+    "reservations": 1,
+    "spend": 841.66
+  },
+  {
+    "venue_id": "cb16de05-3486-418b-9233-d6c11fc86de8",
+    "venue_name": "beyond | The Bower",
+    "latitude": 51.525925,
+    "longitude": -0.088666,
+    "reservations": 1,
+    "spend": 821.83
+  },
+  {
+    "venue_id": "61a4d465-0b92-42c6-ae11-c99e76e79afe",
+    "venue_name": "Landmark | Tottenham Court Road",
+    "latitude": 51.52029,
+    "longitude": -0.133392,
+    "reservations": 1,
+    "spend": 809.63
+  }
+]

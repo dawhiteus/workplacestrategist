@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "7b5dc81a-f81f-4f94-8a7e-4ff1998c7abb",
+    "venue_name": "Serendipity Labs - Buffalo - Seneca One",
+    "latitude": 42.880615,
+    "longitude": -78.875954,
+    "reservations": 5,
+    "spend": 798.0
+  },
+  {
+    "venue_id": "7c62c3c8-263e-4996-ad92-8c28dc4e93c2",
+    "venue_name": "Regus | Key Center - Downtown",
+    "latitude": 42.889729,
+    "longitude": -78.873924,
+    "reservations": 1,
+    "spend": 49.49
+  },
+  {
+    "venue_id": "f17a85f7-c1be-4515-9ddf-8f4809ada6ed",
+    "venue_name": "HQ | Buffalo - North Towns",
+    "latitude": 42.9757,
+    "longitude": -78.731201,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

@@ -1,10 +1,26 @@
 [
   {
     "venue_id": "34facfe6-770e-48d8-b1a9-740ef10f7f67",
-    "venue_name": "Werkpl\u0101s Hoover",
-    "latitude": 33.379093170166016,
-    "longitude": -86.80953216552734,
+    "venue_name": "Werkplās Hoover",
+    "latitude": 33.379093,
+    "longitude": -86.809532,
     "reservations": 4,
     "spend": 370.0
+  },
+  {
+    "venue_id": "200d1128-677d-4e61-9fc8-48e7b465387d",
+    "venue_name": "Regus || Downtown Wells Fargo Center",
+    "latitude": 33.517792,
+    "longitude": -86.808121,
+    "reservations": 1,
+    "spend": 57.73
+  },
+  {
+    "venue_id": "0c156ec9-bb5b-4bc4-aa18-02fa5b8c68c4",
+    "venue_name": "THRIVE | Birmingham",
+    "latitude": 33.506542,
+    "longitude": -86.81411,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

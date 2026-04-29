@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "577e7fb8-038c-445c-b82c-1ed4b398fd66",
+    "venue_name": "Intelligent Office - Arlington",
+    "latitude": 38.883446,
+    "longitude": -77.118042,
+    "reservations": 1,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "16175aa0-c0f8-48db-890a-c1dad15bedb8",
+    "venue_name": "TKO Suites Arlington",
+    "latitude": 38.894291,
+    "longitude": -77.075783,
+    "reservations": 1,
+    "spend": 350.0
+  }
+]

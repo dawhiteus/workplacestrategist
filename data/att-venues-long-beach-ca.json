@@ -2,9 +2,17 @@
   {
     "venue_id": "ed5a6ef7-b8ec-4d2c-b72a-2b39db7f7ee7",
     "venue_name": "BLANKSPACES Long Beach",
-    "latitude": 33.770751953125,
-    "longitude": -118.192626953125,
+    "latitude": 33.770752,
+    "longitude": -118.192627,
     "reservations": 18,
     "spend": 2555.0
+  },
+  {
+    "venue_id": "792bd408-584c-47c2-bd84-b40bf4a7b371",
+    "venue_name": "(LBP) 444 W Ocean",
+    "latitude": 33.766708,
+    "longitude": -118.197601,
+    "reservations": 1,
+    "spend": 300.0
   }
 ]

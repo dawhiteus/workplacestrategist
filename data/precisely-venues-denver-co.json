@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "d8afe4ce-6d70-4d19-93ca-b403fd7e53c6",
+    "venue_name": "Venture X | Denver North",
+    "latitude": 39.753468,
+    "longitude": -104.979317,
+    "reservations": 2,
+    "spend": 700.0
+  },
+  {
+    "venue_id": "d34effe4-cff3-4f94-a9dc-a43e6ca1af1d",
+    "venue_name": "Enterprise Coworking | RiNo",
+    "latitude": 39.761623,
+    "longitude": -104.97963,
+    "reservations": 2,
+    "spend": 600.0
+  }
+]

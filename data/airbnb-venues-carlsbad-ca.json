@@ -1,9 +1,17 @@
 [
   {
+    "venue_id": "af005fea-9233-4b46-bbfc-a86fa981ad9c",
+    "venue_name": "Arens Group Workplace",
+    "latitude": 33.124737,
+    "longitude": -117.287651,
+    "reservations": 2,
+    "spend": 232.0
+  },
+  {
     "venue_id": "db8d87b2-c3e8-429a-88e1-134f00e15eec",
     "venue_name": "Downtown Works Carlsbad",
-    "latitude": 33.1198616027832,
-    "longitude": -117.28050994873047,
+    "latitude": 33.119862,
+    "longitude": -117.28051,
     "reservations": 3,
     "spend": 120.0
   }

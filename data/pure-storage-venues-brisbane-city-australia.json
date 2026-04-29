@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "9c58d099-1899-467f-98a7-99c8a6992af1",
+    "venue_name": "GPT Space&Co 111 Eagle",
+    "latitude": -27.467592,
+    "longitude": 153.03035,
+    "reservations": 25,
+    "spend": 5895.35
+  },
+  {
+    "venue_id": "1c673121-2662-4dff-9c01-6de4291e1745",
+    "venue_name": "Workspace365 - 260 Queen Street",
+    "latitude": -27.467707,
+    "longitude": 153.027405,
+    "reservations": 12,
+    "spend": 2522.51
+  },
+  {
+    "venue_id": "7207dc06-afe6-4c3b-bf78-807cc205520a",
+    "venue_name": "Workspace365 - 167 Eagle Street",
+    "latitude": -27.46599,
+    "longitude": 153.030579,
+    "reservations": 1,
+    "spend": 111.5
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "b171dbd3-00f7-405c-b3a4-49396ec38f80",
+    "venue_name": "Venture X | Denver - Uptown",
+    "latitude": 39.741547,
+    "longitude": -104.987793,
+    "reservations": 1,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "c16c10e7-d617-4148-b709-6e0e3f7abcfb",
+    "venue_name": "WeWork | The Circa Building",
+    "latitude": 39.757885,
+    "longitude": -105.007988,
+    "reservations": 2,
+    "spend": 94.0
+  }
+]

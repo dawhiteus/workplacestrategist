@@ -1,1 +1,18 @@
-[{"venue_id":"roanoke-va-venue-1","venue_name":"Regus | Roanoke Downtown","latitude":37.2838,"longitude":-79.93,"reservations":59,"spend":9311.17},{"venue_id":"roanoke-va-venue-2","venue_name":"Serendipity Labs | Roanoke North","latitude":37.2904,"longitude":-79.8738,"reservations":30,"spend":4666.83}]
+[
+  {
+    "venue_id": "e18f4ca2-36a3-4464-a97f-f24918a173b8",
+    "venue_name": "Grandin CoLab",
+    "latitude": 37.264893,
+    "longitude": -79.977623,
+    "reservations": 86,
+    "spend": 14090.0
+  },
+  {
+    "venue_id": "263d59c5-1532-4157-8e82-1ac11f8283bc",
+    "venue_name": "The Quarters",
+    "latitude": 37.271709,
+    "longitude": -79.947998,
+    "reservations": 6,
+    "spend": 688.0
+  }
+]

@@ -2,9 +2,25 @@
   {
     "venue_id": "50473851-8e57-414b-a7b3-2b6f1297fc70",
     "venue_name": "Durham Bottling Co.",
-    "latitude": 35.99036407470703,
-    "longitude": -78.89644622802734,
+    "latitude": 35.990364,
+    "longitude": -78.896446,
     "reservations": 6,
     "spend": 200.0
+  },
+  {
+    "venue_id": "312b2a4b-9b09-4f2c-b695-31eb861d61f1",
+    "venue_name": "SPACES | Durham - Spaces Mangum Street",
+    "latitude": 35.990501,
+    "longitude": -78.901802,
+    "reservations": 1,
+    "spend": 121.0
+  },
+  {
+    "venue_id": "39563aea-363c-4efa-b04a-456fbf0ae1c8",
+    "venue_name": "Venture X | Durham",
+    "latitude": 35.897243,
+    "longitude": -78.870033,
+    "reservations": 2,
+    "spend": 58.0
   }
 ]

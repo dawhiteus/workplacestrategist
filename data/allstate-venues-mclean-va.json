@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "d597c5f0-76cb-4412-962b-052565c03630",
+    "venue_name": "Industrious - Tysons",
+    "latitude": 38.924953,
+    "longitude": -77.230637,
+    "reservations": 1,
+    "spend": 1216.0
+  },
+  {
+    "venue_id": "e219d5a1-4ce4-45e2-9227-61bcb059e9f9",
+    "venue_name": "TKO Suites Tysons",
+    "latitude": 38.925941,
+    "longitude": -77.217072,
+    "reservations": 1,
+    "spend": 140.0
+  },
+  {
+    "venue_id": "df3fa377-4c6f-4b9a-a16b-f7a32d5c735c",
+    "venue_name": "Carr Workplaces - Tysons",
+    "latitude": 38.923958,
+    "longitude": -77.222824,
+    "reservations": 2,
+    "spend": 90.0
+  }
+]

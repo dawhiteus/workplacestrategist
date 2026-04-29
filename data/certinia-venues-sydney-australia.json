@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "add1b8ad-7cdc-451c-90ad-75084dd3d7d5",
+    "venue_name": "Hub Australia | Wynyard",
+    "latitude": -33.865334,
+    "longitude": 151.206558,
+    "reservations": 22,
+    "spend": 16635.89
+  },
+  {
+    "venue_id": "eacc95e1-515b-4fa9-ab60-d5bd2e408242",
+    "venue_name": "Hub Australia | Martin Place",
+    "latitude": -33.867321,
+    "longitude": 151.209549,
+    "reservations": 11,
+    "spend": 9786.71
+  },
+  {
+    "venue_id": "d18a9f60-2ae3-4d24-a3d3-4fd21817029b",
+    "venue_name": "The Executive Centre - Three International Towers",
+    "latitude": -33.865059,
+    "longitude": 151.201904,
+    "reservations": 6,
+    "spend": 3056.29
+  },
+  {
+    "venue_id": "332fd901-46bb-4a37-a86d-48279aa8abcf",
+    "venue_name": "Hub Australia | Customs House",
+    "latitude": -33.86219,
+    "longitude": 151.210907,
+    "reservations": 4,
+    "spend": 1265.13
+  },
+  {
+    "venue_id": "e9c35ecd-bfec-456c-8733-2b9566d8f99c",
+    "venue_name": "workspace365 - Bond Centre",
+    "latitude": -33.86459,
+    "longitude": 151.208496,
+    "reservations": 4,
+    "spend": 801.91
+  },
+  {
+    "venue_id": "9daf6802-9071-4eaa-8c27-727268e1e98a",
+    "venue_name": "The Executive Centre - Salesforce Tower",
+    "latitude": -33.862144,
+    "longitude": 151.208176,
+    "reservations": 1,
+    "spend": 621.43
+  },
+  {
+    "venue_id": "5bc7c0d4-243e-4bff-93f3-9a3602d07566",
+    "venue_name": "Regus | Sydney, 20 Martin Place",
+    "latitude": -33.867397,
+    "longitude": 151.208969,
+    "reservations": 1,
+    "spend": 335.67
+  },
+  {
+    "venue_id": "cde95df0-8cce-4dfc-9218-c2a3bb1616c6",
+    "venue_name": "FlexSpot Macquarie",
+    "latitude": -33.86412,
+    "longitude": 151.212479,
+    "reservations": 1,
+    "spend": 161.28
+  }
+]

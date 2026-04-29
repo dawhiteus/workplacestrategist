@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1ced6381-8626-4a37-b816-338e0e4b3887",
+    "venue_name": "SPACES | Bogota, Spaces Nogal",
+    "latitude": 4.66097,
+    "longitude": -74.050232,
+    "reservations": 2,
+    "spend": 43.5
+  },
+  {
+    "venue_id": "bd6eb0b3-8646-4506-a07c-89d3a5cb92f4",
+    "venue_name": "Regus | Tequendama",
+    "latitude": 4.613,
+    "longitude": -74.070503,
+    "reservations": 2,
+    "spend": 19.84
+  }
+]

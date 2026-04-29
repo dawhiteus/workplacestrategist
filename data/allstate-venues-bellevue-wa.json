@@ -1,1 +1,42 @@
-[{"venue_id":"bellevue-wa-venue-1","venue_name":"Firmspace | Bellevue Downtown","latitude":47.5335,"longitude":-122.2631,"reservations":17,"spend":3030.93},{"venue_id":"bellevue-wa-venue-2","venue_name":"Firmspace | Bellevue North","latitude":47.6996,"longitude":-122.2383,"reservations":16,"spend":2834.58},{"venue_id":"bellevue-wa-venue-3","venue_name":"Serendipity Labs | Bellevue West","latitude":47.6141,"longitude":-122.2908,"reservations":12,"spend":2135.47},{"venue_id":"bellevue-wa-venue-4","venue_name":"IWG | Bellevue Central","latitude":47.6517,"longitude":-122.1076,"reservations":5,"spend":872.1},{"venue_id":"bellevue-wa-venue-5","venue_name":"Serendipity Labs | Bellevue East","latitude":47.6378,"longitude":-122.1564,"reservations":4,"spend":731.44},{"venue_id":"bellevue-wa-venue-6","venue_name":"Industrious | Bellevue Financial District","latitude":47.5585,"longitude":-122.2748,"reservations":3,"spend":579.65},{"venue_id":"bellevue-wa-venue-7","venue_name":"WorkSuites | Bellevue Midtown","latitude":47.6884,"longitude":-122.0977,"reservations":3,"spend":515.82}]
+[
+  {
+    "venue_id": "31baa0b8-4f50-401f-b632-787b6292ff74",
+    "venue_name": "Overlake WorkSpace",
+    "latitude": 47.629883,
+    "longitude": -122.187332,
+    "reservations": 44,
+    "spend": 6890.0
+  },
+  {
+    "venue_id": "4b0b97a1-8ec9-4018-8125-4946836b68c9",
+    "venue_name": "Ideal Spaces Bellevue",
+    "latitude": 47.607601,
+    "longitude": -122.18631,
+    "reservations": 4,
+    "spend": 1360.0
+  },
+  {
+    "venue_id": "4551a914-7aed-4df4-a5de-e2da74839552",
+    "venue_name": "Design Laboratory, Inc.",
+    "latitude": 47.635395,
+    "longitude": -122.144882,
+    "reservations": 1,
+    "spend": 320.0
+  },
+  {
+    "venue_id": "c4e205ca-65ad-41fc-b439-31f0f906f443",
+    "venue_name": "WorkSphere Bel-Red",
+    "latitude": 47.620415,
+    "longitude": -122.170097,
+    "reservations": 1,
+    "spend": 160.0
+  },
+  {
+    "venue_id": "9e3a9a46-0afb-4736-9606-48316b4df724",
+    "venue_name": "Industrious - Bellevue",
+    "latitude": 47.614983,
+    "longitude": -122.195778,
+    "reservations": 1,
+    "spend": 75.0
+  }
+]

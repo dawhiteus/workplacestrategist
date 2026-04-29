@@ -2,9 +2,17 @@
   {
     "venue_id": "7e2e9ca2-40bd-4e9b-bd6a-5f339800574e",
     "venue_name": "Star Space",
-    "latitude": 37.408809661865234,
-    "longitude": -122.0184097290039,
+    "latitude": 37.40881,
+    "longitude": -122.01841,
     "reservations": 79,
     "spend": 3070.0
+  },
+  {
+    "venue_id": "9216a928-c2ca-40e4-bf9f-fbcbfaf6786d",
+    "venue_name": "Regus | Sunnyvale - Lakeway Dr.",
+    "latitude": 37.386772,
+    "longitude": -121.987946,
+    "reservations": 1,
+    "spend": 106.86
   }
 ]

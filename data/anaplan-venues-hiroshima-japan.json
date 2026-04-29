@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "b11c0072-d196-4b1a-9f82-9c3c52a3b764",
+    "venue_name": "Regus | Hiroshima, Shin Hiroshima Building",
+    "latitude": 34.393574,
+    "longitude": 132.465271,
+    "reservations": 2,
+    "spend": 143.41
+  },
+  {
+    "venue_id": "e8969c24-e10a-4a57-9a01-cf3f96d45cc0",
+    "venue_name": "Regus | Hiroshima high",
+    "latitude": 34.392704,
+    "longitude": 132.467911,
+    "reservations": 1,
+    "spend": 69.33
+  }
+]

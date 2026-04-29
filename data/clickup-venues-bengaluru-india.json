@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f1baa157-b0a6-4c1b-9b18-ce80aeb4d7a4",
+    "venue_name": "Awfis | Coworking-Residency Road",
+    "latitude": 12.971563,
+    "longitude": 77.605843,
+    "reservations": 2,
+    "spend": 7.83
+  },
+  {
+    "venue_id": "69066bbf-b25a-47f6-8e44-c9465a2c33e2",
+    "venue_name": "Awfis | Coworking-St Marks Road",
+    "latitude": 12.969418,
+    "longitude": 77.600319,
+    "reservations": 1,
+    "spend": 5.6
+  }
+]

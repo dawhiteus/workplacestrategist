@@ -2,9 +2,17 @@
   {
     "venue_id": "2760956a-fe0b-4053-b2fa-557387c16631",
     "venue_name": "SPACES | The Dillon",
-    "latitude": 35.77799987792969,
-    "longitude": -78.64569854736328,
+    "latitude": 35.778,
+    "longitude": -78.645699,
     "reservations": 3,
     "spend": 564.0
+  },
+  {
+    "venue_id": "9e20ac9d-c230-4a0b-ac09-f5f4d851cd0e",
+    "venue_name": "WeWork | One Glenwood",
+    "latitude": 35.780548,
+    "longitude": -78.647942,
+    "reservations": 1,
+    "spend": 432.0
   }
 ]

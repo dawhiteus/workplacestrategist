@@ -2,9 +2,17 @@
   {
     "venue_id": "73553bd6-2639-4b99-a1a5-f020a65e78be",
     "venue_name": "Axis Space",
-    "latitude": 26.11812973022461,
-    "longitude": -80.14157104492188,
+    "latitude": 26.11813,
+    "longitude": -80.141571,
     "reservations": 5,
     "spend": 1950.0
+  },
+  {
+    "venue_id": "2a918f7f-1efe-4f94-882f-ed64ac923e32",
+    "venue_name": "Empire Executive Offices",
+    "latitude": 26.114321,
+    "longitude": -80.141762,
+    "reservations": 1,
+    "spend": 1560.0
   }
 ]

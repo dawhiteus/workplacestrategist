@@ -2,25 +2,49 @@
   {
     "venue_id": "b44a4d96-3605-48f9-8446-af17d1e89845",
     "venue_name": "Offix Edge LLC",
-    "latitude": 37.753509521484375,
-    "longitude": -122.48863220214844,
-    "reservations": 845,
-    "spend": 64461.3
+    "latitude": 37.75351,
+    "longitude": -122.488632,
+    "reservations": 851,
+    "spend": 65020.8
+  },
+  {
+    "venue_id": "bbb27e23-9efa-4ff3-95ee-632712c13e59",
+    "venue_name": "TheSpider, Inc.",
+    "latitude": 37.781315,
+    "longitude": -122.462387,
+    "reservations": 1,
+    "spend": 400.0
   },
   {
     "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
     "venue_name": "Trellis Coworking & Events",
-    "latitude": 37.78120040893555,
-    "longitude": -122.4081039428711,
+    "latitude": 37.7812,
+    "longitude": -122.408104,
     "reservations": 2,
     "spend": 240.0
   },
   {
     "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
     "venue_name": "Mindspace San Francisco",
-    "latitude": 37.78984832763672,
-    "longitude": -122.40069580078125,
+    "latitude": 37.789848,
+    "longitude": -122.400696,
     "reservations": 3,
     "spend": 240.0
+  },
+  {
+    "venue_id": "d6d2668b-aa60-4bf4-be44-71f65fa94741",
+    "venue_name": "(OS2) One Sansome",
+    "latitude": 37.790447,
+    "longitude": -122.401154,
+    "reservations": 1,
+    "spend": 110.0
+  },
+  {
+    "venue_id": "e6089ee6-1ad5-4bf0-8936-43a5bba00940",
+    "venue_name": "The House by Edge & Node",
+    "latitude": 37.8009,
+    "longitude": -122.458977,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

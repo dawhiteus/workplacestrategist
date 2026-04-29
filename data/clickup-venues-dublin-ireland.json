@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "dfa20577-ce99-484c-90e3-c233321c4daa",
+    "venue_name": "WeWork | Dublin Charlemont Exchange",
+    "latitude": 53.331062,
+    "longitude": -6.260553,
+    "reservations": 19,
+    "spend": 1466.42
+  },
+  {
+    "venue_id": "1a9acb23-73f2-4182-9e16-ec7ff3ef3f83",
+    "venue_name": "Iconic Offices | The Greenway",
+    "latitude": 53.336952,
+    "longitude": -6.259999,
+    "reservations": 3,
+    "spend": 1059.48
+  }
+]

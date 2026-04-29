@@ -2,9 +2,17 @@
   {
     "venue_id": "1ab4dd1e-3022-4ee9-81be-e83bef547566",
     "venue_name": "FoundrSpace Rancho",
-    "latitude": 34.10380935668945,
-    "longitude": -117.54798126220703,
+    "latitude": 34.103809,
+    "longitude": -117.547981,
     "reservations": 4,
     "spend": 500.0
+  },
+  {
+    "venue_id": "83b3b3fb-c2d9-4c5b-9628-7f770726c0c3",
+    "venue_name": "(HVN) The Executive Suite at Haven",
+    "latitude": 34.08223,
+    "longitude": -117.574387,
+    "reservations": 1,
+    "spend": 375.0
   }
 ]

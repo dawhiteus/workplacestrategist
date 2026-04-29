@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "c2807ef0-80d9-4882-9d23-7e531f60b372",
+    "venue_name": "Barrister Executive Suites | Santa Monica",
+    "latitude": 34.016842,
+    "longitude": -118.500603,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "fd7cad1d-b456-498e-a0fb-16b64179bdb7",
+    "venue_name": "BLANKSPACES Santa Monica - Main St.",
+    "latitude": 33.99778,
+    "longitude": -118.479622,
+    "reservations": 1,
+    "spend": 560.0
+  },
+  {
+    "venue_id": "edc4460c-44d0-4e52-8739-c8aaf1d16d3e",
+    "venue_name": "WeWork | 520 Broadway",
+    "latitude": 34.016125,
+    "longitude": -118.491684,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "4afe5b5b-5266-4e5b-8572-b6b5d2168d73",
+    "venue_name": "theOFFICE",
+    "latitude": 34.028461,
+    "longitude": -118.481071,
+    "reservations": 1,
+    "spend": 39.0
+  }
+]

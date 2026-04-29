@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "faed60fc-ada1-4229-a70d-50445de62a8c",
+    "venue_name": "Workbox Salt Lake City",
+    "latitude": 40.766296,
+    "longitude": -111.888626,
+    "reservations": 1,
+    "spend": 100.0
+  },
+  {
+    "venue_id": "23e8f254-4cf7-434e-bb34-f1976a8c192d",
+    "venue_name": "SPACES | UT, Salt Lake City - 250 E 200 S",
+    "latitude": 40.764519,
+    "longitude": -111.884506,
+    "reservations": 2,
+    "spend": 83.9
+  }
+]

@@ -1,1 +1,42 @@
-[{"venue_id":"santa-monica-ca-venue-1","venue_name":"Regus | Santa Monica Downtown","latitude":34.0346,"longitude":-118.5803,"reservations":13,"spend":2526.24},{"venue_id":"santa-monica-ca-venue-2","venue_name":"IWG | Santa Monica North","latitude":33.9842,"longitude":-118.5609,"reservations":5,"spend":1048.99},{"venue_id":"santa-monica-ca-venue-3","venue_name":"Lucid Private Offices | Santa Monica West","latitude":33.9703,"longitude":-118.601,"reservations":3,"spend":649.67},{"venue_id":"santa-monica-ca-venue-4","venue_name":"Lucid Private Offices | Santa Monica Central","latitude":34.035,"longitude":-118.5942,"reservations":3,"spend":583.66},{"venue_id":"santa-monica-ca-venue-5","venue_name":"Industrious | Santa Monica East","latitude":33.9864,"longitude":-118.4173,"reservations":3,"spend":525.64}]
+[
+  {
+    "venue_id": "43538958-bb01-443e-b461-fefd24122c55",
+    "venue_name": "WeWork | 312 Arizona Ave",
+    "latitude": 34.017117,
+    "longitude": -118.497246,
+    "reservations": 14,
+    "spend": 3412.2
+  },
+  {
+    "venue_id": "fd7cad1d-b456-498e-a0fb-16b64179bdb7",
+    "venue_name": "BLANKSPACES Santa Monica - Main St.",
+    "latitude": 33.99778,
+    "longitude": -118.479622,
+    "reservations": 8,
+    "spend": 2055.0
+  },
+  {
+    "venue_id": "19c3a848-94b6-4743-a2b8-6391ba656264",
+    "venue_name": "Industrious - Santa Monica",
+    "latitude": 34.022221,
+    "longitude": -118.493889,
+    "reservations": 5,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "edc4460c-44d0-4e52-8739-c8aaf1d16d3e",
+    "venue_name": "WeWork | 520 Broadway",
+    "latitude": 34.016125,
+    "longitude": -118.491684,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "4afe5b5b-5266-4e5b-8572-b6b5d2168d73",
+    "venue_name": "theOFFICE",
+    "latitude": 34.028461,
+    "longitude": -118.481071,
+    "reservations": 1,
+    "spend": 39.0
+  }
+]

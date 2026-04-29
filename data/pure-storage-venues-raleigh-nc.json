@@ -2,9 +2,17 @@
   {
     "venue_id": "78a0d741-056d-4979-b77a-9f70783b72c9",
     "venue_name": "Regus | Cap Trust Tower",
-    "latitude": 35.837059020996094,
-    "longitude": -78.64005279541016,
+    "latitude": 35.837059,
+    "longitude": -78.640053,
     "reservations": 3,
     "spend": 582.0
+  },
+  {
+    "venue_id": "e379179e-46fa-4b9a-b129-bb84465787c9",
+    "venue_name": "The Loading Dock - Dock 1053",
+    "latitude": 35.808975,
+    "longitude": -78.621254,
+    "reservations": 1,
+    "spend": 65.0
   }
 ]

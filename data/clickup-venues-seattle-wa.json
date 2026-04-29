@@ -2,17 +2,33 @@
   {
     "venue_id": "fe7c09e6-0ece-4b22-b834-aaa369c25b3d",
     "venue_name": "Expansive - Pioneer Building",
-    "latitude": 47.60219955444336,
-    "longitude": -122.33348083496094,
+    "latitude": 47.6022,
+    "longitude": -122.333481,
     "reservations": 6,
     "spend": 3600.0
   },
   {
     "venue_id": "b8ed54f3-97b1-49b2-8c8a-a30160d6ac86",
     "venue_name": "CENTRL Office - Capitol Hill",
-    "latitude": 47.61480712890625,
-    "longitude": -122.31840515136719,
+    "latitude": 47.614807,
+    "longitude": -122.318405,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "772309c3-3ff9-4c7e-a3fc-ae079c2dd20e",
+    "venue_name": "SPACES | Seattle - Spaces 2 and U",
+    "latitude": 47.606621,
+    "longitude": -122.336746,
+    "reservations": 1,
+    "spend": 59.25
+  },
+  {
+    "venue_id": "8e656a1a-1580-408b-9943-f009fcdce9b4",
+    "venue_name": "The Pioneer Collective - Ballard",
+    "latitude": 47.665913,
+    "longitude": -122.374107,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

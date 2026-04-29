@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "65182c58-9c76-4040-a724-092c5881853b",
+    "venue_name": "Regus | Lakeview University",
+    "latitude": 39.059299,
+    "longitude": -77.452698,
+    "reservations": 2,
+    "spend": 384.49
+  },
+  {
+    "venue_id": "b6b7070d-c841-49ed-ab7a-1a3b44b36907",
+    "venue_name": "HQ | VA, Ashburn - Ashburn Rd",
+    "latitude": 39.03899,
+    "longitude": -77.486992,
+    "reservations": 2,
+    "spend": 213.64
+  },
+  {
+    "venue_id": "77f90b3f-7292-48b8-9f38-c862f68ef6f6",
+    "venue_name": "Venture X | Ashburn",
+    "latitude": 39.053745,
+    "longitude": -77.455505,
+    "reservations": 1,
+    "spend": 40.0
+  }
+]

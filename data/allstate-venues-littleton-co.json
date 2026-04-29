@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "249612f2-98fe-4a97-82a9-45d91bc8dba5",
+    "venue_name": "Kiln - Littleton",
+    "latitude": 39.62254,
+    "longitude": -105.019485,
+    "reservations": 18,
+    "spend": 1535.0
+  },
+  {
+    "venue_id": "0e251e70-a08a-49c8-8c1c-e62c7c8a7676",
+    "venue_name": "Shift Workspaces | Littleton",
+    "latitude": 39.613972,
+    "longitude": -105.019531,
+    "reservations": 2,
+    "spend": 588.0
+  },
+  {
+    "venue_id": "a7c57122-0a1a-4fdd-8ce9-c77116d76682",
+    "venue_name": "Regus | Littleton- W Toller Dr",
+    "latitude": 39.55846,
+    "longitude": -105.120781,
+    "reservations": 2,
+    "spend": 106.51
+  }
+]

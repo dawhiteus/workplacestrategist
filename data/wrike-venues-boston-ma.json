@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0480182a-dfdc-416e-897c-731f880ba6ca",
+    "venue_name": "Boston Offices - Exchange Place",
+    "latitude": 42.358521,
+    "longitude": -71.056107,
+    "reservations": 2,
+    "spend": 980.0
+  },
+  {
+    "venue_id": "f0339915-88cb-4c9f-883f-19c02be6e4f1",
+    "venue_name": "Regus | MA, Boston - Post Office Square",
+    "latitude": 42.357491,
+    "longitude": -71.055588,
+    "reservations": 1,
+    "spend": 159.0
+  }
+]

@@ -2,9 +2,25 @@
   {
     "venue_id": "69a706c6-8fe1-4738-a4a3-bf8973396cb5",
     "venue_name": "980 Spaces - Boca Raton",
-    "latitude": 26.359289169311523,
-    "longitude": -80.082763671875,
+    "latitude": 26.359289,
+    "longitude": -80.082764,
     "reservations": 5,
     "spend": 180.0
+  },
+  {
+    "venue_id": "8e9566d2-62a8-4c17-b4ea-afaeaf55fb9f",
+    "venue_name": "Quest Workspaces- Boca Raton",
+    "latitude": 26.362135,
+    "longitude": -80.081177,
+    "reservations": 2,
+    "spend": 98.0
+  },
+  {
+    "venue_id": "ab3a186b-3bd3-45f5-95d8-ab34c928777e",
+    "venue_name": "Venture X | Boca Raton",
+    "latitude": 26.352762,
+    "longitude": -80.115112,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

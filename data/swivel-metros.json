@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "reservations": 28,
+    "total_spend": 7395.0,
+    "venues": 2,
+    "members": 1
+  }
+]

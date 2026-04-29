@@ -2,9 +2,33 @@
   {
     "venue_id": "146f38f2-0165-4d64-94eb-822c29bb5f4f",
     "venue_name": "Art/Work Coworking",
-    "latitude": 41.889095306396484,
-    "longitude": -87.67283630371094,
+    "latitude": 41.889095,
+    "longitude": -87.672836,
     "reservations": 3,
     "spend": 480.0
+  },
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944,
+    "longitude": -87.636009,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "1bb8484d-f72f-4f39-a55c-23498f14ed24",
+    "venue_name": "WeWork | 515 N State",
+    "latitude": 41.891422,
+    "longitude": -87.62735,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "04ed0f0a-e91f-4273-b13b-649fc0778f38",
+    "venue_name": "Expansive - North Center",
+    "latitude": 41.951618,
+    "longitude": -87.674217,
+    "reservations": 1,
+    "spend": 38.0
   }
 ]

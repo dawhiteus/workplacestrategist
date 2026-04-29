@@ -2,9 +2,17 @@
   {
     "venue_id": "2c035964-d5c6-4d6c-a117-036d999263af",
     "venue_name": "Davis Coworking @ Olive",
-    "latitude": 38.53912353515625,
-    "longitude": -121.73887634277344,
+    "latitude": 38.539124,
+    "longitude": -121.738876,
     "reservations": 9,
     "spend": 380.0
+  },
+  {
+    "venue_id": "ea0fea97-7775-4758-abdd-a955aae5ad33",
+    "venue_name": "Davis Coworking @ I-House",
+    "latitude": 38.546459,
+    "longitude": -121.750473,
+    "reservations": 1,
+    "spend": 50.0
   }
 ]

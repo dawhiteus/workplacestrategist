@@ -1,10 +1,34 @@
 [
   {
+    "venue_id": "c68e36e4-0feb-41b4-9985-88b322353d3f",
+    "venue_name": "Regus | West Loop Riverside Plaza Center",
+    "latitude": 41.881336,
+    "longitude": -87.639107,
+    "reservations": 1,
+    "spend": 273.0
+  },
+  {
     "venue_id": "1337d907-08b1-4200-839f-fe5547768266",
     "venue_name": "Working From_",
-    "latitude": 41.88585662841797,
-    "longitude": -87.64905548095703,
+    "latitude": 41.885857,
+    "longitude": -87.649055,
     "reservations": 4,
     "spend": 160.0
+  },
+  {
+    "venue_id": "5d3aba00-f7e0-41fb-b541-9bb67926070e",
+    "venue_name": "Expansive - West Loop",
+    "latitude": 41.87944,
+    "longitude": -87.636009,
+    "reservations": 1,
+    "spend": 139.0
+  },
+  {
+    "venue_id": "582caaa3-c555-4f5a-9708-8b39566547b1",
+    "venue_name": "Workbox Gold Coast",
+    "latitude": 41.903667,
+    "longitude": -87.631096,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

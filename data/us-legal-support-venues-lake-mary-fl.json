@@ -2,9 +2,17 @@
   {
     "venue_id": "01f1940f-d2ed-4dfd-a9ca-2ee281a6e811",
     "venue_name": "Orlando Office Center at Lake Mary",
-    "latitude": 28.760089874267578,
-    "longitude": -81.35697937011719,
+    "latitude": 28.76009,
+    "longitude": -81.356979,
     "reservations": 38,
     "spend": 3683.0
+  },
+  {
+    "venue_id": "7c23d9d2-d4b4-40a4-882a-bfe4a730da76",
+    "venue_name": "Regus | FL, Lake Mary - Lake Mary",
+    "latitude": 28.77664,
+    "longitude": -81.356964,
+    "reservations": 1,
+    "spend": 49.0
   }
 ]

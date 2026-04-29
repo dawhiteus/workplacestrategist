@@ -1,10 +1,18 @@
 [
   {
+    "venue_id": "e4d9969b-8cd1-4689-8e53-5f648d9cb024",
+    "venue_name": "Workbar Cambridge",
+    "latitude": 42.366482,
+    "longitude": -71.103699,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
     "venue_id": "aa251798-3f9d-4f8a-be00-d2300d153122",
     "venue_name": "WeWork | 625 Mass Ave.",
-    "latitude": 42.36572265625,
-    "longitude": -71.10314178466797,
-    "reservations": 3,
-    "spend": 141.0
+    "latitude": 42.365723,
+    "longitude": -71.103142,
+    "reservations": 4,
+    "spend": 188.0
   }
 ]

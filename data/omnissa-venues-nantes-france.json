@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "0f0e2a94-ac65-43c7-867f-992845a13b35",
+    "venue_name": "Regus | NANTES, Euronantes Gare",
+    "latitude": 47.215363,
+    "longitude": -1.536793,
+    "reservations": 1,
+    "spend": 484.98
+  },
+  {
+    "venue_id": "1f5717d8-ce89-45b4-8746-880b0e144eec",
+    "venue_name": "SPACES | Euronantes",
+    "latitude": 47.215717,
+    "longitude": -1.532517,
+    "reservations": 1,
+    "spend": 151.48
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
+    "venue_name": "Idea Space - Back Bay",
+    "latitude": 42.348598,
+    "longitude": -71.083443,
+    "reservations": 1,
+    "spend": 580.0
+  },
+  {
+    "venue_id": "db7f6905-7393-4dc4-a1e6-b4f6c6149deb",
+    "venue_name": "Intelligent Office - Boston",
+    "latitude": 42.356529,
+    "longitude": -71.053352,
+    "reservations": 1,
+    "spend": 270.0
+  }
+]

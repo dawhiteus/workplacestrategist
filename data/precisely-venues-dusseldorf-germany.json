@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "e5a33b13-2d81-49cc-aa71-a49b340cfed2",
+    "venue_name": "Regus | Dusseldorf Koenigsalee 92a",
+    "latitude": 51.219635,
+    "longitude": 6.779859,
+    "reservations": 72,
+    "spend": 9820.27
+  },
+  {
+    "venue_id": "e8bc24f2-06f1-4210-999d-96f4501cf7e3",
+    "venue_name": "Signature | Dusseldorf Koenigsallee 61",
+    "latitude": 51.218563,
+    "longitude": 6.778833,
+    "reservations": 34,
+    "spend": 6648.59
+  },
+  {
+    "venue_id": "20148797-1d6f-4968-adea-d557d890391a",
+    "venue_name": "Signature | DUSSELDORF, SIGNATURE Heinrich Heine",
+    "latitude": 51.22411,
+    "longitude": 6.776818,
+    "reservations": 16,
+    "spend": 2812.98
+  },
+  {
+    "venue_id": "a90e8563-baf5-49fe-8f11-5ad539e5b05d",
+    "venue_name": "Regus | Dusseldorf, Koe-Bogen",
+    "latitude": 51.227108,
+    "longitude": 6.780819,
+    "reservations": 26,
+    "spend": 2162.03
+  },
+  {
+    "venue_id": "4a25146a-5a3d-4660-8558-2e7dc4bcc8bb",
+    "venue_name": "SPACES | Dusseldorf Andreasquartier",
+    "latitude": 51.229176,
+    "longitude": 6.774678,
+    "reservations": 2,
+    "spend": 575.18
+  },
+  {
+    "venue_id": "a1752698-09f9-4589-b839-59121a7388a5",
+    "venue_name": "Regus | Dusseldorf Neuer Zollhof",
+    "latitude": 51.216587,
+    "longitude": 6.758665,
+    "reservations": 1,
+    "spend": 203.07
+  },
+  {
+    "venue_id": "87d8c549-9351-4612-a105-cf7d58928430",
+    "venue_name": "Regus | Dusseldorf Unternehmerstadt",
+    "latitude": 51.25341,
+    "longitude": 6.7779,
+    "reservations": 1,
+    "spend": 56.91
+  }
+]

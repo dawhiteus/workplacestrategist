@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "87c8a33e-8187-4a58-81f7-b445b2a33b2e",
+    "venue_name": "Regus | Bristol, Aztec West",
+    "latitude": 51.5452,
+    "longitude": -2.5711,
+    "reservations": 5,
+    "spend": 2330.06
+  },
+  {
+    "venue_id": "9e514de0-20dc-4473-b05e-b2546dac20a4",
+    "venue_name": "DeskLodge Beacon Tower",
+    "latitude": 51.45462,
+    "longitude": -2.597343,
+    "reservations": 11,
+    "spend": 861.27
+  },
+  {
+    "venue_id": "f7b1d46b-c17c-445f-93f4-92ae4441294b",
+    "venue_name": "Regus | Bristol, Almondsbury Business Park",
+    "latitude": 51.549179,
+    "longitude": -2.555298,
+    "reservations": 1,
+    "spend": 393.99
+  }
+]

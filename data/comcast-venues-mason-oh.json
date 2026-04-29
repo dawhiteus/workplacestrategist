@@ -2,9 +2,17 @@
   {
     "venue_id": "8b4fdceb-1516-4183-b82f-92b385a3eb02",
     "venue_name": "COhatch - Mason",
-    "latitude": 39.305606842041016,
-    "longitude": -84.31841278076172,
+    "latitude": 39.305607,
+    "longitude": -84.318413,
     "reservations": 14,
     "spend": 2951.0
+  },
+  {
+    "venue_id": "95322e71-6f28-4ec4-8792-4c0fd7e37778",
+    "venue_name": "Revelance",
+    "latitude": 39.313408,
+    "longitude": -84.300552,
+    "reservations": 1,
+    "spend": 250.0
   }
 ]

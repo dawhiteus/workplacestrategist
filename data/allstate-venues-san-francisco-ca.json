@@ -1,0 +1,50 @@
+[
+  {
+    "venue_id": "9c24f4cb-3dbd-4a87-bac8-f9954df444a0",
+    "venue_name": "Hotel Caza",
+    "latitude": 37.806587,
+    "longitude": -122.418015,
+    "reservations": 3,
+    "spend": 1375.0
+  },
+  {
+    "venue_id": "6930bcbf-bc8a-40c4-945e-1c2878494fed",
+    "venue_name": "Industrious - San Francisco Union Square",
+    "latitude": 37.7878,
+    "longitude": -122.404778,
+    "reservations": 1,
+    "spend": 600.0
+  },
+  {
+    "venue_id": "d5fe14f4-1035-4935-9a57-b472b20703b4",
+    "venue_name": "Townsend Enterprises",
+    "latitude": 37.776226,
+    "longitude": -122.396507,
+    "reservations": 1,
+    "spend": 500.0
+  },
+  {
+    "venue_id": "d6d2668b-aa60-4bf4-be44-71f65fa94741",
+    "venue_name": "(OS2) One Sansome",
+    "latitude": 37.790447,
+    "longitude": -122.401154,
+    "reservations": 1,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
+    "venue_name": "WeWork | Salesforce Tower",
+    "latitude": 37.789818,
+    "longitude": -122.396904,
+    "reservations": 1,
+    "spend": 82.0
+  },
+  {
+    "venue_id": "61030c60-77f3-0132-327d-72b222009680",
+    "venue_name": "WeWork | 535 Mission St",
+    "latitude": 37.788891,
+    "longitude": -122.398094,
+    "reservations": 1,
+    "spend": 59.0
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "820d5ae7-41bc-42dd-8de7-5274ea5471c4",
     "venue_name": "Clubhouse Work & Golf",
-    "latitude": 39.61222839355469,
-    "longitude": -104.89891815185547,
+    "latitude": 39.612228,
+    "longitude": -104.898918,
     "reservations": 5,
     "spend": 375.0
+  },
+  {
+    "venue_id": "a89b4714-a9d0-42a9-9477-5af1171ccce6",
+    "venue_name": "Enterprise Coworking | Greenwood Village",
+    "latitude": 39.616055,
+    "longitude": -104.898727,
+    "reservations": 1,
+    "spend": 60.0
   }
 ]

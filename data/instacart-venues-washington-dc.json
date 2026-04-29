@@ -2,25 +2,57 @@
   {
     "venue_id": "41083117-9b28-4959-a449-df847032de25",
     "venue_name": "Signature | Washington - 600 Mass Ave",
-    "latitude": 38.90125274658203,
-    "longitude": -77.02092742919922,
+    "latitude": 38.901253,
+    "longitude": -77.020927,
     "reservations": 6,
     "spend": 3192.0
   },
   {
     "venue_id": "0f2e3975-6fa5-47d3-b1e4-c6a87eaa2b45",
     "venue_name": "The Mark at Manhattan Laundry",
-    "latitude": 38.91984939575195,
-    "longitude": -77.03076171875,
+    "latitude": 38.919849,
+    "longitude": -77.030762,
     "reservations": 5,
     "spend": 3160.0
   },
   {
     "venue_id": "5dc79a7d-44b1-496e-b06d-dd0fafa9c6b1",
     "venue_name": "Metro Offices - Farragut",
-    "latitude": 38.90142059326172,
-    "longitude": -77.0405502319336,
+    "latitude": 38.901421,
+    "longitude": -77.04055,
     "reservations": 3,
     "spend": 750.0
+  },
+  {
+    "venue_id": "4e9cbe0e-f0f8-4040-b781-ae6691e709b6",
+    "venue_name": "District Offices Farragut",
+    "latitude": 38.903351,
+    "longitude": -77.039268,
+    "reservations": 2,
+    "spend": 675.0
+  },
+  {
+    "venue_id": "6579c778-1a5a-45e6-944b-5ef820d80b59",
+    "venue_name": "Industrious - Mt. Vernon Triangle",
+    "latitude": 38.901535,
+    "longitude": -77.02153,
+    "reservations": 1,
+    "spend": 657.0
+  },
+  {
+    "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
+    "venue_name": "Mindspace K St",
+    "latitude": 38.902962,
+    "longitude": -77.030716,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "62bc4b9b-0a97-42ed-b73c-44a46814ce16",
+    "venue_name": "Metro Offices - Dupont Circle",
+    "latitude": 38.907021,
+    "longitude": -77.042213,
+    "reservations": 1,
+    "spend": 300.0
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "0c156ec9-bb5b-4bc4-aa18-02fa5b8c68c4",
     "venue_name": "THRIVE | Birmingham",
-    "latitude": 33.50654220581055,
-    "longitude": -86.8141098022461,
-    "reservations": 7,
-    "spend": 1110.0
+    "latitude": 33.506542,
+    "longitude": -86.81411,
+    "reservations": 8,
+    "spend": 1140.0
+  },
+  {
+    "venue_id": "46e1395d-b3bc-44cb-9343-64ecb3d61dc3",
+    "venue_name": "YourOffice - Birmingham",
+    "latitude": 33.399738,
+    "longitude": -86.665108,
+    "reservations": 1,
+    "spend": 100.0
   }
 ]

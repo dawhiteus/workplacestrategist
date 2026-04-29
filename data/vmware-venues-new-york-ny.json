@@ -2,65 +2,177 @@
   {
     "venue_id": "0b1d844b-aeb7-4261-b980-9e18c004591b",
     "venue_name": "Blender Workspace",
-    "latitude": 40.745994567871094,
-    "longitude": -73.98397827148438,
+    "latitude": 40.745995,
+    "longitude": -73.983978,
     "reservations": 6,
     "spend": 2660.0
   },
   {
+    "venue_id": "1a323ea9-4171-4680-9c1d-ae60a0fadbff",
+    "venue_name": "Jay Suites Bryant Park - 1441 Broadway",
+    "latitude": 40.754822,
+    "longitude": -73.986916,
+    "reservations": 2,
+    "spend": 2000.0
+  },
+  {
     "venue_id": "e4d1cbe7-1840-4c34-8847-7e42e215c8ee",
     "venue_name": "Jay Suites - Times Square - 10 Times Sq.",
-    "latitude": 40.75497817993164,
-    "longitude": -73.98719024658203,
+    "latitude": 40.754978,
+    "longitude": -73.98719,
     "reservations": 3,
     "spend": 1475.0
   },
   {
+    "venue_id": "2d4adf28-ced4-4722-80c3-63bda895dcb0",
+    "venue_name": "Jay Suites - Fifth Avenue Location",
+    "latitude": 40.751606,
+    "longitude": -73.983688,
+    "reservations": 2,
+    "spend": 1200.0
+  },
+  {
+    "venue_id": "fc84ff62-49d2-4249-b793-e6f63b1c002d",
+    "venue_name": "Emerge212 - 125 Park Avenue",
+    "latitude": 40.751789,
+    "longitude": -73.977364,
+    "reservations": 1,
+    "spend": 875.0
+  },
+  {
     "venue_id": "602fd624-23b4-4eb8-99ba-ae2c42556794",
     "venue_name": "Emerge212 - 3 Columbus Circle",
-    "latitude": 40.76688003540039,
-    "longitude": -73.98223876953125,
+    "latitude": 40.76688,
+    "longitude": -73.982239,
     "reservations": 4,
     "spend": 825.0
   },
   {
     "venue_id": "02a98fda-7480-4a76-abfc-d76bd4e79309",
     "venue_name": "Regus | 41 Madison Avenue",
-    "latitude": 40.74250030517578,
-    "longitude": -73.98660278320312,
+    "latitude": 40.7425,
+    "longitude": -73.986603,
     "reservations": 3,
     "spend": 622.5
   },
   {
     "venue_id": "4d739326-7185-4158-829d-4ec91747643e",
     "venue_name": "Jay Suites - Chelsea",
-    "latitude": 40.74530792236328,
-    "longitude": -73.99393463134766,
+    "latitude": 40.745308,
+    "longitude": -73.993935,
     "reservations": 3,
     "spend": 460.0
   },
   {
     "venue_id": "78dfb691-1abe-4c18-934c-7f9327a06cc8",
     "venue_name": "WorkHouse NYC | Midtown - Grand Central",
-    "latitude": 40.75672149658203,
-    "longitude": -73.98004150390625,
+    "latitude": 40.756721,
+    "longitude": -73.980042,
     "reservations": 5,
     "spend": 370.0
   },
   {
+    "venue_id": "31783397-9e95-48a7-b2f9-bff827fbefb7",
+    "venue_name": "Workville",
+    "latitude": 40.753639,
+    "longitude": -73.986526,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "74acbbdb-76ba-42c5-b0c8-3789fbeea01c",
+    "venue_name": "Helix Workspace - 295 Madison Avenue",
+    "latitude": 40.751759,
+    "longitude": -73.979469,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
     "venue_id": "1e6c6a24-12aa-4ada-a58b-421fead9c485",
     "venue_name": "Workspace by Rockefeller Group",
-    "latitude": 40.7594108581543,
-    "longitude": -73.97814178466797,
+    "latitude": 40.759411,
+    "longitude": -73.978142,
     "reservations": 3,
     "spend": 265.0
   },
   {
+    "venue_id": "49abea9b-f38a-4f0f-8d9b-06d21bcd4407",
+    "venue_name": "Gravel Road Business Executive Suites",
+    "latitude": 40.750992,
+    "longitude": -73.981125,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "7d5a14e7-8fdc-4e0c-9d97-7d8d3cb384f3",
+    "venue_name": "Grand Central Offices",
+    "latitude": 40.756142,
+    "longitude": -73.982834,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "b69e0a98-f12b-4462-9a55-e55bd97dade8",
+    "venue_name": "Carr Workplaces - Central Park",
+    "latitude": 40.763271,
+    "longitude": -73.973549,
+    "reservations": 1,
+    "spend": 195.0
+  },
+  {
+    "venue_id": "42c247ea-a225-4575-a0b7-6ca49f421643",
+    "venue_name": "SPACES | Midtown South",
+    "latitude": 40.742962,
+    "longitude": -73.983757,
+    "reservations": 1,
+    "spend": 190.8
+  },
+  {
+    "venue_id": "d5b74ad4-250a-44eb-822e-dab081755989",
+    "venue_name": "Regus | 600 Third Avenue",
+    "latitude": 40.749199,
+    "longitude": -73.9758,
+    "reservations": 1,
+    "spend": 167.0
+  },
+  {
     "venue_id": "db292c72-2173-4f25-a8a4-27505c21bdd8",
     "venue_name": "The Yard: Flatiron South",
-    "latitude": 40.74427032470703,
-    "longitude": -73.98790740966797,
+    "latitude": 40.74427,
+    "longitude": -73.987907,
     "reservations": 3,
     "spend": 105.0
+  },
+  {
+    "venue_id": "b0e0097f-13a5-4a0f-a27e-49be8613c5eb",
+    "venue_name": "Charm Offices LLC - Midtown",
+    "latitude": 40.751072,
+    "longitude": -73.981606,
+    "reservations": 1,
+    "spend": 99.0
+  },
+  {
+    "venue_id": "f533cbcb-e1d5-4226-a28d-82e1fd479fa9",
+    "venue_name": "WeWork | 33 Irving Pl",
+    "latitude": 40.735138,
+    "longitude": -73.988243,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "c068e985-dca6-4226-afec-c250e0a1fb4d",
+    "venue_name": "Serendipity Labs - New York - Financial District",
+    "latitude": 40.707855,
+    "longitude": -74.00898,
+    "reservations": 1,
+    "spend": 49.0
+  },
+  {
+    "venue_id": "1404b615-4593-4a2d-a1e2-a8e2ae1b414e",
+    "venue_name": "The Yard: Herald Square",
+    "latitude": 40.74855,
+    "longitude": -73.989388,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

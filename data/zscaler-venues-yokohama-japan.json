@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "e5f5213f-84b8-4c71-9646-0a2eb6724671",
+    "venue_name": "The Executive Centre - Minato Mirai Center",
+    "latitude": 35.45768,
+    "longitude": 139.633301,
+    "reservations": 17,
+    "spend": 736.91
+  },
+  {
+    "venue_id": "847b00a5-f964-4fb9-9c88-23c846a05cfe",
+    "venue_name": "Regus | Yokohama, Yokohama Landmark Plaza",
+    "latitude": 35.454399,
+    "longitude": 139.630997,
+    "reservations": 2,
+    "spend": 233.52
+  },
+  {
+    "venue_id": "99f62d87-e036-4a47-afbd-edaa98244e2c",
+    "venue_name": "Regus | YOKOHAMA, Shin-Yokohama Square",
+    "latitude": 35.507919,
+    "longitude": 139.615173,
+    "reservations": 1,
+    "spend": 211.28
+  },
+  {
+    "venue_id": "5e985b17-c57b-4336-a844-7bc5175f4fb5",
+    "venue_name": "Regus | Tokyo Yokohama Blue Avenue",
+    "latitude": 35.460201,
+    "longitude": 139.626999,
+    "reservations": 2,
+    "spend": 118.32
+  },
+  {
+    "venue_id": "1366d58f-677f-4593-bc56-6fc61a102307",
+    "venue_name": "Regus | YOKOHAMA, Yokohamaeki Nishiguchi",
+    "latitude": 35.467373,
+    "longitude": 139.617767,
+    "reservations": 1,
+    "spend": 68.53
+  }
+]

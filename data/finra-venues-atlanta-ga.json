@@ -2,17 +2,41 @@
   {
     "venue_id": "c39f2b81-3a3e-411c-9b3b-8ee43c1eb2e8",
     "venue_name": "Regus | City View",
-    "latitude": 33.873958587646484,
-    "longitude": -84.45865631103516,
+    "latitude": 33.873959,
+    "longitude": -84.458656,
     "reservations": 26,
     "spend": 5056.69
   },
   {
     "venue_id": "038c7481-0839-47e1-a557-890637b58104",
     "venue_name": "Regus | Sterling Pointe",
-    "latitude": 33.92829895019531,
-    "longitude": -84.33370208740234,
+    "latitude": 33.928299,
+    "longitude": -84.333702,
     "reservations": 7,
     "spend": 1132.14
+  },
+  {
+    "venue_id": "b8e128d1-8165-4c90-ae2a-cfa525b23272",
+    "venue_name": "No18 | Atlanta - Buckhead",
+    "latitude": 33.839096,
+    "longitude": -84.378372,
+    "reservations": 1,
+    "spend": 922.0
+  },
+  {
+    "venue_id": "4d794409-9b2b-4dac-a643-9b2943c3dcb4",
+    "venue_name": "HQ | GA, Atlanta North - Cumberland  Riverwood Center",
+    "latitude": 33.877884,
+    "longitude": -84.458382,
+    "reservations": 2,
+    "spend": 623.75
+  },
+  {
+    "venue_id": "7ad70ba2-07cf-4dc7-ad3a-43ebfed775e2",
+    "venue_name": "Regus | Peachtree Road",
+    "latitude": 33.848679,
+    "longitude": -84.36705,
+    "reservations": 1,
+    "spend": 292.67
   }
 ]

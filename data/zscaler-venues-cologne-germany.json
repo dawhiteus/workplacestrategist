@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "aaa000e9-35cb-4459-8e46-bcca32eb8b4f",
+    "venue_name": "SPACES | Cologne, Breite Strasse",
+    "latitude": 50.938366,
+    "longitude": 6.945819,
+    "reservations": 2,
+    "spend": 766.75
+  },
+  {
+    "venue_id": "cfd316ec-9652-45b4-a067-ff3e5373a6af",
+    "venue_name": "Regus | Cologne, Deutz Cubus",
+    "latitude": 50.940643,
+    "longitude": 6.992481,
+    "reservations": 2,
+    "spend": 652.53
+  }
+]

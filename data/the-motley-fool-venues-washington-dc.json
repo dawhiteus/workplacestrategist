@@ -2,33 +2,89 @@
   {
     "venue_id": "8af21f9e-b2f6-4074-b26f-8f196ed31bc3",
     "venue_name": "SPACES | DC, Washington- 800 Maine Avenue",
-    "latitude": 38.8797607421875,
-    "longitude": -77.02462768554688,
+    "latitude": 38.879761,
+    "longitude": -77.024628,
     "reservations": 3,
     "spend": 921.0
   },
   {
     "venue_id": "f541b03e-f00b-44c0-8448-cebfeebddc05",
     "venue_name": "Workbox Dupont Circle",
-    "latitude": 38.90525817871094,
-    "longitude": -77.03268432617188,
+    "latitude": 38.905258,
+    "longitude": -77.032684,
     "reservations": 20,
     "spend": 700.0
   },
   {
     "venue_id": "619dad2e-e6bc-4dd1-b6b6-623fbb7c1cca",
     "venue_name": "WeWork | 1701 Rhode Island Ave NW",
-    "latitude": 38.90671157836914,
-    "longitude": -77.03875732421875,
+    "latitude": 38.906712,
+    "longitude": -77.038757,
     "reservations": 8,
     "spend": 376.0
   },
   {
+    "venue_id": "62bc4b9b-0a97-42ed-b73c-44a46814ce16",
+    "venue_name": "Metro Offices - Dupont Circle",
+    "latitude": 38.907021,
+    "longitude": -77.042213,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
     "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
     "venue_name": "Mindspace K St",
-    "latitude": 38.90296173095703,
-    "longitude": -77.03071594238281,
+    "latitude": 38.902962,
+    "longitude": -77.030716,
     "reservations": 4,
     "spend": 160.0
+  },
+  {
+    "venue_id": "25c42dc2-8ab4-45e4-83e8-e2a0496e8b39",
+    "venue_name": "Capital Workspaces - Spring Valley 4315",
+    "latitude": 38.945717,
+    "longitude": -77.098221,
+    "reservations": 1,
+    "spend": 60.0
+  },
+  {
+    "venue_id": "3b63c688-f62a-44cf-bb06-bb53bd677395",
+    "venue_name": "WeWork | Midtown Center",
+    "latitude": 38.903938,
+    "longitude": -77.034988,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "ce44289a-ff20-4aa2-9515-dbb169f83571",
+    "venue_name": "Regus | Washington - 1015 15th Street",
+    "latitude": 38.903297,
+    "longitude": -77.034088,
+    "reservations": 2,
+    "spend": 51.63
+  },
+  {
+    "venue_id": "f83d46f6-9824-472f-b7d8-4652fde5beb9",
+    "venue_name": "Carr Workplaces - Penn Ave.",
+    "latitude": 38.899399,
+    "longitude": -77.03981,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "1eb7c63a-5ed0-4abe-b797-7e62a40f6d74",
+    "venue_name": "Regus | Washington - 1500 K Street",
+    "latitude": 38.902279,
+    "longitude": -77.035011,
+    "reservations": 1,
+    "spend": 30.63
+  },
+  {
+    "venue_id": "d90b573b-a732-4423-924b-06b7487d99fb",
+    "venue_name": "District Offices Georgetown",
+    "latitude": 38.904339,
+    "longitude": -77.058907,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

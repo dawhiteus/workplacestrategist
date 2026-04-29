@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "017820ed-de41-4dee-9337-d13ce87b1009",
+    "venue_name": "Empire Scottsdale",
+    "latitude": 33.490086,
+    "longitude": -111.926941,
+    "reservations": 1,
+    "spend": 1250.0
+  },
+  {
+    "venue_id": "69a7c06a-6337-402b-9369-c21c01abe698",
+    "venue_name": "Lucid Private Offices | Kierland-North Scottsdale",
+    "latitude": 33.63393,
+    "longitude": -111.926598,
+    "reservations": 1,
+    "spend": 425.0
+  }
+]

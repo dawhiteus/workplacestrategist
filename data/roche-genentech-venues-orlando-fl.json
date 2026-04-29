@@ -2,9 +2,33 @@
   {
     "venue_id": "fe7cb8c1-7d06-40a7-8b7b-38d5d0322818",
     "venue_name": "Venture X | Downtown Orlando",
-    "latitude": 28.541105270385742,
-    "longitude": -81.37689971923828,
+    "latitude": 28.541105,
+    "longitude": -81.3769,
     "reservations": 8,
     "spend": 1970.0
+  },
+  {
+    "venue_id": "d714d621-b214-466e-b2c1-8ea2cb84bf7d",
+    "venue_name": "e|spaces Orlando",
+    "latitude": 28.538706,
+    "longitude": -81.381165,
+    "reservations": 1,
+    "spend": 340.0
+  },
+  {
+    "venue_id": "627caa8c-c0da-495e-b434-e4ed0bfccc6b",
+    "venue_name": "Orlando Office Space",
+    "latitude": 28.42922,
+    "longitude": -81.406219,
+    "reservations": 2,
+    "spend": 270.0
+  },
+  {
+    "venue_id": "217a8d02-18ca-4308-9488-072272b2b399",
+    "venue_name": "YourOffice - Downtown Orlando",
+    "latitude": 28.541023,
+    "longitude": -81.378708,
+    "reservations": 1,
+    "spend": 240.0
   }
 ]

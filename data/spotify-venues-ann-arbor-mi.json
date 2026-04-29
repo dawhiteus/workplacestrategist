@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "4ddf7fe3-a310-4b2e-bf90-4e7eff70e0f3",
+    "venue_name": "Cahoots",
+    "latitude": 42.281181,
+    "longitude": -83.746864,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "6fcd5338-58c8-4314-93b3-7200ca87e926",
+    "venue_name": "BrightWorks Coworking Forest Cove ",
+    "latitude": 42.298393,
+    "longitude": -83.790855,
+    "reservations": 2,
+    "spend": 60.0
+  }
+]

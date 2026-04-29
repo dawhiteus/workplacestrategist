@@ -1,10 +1,26 @@
 [
   {
+    "venue_id": "234d442f-b630-4b73-88a6-6d71e81296fd",
+    "venue_name": "Expansive - Wacker",
+    "latitude": 41.886505,
+    "longitude": -87.634575,
+    "reservations": 2,
+    "spend": 1050.0
+  },
+  {
     "venue_id": "2885c5f5-48b8-4955-a405-b1b52042598d",
     "venue_name": "Nimbler-Spaces - 444 N. Wabash",
-    "latitude": 41.890647888183594,
-    "longitude": -87.62683868408203,
+    "latitude": 41.890648,
+    "longitude": -87.626839,
     "reservations": 4,
     "spend": 990.0
+  },
+  {
+    "venue_id": "348a8f66-fb0f-4cb6-bc3b-9c03a0fec9d0",
+    "venue_name": "Office Evolution - Chicago/ O'Hare",
+    "latitude": 41.985901,
+    "longitude": -87.845261,
+    "reservations": 1,
+    "spend": 105.0
   }
 ]

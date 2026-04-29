@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "dddf211c-93f9-429f-a828-24cca47ef754",
+    "venue_name": "Hampton Business Center",
+    "latitude": 26.025169,
+    "longitude": -80.346611,
+    "reservations": 1,
+    "spend": 105.0
+  },
+  {
+    "venue_id": "6c68df13-028c-4e34-a0cd-60bb007b1362",
+    "venue_name": "Global Impact Workspace",
+    "latitude": 26.007519,
+    "longitude": -80.265305,
+    "reservations": 1,
+    "spend": 15.0
+  }
+]

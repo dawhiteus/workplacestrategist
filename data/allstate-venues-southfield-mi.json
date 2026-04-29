@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "50467b66-33a2-49ae-b60f-8a6dadf80803",
+    "venue_name": "Farbman Group | Oakland Commons I",
+    "latitude": 42.482059,
+    "longitude": -83.24865,
+    "reservations": 7,
+    "spend": 1700.0
+  },
+  {
+    "venue_id": "10588006-8649-41fb-9f5c-f43aeec929f4",
+    "venue_name": "AmeriCenter of Franklin/Southfield",
+    "latitude": 42.499706,
+    "longitude": -83.310364,
+    "reservations": 2,
+    "spend": 450.0
+  },
+  {
+    "venue_id": "048be6dd-576f-454c-8121-949d243686c6",
+    "venue_name": "Regus | Southfield - Onyx Office Plaza",
+    "latitude": 42.505665,
+    "longitude": -83.286972,
+    "reservations": 1,
+    "spend": 52.89
+  }
+]

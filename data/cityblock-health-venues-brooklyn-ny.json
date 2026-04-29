@@ -2,17 +2,33 @@
   {
     "venue_id": "359fd272-f85e-413d-bd88-d64533f1b825",
     "venue_name": "Bond Collective Greenpoint",
-    "latitude": 40.73026657104492,
-    "longitude": -73.94893646240234,
+    "latitude": 40.730267,
+    "longitude": -73.948936,
     "reservations": 6,
     "spend": 1775.0
   },
   {
     "venue_id": "57df9635-bd8b-473f-93dc-464f999cba8b",
     "venue_name": "The New Work Project",
-    "latitude": 40.72095489501953,
-    "longitude": -73.95805358886719,
+    "latitude": 40.720955,
+    "longitude": -73.958054,
     "reservations": 3,
     "spend": 650.0
+  },
+  {
+    "venue_id": "f35b9168-da34-4aa0-95e6-55d9a76f9b69",
+    "venue_name": "4Corners Business Centers - Downtown Brooklyn, NY",
+    "latitude": 40.69273,
+    "longitude": -73.991119,
+    "reservations": 2,
+    "spend": 409.0
+  },
+  {
+    "venue_id": "ab0b684f-7297-4e34-83e1-4adb99b282c2",
+    "venue_name": "BKLYN Commons - Brooklyn NY",
+    "latitude": 40.662239,
+    "longitude": -73.961609,
+    "reservations": 1,
+    "spend": 40.0
   }
 ]

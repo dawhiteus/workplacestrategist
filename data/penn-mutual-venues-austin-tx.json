@@ -2,9 +2,17 @@
   {
     "venue_id": "a030b5ba-13c8-40bd-a379-d979841fc46b",
     "venue_name": "FUSE Workspace-Four Points",
-    "latitude": 30.410009384155273,
-    "longitude": -97.85163116455078,
+    "latitude": 30.410009,
+    "longitude": -97.851631,
     "reservations": 15,
     "spend": 450.0
+  },
+  {
+    "venue_id": "33ac76ec-876d-4a67-b5f2-f4f55656d400",
+    "venue_name": "Regus | Dobie Center",
+    "latitude": 30.283272,
+    "longitude": -97.741745,
+    "reservations": 1,
+    "spend": 24.38
   }
 ]

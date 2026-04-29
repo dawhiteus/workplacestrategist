@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "1e58b83f-0f09-417c-bf33-5f41956c05b6",
+    "venue_name": "WeWork | 2015 Main St",
+    "latitude": 49.267006,
+    "longitude": -123.101234,
+    "reservations": 31,
+    "spend": 1190.88
+  },
+  {
+    "venue_id": "64193a28-10e3-4d11-bf0d-e6c8fcd1aebf",
+    "venue_name": "WeWork | Bentall II",
+    "latitude": 49.286369,
+    "longitude": -123.119072,
+    "reservations": 1,
+    "spend": 34.43
+  }
+]

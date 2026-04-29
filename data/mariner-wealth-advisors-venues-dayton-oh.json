@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "9bcbe073-b641-4c2d-b570-9dad95c3b93c",
+    "venue_name": "HQ | OH, Dayton - Washington Village Dr",
+    "latitude": 39.627129,
+    "longitude": -84.196922,
+    "reservations": 2,
+    "spend": 82.66
+  },
+  {
+    "venue_id": "9b1cdeae-a356-4fc8-a8e2-a6d500e8d5e9",
+    "venue_name": "Regus | Dayton - Washington Village Dr",
+    "latitude": 39.627129,
+    "longitude": -84.196922,
+    "reservations": 2,
+    "spend": 70.6
+  }
+]

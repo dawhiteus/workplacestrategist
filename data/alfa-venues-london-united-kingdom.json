@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "61165ffb-a061-4829-adce-e6ff76d1a064",
+    "venue_name": "WeWork | 120 Moorgate",
+    "latitude": 51.518875,
+    "longitude": -0.08759,
+    "reservations": 1,
+    "spend": 513.49
+  },
+  {
+    "venue_id": "d1bfaaf4-d523-4225-9d9a-279799eaf3ef",
+    "venue_name": "WeWork | 2 Eastbourne Terrace",
+    "latitude": 51.517578,
+    "longitude": -0.180429,
+    "reservations": 1,
+    "spend": 68.19
+  },
+  {
+    "venue_id": "24c534dc-69a4-48cc-9144-435070220961",
+    "venue_name": "XCHG London",
+    "latitude": 51.51442,
+    "longitude": -0.083048,
+    "reservations": 1,
+    "spend": 60.01
+  }
+]

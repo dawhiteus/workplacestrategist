@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "44c43433-9ae5-4ea6-82cc-0f7f247041eb",
+    "venue_name": "Industrious - Perimeter 7000 Central Parkway",
+    "latitude": 33.927231,
+    "longitude": -84.348709,
+    "reservations": 1,
+    "spend": 607.0
+  },
+  {
+    "venue_id": "106a1b5d-57a8-4f78-be8c-20022180f34b",
+    "venue_name": "Roam Buckhead - Peachtree",
+    "latitude": 33.851471,
+    "longitude": -84.360031,
+    "reservations": 1,
+    "spend": 300.0
+  },
+  {
+    "venue_id": "b8e128d1-8165-4c90-ae2a-cfa525b23272",
+    "venue_name": "No18 | Atlanta - Buckhead",
+    "latitude": 33.839096,
+    "longitude": -84.378372,
+    "reservations": 1,
+    "spend": 147.0
+  },
+  {
+    "venue_id": "7faad3f8-e4de-4a7e-8977-e2bf7da50cf0",
+    "venue_name": "Roam Perimeter Center",
+    "latitude": 33.919552,
+    "longitude": -84.342674,
+    "reservations": 1,
+    "spend": 50.0
+  }
+]

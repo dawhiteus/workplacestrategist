@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "ff79ebf5-39b5-4a2d-8dca-46a192488614",
+    "venue_name": "Awfis | Premium Coworking-Prestige Technology Park",
+    "latitude": 12.940037,
+    "longitude": 77.689491,
+    "reservations": 4,
+    "spend": 306.76
+  },
+  {
+    "venue_id": "c5c0f315-a6b0-4203-b042-e395e7d4186d",
+    "venue_name": "Awfis | Coworking-Vajram Esteva2",
+    "latitude": 12.927475,
+    "longitude": 77.679504,
+    "reservations": 1,
+    "spend": 54.75
+  },
+  {
+    "venue_id": "51bb4936-99ee-4443-901f-108ac03474c6",
+    "venue_name": "Awfis | Coworking-Vajram Esteva3",
+    "latitude": 12.927475,
+    "longitude": 77.679504,
+    "reservations": 1,
+    "spend": 23.91
+  }
+]

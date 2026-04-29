@@ -2,9 +2,17 @@
   {
     "venue_id": "0db591e9-8fc9-4d3d-8816-e18215439953",
     "venue_name": "Common Desk - Ft. Worth",
-    "latitude": 32.749969482421875,
-    "longitude": -97.35721588134766,
+    "latitude": 32.749969,
+    "longitude": -97.357216,
     "reservations": 3,
     "spend": 270.0
+  },
+  {
+    "venue_id": "fd28376c-6f40-4218-9d5e-fb7b05639163",
+    "venue_name": "Lucid Private Offices | Keller - Fort Worth",
+    "latitude": 32.912079,
+    "longitude": -97.271896,
+    "reservations": 1,
+    "spend": 195.0
   }
 ]

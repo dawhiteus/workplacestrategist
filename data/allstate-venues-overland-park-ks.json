@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "e175b6f1-3ad2-4254-ac1a-95f2b8364f6d",
+    "venue_name": "Serendipity Labs - Kansas City - Overland Park",
+    "latitude": 38.930252,
+    "longitude": -94.647057,
+    "reservations": 19,
+    "spend": 2328.0
+  },
+  {
+    "venue_id": "fb2499b7-c8fe-4f44-b2d1-32e4bea00b1f",
+    "venue_name": "Office Evolution - Overland Park",
+    "latitude": 38.927086,
+    "longitude": -94.680908,
+    "reservations": 4,
+    "spend": 885.0
+  },
+  {
+    "venue_id": "7712154b-12bc-47a8-8368-fe2d18fba672",
+    "venue_name": "GRID COLLABORATIVE WORKSPACES",
+    "latitude": 38.90963,
+    "longitude": -94.673218,
+    "reservations": 1,
+    "spend": 180.0
+  }
+]

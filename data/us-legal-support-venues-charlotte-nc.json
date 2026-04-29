@@ -2,17 +2,33 @@
   {
     "venue_id": "55f283ed-d009-43fa-9de0-30339073d042",
     "venue_name": "Venture X | Charlotte Toringdon",
-    "latitude": 35.06632995605469,
-    "longitude": -80.83941650390625,
+    "latitude": 35.06633,
+    "longitude": -80.839417,
     "reservations": 3,
     "spend": 900.0
   },
   {
     "venue_id": "aed50af9-1f0d-4965-8248-dec5477a4b81",
     "venue_name": "(CHA) Charlotte",
-    "latitude": 35.16416931152344,
-    "longitude": -80.8922119140625,
+    "latitude": 35.164169,
+    "longitude": -80.892212,
     "reservations": 2,
     "spend": 520.0
+  },
+  {
+    "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
+    "venue_name": "Expansive - Uptown",
+    "latitude": 35.22784,
+    "longitude": -80.846291,
+    "reservations": 1,
+    "spend": 250.0
+  },
+  {
+    "venue_id": "67863677-e23a-4479-90a4-b3fc0b0cd8f3",
+    "venue_name": "ExecuBusiness Centers",
+    "latitude": 35.338818,
+    "longitude": -80.769547,
+    "reservations": 1,
+    "spend": 180.0
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "04256c9b-76b1-4df0-9df7-b9f2d48a07df",
+    "venue_name": "(COL) Koll Center",
+    "latitude": 34.146381,
+    "longitude": -118.128738,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "5a9b10cb-2e2b-495d-987b-b4cebefb23b2",
+    "venue_name": "Greenhouse Therapy Center",
+    "latitude": 34.149715,
+    "longitude": -118.131973,
+    "reservations": 1,
+    "spend": 105.0
+  }
+]

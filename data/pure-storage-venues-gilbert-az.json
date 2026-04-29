@@ -2,9 +2,17 @@
   {
     "venue_id": "5373a408-6ef2-42e3-a437-4f4ae7d683e7",
     "venue_name": "VEW Property LLC",
-    "latitude": 33.3067512512207,
-    "longitude": -111.78842163085938,
+    "latitude": 33.306751,
+    "longitude": -111.788422,
     "reservations": 5,
     "spend": 770.0
+  },
+  {
+    "venue_id": "61bd04d2-b519-4b04-9269-3e62884a2ac5",
+    "venue_name": "Kiln - Gilbert",
+    "latitude": 33.309608,
+    "longitude": -111.743835,
+    "reservations": 1,
+    "spend": 200.0
   }
 ]

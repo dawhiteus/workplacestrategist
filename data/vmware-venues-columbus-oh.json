@@ -2,17 +2,41 @@
   {
     "venue_id": "715bb50c-5a33-42de-86ee-5f0412328e4f",
     "venue_name": "Office Evolution - Columbus/Easton Town Center",
-    "latitude": 40.053489685058594,
-    "longitude": -82.91635131835938,
+    "latitude": 40.05349,
+    "longitude": -82.916351,
     "reservations": 7,
     "spend": 2600.0
   },
   {
     "venue_id": "1b8708fe-ebc6-4d0b-8817-de92d3a50ce4",
     "venue_name": "Office Evolution - Columbus | Worthington",
-    "latitude": 40.11941146850586,
-    "longitude": -83.01036834716797,
+    "latitude": 40.119411,
+    "longitude": -83.010368,
     "reservations": 6,
     "spend": 560.0
+  },
+  {
+    "venue_id": "ff80928d-9f68-4906-a739-e271da965727",
+    "venue_name": "Haven Collective - Mansion",
+    "latitude": 39.964428,
+    "longitude": -82.984154,
+    "reservations": 1,
+    "spend": 400.0
+  },
+  {
+    "venue_id": "256880a2-5011-4fc5-ac51-da6955619a0c",
+    "venue_name": "THRIVE | Columbus",
+    "latitude": 39.960777,
+    "longitude": -83.013535,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "aaae2d99-1ffc-469c-b1b0-5aab27e15fc2",
+    "venue_name": "COhatch - Upper Arlington",
+    "latitude": 40.007,
+    "longitude": -83.056503,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

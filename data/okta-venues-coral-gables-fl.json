@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ae6f8c3e-2fe8-49d1-8a28-e4f40b333c03",
+    "venue_name": "Quest Workspaces- Coral Gables",
+    "latitude": 25.748461,
+    "longitude": -80.258476,
+    "reservations": 1,
+    "spend": 125.0
+  },
+  {
+    "venue_id": "64ba1d1b-7532-4dcd-97b8-30742c1e8701",
+    "venue_name": "FORUM Coral Gables",
+    "latitude": 25.752323,
+    "longitude": -80.26046,
+    "reservations": 1,
+    "spend": 100.0
+  }
+]

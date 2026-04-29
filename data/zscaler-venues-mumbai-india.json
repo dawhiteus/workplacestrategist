@@ -1,0 +1,58 @@
+[
+  {
+    "venue_id": "616df9a5-ccab-4f34-9360-096a27948242",
+    "venue_name": "The Executive Centre - The Capital ",
+    "latitude": 19.063288,
+    "longitude": 72.861824,
+    "reservations": 2,
+    "spend": 421.99
+  },
+  {
+    "venue_id": "1da25ac9-5121-4993-a41a-23de3e19a53c",
+    "venue_name": "Regus | Mumbai, Rupa Renaissance",
+    "latitude": 19.063381,
+    "longitude": 73.027573,
+    "reservations": 3,
+    "spend": 195.2
+  },
+  {
+    "venue_id": "68d450e8-1ac3-4178-9971-5b3dacdf62f1",
+    "venue_name": "Awfis | Premium Coworking-VIOS, Tower NCP",
+    "latitude": 19.039845,
+    "longitude": 72.879166,
+    "reservations": 3,
+    "spend": 145.99
+  },
+  {
+    "venue_id": "8313e90e-8c90-4eeb-8b22-f7b2eceda398",
+    "venue_name": "WeWork Enam Sambhav",
+    "latitude": 19.058157,
+    "longitude": 72.865189,
+    "reservations": 1,
+    "spend": 10.33
+  },
+  {
+    "venue_id": "b0502ed1-f9f3-4a41-be28-3461eee504da",
+    "venue_name": "Hour Space",
+    "latitude": 18.917936,
+    "longitude": 72.829964,
+    "reservations": 1,
+    "spend": 6.89
+  },
+  {
+    "venue_id": "13b930a5-36f1-4067-9378-c249d89472f5",
+    "venue_name": "Awfis | Coworking-BKC 2",
+    "latitude": 19.061281,
+    "longitude": 72.868385,
+    "reservations": 1,
+    "spend": 5.73
+  },
+  {
+    "venue_id": "9894a1fe-5c69-4b65-9f55-b551dc0d8514",
+    "venue_name": "Awfis | Coworking-Raheja Titanium",
+    "latitude": 19.142502,
+    "longitude": 72.854134,
+    "reservations": 1,
+    "spend": 5.71
+  }
+]

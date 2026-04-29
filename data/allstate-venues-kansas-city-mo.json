@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "893467f9-e7d1-4781-8fed-725902dc3de9",
+    "venue_name": "Spark Kansas City",
+    "latitude": 39.096466,
+    "longitude": -94.582062,
+    "reservations": 4,
+    "spend": 568.0
+  },
+  {
+    "venue_id": "016012e7-1186-439c-9110-99d2e8290dfa",
+    "venue_name": "WeWork | Lightwell",
+    "latitude": 39.100639,
+    "longitude": -94.583557,
+    "reservations": 2,
+    "spend": 94.0
+  }
+]

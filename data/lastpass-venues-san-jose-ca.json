@@ -2,9 +2,17 @@
   {
     "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
     "venue_name": "Expansive - North First",
-    "latitude": 37.37726974487305,
-    "longitude": -121.92033386230469,
+    "latitude": 37.37727,
+    "longitude": -121.920334,
     "reservations": 7,
     "spend": 1725.0
+  },
+  {
+    "venue_id": "a5e1d1d2-fb03-4cb5-8e16-0bff7c14fdc0",
+    "venue_name": "(SJ2) Silicon Valley Center",
+    "latitude": 37.3853,
+    "longitude": -121.924828,
+    "reservations": 1,
+    "spend": 450.0
   }
 ]

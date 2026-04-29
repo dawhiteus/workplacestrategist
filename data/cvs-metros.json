@@ -2,14 +2,16 @@
   {
     "city": "Seattle",
     "state": "WA",
-    "reservations": 90,
-    "total_spend": 12819.82,
+    "country": "US",
+    "reservations": 91,
+    "total_spend": 12918.82,
     "venues": 9,
     "members": 8
   },
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 23,
     "total_spend": 10360.0,
     "venues": 4,
@@ -18,6 +20,7 @@
   {
     "city": "Walnut Creek",
     "state": "CA",
+    "country": "US",
     "reservations": 13,
     "total_spend": 4167.5,
     "venues": 1,
@@ -26,6 +29,7 @@
   {
     "city": "Littleton",
     "state": "CO",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2871.0,
     "venues": 1,
@@ -34,6 +38,7 @@
   {
     "city": "El Segundo",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 2370.0,
     "venues": 2,
@@ -42,6 +47,7 @@
   {
     "city": "Irvine",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1480.0,
     "venues": 1,
@@ -50,6 +56,7 @@
   {
     "city": "Overland Park",
     "state": "KS",
+    "country": "US",
     "reservations": 9,
     "total_spend": 1438.0,
     "venues": 3,
@@ -58,6 +65,7 @@
   {
     "city": "Pasadena",
     "state": "CA",
+    "country": "US",
     "reservations": 5,
     "total_spend": 1220.0,
     "venues": 1,
@@ -66,6 +74,7 @@
   {
     "city": "San Diego",
     "state": "CA",
+    "country": "US",
     "reservations": 10,
     "total_spend": 1115.0,
     "venues": 3,
@@ -74,6 +83,7 @@
   {
     "city": "Tampa",
     "state": "FL",
+    "country": "US",
     "reservations": 3,
     "total_spend": 1045.0,
     "venues": 2,
@@ -82,6 +92,7 @@
   {
     "city": "Fort Collins",
     "state": "CO",
+    "country": "US",
     "reservations": 4,
     "total_spend": 668.24,
     "venues": 1,
@@ -90,6 +101,7 @@
   {
     "city": "Beachwood",
     "state": "OH",
+    "country": "US",
     "reservations": 4,
     "total_spend": 635.0,
     "venues": 1,
@@ -98,6 +110,7 @@
   {
     "city": "Cincinnati",
     "state": "OH",
+    "country": "US",
     "reservations": 3,
     "total_spend": 480.36,
     "venues": 1,

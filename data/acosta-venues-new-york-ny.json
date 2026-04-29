@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "57677b2f-b08c-4615-a676-768c20b16f92",
+    "venue_name": "Jay Suites - Midtown East",
+    "latitude": 40.759789,
+    "longitude": -73.973755,
+    "reservations": 1,
+    "spend": 200.0
+  },
+  {
+    "venue_id": "7264e559-cece-4400-b21c-facc38cb69e2",
+    "venue_name": "WeWork | 160 Varick Street",
+    "latitude": 40.726715,
+    "longitude": -74.005272,
+    "reservations": 1,
+    "spend": 144.0
+  }
+]

@@ -2,9 +2,17 @@
   {
     "venue_id": "500c01a6-630d-42db-bce6-c68d55b1a51a",
     "venue_name": "THRIVE | Asheville",
-    "latitude": 35.5955810546875,
-    "longitude": -82.55663299560547,
+    "latitude": 35.595581,
+    "longitude": -82.556633,
     "reservations": 3,
     "spend": 90.0
+  },
+  {
+    "venue_id": "cb6ee038-0cf9-4aad-9ea3-78317de30d9f",
+    "venue_name": "Mojo Coworking",
+    "latitude": 35.597958,
+    "longitude": -82.553001,
+    "reservations": 1,
+    "spend": 25.0
   }
 ]

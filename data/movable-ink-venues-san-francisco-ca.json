@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
+    "venue_name": "WeWork | Two Embarcadero Center",
+    "latitude": 37.794788,
+    "longitude": -122.398407,
+    "reservations": 2,
+    "spend": 1078.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.792622,
+    "longitude": -122.398911,
+    "reservations": 2,
+    "spend": 500.0
+  }
+]

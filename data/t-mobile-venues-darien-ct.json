@@ -2,9 +2,17 @@
   {
     "venue_id": "5dce4799-041b-48a3-8475-637ef0cadd64",
     "venue_name": "Office Suites of Darien",
-    "latitude": 41.07504653930664,
-    "longitude": -73.4698257446289,
+    "latitude": 41.075047,
+    "longitude": -73.469826,
     "reservations": 17,
     "spend": 2100.0
+  },
+  {
+    "venue_id": "2ea7d78f-a23a-45f4-9e93-351c3f31f4cd",
+    "venue_name": "HAYVN Coworking Darien",
+    "latitude": 41.086643,
+    "longitude": -73.459877,
+    "reservations": 1,
+    "spend": 1000.0
   }
 ]

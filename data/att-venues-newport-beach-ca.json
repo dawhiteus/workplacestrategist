@@ -2,9 +2,17 @@
   {
     "venue_id": "b49f0e5e-79db-4029-a264-07b09d6eed6c",
     "venue_name": "Newport Executive Center",
-    "latitude": 33.611000061035156,
-    "longitude": -117.87313079833984,
+    "latitude": 33.611,
+    "longitude": -117.873131,
     "reservations": 3,
     "spend": 945.0
+  },
+  {
+    "venue_id": "8589779e-9875-4db7-b7f3-f22ef67135f5",
+    "venue_name": "(23C) 23 Corporate Plaza",
+    "latitude": 33.608551,
+    "longitude": -117.875237,
+    "reservations": 1,
+    "spend": 500.0
   }
 ]

@@ -2,9 +2,25 @@
   {
     "venue_id": "bbf9e0eb-9ba0-483f-ac36-403f986ea89f",
     "venue_name": "WeWork | West Trinity Place",
-    "latitude": 33.77342224121094,
-    "longitude": -84.29693603515625,
+    "latitude": 33.773422,
+    "longitude": -84.296936,
     "reservations": 133,
     "spend": 5282.0
+  },
+  {
+    "venue_id": "1da2fa07-3a98-4b92-885d-2e47ecb641f0",
+    "venue_name": "Regus | GA, Decatur - One West Court Square",
+    "latitude": 33.775101,
+    "longitude": -84.296097,
+    "reservations": 1,
+    "spend": 42.42
+  },
+  {
+    "venue_id": "f6f9b4c3-ef36-4180-bccd-41079f7c1ba5",
+    "venue_name": "Regus | Clairemont",
+    "latitude": 33.777637,
+    "longitude": -84.296867,
+    "reservations": 1,
+    "spend": 39.0
   }
 ]

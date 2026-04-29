@@ -2,40 +2,72 @@
   {
     "venue_id": "d9bcfcbf-738c-48a8-b015-c85c8219b32b",
     "venue_name": "Mindspace K St",
-    "latitude": 38.90296173095703,
-    "longitude": -77.03071594238281,
+    "latitude": 38.902962,
+    "longitude": -77.030716,
     "reservations": 10,
     "spend": 1860.0
   },
   {
     "venue_id": "afc6f147-75b9-4d5b-a261-04eb0cd6be59",
     "venue_name": "Oval Offices DC",
-    "latitude": 38.90046691894531,
-    "longitude": -77.03853607177734,
+    "latitude": 38.900467,
+    "longitude": -77.038536,
     "reservations": 3,
     "spend": 1425.0
   },
   {
     "venue_id": "94a7406e-bbb8-4020-aec1-6a19e160c19a",
     "venue_name": "WeWork | 80 M St SE",
-    "latitude": 38.87702178955078,
-    "longitude": -77.00635528564453,
+    "latitude": 38.877022,
+    "longitude": -77.006355,
     "reservations": 8,
     "spend": 1421.0
   },
   {
+    "venue_id": "8af21f9e-b2f6-4074-b26f-8f196ed31bc3",
+    "venue_name": "SPACES | DC, Washington- 800 Maine Avenue",
+    "latitude": 38.879761,
+    "longitude": -77.024628,
+    "reservations": 1,
+    "spend": 497.0
+  },
+  {
+    "venue_id": "936879d1-14f5-4a82-80aa-f8bed921b3fb",
+    "venue_name": "Regus | 601 Pennsylvania Avenue",
+    "latitude": 38.893353,
+    "longitude": -77.020409,
+    "reservations": 1,
+    "spend": 495.0
+  },
+  {
+    "venue_id": "edd307c8-a3a8-4279-84f7-04c497100172",
+    "venue_name": "Industrious - The Homer Building",
+    "latitude": 38.897873,
+    "longitude": -77.029297,
+    "reservations": 1,
+    "spend": 360.0
+  },
+  {
     "venue_id": "3b63c688-f62a-44cf-bb06-bb53bd677395",
     "venue_name": "WeWork | Midtown Center",
-    "latitude": 38.90393829345703,
-    "longitude": -77.03498840332031,
+    "latitude": 38.903938,
+    "longitude": -77.034988,
     "reservations": 6,
     "spend": 354.0
   },
   {
+    "venue_id": "41083117-9b28-4959-a449-df847032de25",
+    "venue_name": "Signature | Washington - 600 Mass Ave",
+    "latitude": 38.901253,
+    "longitude": -77.020927,
+    "reservations": 1,
+    "spend": 177.0
+  },
+  {
     "venue_id": "7de94cd6-abef-4cee-9ecd-6daffd45fe94",
     "venue_name": "WeWork | 700 K Street NW",
-    "latitude": 38.90196990966797,
-    "longitude": -77.02261352539062,
+    "latitude": 38.90197,
+    "longitude": -77.022614,
     "reservations": 2,
     "spend": 94.0
   }

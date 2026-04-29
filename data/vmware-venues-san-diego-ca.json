@@ -2,9 +2,33 @@
   {
     "venue_id": "691d71e8-a18f-44ea-9f7f-c4b9cd2c7f89",
     "venue_name": "Regus | Diamond View",
-    "latitude": 32.708900451660156,
-    "longitude": -117.15599822998047,
+    "latitude": 32.7089,
+    "longitude": -117.155998,
     "reservations": 3,
     "spend": 962.0
+  },
+  {
+    "venue_id": "cb5b6511-d665-4625-84c9-a9a6143dffd0",
+    "venue_name": "Downtown Works Pacific Beach",
+    "latitude": 32.798626,
+    "longitude": -117.240768,
+    "reservations": 1,
+    "spend": 440.0
+  },
+  {
+    "venue_id": "4b5edd92-dd18-4e69-ab1f-cc56ebaaa62f",
+    "venue_name": "(DM2) Del Mar Corporate Plaza",
+    "latitude": 32.947651,
+    "longitude": -117.241714,
+    "reservations": 1,
+    "spend": 170.0
+  },
+  {
+    "venue_id": "a421ce28-cd9a-4919-a1a4-32c46d79ab60",
+    "venue_name": "Union Cowork North Park",
+    "latitude": 32.748951,
+    "longitude": -117.12989,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

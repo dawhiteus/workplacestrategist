@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Jacksonville",
+    "state": "FL",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 1500.0,
+    "venues": 1,
+    "members": 1
+  }
+]

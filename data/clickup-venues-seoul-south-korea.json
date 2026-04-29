@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "70340f84-8642-4c9e-95d0-d5b022b711bd",
+    "venue_name": "Regus | Seoul, World Trade Center",
+    "latitude": 37.510563,
+    "longitude": 127.061058,
+    "reservations": 1,
+    "spend": 137.33
+  },
+  {
+    "venue_id": "8dfc0e7a-15c1-4730-9bd2-d9f19dceb703",
+    "venue_name": "Regus | Seoul, Gangnam Station Centre",
+    "latitude": 37.496609,
+    "longitude": 127.025009,
+    "reservations": 1,
+    "spend": 53.6
+  }
+]

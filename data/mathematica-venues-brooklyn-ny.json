@@ -2,17 +2,65 @@
   {
     "venue_id": "8fd43c57-08b8-4cf7-8916-220389cda47e",
     "venue_name": "WeWork | 134 N 4th St",
-    "latitude": 40.716312408447266,
-    "longitude": -73.960205078125,
+    "latitude": 40.716312,
+    "longitude": -73.960205,
     "reservations": 4,
     "spend": 280.0
   },
   {
     "venue_id": "ab0b684f-7297-4e34-83e1-4adb99b282c2",
     "venue_name": "BKLYN Commons - Brooklyn NY",
-    "latitude": 40.66223907470703,
-    "longitude": -73.96160888671875,
+    "latitude": 40.662239,
+    "longitude": -73.961609,
     "reservations": 5,
     "spend": 200.0
+  },
+  {
+    "venue_id": "12a4796c-c227-4a12-b5c0-671106cff9c5",
+    "venue_name": "Industrious - Brooklyn - 1000 Dean",
+    "latitude": 40.6777,
+    "longitude": -73.957382,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "713ccec3-af30-4b34-a1d6-e79c6de9695a",
+    "venue_name": "WeWork | Dumbo Heights (Sands)",
+    "latitude": 40.700348,
+    "longitude": -73.987434,
+    "reservations": 2,
+    "spend": 94.0
+  },
+  {
+    "venue_id": "2013c11d-b80c-48a6-b543-908b057cd90c",
+    "venue_name": "The Burrow",
+    "latitude": 40.663792,
+    "longitude": -73.995468,
+    "reservations": 1,
+    "spend": 50.0
+  },
+  {
+    "venue_id": "9230be32-9347-462d-97c7-697ce8bd8a7b",
+    "venue_name": "WeWork | Montague St.",
+    "latitude": 40.694313,
+    "longitude": -73.991104,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "eedf307c-d603-4e27-b9fb-ee697ffecba4",
+    "venue_name": "Bond Collective Bushwick",
+    "latitude": 40.699249,
+    "longitude": -73.93837,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "27c2f659-0166-46d6-97c5-d31dcdc345c0",
+    "venue_name": "Bond Collective - Vinegar Hill",
+    "latitude": 40.702339,
+    "longitude": -73.981575,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

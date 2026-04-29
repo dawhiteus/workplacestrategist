@@ -1,1 +1,10 @@
-[{"venue_id":"arlington-heights-il-venue-1","venue_name":"Firmspace | Arlington Heights Downtown","latitude":42.0857,"longitude":-87.9625,"reservations":9,"spend":5810}]
+[
+  {
+    "venue_id": "9943074b-6447-4a92-8bb4-d76f50241cd3",
+    "venue_name": "COCIAL",
+    "latitude": 42.082554,
+    "longitude": -87.98098,
+    "reservations": 9,
+    "spend": 5810.0
+  }
+]

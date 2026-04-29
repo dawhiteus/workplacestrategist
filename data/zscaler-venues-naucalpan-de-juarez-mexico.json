@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "ec8bc949-b652-406f-a372-0024e665c6f8",
+    "venue_name": "IOS OFFICES | Toreo",
+    "latitude": 19.454159,
+    "longitude": -99.21888,
+    "reservations": 7,
+    "spend": 2421.49
+  },
+  {
+    "venue_id": "768efe8a-215b-4550-804a-1f7f03125c21",
+    "venue_name": "IOS OFFICES | Interlomas",
+    "latitude": 19.397577,
+    "longitude": -99.282387,
+    "reservations": 1,
+    "spend": 19.53
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "aed50af9-1f0d-4965-8248-dec5477a4b81",
+    "venue_name": "(CHA) Charlotte",
+    "latitude": 35.164169,
+    "longitude": -80.892212,
+    "reservations": 1,
+    "spend": 111.0
+  },
+  {
+    "venue_id": "666c5876-1941-4344-bd20-f9c65a0e6beb",
+    "venue_name": "Expansive - Uptown",
+    "latitude": 35.22784,
+    "longitude": -80.846291,
+    "reservations": 1,
+    "spend": 30.0
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "reservations": 44,
+    "total_spend": 16869.0,
+    "venues": 9,
+    "members": 10
+  },
+  {
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "reservations": 38,
+    "total_spend": 14087.8,
+    "venues": 9,
+    "members": 9
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "reservations": 33,
+    "total_spend": 6322.0,
+    "venues": 12,
+    "members": 18
+  },
+  {
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "reservations": 66,
+    "total_spend": 5735.0,
+    "venues": 4,
+    "members": 8
+  },
+  {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 35,
+    "total_spend": 4848.17,
+    "venues": 6,
+    "members": 6
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "reservations": 41,
+    "total_spend": 4691.0,
+    "venues": 11,
+    "members": 21
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "reservations": 23,
+    "total_spend": 4620.0,
+    "venues": 7,
+    "members": 16
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "reservations": 12,
+    "total_spend": 3539.0,
+    "venues": 8,
+    "members": 9
+  },
+  {
+    "city": "Santa Monica",
+    "state": "CA",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 3175.0,
+    "venues": 2,
+    "members": 4
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "reservations": 18,
+    "total_spend": 2845.0,
+    "venues": 5,
+    "members": 5
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "US",
+    "reservations": 16,
+    "total_spend": 2526.0,
+    "venues": 6,
+    "members": 9
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 2300.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 2110.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Marlborough",
+    "state": "MA",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 1750.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 1582.75,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 1570.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 1494.0,
+    "venues": 5,
+    "members": 4
+  },
+  {
+    "city": "Irvine",
+    "state": "CA",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 1461.0,
+    "venues": 4,
+    "members": 5
+  },
+  {
+    "city": "Irving",
+    "state": "TX",
+    "country": "US",
+    "reservations": 11,
+    "total_spend": 1445.0,
+    "venues": 2,
+    "members": 8
+  },
+  {
+    "city": "Carlsbad",
+    "state": "CA",
+    "country": "US",
+    "reservations": 7,
+    "total_spend": 1425.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Plano",
+    "state": "TX",
+    "country": "US",
+    "reservations": 14,
+    "total_spend": 1345.0,
+    "venues": 5,
+    "members": 6
+  },
+  {
+    "city": "Mansfield",
+    "state": "MA",
+    "country": "US",
+    "reservations": 10,
+    "total_spend": 1315.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Burlington",
+    "state": "MA",
+    "country": "US",
+    "reservations": 7,
+    "total_spend": 1288.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Ambler",
+    "state": "PA",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 1215.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Edina",
+    "state": "MN",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 1080.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Weston",
+    "state": "FL",
+    "country": "US",
+    "reservations": 7,
+    "total_spend": 992.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Frisco",
+    "state": "TX",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 860.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Lone Tree",
+    "state": "CO",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 800.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Bloomington",
+    "state": "MN",
+    "country": "US",
+    "reservations": 5,
+    "total_spend": 670.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 614.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 590.0,
+    "venues": 4,
+    "members": 3
+  },
+  {
+    "city": "Alpharetta",
+    "state": "GA",
+    "country": "US",
+    "reservations": 8,
+    "total_spend": 534.0,
+    "venues": 4,
+    "members": 2
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "country": "US",
+    "reservations": 9,
+    "total_spend": 519.0,
+    "venues": 3,
+    "members": 5
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 500.0,
+    "venues": 3,
+    "members": 3
+  },
+  {
+    "city": "Gilbert",
+    "state": "AZ",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 462.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Arlington",
+    "state": "TX",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 460.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "El Dorado Hills",
+    "state": "CA",
+    "country": "US",
+    "reservations": 4,
+    "total_spend": 420.0,
+    "venues": 2,
+    "members": 3
+  },
+  {
+    "city": "Lewisville",
+    "state": "TX",
+    "country": "US",
+    "reservations": 6,
+    "total_spend": 360.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Waltham",
+    "state": "MA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 330.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Richardson",
+    "state": "TX",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 320.0,
+    "venues": 1,
+    "members": 1
+  },
+  {
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "reservations": 11,
+    "total_spend": 310.0,
+    "venues": 2,
+    "members": 2
+  },
+  {
+    "city": "Folsom",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 270.0,
+    "venues": 1,
+    "members": 2
+  },
+  {
+    "city": "Torrance",
+    "state": "CA",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 215.0,
+    "venues": 1,
+    "members": 3
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "reservations": 3,
+    "total_spend": 209.0,
+    "venues": 2,
+    "members": 3
+  }
+]

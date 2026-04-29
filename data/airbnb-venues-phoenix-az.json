@@ -2,17 +2,65 @@
   {
     "venue_id": "a95892c0-1ac3-4e28-bfa1-25830509ec87",
     "venue_name": "CO+HOOTS-Phoenix",
-    "latitude": 33.49195861816406,
-    "longitude": -112.07050323486328,
+    "latitude": 33.491959,
+    "longitude": -112.070503,
     "reservations": 3,
     "spend": 255.0
   },
   {
     "venue_id": "8b1b43ff-8c7a-4cc8-aeb5-f0ddaab1dc8a",
     "venue_name": "Expansive - Midtown",
-    "latitude": 33.47997283935547,
-    "longitude": -112.07450866699219,
+    "latitude": 33.479973,
+    "longitude": -112.074509,
     "reservations": 2,
     "spend": 127.0
+  },
+  {
+    "venue_id": "8ab02f28-ac4a-4766-8789-c5e63f8463d7",
+    "venue_name": "SPACES | AZ, Phoenix – Block 23",
+    "latitude": 33.447998,
+    "longitude": -112.072243,
+    "reservations": 1,
+    "spend": 109.0
+  },
+  {
+    "venue_id": "5f402def-b05f-4c27-b7de-ace6f0c7a5b0",
+    "venue_name": "HQ | AZ, Phoenix- N 12th St",
+    "latitude": 33.504856,
+    "longitude": -112.05584,
+    "reservations": 1,
+    "spend": 99.0
+  },
+  {
+    "venue_id": "ce8397a7-7113-449b-ace9-77caf2883d6e",
+    "venue_name": "Lucid Private Offices | Camelback - Biltmore",
+    "latitude": 33.509033,
+    "longitude": -112.032013,
+    "reservations": 1,
+    "spend": 75.0
+  },
+  {
+    "venue_id": "7a5c23e9-5775-4577-a285-b4373cfbf6b1",
+    "venue_name": "SPACES | One Renaissance Tower",
+    "latitude": 33.448502,
+    "longitude": -112.073997,
+    "reservations": 1,
+    "spend": 68.29
+  },
+  {
+    "venue_id": "95337bb9-28a9-40f4-94d8-c5ef9159c396",
+    "venue_name": "Industrious - Phoenix Bond",
+    "latitude": 33.510746,
+    "longitude": -112.012123,
+    "reservations": 1,
+    "spend": 63.0
+  },
+  {
+    "venue_id": "369629a7-4ac1-4258-9816-ef5e849fb5e5",
+    "venue_name": "Workuity",
+    "latitude": 33.509686,
+    "longitude": -112.031685,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

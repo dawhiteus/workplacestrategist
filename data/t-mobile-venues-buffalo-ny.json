@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "f328798c-db9b-4305-9b63-2ad1b1e8aad9",
+    "venue_name": "Inception Buffalo - Space to Rent",
+    "latitude": 42.981899,
+    "longitude": -78.823547,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "f17a85f7-c1be-4515-9ddf-8f4809ada6ed",
+    "venue_name": "HQ | Buffalo - North Towns",
+    "latitude": 42.9757,
+    "longitude": -78.731201,
+    "reservations": 1,
+    "spend": 9.75
+  }
+]

@@ -2,17 +2,41 @@
   {
     "venue_id": "cb5b6511-d665-4625-84c9-a9a6143dffd0",
     "venue_name": "Downtown Works Pacific Beach",
-    "latitude": 32.79862594604492,
-    "longitude": -117.24076843261719,
+    "latitude": 32.798626,
+    "longitude": -117.240768,
     "reservations": 4,
     "spend": 160.0
   },
   {
     "venue_id": "cf5869c0-dbff-4e7a-9996-3053518c12e5",
     "venue_name": "Downtown Works San Diego",
-    "latitude": 32.718013763427734,
-    "longitude": -117.16799926757812,
+    "latitude": 32.718014,
+    "longitude": -117.167999,
     "reservations": 3,
     "spend": 120.0
+  },
+  {
+    "venue_id": "755ed122-7a11-4685-b67d-166de376b7cf",
+    "venue_name": "WeWork | Aventine",
+    "latitude": 32.870808,
+    "longitude": -117.22683,
+    "reservations": 1,
+    "spend": 47.0
+  },
+  {
+    "venue_id": "e5b52141-e0c6-437a-b2aa-f28a68ee6c5d",
+    "venue_name": "WeWork | 600 B Street",
+    "latitude": 32.71796,
+    "longitude": -117.158592,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "a421ce28-cd9a-4919-a1a4-32c46d79ab60",
+    "venue_name": "Union Cowork North Park",
+    "latitude": 32.748951,
+    "longitude": -117.12989,
+    "reservations": 1,
+    "spend": 35.0
   }
 ]

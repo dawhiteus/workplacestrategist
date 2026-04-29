@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "dc4f9780-43d9-4496-b2e8-92dadb02519f",
+    "venue_name": "Versa Grandview",
+    "latitude": 39.974251,
+    "longitude": -83.053604,
+    "reservations": 2,
+    "spend": 2480.0
+  },
+  {
+    "venue_id": "ff80928d-9f68-4906-a739-e271da965727",
+    "venue_name": "Haven Collective - Mansion",
+    "latitude": 39.964428,
+    "longitude": -82.984154,
+    "reservations": 2,
+    "spend": 160.0
+  }
+]

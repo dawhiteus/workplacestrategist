@@ -1,0 +1,42 @@
+[
+  {
+    "venue_id": "2e782d1f-1894-485c-b355-73d6e6b180b2",
+    "venue_name": "WeWork | 100 University Ave",
+    "latitude": 43.647213,
+    "longitude": -79.384789,
+    "reservations": 3,
+    "spend": 135.7
+  },
+  {
+    "venue_id": "45e039c2-9a06-48bd-a0b5-d54a3e0b0a9e",
+    "venue_name": "WeWork | 1050 King St W",
+    "latitude": 43.640324,
+    "longitude": -79.421547,
+    "reservations": 2,
+    "spend": 99.94
+  },
+  {
+    "venue_id": "50e93046-7628-41ea-ad35-f485092bd9eb",
+    "venue_name": "Workhaus | Spadina",
+    "latitude": 43.650795,
+    "longitude": -79.396622,
+    "reservations": 1,
+    "spend": 24.13
+  },
+  {
+    "venue_id": "461f0cdf-2ef8-4902-991d-a54b3749a9c1",
+    "venue_name": "Workhaus | 2 Sheppard Ave. E.",
+    "latitude": 43.76236,
+    "longitude": -79.410362,
+    "reservations": 1,
+    "spend": 22.34
+  },
+  {
+    "venue_id": "45d41f8d-61b4-4cda-a4c1-f5cdd591f730",
+    "venue_name": "Acme Works",
+    "latitude": 43.643711,
+    "longitude": -79.40876,
+    "reservations": 1,
+    "spend": 18.62
+  }
+]

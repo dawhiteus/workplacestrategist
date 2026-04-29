@@ -2,17 +2,73 @@
   {
     "venue_id": "45fcbce5-acee-44ab-96d1-f067f66f02fe",
     "venue_name": "(SEA) Seattle Downtown",
-    "latitude": 47.61410140991211,
-    "longitude": -122.3353500366211,
-    "reservations": 76,
-    "spend": 7748.0
+    "latitude": 47.614101,
+    "longitude": -122.33535,
+    "reservations": 77,
+    "spend": 7847.0
   },
   {
     "venue_id": "e5d00f32-a0fa-4f85-b319-dab03db00cc8",
     "venue_name": "SURF Incubator",
-    "latitude": 47.60531997680664,
-    "longitude": -122.33389282226562,
+    "latitude": 47.60532,
+    "longitude": -122.333893,
     "reservations": 4,
     "spend": 2176.0
+  },
+  {
+    "venue_id": "92049d30-e2b3-4c10-a1d6-98b9997870ff",
+    "venue_name": "thinkspace - Seattle",
+    "latitude": 47.634506,
+    "longitude": -122.3396,
+    "reservations": 1,
+    "spend": 875.0
+  },
+  {
+    "venue_id": "4a3b38eb-bd86-4102-8796-64df14a69192",
+    "venue_name": "Regus | Seattle - Columbia Center",
+    "latitude": 47.604725,
+    "longitude": -122.330688,
+    "reservations": 2,
+    "spend": 768.0
+  },
+  {
+    "venue_id": "4998ab8e-dca1-4756-8655-216e5ca4dfe4",
+    "venue_name": "WeWork | 1201 3rd Ave.",
+    "latitude": 47.607147,
+    "longitude": -122.335938,
+    "reservations": 2,
+    "spend": 432.0
+  },
+  {
+    "venue_id": "88a443a8-2038-4bc0-986f-da2f563947e8",
+    "venue_name": "Industrious - 400 University Street",
+    "latitude": 47.60841,
+    "longitude": -122.33474,
+    "reservations": 1,
+    "spend": 330.0
+  },
+  {
+    "venue_id": "13f0a7bd-1b2a-465a-9cd7-6e8c2520a4ff",
+    "venue_name": "Regus | Plaza 600",
+    "latitude": 47.613899,
+    "longitude": -122.336998,
+    "reservations": 2,
+    "spend": 284.44
+  },
+  {
+    "venue_id": "844bdfa9-364b-4575-bf6e-1f2b8b15a6ac",
+    "venue_name": "SPACES || WA, Seattle-  1601 5th Avenue",
+    "latitude": 47.612156,
+    "longitude": -122.337364,
+    "reservations": 1,
+    "spend": 106.86
+  },
+  {
+    "venue_id": "1cbc624b-9702-4596-afba-41c89ef493ff",
+    "venue_name": "Regus | Seattle City",
+    "latitude": 47.610523,
+    "longitude": -122.334587,
+    "reservations": 1,
+    "spend": 99.52
   }
 ]

@@ -1,9 +1,33 @@
 [
   {
+    "venue_id": "3fda6d2b-3b77-44d6-919c-335a522ea63a",
+    "venue_name": "Lucid Private Offices | Mockingbird - SMU",
+    "latitude": 32.84,
+    "longitude": -96.774757,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "06ee9527-f27f-43fe-ae6a-ba36003a0000",
+    "venue_name": "Flex at The Gild",
+    "latitude": 32.863899,
+    "longitude": -96.769119,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "381600dc-64f7-4273-8a57-65d55bca811c",
+    "venue_name": "Regus | Highland Park Place",
+    "latitude": 32.821999,
+    "longitude": -96.789497,
+    "reservations": 1,
+    "spend": 194.0
+  },
+  {
     "venue_id": "841272c3-fc7e-4bd8-892d-ce14a4405eed",
     "venue_name": "Common Desk - Energy Square",
-    "latitude": 32.84664535522461,
-    "longitude": -96.77201843261719,
+    "latitude": 32.846645,
+    "longitude": -96.772018,
     "reservations": 5,
     "spend": 125.0
   }

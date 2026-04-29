@@ -2,49 +2,105 @@
   {
     "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
     "venue_name": "WeWork | Salesforce Tower",
-    "latitude": 37.789817810058594,
-    "longitude": -122.39690399169922,
+    "latitude": 37.789818,
+    "longitude": -122.396904,
     "reservations": 83,
     "spend": 6806.0
   },
   {
     "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
     "venue_name": "WeWork | Two Embarcadero Center",
-    "latitude": 37.7947883605957,
-    "longitude": -122.39840698242188,
+    "latitude": 37.794788,
+    "longitude": -122.398407,
     "reservations": 76,
     "spend": 4622.0
   },
   {
     "venue_id": "cbd093b0-ad63-4f12-8677-af4c5fb450b0",
     "venue_name": "SPACES || Mission & 3rd",
-    "latitude": 37.78661346435547,
-    "longitude": -122.40216827392578,
+    "latitude": 37.786613,
+    "longitude": -122.402168,
     "reservations": 3,
     "spend": 1641.58
   },
   {
+    "venue_id": "006aceeb-266c-425e-b8b5-67fd40742f7d",
+    "venue_name": "Regus || 580 California",
+    "latitude": 37.792973,
+    "longitude": -122.404137,
+    "reservations": 1,
+    "spend": 754.0
+  },
+  {
     "venue_id": "6930bcbf-bc8a-40c4-945e-1c2878494fed",
     "venue_name": "Industrious - San Francisco Union Square",
-    "latitude": 37.78779983520508,
-    "longitude": -122.40477752685547,
+    "latitude": 37.7878,
+    "longitude": -122.404778,
     "reservations": 10,
     "spend": 750.0
   },
   {
     "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
     "venue_name": "Mindspace San Francisco",
-    "latitude": 37.78984832763672,
-    "longitude": -122.40069580078125,
+    "latitude": 37.789848,
+    "longitude": -122.400696,
     "reservations": 12,
     "spend": 480.0
   },
   {
+    "venue_id": "8ba8f5e7-5f1b-48cb-a581-9e46290b238a",
+    "venue_name": "WeWork | 650 California Street",
+    "latitude": 37.792912,
+    "longitude": -122.405212,
+    "reservations": 1,
+    "spend": 290.0
+  },
+  {
     "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
     "venue_name": "AvantSpace- Greenwich St.",
-    "latitude": 37.798858642578125,
-    "longitude": -122.43561553955078,
+    "latitude": 37.798859,
+    "longitude": -122.435616,
     "reservations": 3,
     "spend": 178.0
+  },
+  {
+    "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
+    "venue_name": "Carr Workplaces - Embarcadero Center",
+    "latitude": 37.794697,
+    "longitude": -122.399872,
+    "reservations": 2,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "61030c60-77f3-0132-327d-72b222009680",
+    "venue_name": "WeWork | 535 Mission St",
+    "latitude": 37.788891,
+    "longitude": -122.398094,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "fb251996-b4fd-4b36-b7b0-eba293fa9934",
+    "venue_name": "WeWork | 44 Montgomery",
+    "latitude": 37.78973,
+    "longitude": -122.401909,
+    "reservations": 1,
+    "spend": 59.0
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.7812,
+    "longitude": -122.408104,
+    "reservations": 2,
+    "spend": 25.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.792622,
+    "longitude": -122.398911,
+    "reservations": 1,
+    "spend": 20.0
   }
 ]

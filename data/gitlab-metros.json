@@ -1,15 +1,35 @@
 [
   {
+    "city": "Vancouver",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 32,
+    "total_spend": 1225.31,
+    "venues": 2,
+    "members": 1
+  },
+  {
     "city": "Pittsburgh",
     "state": "PA",
+    "country": "US",
     "reservations": 9,
     "total_spend": 992.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Melbourne",
+    "state": "Australia",
+    "country": "Australia",
+    "reservations": 10,
+    "total_spend": 865.74,
+    "venues": 3,
+    "members": 2
+  },
+  {
     "city": "Boca Raton",
     "state": "FL",
+    "country": "US",
     "reservations": 22,
     "total_spend": 670.0,
     "venues": 1,
@@ -18,6 +38,7 @@
   {
     "city": "Spring",
     "state": "TX",
+    "country": "US",
     "reservations": 9,
     "total_spend": 485.0,
     "venues": 1,
@@ -26,14 +47,43 @@
   {
     "city": "Pasadena",
     "state": "CA",
+    "country": "US",
     "reservations": 14,
     "total_spend": 420.0,
     "venues": 1,
     "members": 1
   },
   {
+    "city": "Montreal",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 9,
+    "total_spend": 361.7,
+    "venues": 3,
+    "members": 1
+  },
+  {
+    "city": "Berlin",
+    "state": "Germany",
+    "country": "Germany",
+    "reservations": 7,
+    "total_spend": 347.38,
+    "venues": 2,
+    "members": 1
+  },
+  {
+    "city": "Toronto",
+    "state": "Canada",
+    "country": "Canada",
+    "reservations": 8,
+    "total_spend": 300.73,
+    "venues": 5,
+    "members": 2
+  },
+  {
     "city": "Cleveland",
     "state": "OH",
+    "country": "US",
     "reservations": 3,
     "total_spend": 284.0,
     "venues": 1,
@@ -42,6 +92,7 @@
   {
     "city": "San Francisco",
     "state": "CA",
+    "country": "US",
     "reservations": 7,
     "total_spend": 275.0,
     "venues": 3,
@@ -50,6 +101,7 @@
   {
     "city": "Glendale",
     "state": "CA",
+    "country": "US",
     "reservations": 6,
     "total_spend": 210.0,
     "venues": 1,
@@ -58,6 +110,7 @@
   {
     "city": "Los Gatos",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 206.0,
     "venues": 2,
@@ -66,6 +119,7 @@
   {
     "city": "Los Angeles",
     "state": "CA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 120.0,
     "venues": 1,
@@ -74,6 +128,7 @@
   {
     "city": "Boston",
     "state": "MA",
+    "country": "US",
     "reservations": 3,
     "total_spend": 119.0,
     "venues": 2,

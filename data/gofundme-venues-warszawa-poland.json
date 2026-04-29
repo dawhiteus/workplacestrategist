@@ -1,0 +1,26 @@
+[
+  {
+    "venue_id": "6ef36d31-a642-4883-b019-504daf42cbae",
+    "venue_name": "WeWork | Mennica Legacy Tower",
+    "latitude": 52.232723,
+    "longitude": 20.992758,
+    "reservations": 9,
+    "spend": 421.87
+  },
+  {
+    "venue_id": "3c2afdd8-b31c-4b1f-a9f9-b3348fc58201",
+    "venue_name": "WeWork | Hotel Europejski",
+    "latitude": 52.242054,
+    "longitude": 21.014517,
+    "reservations": 7,
+    "spend": 319.76
+  },
+  {
+    "venue_id": "b14fded3-ca54-4008-8b1c-3e661c6c61bd",
+    "venue_name": "WeWork | Krucza 50",
+    "latitude": 52.23151,
+    "longitude": 21.016747,
+    "reservations": 3,
+    "spend": 135.33
+  }
+]

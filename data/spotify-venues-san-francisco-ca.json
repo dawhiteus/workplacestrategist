@@ -2,57 +2,137 @@
   {
     "venue_id": "86adf684-9c3a-42fb-93ff-dcbf8160db35",
     "venue_name": "AvantSpace- Greenwich St.",
-    "latitude": 37.798858642578125,
-    "longitude": -122.43561553955078,
+    "latitude": 37.798859,
+    "longitude": -122.435616,
     "reservations": 32,
     "spend": 23666.0
   },
   {
     "venue_id": "913826af-14e7-46d9-aa0d-9e0c21b4ece0",
     "venue_name": "WeWork | Two Embarcadero Center",
-    "latitude": 37.7947883605957,
-    "longitude": -122.39840698242188,
+    "latitude": 37.794788,
+    "longitude": -122.398407,
     "reservations": 41,
     "spend": 23663.0
   },
   {
+    "venue_id": "11eb5f2a-42a9-4f49-a1d2-155e818bf2c7",
+    "venue_name": "SPACES || Levi's Plaza",
+    "latitude": 37.8018,
+    "longitude": -122.401001,
+    "reservations": 2,
+    "spend": 907.19
+  },
+  {
     "venue_id": "ec998576-713d-4905-8abe-5d4035366f4f",
     "venue_name": "Cookline Construction, Inc.",
-    "latitude": 37.758270263671875,
-    "longitude": -122.39466857910156,
+    "latitude": 37.75827,
+    "longitude": -122.394669,
     "reservations": 11,
     "spend": 855.0
   },
   {
+    "venue_id": "cbd093b0-ad63-4f12-8677-af4c5fb450b0",
+    "venue_name": "SPACES || Mission & 3rd",
+    "latitude": 37.786613,
+    "longitude": -122.402168,
+    "reservations": 2,
+    "spend": 363.68
+  },
+  {
     "venue_id": "fb251996-b4fd-4b36-b7b0-eba293fa9934",
     "venue_name": "WeWork | 44 Montgomery",
-    "latitude": 37.789730072021484,
-    "longitude": -122.40190887451172,
+    "latitude": 37.78973,
+    "longitude": -122.401909,
     "reservations": 6,
     "spend": 354.0
   },
   {
+    "venue_id": "d6d2668b-aa60-4bf4-be44-71f65fa94741",
+    "venue_name": "(OS2) One Sansome",
+    "latitude": 37.790447,
+    "longitude": -122.401154,
+    "reservations": 1,
+    "spend": 330.0
+  },
+  {
+    "venue_id": "7d32c76e-388b-4c85-8030-b07a36fb9af7",
+    "venue_name": "SPACES | CA, San Francisco - 101 Montgomery",
+    "latitude": 37.79982,
+    "longitude": -122.45974,
+    "reservations": 2,
+    "spend": 326.81
+  },
+  {
     "venue_id": "dbd959c2-cc61-4aab-8957-b67e36032da1",
     "venue_name": "Mindspace San Francisco",
-    "latitude": 37.78984832763672,
-    "longitude": -122.40069580078125,
+    "latitude": 37.789848,
+    "longitude": -122.400696,
     "reservations": 8,
     "spend": 320.0
   },
   {
     "venue_id": "e6089ee6-1ad5-4bf0-8936-43a5bba00940",
     "venue_name": "The House by Edge & Node",
-    "latitude": 37.800899505615234,
-    "longitude": -122.45897674560547,
+    "latitude": 37.8009,
+    "longitude": -122.458977,
     "reservations": 7,
     "spend": 315.0
   },
   {
     "venue_id": "63e05db7-684c-4783-a9ea-968c00ac5bc7",
     "venue_name": "WeWork | Salesforce Tower",
-    "latitude": 37.789817810058594,
-    "longitude": -122.39690399169922,
+    "latitude": 37.789818,
+    "longitude": -122.396904,
     "reservations": 3,
     "spend": 246.0
+  },
+  {
+    "venue_id": "bc0eb5d2-c57d-48e4-ade0-a8b6d1256d2d",
+    "venue_name": "Pacific Workplaces - San Francisco SOMA",
+    "latitude": 37.791389,
+    "longitude": -122.392151,
+    "reservations": 1,
+    "spend": 150.0
+  },
+  {
+    "venue_id": "d434d96c-bb3a-4f0d-9e04-cf24d907ee0c",
+    "venue_name": "Trellis Coworking & Events",
+    "latitude": 37.7812,
+    "longitude": -122.408104,
+    "reservations": 1,
+    "spend": 120.0
+  },
+  {
+    "venue_id": "7937d3c3-c4b8-414a-bdf7-17e2b50da42d",
+    "venue_name": "Werqwise San Francisco - FiDi - California St.",
+    "latitude": 37.792797,
+    "longitude": -122.40226,
+    "reservations": 1,
+    "spend": 90.0
+  },
+  {
+    "venue_id": "8ba8f5e7-5f1b-48cb-a581-9e46290b238a",
+    "venue_name": "WeWork | 650 California Street",
+    "latitude": 37.792912,
+    "longitude": -122.405212,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "998b586e-f3f7-4d31-9027-dfc77ccef870",
+    "venue_name": "Carr Workplaces - Embarcadero Center",
+    "latitude": 37.794697,
+    "longitude": -122.399872,
+    "reservations": 1,
+    "spend": 45.0
+  },
+  {
+    "venue_id": "47c727be-28c7-45fc-954d-132eb72fa21c",
+    "venue_name": "Intelligent Office San Francisco",
+    "latitude": 37.792622,
+    "longitude": -122.398911,
+    "reservations": 1,
+    "spend": 30.0
   }
 ]

@@ -2,9 +2,17 @@
   {
     "venue_id": "3d39c2a3-c3e2-4469-b927-e64c023155b9",
     "venue_name": "Greenville Flywheel Coworking",
-    "latitude": 34.87575149536133,
-    "longitude": -82.40487670898438,
+    "latitude": 34.875751,
+    "longitude": -82.404877,
     "reservations": 13,
     "spend": 384.0
+  },
+  {
+    "venue_id": "cec3984f-c28b-41c9-b0f7-4f3496385f3a",
+    "venue_name": "Venture X | Greenville Plush Mills",
+    "latitude": 34.843243,
+    "longitude": -82.423096,
+    "reservations": 1,
+    "spend": 24.0
   }
 ]

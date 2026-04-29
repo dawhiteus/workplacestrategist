@@ -2,17 +2,33 @@
   {
     "venue_id": "f4e58e7f-7d27-47fe-a742-a9126e70aabd",
     "venue_name": "CTRL Collective | Pasadena",
-    "latitude": 34.14473342895508,
-    "longitude": -118.14788055419922,
+    "latitude": 34.144733,
+    "longitude": -118.147881,
     "reservations": 109,
     "spend": 15540.0
   },
   {
     "venue_id": "025ab062-6f37-4b6d-ad94-a160623a3eb2",
     "venue_name": "FoundrSpace Pasadena",
-    "latitude": 34.147403717041016,
-    "longitude": -118.14906311035156,
+    "latitude": 34.147404,
+    "longitude": -118.149063,
     "reservations": 5,
     "spend": 575.0
+  },
+  {
+    "venue_id": "5e52ba34-e345-4bcd-8a6e-75a45deaa99f",
+    "venue_name": "Marengo Meeting Rooms",
+    "latitude": 34.136307,
+    "longitude": -118.146187,
+    "reservations": 1,
+    "spend": 225.0
+  },
+  {
+    "venue_id": "5a9b10cb-2e2b-495d-987b-b4cebefb23b2",
+    "venue_name": "Greenhouse Therapy Center",
+    "latitude": 34.149715,
+    "longitude": -118.131973,
+    "reservations": 1,
+    "spend": 105.0
   }
 ]

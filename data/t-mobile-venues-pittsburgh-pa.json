@@ -2,25 +2,49 @@
   {
     "venue_id": "ff2ab9dc-9117-47dc-8b93-f3b8ace394d3",
     "venue_name": "OneValley at the Roundhouse",
-    "latitude": 40.4209098815918,
-    "longitude": -79.95079040527344,
+    "latitude": 40.42091,
+    "longitude": -79.95079,
     "reservations": 110,
     "spend": 43470.0
   },
   {
     "venue_id": "30465a71-37e9-42fb-9f5a-8662c4b01664",
     "venue_name": "Regus | Foster Plaza",
-    "latitude": 40.422000885009766,
-    "longitude": -80.06069946289062,
+    "latitude": 40.422001,
+    "longitude": -80.060699,
     "reservations": 19,
     "spend": 8034.64
   },
   {
     "venue_id": "942b9148-29ce-4360-9537-0475a2f1a728",
     "venue_name": "HQ | PA, Pittsburgh - Cliff Mine Rd",
-    "latitude": 40.45695114135742,
-    "longitude": -80.19198608398438,
+    "latitude": 40.456951,
+    "longitude": -80.191986,
     "reservations": 2,
     "spend": 902.5
+  },
+  {
+    "venue_id": "296016f5-fb6b-4d69-83f0-ae5415ef906a",
+    "venue_name": "SPACES | PA, Pittsburgh - Spaces One Oxford",
+    "latitude": 40.438217,
+    "longitude": -79.99868,
+    "reservations": 1,
+    "spend": 385.0
+  },
+  {
+    "venue_id": "ad9fe4ef-53a6-4b1e-aa82-1fb284e24852",
+    "venue_name": "Atithi Studios",
+    "latitude": 40.494938,
+    "longitude": -79.931839,
+    "reservations": 1,
+    "spend": 280.0
+  },
+  {
+    "venue_id": "25f81b37-7a4a-40a2-9772-9f8355f5c0fc",
+    "venue_name": "BusinessWise @ 4 Smithfield Street-Permanently Closed",
+    "latitude": 40.43684,
+    "longitude": -80.000572,
+    "reservations": 1,
+    "spend": 250.0
   }
 ]

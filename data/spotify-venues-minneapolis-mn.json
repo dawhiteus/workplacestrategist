@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
+    "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
+    "latitude": 44.977539,
+    "longitude": -93.263641,
+    "reservations": 1,
+    "spend": 870.0
+  },
+  {
+    "venue_id": "e86b7b23-04a8-4bc8-b8e1-51421d72cdaa",
+    "venue_name": "WeWork | Capella Tower",
+    "latitude": 44.976273,
+    "longitude": -93.26873,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "03a1841f-b77d-4630-98a6-3c0af75bef1d",
+    "venue_name": "SPACES || North Loop",
+    "latitude": 44.9832,
+    "longitude": -93.2714,
+    "reservations": 1,
+    "spend": 31.95
+  },
+  {
+    "venue_id": "8e1e51b1-5efb-41bb-bc84-50f92aa76a2d",
+    "venue_name": "Regus || Minneapolis - Washington Ave",
+    "latitude": 44.98457,
+    "longitude": -93.274498,
+    "reservations": 1,
+    "spend": 17.72
+  }
+]

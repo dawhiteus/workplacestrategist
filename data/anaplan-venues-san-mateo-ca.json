@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "351f9758-138d-4954-8147-141c0201a47a",
+    "venue_name": "Werqwise - San Mateo",
+    "latitude": 37.562317,
+    "longitude": -122.325584,
+    "reservations": 1,
+    "spend": 45.0
+  },
+  {
+    "venue_id": "36ea292b-2bad-4ab9-b6a4-55b100f506c4",
+    "venue_name": "Innocospace",
+    "latitude": 37.549538,
+    "longitude": -122.316551,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

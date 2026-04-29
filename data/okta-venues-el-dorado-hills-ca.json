@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "5d50a750-1581-4a53-a966-c90a3f619b83",
+    "venue_name": "Regus | CA, El Dorado Hills - Hawks Flight Ct",
+    "latitude": 38.637535,
+    "longitude": -121.065186,
+    "reservations": 2,
+    "spend": 234.0
+  },
+  {
+    "venue_id": "7150d060-4b71-4ca9-bdfa-d3dfbcc964fb",
+    "venue_name": "Business Workspaces",
+    "latitude": 38.63982,
+    "longitude": -121.067673,
+    "reservations": 2,
+    "spend": 186.0
+  }
+]

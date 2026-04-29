@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "8be60967-e724-446e-bef0-db783d605a62",
+    "venue_name": "Regus | FL, Boca Raton - Park of Commerce",
+    "latitude": 26.405029,
+    "longitude": -80.097816,
+    "reservations": 2,
+    "spend": 336.0
+  },
+  {
+    "venue_id": "ab3a186b-3bd3-45f5-95d8-ab34c928777e",
+    "venue_name": "Venture X | Boca Raton",
+    "latitude": 26.352762,
+    "longitude": -80.115112,
+    "reservations": 1,
+    "spend": 320.0
+  }
+]

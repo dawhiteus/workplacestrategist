@@ -1,0 +1,178 @@
+[
+  {
+    "venue_id": "9aa36ff6-c053-415b-a010-c343eab5c7e2",
+    "venue_name": "Office146",
+    "latitude": 43.601048,
+    "longitude": -79.532684,
+    "reservations": 31,
+    "spend": 2630.9
+  },
+  {
+    "venue_id": "d6fa3d0a-d0a6-4dfc-956f-37e01b0541aa",
+    "venue_name": "iQ Offices | 302 Bay St.",
+    "latitude": 43.649384,
+    "longitude": -79.380753,
+    "reservations": 12,
+    "spend": 1280.46
+  },
+  {
+    "venue_id": "a751863d-340d-40bb-a9b6-4a2af7b76a80",
+    "venue_name": "Adelaide House Coworking",
+    "latitude": 43.646725,
+    "longitude": -79.396767,
+    "reservations": 18,
+    "spend": 1177.05
+  },
+  {
+    "venue_id": "b90c8edb-e898-4aae-b4a5-e8c9d21253ef",
+    "venue_name": "The Professional Centre",
+    "latitude": 43.649906,
+    "longitude": -79.383247,
+    "reservations": 11,
+    "spend": 1102.37
+  },
+  {
+    "venue_id": "63e6f8fa-f5f4-4579-bb55-dce82f835957",
+    "venue_name": "Startuptive",
+    "latitude": 43.655624,
+    "longitude": -79.386742,
+    "reservations": 3,
+    "spend": 913.6
+  },
+  {
+    "venue_id": "6341119c-b30f-4ee7-bbbb-2602c3716e00",
+    "venue_name": "Workplace One | Peter Street Coworking",
+    "latitude": 43.648041,
+    "longitude": -79.392715,
+    "reservations": 9,
+    "spend": 847.28
+  },
+  {
+    "venue_id": "f601c3ca-4bba-4d7e-89c8-986f26b9b715",
+    "venue_name": "LAUFT Shops at Don Mills",
+    "latitude": 43.735226,
+    "longitude": -79.344749,
+    "reservations": 7,
+    "spend": 678.61
+  },
+  {
+    "venue_id": "98ad7182-fd72-4c57-a989-6c9e79924cf1",
+    "venue_name": "SPACES | ON, Toronto - The Wrigley Bldg.",
+    "latitude": 43.663288,
+    "longitude": -79.340569,
+    "reservations": 6,
+    "spend": 393.59
+  },
+  {
+    "venue_id": "51bfbaea-c588-4b0a-a76d-6ba45962f764",
+    "venue_name": "iQ Offices | 250 University Ave.",
+    "latitude": 43.650356,
+    "longitude": -79.386993,
+    "reservations": 4,
+    "spend": 288.05
+  },
+  {
+    "venue_id": "66650cca-47bc-4183-9f3a-8a79fa9fb100",
+    "venue_name": "LAUFT King East",
+    "latitude": 43.649647,
+    "longitude": -79.374695,
+    "reservations": 3,
+    "spend": 257.2
+  },
+  {
+    "venue_id": "f4a8eae8-0b72-4ca1-ae04-45ecba33c60c",
+    "venue_name": "Venture X Etobicoke",
+    "latitude": 43.636391,
+    "longitude": -79.539062,
+    "reservations": 2,
+    "spend": 181.55
+  },
+  {
+    "venue_id": "409256bf-ef2d-457e-9582-9c5e50ca599e",
+    "venue_name": "The Rostie Group - 20 Bay Street, 11th Floor",
+    "latitude": 43.641724,
+    "longitude": -79.377792,
+    "reservations": 4,
+    "spend": 149.04
+  },
+  {
+    "venue_id": "45e039c2-9a06-48bd-a0b5-d54a3e0b0a9e",
+    "venue_name": "WeWork | 1050 King St W",
+    "latitude": 43.640324,
+    "longitude": -79.421547,
+    "reservations": 3,
+    "spend": 124.74
+  },
+  {
+    "venue_id": "2d6dc97b-3709-42fd-9306-f895ac7f8ab5",
+    "venue_name": "Regus | Eaton Centre",
+    "latitude": 43.655998,
+    "longitude": -79.381599,
+    "reservations": 5,
+    "spend": 116.98
+  },
+  {
+    "venue_id": "7f2f6de1-db67-44ba-b1bb-0d910b0ab748",
+    "venue_name": "HQ | ON, Toronto - Hullmark Center",
+    "latitude": 43.761349,
+    "longitude": -79.410156,
+    "reservations": 1,
+    "spend": 110.52
+  },
+  {
+    "venue_id": "877347da-255b-468b-8f08-985714f58ca4",
+    "venue_name": "Regus | Queen & Bay",
+    "latitude": 43.651699,
+    "longitude": -79.381401,
+    "reservations": 1,
+    "spend": 103.5
+  },
+  {
+    "venue_id": "cfccbce2-f670-4183-9388-930d05936379",
+    "venue_name": "WeWork | 240 Richmond St W",
+    "latitude": 43.649715,
+    "longitude": -79.388878,
+    "reservations": 2,
+    "spend": 99.0
+  },
+  {
+    "venue_id": "af7169f9-cbe1-4b79-b1ac-fbafb0a7e8bf",
+    "venue_name": "The Village Hive Eglinton",
+    "latitude": 43.707699,
+    "longitude": -79.394875,
+    "reservations": 1,
+    "spend": 89.3
+  },
+  {
+    "venue_id": "c5083bab-0d66-46e2-887b-48c00bfde77e",
+    "venue_name": "SPACES | ON, Toronto - Spaces Yorkville",
+    "latitude": 43.6707,
+    "longitude": -79.3918,
+    "reservations": 2,
+    "spend": 89.06
+  },
+  {
+    "venue_id": "07159d4c-0398-4609-83b8-8acc5ee27fda",
+    "venue_name": "Regus | Islington Station",
+    "latitude": 43.645401,
+    "longitude": -79.521004,
+    "reservations": 1,
+    "spend": 70.91
+  },
+  {
+    "venue_id": "138a7f65-e3d8-4523-a3dc-f3e7074675f3",
+    "venue_name": "Regus | ON, Toronto - Yonge and Richmond Centre",
+    "latitude": 43.651501,
+    "longitude": -79.378601,
+    "reservations": 1,
+    "spend": 33.66
+  },
+  {
+    "venue_id": "f6448ab4-b9e0-4e73-890c-2641f5fe6f52",
+    "venue_name": "Regus | Liberty Village",
+    "latitude": 43.638371,
+    "longitude": -79.420746,
+    "reservations": 1,
+    "spend": 23.4
+  }
+]

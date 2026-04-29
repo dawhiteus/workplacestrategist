@@ -2,25 +2,41 @@
   {
     "venue_id": "927e82c5-aa9d-4e55-aad3-c8ae0a48e371",
     "venue_name": "Workbox Downtown Minneapolis",
-    "latitude": 44.97501754760742,
-    "longitude": -93.27143096923828,
+    "latitude": 44.975018,
+    "longitude": -93.271431,
     "reservations": 28,
     "spend": 980.0
   },
   {
     "venue_id": "e86b7b23-04a8-4bc8-b8e1-51421d72cdaa",
     "venue_name": "WeWork | Capella Tower",
-    "latitude": 44.97627258300781,
-    "longitude": -93.26873016357422,
+    "latitude": 44.976273,
+    "longitude": -93.26873,
     "reservations": 24,
     "spend": 840.0
   },
   {
     "venue_id": "27c846d0-08fb-41cc-8424-f4490737cb0e",
     "venue_name": "WeWork | 729 N Washington Ave",
-    "latitude": 44.987998962402344,
-    "longitude": -93.27798461914062,
+    "latitude": 44.987999,
+    "longitude": -93.277985,
     "reservations": 14,
     "spend": 563.0
+  },
+  {
+    "venue_id": "ce60eb24-6c61-4e76-9f8d-f44680e87c86",
+    "venue_name": "Coco Minneapolis at the Historic Grain Exchange",
+    "latitude": 44.977539,
+    "longitude": -93.263641,
+    "reservations": 2,
+    "spend": 70.0
+  },
+  {
+    "venue_id": "353e8c94-d0d5-4284-b5ed-64c579d237ca",
+    "venue_name": "The Wilderness Fitness and Coworking",
+    "latitude": 44.948807,
+    "longitude": -93.292709,
+    "reservations": 2,
+    "spend": 50.0
   }
 ]

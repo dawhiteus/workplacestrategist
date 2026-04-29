@@ -2,16 +2,80 @@
   {
     "venue_id": "8b1b43ff-8c7a-4cc8-aeb5-f0ddaab1dc8a",
     "venue_name": "Expansive - Midtown",
-    "latitude": 33.47997283935547,
-    "longitude": -112.07450866699219,
+    "latitude": 33.479973,
+    "longitude": -112.074509,
     "reservations": 12,
     "spend": 832.5
   },
   {
+    "venue_id": "e37fdb27-ce3d-4df7-9bd7-22d630b7bbba",
+    "venue_name": "Regus | AZ, Phoenix - Pinnacle Peak",
+    "latitude": 33.696281,
+    "longitude": -112.100662,
+    "reservations": 1,
+    "spend": 510.0
+  },
+  {
+    "venue_id": "5dd7f8b5-9e7b-48a2-b4de-d0ba937cc0a5",
+    "venue_name": "Regus | Washington at Sky Harbor",
+    "latitude": 33.448254,
+    "longitude": -111.98381,
+    "reservations": 1,
+    "spend": 503.0
+  },
+  {
+    "venue_id": "8b3d447f-f73d-4a15-910b-35280537698b",
+    "venue_name": "(PV1) Paradise Valley",
+    "latitude": 33.587635,
+    "longitude": -111.975777,
+    "reservations": 1,
+    "spend": 375.0
+  },
+  {
+    "venue_id": "09baa9e5-4731-4c81-ac83-371efe9fbc63",
+    "venue_name": "WeWork | 2425 E Camelback Rd",
+    "latitude": 33.508926,
+    "longitude": -112.028015,
+    "reservations": 1,
+    "spend": 307.2
+  },
+  {
+    "venue_id": "8ef8b6fc-a543-4827-8bbd-ab052249d783",
+    "venue_name": "Office Evolution - Phoenix",
+    "latitude": 33.304596,
+    "longitude": -111.98735,
+    "reservations": 1,
+    "spend": 230.0
+  },
+  {
+    "venue_id": "a95892c0-1ac3-4e28-bfa1-25830509ec87",
+    "venue_name": "CO+HOOTS-Phoenix",
+    "latitude": 33.491959,
+    "longitude": -112.070503,
+    "reservations": 1,
+    "spend": 220.0
+  },
+  {
+    "venue_id": "397d3311-5173-49a1-8ce7-ad8081fb9a0d",
+    "venue_name": "Executive Suites at Agave",
+    "latitude": 33.322239,
+    "longitude": -111.988159,
+    "reservations": 1,
+    "spend": 175.0
+  },
+  {
+    "venue_id": "7a5c23e9-5775-4577-a285-b4373cfbf6b1",
+    "venue_name": "SPACES | One Renaissance Tower",
+    "latitude": 33.448502,
+    "longitude": -112.073997,
+    "reservations": 1,
+    "spend": 168.0
+  },
+  {
     "venue_id": "a6af5d9e-cdb5-4d8e-b2ee-73009fb4a546",
     "venue_name": "Regus | Shea",
-    "latitude": 33.58319854736328,
-    "longitude": -112.00801086425781,
+    "latitude": 33.583199,
+    "longitude": -112.008011,
     "reservations": 6,
     "spend": 98.88
   }

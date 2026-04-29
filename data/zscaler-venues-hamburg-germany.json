@@ -1,0 +1,66 @@
+[
+  {
+    "venue_id": "b10a296e-c593-49dc-8401-ceba5923fbe6",
+    "venue_name": "BZ - Business Center",
+    "latitude": 53.549328,
+    "longitude": 9.980144,
+    "reservations": 3,
+    "spend": 1311.21
+  },
+  {
+    "venue_id": "d5b4f7f3-f2fa-4555-9516-3987872d5019",
+    "venue_name": "Regus | Hamburg HafenCity",
+    "latitude": 53.540169,
+    "longitude": 10.002851,
+    "reservations": 1,
+    "spend": 458.67
+  },
+  {
+    "venue_id": "3b374a56-7cfe-4dfe-a450-4021b561d110",
+    "venue_name": "Regus | Hamburg Chilehaus",
+    "latitude": 53.548347,
+    "longitude": 10.001574,
+    "reservations": 2,
+    "spend": 320.52
+  },
+  {
+    "venue_id": "e28a9bd8-221f-4196-a30a-378c7b6f78a0",
+    "venue_name": "Regus | HAMBURG, Hohe Bleichen",
+    "latitude": 53.553276,
+    "longitude": 9.987627,
+    "reservations": 1,
+    "spend": 179.13
+  },
+  {
+    "venue_id": "76f8b5b4-a094-44d9-863b-47b57f69e20c",
+    "venue_name": "Regus | HAMBURG, Hammerbrook",
+    "latitude": 53.54805,
+    "longitude": 10.027824,
+    "reservations": 1,
+    "spend": 155.01
+  },
+  {
+    "venue_id": "a186a6e1-de98-4149-a415-e9c50e680ab6",
+    "venue_name": "Regus | HAMBURG, Speicherstadt",
+    "latitude": 53.545147,
+    "longitude": 9.989924,
+    "reservations": 1,
+    "spend": 104.62
+  },
+  {
+    "venue_id": "2318416d-31e6-45c5-80dd-bfd250ac6099",
+    "venue_name": "EDGE Workspaces | HafenCity Hamburg",
+    "latitude": 53.53701,
+    "longitude": 10.022011,
+    "reservations": 3,
+    "spend": 70.39
+  },
+  {
+    "venue_id": "ac18eb69-f3fe-4b1e-8149-5d32dbb77056",
+    "venue_name": "WeWork | Gerhofstrasse 1-3",
+    "latitude": 53.55444,
+    "longitude": 9.988632,
+    "reservations": 1,
+    "spend": 56.37
+  }
+]

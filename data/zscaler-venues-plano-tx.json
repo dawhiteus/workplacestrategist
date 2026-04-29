@@ -2,9 +2,17 @@
   {
     "venue_id": "724048b3-59cc-4ad6-aa30-fcfeb4867b06",
     "venue_name": "Regus | Plano - Spaces Shops of Legacy",
-    "latitude": 33.078399658203125,
-    "longitude": -96.81990051269531,
+    "latitude": 33.0784,
+    "longitude": -96.819901,
     "reservations": 4,
     "spend": 375.0
+  },
+  {
+    "venue_id": "ef626851-b4e5-4943-a085-b65c6291bc8c",
+    "venue_name": "Serendipity Labs - Plano - Legacy West",
+    "latitude": 33.085564,
+    "longitude": -96.837326,
+    "reservations": 1,
+    "spend": 345.0
   }
 ]

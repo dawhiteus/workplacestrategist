@@ -2,17 +2,33 @@
   {
     "venue_id": "0480182a-dfdc-416e-897c-731f880ba6ca",
     "venue_name": "Boston Offices - Exchange Place",
-    "latitude": 42.3585205078125,
-    "longitude": -71.05610656738281,
+    "latitude": 42.358521,
+    "longitude": -71.056107,
     "reservations": 9,
     "spend": 3759.0
   },
   {
     "venue_id": "385bfc41-bf7e-411b-80b7-bc21f58476fa",
     "venue_name": "Idea Space - Back Bay",
-    "latitude": 42.34859848022461,
-    "longitude": -71.08344268798828,
+    "latitude": 42.348598,
+    "longitude": -71.083443,
     "reservations": 3,
     "spend": 1840.0
+  },
+  {
+    "venue_id": "db7f6905-7393-4dc4-a1e6-b4f6c6149deb",
+    "venue_name": "Intelligent Office - Boston",
+    "latitude": 42.356529,
+    "longitude": -71.053352,
+    "reservations": 2,
+    "spend": 575.0
+  },
+  {
+    "venue_id": "306f2bc5-7025-4374-afba-828925c8c43a",
+    "venue_name": "Staples Coworking Brighton",
+    "latitude": 42.358707,
+    "longitude": -71.153671,
+    "reservations": 1,
+    "spend": 196.0
   }
 ]

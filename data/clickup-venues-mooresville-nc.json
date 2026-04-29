@@ -2,9 +2,17 @@
   {
     "venue_id": "cbb1398a-303d-4fcf-8da0-a366bb185141",
     "venue_name": "Regus | Langtree at the Lake",
-    "latitude": 35.52824783325195,
-    "longitude": -80.86672973632812,
+    "latitude": 35.528248,
+    "longitude": -80.86673,
     "reservations": 3,
     "spend": 387.0
+  },
+  {
+    "venue_id": "1a95e6b9-fd82-4383-912b-b233e5afee0f",
+    "venue_name": "SPACES | NC, Mooresville - SPACES Merino Mill",
+    "latitude": 35.575302,
+    "longitude": -80.81926,
+    "reservations": 2,
+    "spend": 318.0
   }
 ]

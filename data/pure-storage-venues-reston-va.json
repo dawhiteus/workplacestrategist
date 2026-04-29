@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "62ad0f0f-58f8-45f7-ba2e-af93330dc856",
+    "venue_name": "Metro Offices - Reston",
+    "latitude": 38.953232,
+    "longitude": -77.349991,
+    "reservations": 1,
+    "spend": 525.0
+  },
+  {
+    "venue_id": "571fb19e-e52b-4db9-8100-11d4f2353731",
+    "venue_name": "Regus | Reston Town Center I",
+    "latitude": 38.959301,
+    "longitude": -77.357597,
+    "reservations": 1,
+    "spend": 507.0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "venue_id": "dad1b1c2-c1e2-40cb-9f71-952a2c3a02ef",
+    "venue_name": "Piloto 151 - Santurce Suites",
+    "latitude": 18.44808,
+    "longitude": -66.07045,
+    "reservations": 1,
+    "spend": 35.0
+  },
+  {
+    "venue_id": "032146fe-76b1-4415-baba-c129d77554f4",
+    "venue_name": "Piloto 151 - Santurce Parada 18",
+    "latitude": 18.450085,
+    "longitude": -66.073845,
+    "reservations": 1,
+    "spend": 35.0
+  }
+]

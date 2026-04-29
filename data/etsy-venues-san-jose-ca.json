@@ -1,0 +1,34 @@
+[
+  {
+    "venue_id": "8859d0e9-c392-4ad3-8526-46e946b5d357",
+    "venue_name": "Regus | San Jose - 18 S 2nd Street",
+    "latitude": 37.336441,
+    "longitude": -121.888191,
+    "reservations": 1,
+    "spend": 175.6
+  },
+  {
+    "venue_id": "23abbae6-932d-499a-a20c-0c1e8235eb17",
+    "venue_name": "Regus | CA, San Jose - South San Jose",
+    "latitude": 37.236401,
+    "longitude": -121.778,
+    "reservations": 1,
+    "spend": 56.25
+  },
+  {
+    "venue_id": "9d94692f-b939-4ec3-847b-97bc7ccfd844",
+    "venue_name": "Expansive - North First",
+    "latitude": 37.37727,
+    "longitude": -121.920334,
+    "reservations": 1,
+    "spend": 38.0
+  },
+  {
+    "venue_id": "2a9efa7e-e69b-415b-a85c-8563c0bce30f",
+    "venue_name": "Pacific Workplaces - San Jose",
+    "latitude": 37.335274,
+    "longitude": -121.891525,
+    "reservations": 1,
+    "spend": 25.0
+  }
+]

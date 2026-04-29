@@ -1,0 +1,82 @@
+[
+  {
+    "venue_id": "24c534dc-69a4-48cc-9144-435070220961",
+    "venue_name": "XCHG London",
+    "latitude": 51.51442,
+    "longitude": -0.083048,
+    "reservations": 4,
+    "spend": 1648.63
+  },
+  {
+    "venue_id": "cf830374-b096-41a2-9352-903ef411e33a",
+    "venue_name": "Landmark | 110 Bishopsgate",
+    "latitude": 51.516254,
+    "longitude": -0.080945,
+    "reservations": 1,
+    "spend": 687.89
+  },
+  {
+    "venue_id": "9433634d-9fb7-4f8f-8931-f7b47034db8b",
+    "venue_name": "RIVVIA - Covent Garden",
+    "latitude": 51.512619,
+    "longitude": -0.126499,
+    "reservations": 1,
+    "spend": 624.17
+  },
+  {
+    "venue_id": "677e4746-2fe9-419c-9f41-6843cec80982",
+    "venue_name": "Landmark | Royal Exchange",
+    "latitude": 51.513718,
+    "longitude": -0.086903,
+    "reservations": 1,
+    "spend": 465.99
+  },
+  {
+    "venue_id": "0a30f8d1-9003-490c-ba8e-a66357a93f3e",
+    "venue_name": "Landmark | 99 Bishopsgate",
+    "latitude": 51.515881,
+    "longitude": -0.082642,
+    "reservations": 2,
+    "spend": 443.78
+  },
+  {
+    "venue_id": "753dfcc8-2b37-47e9-8495-a16126da01a9",
+    "venue_name": "Landmark | Bevis Marks",
+    "latitude": 51.515121,
+    "longitude": -0.079501,
+    "reservations": 1,
+    "spend": 387.77
+  },
+  {
+    "venue_id": "d2527895-2dbc-4de6-bfc7-8e5b66b0beb3",
+    "venue_name": "Regus | City North West Place",
+    "latitude": 51.56464,
+    "longitude": -0.107436,
+    "reservations": 1,
+    "spend": 285.98
+  },
+  {
+    "venue_id": "5a336ade-b7bc-479c-a876-3a23daf2cd75",
+    "venue_name": "Regus | London, Fenchurch Street",
+    "latitude": 51.511398,
+    "longitude": -0.079136,
+    "reservations": 1,
+    "spend": 102.3
+  },
+  {
+    "venue_id": "45b0a5f6-938f-4549-9f0d-603b52961f7e",
+    "venue_name": "Regus | King's Cross",
+    "latitude": 51.529835,
+    "longitude": -0.120174,
+    "reservations": 1,
+    "spend": 81.26
+  },
+  {
+    "venue_id": "0b930fa3-1e09-4a5f-a7cf-f6b2310852bf",
+    "venue_name": "TYPE Sierra Quebec Bravo",
+    "latitude": 51.500809,
+    "longitude": -0.016609,
+    "reservations": 1,
+    "spend": 12.38
+  }
+]
