@@ -323,12 +323,12 @@ export function StressTestPanel({
               }
             </div>
             <DistributionChart curveData={curveData} pctLines={pctLines} selectedCost={local.costPerSeatMonthly} height={68} />
-            <div className="flex justify-between text-[9px] text-subtle my-1 px-0.5">
-              <span>P10 ${effectiveDist.p10}</span>
-              <span>P25 ${effectiveDist.p25}</span>
-              <span className="font-semibold text-ls-600">Med ${effectiveDist.median}</span>
-              <span>P75 ${effectiveDist.p75}</span>
-              <span>P90 ${effectiveDist.p90}</span>
+            <div className="flex justify-between text-[9px] text-subtle my-1 px-0.5 tabular-nums">
+              <span>P10&thinsp;${effectiveDist.p10}</span>
+              <span>P25&thinsp;${effectiveDist.p25}</span>
+              <span className="font-semibold text-ls-600">Med&thinsp;${effectiveDist.median}</span>
+              <span>P75&thinsp;${effectiveDist.p75}</span>
+              <span>P90&thinsp;${effectiveDist.p90}</span>
             </div>
             <SliderRow
               label="Selected cost / seat"
@@ -342,67 +342,56 @@ export function StressTestPanel({
           {/* Divider */}
           <div className="w-px bg-border flex-shrink-0 mx-0" />
 
-          {/* ── Col 3: Hub Economics (cost + breakeven combined) — flex-1 ── */}
-          <div className="flex-1 min-w-0 flex flex-col gap-2 px-4">
-            <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Hub Economics</div>
-            <div className="bg-page rounded-lg px-2.5 py-2">
-              <div className="text-[10px] text-subtle">Hub Annual Cost</div>
-              <div className="text-sm font-bold text-body mt-0.5">{formatCurrency(hubAnnual, true)}</div>
-              <div className="text-[9px] text-subtle mt-0.5">{local.hubCapacitySeats} × ${local.costPerSeatMonthly} × 12</div>
-            </div>
-            {breakevenSeats != null ? (
-              <div className={`flex-1 rounded-lg px-2.5 py-2 border flex flex-col justify-between ${breakevenOk ? 'bg-green-50 border-green-200' : 'bg-red-50 border-red-200'}`}>
-                <div>
-                  <div className={`text-[10px] font-semibold ${breakevenOk ? 'text-success' : 'text-danger'}`}>
-                    {breakevenOk ? '✓ Above breakeven' : '✗ Below breakeven'}
+          {/* ── Col 3+4: Economics (consolidated) — flex-[1.2] ── */}
+          <div className="flex-[1.2] min-w-0 flex flex-col px-4">
+            <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider mb-3">Economics</div>
+
+            {/* Inputs: Flex Spend − Hub Cost (compact, supporting data) */}
+            <div className="flex items-start gap-2.5 mb-3">
+              <div className="min-w-0">
+                <div className="text-[10px] text-subtle mb-0.5">Flex Spend</div>
+                <div className="text-sm font-bold text-body tabular-nums leading-tight">
+                  {formatCurrency(displayBaseline, true)}
+                </div>
+              </div>
+              <div className="text-[10px] text-subtle mt-[18px] flex-shrink-0 select-none">−</div>
+              <div className="min-w-0">
+                <div className="text-[10px] text-subtle mb-0.5">Hub Cost</div>
+                <div className="text-sm font-bold text-body tabular-nums leading-tight">
+                  {formatCurrency(hubAnnual, true)}
+                </div>
+                <div className="text-[9px] text-subtle tabular-nums mt-0.5 leading-tight">
+                  {local.hubCapacitySeats} × ${local.costPerSeatMonthly}/mo
+                </div>
+                {breakevenSeats != null && (
+                  <div className={`text-[9px] font-semibold mt-0.5 leading-tight ${breakevenOk ? 'text-success' : 'text-danger'}`}>
+                    {breakevenOk ? '✓ breakeven' : '✗ breakeven'}
                   </div>
-                  <div className="text-[10px] text-subtle mt-0.5">Breakeven: {breakevenSeats} seats</div>
-                  <div className="text-[10px] text-subtle">Your hub: {local.hubCapacitySeats} seats</div>
-                </div>
-                <div className={`text-2xl font-bold leading-none mt-1 ${breakevenOk ? 'text-success' : 'text-danger'}`}>
-                  {breakevenDelta !== null && breakevenDelta > 0 ? '+' : ''}{breakevenDelta}
-                </div>
-              </div>
-            ) : (
-              <div className="flex-1 bg-page rounded-lg px-2.5 py-2 border border-border text-[10px] text-subtle italic">
-                Breakeven data unavailable
-              </div>
-            )}
-          </div>
-
-          {/* Divider */}
-          <div className="w-px bg-border flex-shrink-0 mx-0" />
-
-          {/* ── Col 4: Net Economics — flex-1 ── */}
-          <div className="flex-1 min-w-0 flex flex-col gap-2 pl-4">
-            <div className="text-[10px] font-semibold text-subtle uppercase tracking-wider">Net Economics</div>
-            <div className="bg-page rounded-lg px-2.5 py-2">
-              <div className="text-[10px] text-subtle">Annual Flex Spend</div>
-              <div className="text-sm font-bold text-body mt-0.5">{formatCurrency(displayBaseline, true)}</div>
-            </div>
-            <div className={`flex-1 rounded-lg px-2.5 py-2 flex flex-col justify-between ${isLoading ? 'bg-page border border-border' : savingBg}`}>
-              <div className="text-[10px] text-subtle flex items-center gap-1">
-                Net Saving
-                {!isLoading && baselineNet < 0 && displayNetSaving > 0 && (
-                  <span className="text-[9px] font-semibold text-warning bg-orange-100 border border-orange-200 px-1 rounded">uplift</span>
                 )}
               </div>
+            </div>
+
+            {/* Net Saving hero — owns the remaining height, centered within it */}
+            <div className="flex-1 border-t border-border pt-3 flex flex-col justify-center">
+              <div className="text-[10px] text-subtle mb-1.5">Net Saving</div>
               {isLoading ? (
-                <div className="flex items-center gap-1 mt-1">
-                  <Loader2 size={11} className="animate-spin text-subtle" />
-                  <span className="text-xs text-subtle">…</span>
+                <div className="flex items-center gap-1.5">
+                  <Loader2 size={12} className="animate-spin text-subtle" />
+                  <span className="text-xs text-subtle">Recalculating…</span>
                 </div>
               ) : (
-                <div>
-                  <div className={`text-sm font-bold mt-0.5 ${savingText}`}>
+                <>
+                  <div className={`text-3xl font-bold tabular-nums leading-none ${savingText}`}>
                     {displayNetSaving > 0 ? '+' : ''}{formatCurrency(displayNetSaving, true)}
                   </div>
+                  <div className="text-[10px] text-subtle mt-1.5">annual vs. current flex spend</div>
                   {baselineNet < 0 && displayNetSaving > 0 && (
-                    <div className="text-[9px] text-warning mt-0.5">–${Math.round(Math.abs(baselineNet) / 1000)}K without uplift</div>
+                    <div className="text-[9px] text-warning mt-1">uplift-dependent</div>
                   )}
-                </div>
+                </>
               )}
             </div>
+
           </div>
 
         </div>

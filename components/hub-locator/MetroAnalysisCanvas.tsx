@@ -160,7 +160,7 @@ export function MetroAnalysisCanvas({ data: initialData, onBack, onDataUpdate }:
           />
         </div>
         {/* Peer Benchmark — fixed width, same height as stress test card */}
-        <div className="w-[230px] flex-shrink-0 self-stretch">
+        <div className="w-[295px] flex-shrink-0 self-stretch">
           <PeerBenchmarkPanel
             peers={data.peers}
             yourScore={data.hvs.hvs_composite}
