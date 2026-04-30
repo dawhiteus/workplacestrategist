@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import { useEnterprise } from '@/lib/enterprise-context'
 import {
   MapPin, TrendingUp, DollarSign, BarChart3, Scale, X, Plus,
   Building2, Globe, Users, AlertTriangle, GitFork,
@@ -256,17 +257,7 @@ function CompareCard({ metros, defaultMarkets, onCompare }: {
 // ── Page ──────────────────────────────────────────────────────────────────────
 
 export default function HubLocatorPage() {
-  const [metros, setMetros] = useState<MetroSummary[]>([])
-  const [loading, setLoading] = useState(true)
-
-  useEffect(() => {
-    fetch('/api/pulse/metros?enterprise=Allstate')
-      .then(r => r.json())
-      .then(d => setMetros(d.metros ?? []))
-      .catch(() => {})
-      .finally(() => setLoading(false))
-  }, [])
-
+  const { enterprise, metros, metrosLoading: loading } = useEnterprise()
   const stats = deriveStats(metros)
 
   function dispatch(action: CardAction) {
@@ -287,7 +278,7 @@ export default function HubLocatorPage() {
       <div className="mb-5">
         <h1 className="text-lg font-semibold text-body">Hub Locator</h1>
         <p className="text-sm text-subtle mt-0.5">
-          Identify where Allstate's distributed workforce warrants a dedicated hub.
+          Identify where {enterprise}&apos;s distributed workforce warrants a dedicated hub.
         </p>
       </div>
 
@@ -315,7 +306,7 @@ export default function HubLocatorPage() {
               icon={DollarSign}
               label="Annual Portfolio Spend"
               value={formatCurrency(stats.totalSpend, true)}
-              sub={`${stats.avgSpendPerBooking.toLocaleString()} avg per booking`}
+              sub={`$${stats.avgSpendPerBooking.toLocaleString()} avg per booking`}
               accent="green"
             />
             <StatTile

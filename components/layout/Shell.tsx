@@ -8,6 +8,7 @@ import { RightRail } from './RightRail'
 import { ContextBar } from './ContextBar'
 import type { MetroHubAnalysis, MetroSummary, SavedScenario } from '@/lib/types'
 import { MarketIntakeModal } from '@/components/hub-locator/MarketIntakeModal'
+import { EnterpriseContext } from '@/lib/enterprise-context'
 
 // Lazy-load the heavy metro analysis canvas to avoid SSR issues with leaflet
 const MetroAnalysisCanvas = dynamic(
@@ -66,6 +67,7 @@ export function Shell({ children }: ShellProps) {
   const [intakeOpen, setIntakeOpen] = useState(false)
   const [enterprise, setEnterprise] = useState('Allstate')
   const [enterprises, setEnterprises] = useState<string[]>(['Allstate'])
+  const [metrosLoading, setMetrosLoading] = useState(true)
   // Ref so event-listener callbacks (registered once) always read the current enterprise
   const enterpriseRef = useRef('Allstate')
 
@@ -114,10 +116,12 @@ export function Shell({ children }: ShellProps) {
   }, [])
 
   useEffect(() => {
+    setMetrosLoading(true)
     fetch(`/api/pulse/metros?enterprise=${encodeURIComponent(enterprise)}`)
       .then(r => r.json())
       .then(d => setMetros(d.metros || []))
       .catch(() => {})
+      .finally(() => setMetrosLoading(false))
   }, [enterprise])
 
   useEffect(() => {
@@ -306,7 +310,9 @@ export function Shell({ children }: ShellProps) {
               onDataUpdate={(data) => setCanvasData({ tool: 'get_metro_analysis', data })}
             />
           ) : (
-            children
+            <EnterpriseContext.Provider value={{ enterprise, metros, metrosLoading }}>
+              {children}
+            </EnterpriseContext.Provider>
           )}
         </main>
       </div>
