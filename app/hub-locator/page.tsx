@@ -1,7 +1,6 @@
 'use client'
 
 import { useEffect, useState } from 'react'
-import { useEnterprise } from '@/lib/enterprise-context'
 import {
   MapPin, TrendingUp, DollarSign, BarChart3, Scale, X, Plus,
   Building2, Globe, Users, AlertTriangle, GitFork,
@@ -257,7 +256,24 @@ function CompareCard({ metros, defaultMarkets, onCompare }: {
 // ── Page ──────────────────────────────────────────────────────────────────────
 
 export default function HubLocatorPage() {
-  const { enterprise, metros, metrosLoading: loading } = useEnterprise()
+  const [enterprise, setEnterprise] = useState('Allstate')
+  const [metros, setMetros] = useState<MetroSummary[]>([])
+  const [loading, setLoading] = useState(true)
+
+  // Listen for enterprise changes broadcast from Shell.
+  // Custom events are used because Next.js App Router's server/client
+  // component boundary prevents React context from flowing through children props.
+  useEffect(() => {
+    function onEnterpriseChanged(e: Event) {
+      const { enterprise: ent, metros: m } = (e as CustomEvent<{ enterprise: string; metros: MetroSummary[] }>).detail
+      setEnterprise(ent)
+      setMetros(m)
+      setLoading(false)
+    }
+    window.addEventListener('enterprise-changed', onEnterpriseChanged)
+    return () => window.removeEventListener('enterprise-changed', onEnterpriseChanged)
+  }, [])
+
   const stats = deriveStats(metros)
 
   function dispatch(action: CardAction) {

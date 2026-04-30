@@ -8,7 +8,6 @@ import { RightRail } from './RightRail'
 import { ContextBar } from './ContextBar'
 import type { MetroHubAnalysis, MetroSummary, SavedScenario } from '@/lib/types'
 import { MarketIntakeModal } from '@/components/hub-locator/MarketIntakeModal'
-import { EnterpriseContext } from '@/lib/enterprise-context'
 
 // Lazy-load the heavy metro analysis canvas to avoid SSR issues with leaflet
 const MetroAnalysisCanvas = dynamic(
@@ -119,7 +118,15 @@ export function Shell({ children }: ShellProps) {
     setMetrosLoading(true)
     fetch(`/api/pulse/metros?enterprise=${encodeURIComponent(enterprise)}`)
       .then(r => r.json())
-      .then(d => setMetros(d.metros || []))
+      .then(d => {
+        const m = d.metros || []
+        setMetros(m)
+        // Broadcast to page components — context doesn't cross the App Router
+        // server/client boundary, so custom events are the reliable channel.
+        window.dispatchEvent(new CustomEvent('enterprise-changed', {
+          detail: { enterprise, metros: m },
+        }))
+      })
       .catch(() => {})
       .finally(() => setMetrosLoading(false))
   }, [enterprise])
@@ -310,9 +317,7 @@ export function Shell({ children }: ShellProps) {
               onDataUpdate={(data) => setCanvasData({ tool: 'get_metro_analysis', data })}
             />
           ) : (
-            <EnterpriseContext.Provider value={{ enterprise, metros, metrosLoading }}>
-              {children}
-            </EnterpriseContext.Provider>
+            children
           )}
         </main>
       </div>
