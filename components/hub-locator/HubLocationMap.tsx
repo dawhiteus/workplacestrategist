@@ -26,11 +26,11 @@ export function HubLocationMap({ venues, hvs, metro }: HubLocationMapProps) {
         </div>
         <div className="flex items-center gap-3 text-xs text-subtle">
           <span className="flex items-center gap-1">
-            <span className="w-2 h-2 rounded-full bg-ls-500 inline-block" /> Venues
+            <span className="w-2 h-2 rounded-full bg-ls-500 inline-block" /> Booking locations · size = volume
           </span>
           {showHub && (
             <span className="flex items-center gap-1">
-              <span className="w-2 h-2 rounded-full bg-success inline-block" /> Rec. Hub
+              <span className="w-2 h-2 rounded-full bg-success inline-block" /> Recommended hub
             </span>
           )}
         </div>

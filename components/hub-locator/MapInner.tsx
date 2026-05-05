@@ -1,7 +1,8 @@
 'use client'
 
 import { useEffect } from 'react'
-import { MapContainer, TileLayer, CircleMarker, Popup, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, CircleMarker, Marker, Popup, useMap } from 'react-leaflet'
+import L from 'leaflet'
 import type { VenueLocation, HVSReasoningOutput } from '@/lib/types'
 import { formatCurrency } from '@/lib/utils'
 import 'leaflet/dist/leaflet.css'
@@ -28,6 +29,23 @@ function FitBounds({ venues, hvs, showHub }: MapInnerProps) {
   return null
 }
 
+// SVG pin icon for the recommended hub location
+function makeHubIcon() {
+  const svg = `
+    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="36" viewBox="0 0 28 36">
+      <path d="M14 0C6.27 0 0 6.27 0 14c0 9.33 14 22 14 22S28 23.33 28 14C28 6.27 21.73 0 14 0z"
+        fill="#16a34a" stroke="#fff" stroke-width="2"/>
+      <circle cx="14" cy="14" r="5" fill="#fff"/>
+    </svg>`
+  return L.divIcon({
+    html: svg,
+    className: '',
+    iconSize: [28, 36],
+    iconAnchor: [14, 36],
+    popupAnchor: [0, -36],
+  })
+}
+
 export default function MapInner({ venues, hvs, showHub }: MapInnerProps) {
   const hub = hvs.recommended_hub_location
 
@@ -38,7 +56,7 @@ export default function MapInner({ venues, hvs, showHub }: MapInnerProps) {
         ? [hub.lat, hub.lng]
         : [39.8283, -98.5795] // geographic center of US as fallback
 
-  const maxSpend = Math.max(...venues.map(v => v.spend), 1)
+  const maxReservations = Math.max(...venues.map(v => v.reservations), 1)
 
   return (
     <MapContainer
@@ -55,7 +73,8 @@ export default function MapInner({ venues, hvs, showHub }: MapInnerProps) {
       <FitBounds venues={venues} hvs={hvs} showHub={showHub} />
 
       {venues.map(v => {
-        const radius = 5 + (v.spend / maxSpend) * 14
+        // Dot size proportional to booking volume — more bookings = larger dot
+        const radius = 5 + (v.reservations / maxReservations) * 14
         return (
           <CircleMarker
             key={v.venue_id}
@@ -66,7 +85,7 @@ export default function MapInner({ venues, hvs, showHub }: MapInnerProps) {
             <Popup>
               <div style={{ fontFamily: 'Inter, sans-serif', fontSize: 12, padding: 4 }}>
                 <div style={{ fontWeight: 600, marginBottom: 4, color: '#374151' }}>{v.venue_name}</div>
-                <div style={{ color: '#6b7280' }}>{formatCurrency(v.spend, true)} · {v.reservations} bookings</div>
+                <div style={{ color: '#6b7280' }}>{v.reservations} bookings · {formatCurrency(v.spend, true)}</div>
               </div>
             </Popup>
           </CircleMarker>
@@ -74,21 +93,20 @@ export default function MapInner({ venues, hvs, showHub }: MapInnerProps) {
       })}
 
       {showHub && hub?.lat != null && (
-        <CircleMarker
-          center={[hub.lat, hub.lng]}
-          radius={18}
-          pathOptions={{ color: '#28a745', fillColor: '#28a745', fillOpacity: 0.15, weight: 2, dashArray: '5 4' }}
+        <Marker
+          position={[hub.lat, hub.lng]}
+          icon={makeHubIcon()}
         >
           <Popup>
             <div style={{ fontFamily: 'Inter, sans-serif', fontSize: 12, padding: 4 }}>
-              <div style={{ fontWeight: 600, color: '#28a745', marginBottom: 4 }}>Recommended Hub</div>
+              <div style={{ fontWeight: 600, color: '#16a34a', marginBottom: 4 }}>Recommended Hub Location</div>
               {hub.description && <div style={{ color: '#6b7280' }}>{hub.description}</div>}
               <div style={{ color: '#6b7280', marginTop: 4 }}>
                 {hvs.recommended_hub_size.min_seats}–{hvs.recommended_hub_size.max_seats} seats
               </div>
             </div>
           </Popup>
-        </CircleMarker>
+        </Marker>
       )}
     </MapContainer>
   )

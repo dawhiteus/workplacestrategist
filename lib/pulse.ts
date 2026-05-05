@@ -96,7 +96,8 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
           COUNT(DISTINCT EnterpriseMemberId) as members
         FROM read_parquet('${parquetPath}')
         WHERE EnterpriseAccount = '${esc(enterprise)}'
-          AND Status IN ('Completed', 'CancellationPolicy')
+          AND Status = 'Completed'
+          AND CAST(StartTime AS DATE) >= CURRENT_DATE - INTERVAL 365 DAY
         GROUP BY City,
           CASE
             WHEN Country = 'US' THEN State
@@ -160,7 +161,8 @@ export async function getMetroVenues(
         LEFT JOIN read_parquet('${venuesPath}') v ON r.VenueId = v.ID
         WHERE r.EnterpriseAccount = '${esc(enterprise)}'
           ${locationFilter}
-          AND r.Status IN ('Completed', 'CancellationPolicy')
+          AND r.Status = 'Completed'
+          AND CAST(r.StartTime AS DATE) >= CURRENT_DATE - INTERVAL 365 DAY
           AND v.Latitude IS NOT NULL AND v.Longitude IS NOT NULL
         GROUP BY r.VenueId, r.Venue, v.Latitude, v.Longitude
         ORDER BY spend DESC
@@ -186,7 +188,7 @@ export async function getDailyDemand(
   enterprise: string,
   city: string,
   state: string,
-  _lookbackDays = 365,
+  lookbackDays = 365,
   country = 'US',
 ): Promise<Array<{ day: string; bookings: number; spend: number }>> {
   const parquetDir = process.env.PULSE_DATA_PATH
@@ -205,7 +207,8 @@ export async function getDailyDemand(
         FROM read_parquet('${parquetPath}')
         WHERE EnterpriseAccount = '${esc(enterprise)}'
           ${locationFilter}
-          AND Status IN ('Completed', 'CancellationPolicy')
+          AND Status = 'Completed'
+          AND CAST(StartTime AS DATE) >= CURRENT_DATE - INTERVAL ${lookbackDays} DAY
         GROUP BY CAST(StartTime AS DATE)
         ORDER BY day
       `)
@@ -253,7 +256,8 @@ export async function getPeerBenchmarks(
           COUNT(DISTINCT EnterpriseMemberId) as members
         FROM read_parquet('${parquetPath}')
         WHERE ${locationFilter}
-          AND Status IN ('Completed', 'CancellationPolicy')
+          AND Status = 'Completed'
+          AND CAST(StartTime AS DATE) >= CURRENT_DATE - INTERVAL 365 DAY
           AND EnterpriseAccount != '${esc(excludeEnterprise)}'
         GROUP BY EnterpriseAccount
         HAVING COUNT(*) >= 3
