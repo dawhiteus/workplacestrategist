@@ -3,7 +3,7 @@
 **Purpose:** Record of decisions made, why they were made, and what would trigger revisiting them.  
 This is a living document. Nothing here is permanent — the "Revisit if" field on each entry is the reopen condition.
 
-**Last updated:** May 5, 2026
+**Last updated:** May 6, 2026
 
 ---
 
@@ -97,6 +97,18 @@ This is a living document. Nothing here is permanent — the "Revisit if" field 
 **Status:** DECIDED — implemented  
 **Decision:** Locations with ≥$25,000 annual flex spend are classified as hub candidates on the index page KPI tile and in ranking views.  
 **Revisit if:** Sales feedback suggests the threshold is too high (excluding real candidates) or too low (surfacing noise).
+
+### Booking Definition: Completed Only, Trailing 365 Days
+**Status:** DECIDED — implemented  
+**Decision:** All Parquet queries filter `Status = 'Completed'` only. `CancellationPolicy` bookings (cancelled but the vendor kept the fee) are excluded. All queries are windowed to the trailing 365 days — previously they returned all-time counts, which diverged from Pulse reporting dashboards. The `lookbackDays` parameter in `getDailyDemand` was dead code; it is now wired into the SQL.  
+**Applies to:** `getMetroPortfolio`, `getMetroVenues`, `getDailyDemand`, `getPeerBenchmarks` in `lib/pulse.ts`.  
+**Revisit if:** A use case emerges for all-time data (e.g. trend analysis), in which case a separate query path should be added rather than changing the default.
+
+### Hub Stress Test Seat Default: Minimum Floor of 10
+**Status:** DECIDED — implemented  
+**Decision:** The stress test opens with `Math.max(breakeven_seats, 10)` seats. The demand-derived `breakeven_seats` formula (`max(2, ceil(avgDailyBookings × 1.3))`) produces 2–3 seats for low-volume markets, which isn't commercially meaningful as a starting point for hub sizing conversations. The floor ensures the tool always opens at a realistic minimum regardless of booking volume.  
+**Note:** `breakeven_seats` is misnamed — it is demand-derived (recommended minimum hub size from booking patterns), not an economic breakeven calculation.  
+**Revisit if:** Sales feedback suggests 10 is too high for micro-markets, or if a separate economic breakeven formula is introduced to replace the demand proxy.
 
 ---
 
