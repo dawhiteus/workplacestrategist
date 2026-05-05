@@ -53,7 +53,7 @@ export function ContextBar({
   const timeStr = now.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' })
 
   return (
-    <div className="no-print flex items-center justify-between px-5 py-2 border-b border-border bg-card text-sm">
+    <div className="no-print relative z-20 flex items-center justify-between px-5 py-2 border-b border-border bg-card text-sm">
       <div className="text-xs font-medium text-subtle uppercase tracking-wider">Context</div>
 
       <div className="flex items-center gap-2">

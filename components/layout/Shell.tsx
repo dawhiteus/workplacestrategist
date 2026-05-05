@@ -307,7 +307,7 @@ export function Shell({ children }: ShellProps) {
             setActiveSessionId(null)
           }}
         />
-        <main className="flex-1 overflow-y-auto">
+        <main className="flex-1 overflow-y-auto relative z-0">
           {canvasData ? (
             <CanvasRenderer
               key={activeSessionId ?? 'canvas'}
