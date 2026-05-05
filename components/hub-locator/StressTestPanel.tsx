@@ -177,9 +177,7 @@ export function StressTestPanel({
   const hubMonthly = local.hubCapacitySeats * local.costPerSeatMonthly
   const hubAnnual = hubMonthly * 12
 
-  const displayNetSaving = !isLoading && serverNetSaving != null
-    ? serverNetSaving
-    : annualSpend * (1 + local.inducedDemandUpliftPct / 100) - hubAnnual
+  const displayNetSaving = displayBaseline * (1 + local.inducedDemandUpliftPct / 100) - hubAnnual
 
   const displayBaseline = !isLoading && serverBaseline != null ? serverBaseline : annualSpend
   const baselineNet = displayBaseline - hubAnnual

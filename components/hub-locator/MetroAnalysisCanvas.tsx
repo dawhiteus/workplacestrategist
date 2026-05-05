@@ -22,10 +22,11 @@ interface Props {
 const DEFAULT_COST_PER_SEAT = 420 // national median fallback
 
 function buildDefaultStress(breakevenSeats: number): StressTestParams {
+  const seats = Math.max(breakevenSeats, 10)
   return {
-    hubCapacitySeats: breakevenSeats,
+    hubCapacitySeats: seats,
     costPerSeatMonthly: DEFAULT_COST_PER_SEAT,
-    hubCostMonthly: breakevenSeats * DEFAULT_COST_PER_SEAT,
+    hubCostMonthly: seats * DEFAULT_COST_PER_SEAT,
     inducedDemandUpliftPct: 25,
     commuteRadiusMiles: 50,
   }
