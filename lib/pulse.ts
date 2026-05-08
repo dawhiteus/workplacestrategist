@@ -2,12 +2,14 @@ import path from 'path'
 import fs from 'fs'
 import type { HWIOutput, CPIOutput } from './types'
 import { generateIntakeDemand, countryNameToCode } from './platform-venues'
+import { mcpSqlQuery, MCP_RES_FILE, MCP_VEN_FILE, MCP_ENT_FILE } from './pulse-mcp'
 
 // Seeded JSON data lives alongside the project for demo reliability.
 // Data path priority:
-//   1. PULSE_DATA_PATH — local DuckDB queries against Parquet files
-//   2. PULSE_API_URL   — remote data server (scripts/data-server.js) running where Parquet files live
-//   3. Seed JSON in /data/ — static fallback for Vercel / demo
+//   1. PULSE_DATA_PATH — local DuckDB queries against Parquet files (requires local access)
+//   2. PULSE_MCP_URL   — remote MCP server at liquidspace-mcp.ngrok.dev (primary live path)
+//   3. PULSE_API_URL   — remote REST server (scripts/data-server.js, alternative)
+//   4. Seed JSON in /data/ — static fallback for Vercel / demo
 const DATA_DIR = path.join(process.cwd(), 'data')
 
 // ── Remote API helper ─────────────────────────────────────────────────────────
@@ -134,6 +136,60 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
     }
   }
 
+  // MCP fallback — query remote Parquet server via Model Context Protocol
+  const mcpMetroRows = await mcpSqlQuery<{ city: string; state: string; country: string; reservations: number; total_spend: number; venues: number; members: number }>(
+    `SELECT
+      City as city,
+      CASE
+        WHEN Country = 'US' THEN State
+        WHEN Country IN ('CA','NL','MY','CH','DE','GB','UK','AU','FR','SG','JP','IE','ES','SE','BE','SI','IN','MX','BR','ZA','PH','ID','PL','CZ','RO','HU','PT','NO','DK','FI','AT','NZ','IL','AE','HK','TW','KR','TH','VN')
+        THEN CASE Country
+          WHEN 'CA' THEN 'Canada'         WHEN 'NL' THEN 'Netherlands'
+          WHEN 'MY' THEN 'Malaysia'        WHEN 'CH' THEN 'Switzerland'
+          WHEN 'DE' THEN 'Germany'         WHEN 'GB' THEN 'United Kingdom'
+          WHEN 'UK' THEN 'United Kingdom'  WHEN 'AU' THEN 'Australia'
+          WHEN 'FR' THEN 'France'          WHEN 'SG' THEN 'Singapore'
+          WHEN 'JP' THEN 'Japan'           WHEN 'IE' THEN 'Ireland'
+          WHEN 'ES' THEN 'Spain'           WHEN 'SE' THEN 'Sweden'
+          WHEN 'BE' THEN 'Belgium'         WHEN 'SI' THEN 'Slovenia'
+          WHEN 'IN' THEN 'India'           WHEN 'MX' THEN 'Mexico'
+          WHEN 'BR' THEN 'Brazil'          WHEN 'ZA' THEN 'South Africa'
+          WHEN 'PH' THEN 'Philippines'     WHEN 'ID' THEN 'Indonesia'
+          WHEN 'PL' THEN 'Poland'          WHEN 'CZ' THEN 'Czech Republic'
+          WHEN 'RO' THEN 'Romania'         WHEN 'HU' THEN 'Hungary'
+          WHEN 'PT' THEN 'Portugal'        WHEN 'NO' THEN 'Norway'
+          WHEN 'DK' THEN 'Denmark'         WHEN 'FI' THEN 'Finland'
+          WHEN 'AT' THEN 'Austria'         WHEN 'NZ' THEN 'New Zealand'
+          WHEN 'IL' THEN 'Israel'          WHEN 'AE' THEN 'UAE'
+          WHEN 'HK' THEN 'Hong Kong'       WHEN 'TW' THEN 'Taiwan'
+          WHEN 'KR' THEN 'South Korea'     WHEN 'TH' THEN 'Thailand'
+          WHEN 'VN' THEN 'Vietnam'
+          ELSE Country
+        END
+        ELSE Country
+      END as state,
+      Country as country,
+      COUNT(*) as reservations,
+      SUM(DiscountedPriceUSD) as total_spend,
+      COUNT(DISTINCT VenueId) as venues,
+      COUNT(DISTINCT EnterpriseMemberId) as members
+    FROM read_parquet('${MCP_RES_FILE}')
+    WHERE EnterpriseAccount = '${esc(enterprise)}'
+      AND Status = 'Completed'
+      AND CAST(StartTime AS DATE) >= CURRENT_DATE - INTERVAL 365 DAY
+    GROUP BY City,
+      CASE
+        WHEN Country = 'US' THEN State
+        WHEN Country IN ('CA','NL','MY','CH','DE','GB','UK','AU','FR','SG','JP','IE','ES','SE','BE','SI','IN','MX','BR','ZA','PH','ID','PL','CZ','RO','HU','PT','NO','DK','FI','AT','NZ','IL','AE','HK','TW','KR','TH','VN')
+        THEN CASE Country WHEN 'CA' THEN 'Canada' WHEN 'NL' THEN 'Netherlands' WHEN 'MY' THEN 'Malaysia' WHEN 'CH' THEN 'Switzerland' WHEN 'DE' THEN 'Germany' WHEN 'GB' THEN 'United Kingdom' WHEN 'UK' THEN 'United Kingdom' WHEN 'AU' THEN 'Australia' WHEN 'FR' THEN 'France' WHEN 'SG' THEN 'Singapore' WHEN 'JP' THEN 'Japan' WHEN 'IE' THEN 'Ireland' WHEN 'ES' THEN 'Spain' WHEN 'SE' THEN 'Sweden' WHEN 'BE' THEN 'Belgium' WHEN 'SI' THEN 'Slovenia' WHEN 'IN' THEN 'India' WHEN 'MX' THEN 'Mexico' WHEN 'BR' THEN 'Brazil' WHEN 'ZA' THEN 'South Africa' WHEN 'PH' THEN 'Philippines' WHEN 'ID' THEN 'Indonesia' WHEN 'PL' THEN 'Poland' WHEN 'CZ' THEN 'Czech Republic' WHEN 'RO' THEN 'Romania' WHEN 'HU' THEN 'Hungary' WHEN 'PT' THEN 'Portugal' WHEN 'NO' THEN 'Norway' WHEN 'DK' THEN 'Denmark' WHEN 'FI' THEN 'Finland' WHEN 'AT' THEN 'Austria' WHEN 'NZ' THEN 'New Zealand' WHEN 'IL' THEN 'Israel' WHEN 'AE' THEN 'UAE' WHEN 'HK' THEN 'Hong Kong' WHEN 'TW' THEN 'Taiwan' WHEN 'KR' THEN 'South Korea' WHEN 'TH' THEN 'Thailand' WHEN 'VN' THEN 'Vietnam' ELSE Country END
+        ELSE Country
+      END,
+      Country
+    HAVING COUNT(*) >= 3
+    ORDER BY total_spend DESC`
+  )
+  if (mcpMetroRows !== null) return mcpMetroRows
+
   // Remote API fallback
   const apiRows = await fetchApi<{ city: string; state: string; country: string; reservations: number; total_spend: number; venues: number; members: number }>(
     '/metros', { enterprise }
@@ -198,6 +254,28 @@ export async function getMetroVenues(
     }
   }
 
+  // MCP fallback
+  const countryCodeMcp = countryNameToCode(country)
+  const locationFilterMcp = country === 'US'
+    ? `AND r.City = '${esc(city)}' AND r.State = '${esc(state)}' AND r.Country = 'US'`
+    : `AND r.City = '${esc(city)}' AND r.Country = '${esc(countryCodeMcp)}'`
+  const mcpVenueRows = await mcpSqlQuery<{ venue_id: string; venue_name: string; latitude: number; longitude: number; reservations: number; spend: number }>(
+    `SELECT r.VenueId as venue_id, r.Venue as venue_name,
+      v.Latitude as latitude, v.Longitude as longitude,
+      COUNT(*) as reservations,
+      SUM(r.DiscountedPriceUSD) as spend
+    FROM read_parquet('${MCP_RES_FILE}') r
+    LEFT JOIN read_parquet('${MCP_VEN_FILE}') v ON r.VenueId = v.ID
+    WHERE r.EnterpriseAccount = '${esc(enterprise)}'
+      ${locationFilterMcp}
+      AND r.Status = 'Completed'
+      AND CAST(r.StartTime AS DATE) >= CURRENT_DATE - INTERVAL 365 DAY
+      AND v.Latitude IS NOT NULL AND v.Longitude IS NOT NULL
+    GROUP BY r.VenueId, r.Venue, v.Latitude, v.Longitude
+    ORDER BY spend DESC`
+  )
+  if (mcpVenueRows !== null) return mcpVenueRows
+
   // Remote API fallback
   const apiRows = await fetchApi<{ venue_id: string; venue_name: string; latitude: number; longitude: number; reservations: number; spend: number }>(
     '/venues', { enterprise, city, state, country }
@@ -248,6 +326,25 @@ export async function getDailyDemand(
       console.error('[getDailyDemand] DuckDB query failed:', err)
     }
   }
+
+  // MCP fallback
+  const countryCodeDd = countryNameToCode(country)
+  const locationFilterDd = country === 'US'
+    ? `AND City = '${esc(city)}' AND State = '${esc(state)}' AND Country = 'US'`
+    : `AND City = '${esc(city)}' AND Country = '${esc(countryCodeDd)}'`
+  const mcpDemandRows = await mcpSqlQuery<{ day: string; bookings: number; spend: number }>(
+    `SELECT CAST(StartTime AS DATE)::VARCHAR as day,
+      COUNT(*) as bookings,
+      SUM(DiscountedPriceUSD) as spend
+    FROM read_parquet('${MCP_RES_FILE}')
+    WHERE EnterpriseAccount = '${esc(enterprise)}'
+      ${locationFilterDd}
+      AND Status = 'Completed'
+      AND CAST(StartTime AS DATE) >= CURRENT_DATE - INTERVAL ${lookbackDays} DAY
+    GROUP BY CAST(StartTime AS DATE)
+    ORDER BY day`
+  )
+  if (mcpDemandRows !== null) return mcpDemandRows
 
   // Remote API fallback
   const apiRows = await fetchApi<{ day: string; bookings: number; spend: number }>(
@@ -307,6 +404,27 @@ export async function getPeerBenchmarks(
     }
   }
 
+  // MCP fallback
+  const countryCodePeer = countryNameToCode(country)
+  const locationFilterPeer = country === 'US'
+    ? `City = '${esc(city)}' AND State = '${esc(state)}' AND Country = 'US'`
+    : `City = '${esc(city)}' AND Country = '${esc(countryCodePeer)}'`
+  const mcpPeerRows = await mcpSqlQuery<{ enterprise: string; reservations: number; members: number }>(
+    `SELECT EnterpriseAccount as enterprise,
+      COUNT(*) as reservations,
+      COUNT(DISTINCT EnterpriseMemberId) as members
+    FROM read_parquet('${MCP_RES_FILE}')
+    WHERE ${locationFilterPeer}
+      AND Status = 'Completed'
+      AND CAST(StartTime AS DATE) >= CURRENT_DATE - INTERVAL 365 DAY
+      AND EnterpriseAccount != '${esc(excludeEnterprise)}'
+    GROUP BY EnterpriseAccount
+    HAVING COUNT(*) >= 3
+    ORDER BY reservations DESC
+    LIMIT 25`
+  )
+  if (mcpPeerRows !== null) return mcpPeerRows
+
   // Remote API fallback
   const apiRows = await fetchApi<{ enterprise: string; reservations: number; members: number }>(
     '/peers', { city, state, country, exclude: excludeEnterprise }
@@ -349,6 +467,15 @@ export async function getEnterpriseList(): Promise<string[]> {
       console.error('[getEnterpriseList] DuckDB query failed:', err)
     }
   }
+
+  // MCP fallback
+  const mcpEntRows = await mcpSqlQuery<{ name: string }>(
+    `SELECT DISTINCT EnterpriseAccount as name
+    FROM read_parquet('${MCP_RES_FILE}')
+    WHERE Status = 'Completed'
+    ORDER BY name`
+  )
+  if (mcpEntRows !== null && mcpEntRows.length > 0) return mcpEntRows.map(r => r.name)
 
   // Remote API fallback
   const apiRows = await fetchApi<string>('/enterprises', {})
@@ -734,18 +861,83 @@ export async function getWorkTypeData(
     }
   }
 
-  // ── 2. Remote API fallback ────────────────────────────────────────────────
+  // ── 2. MCP fallback — two queries, same logic as DuckDB path ─────────────
+  const countryCodeMcpWt = countryNameToCode(country)
+  const locationClauseMcp = country === 'US'
+    ? `AND City ILIKE '${esc(city)}' AND State ILIKE '${esc(state)}' AND Country = 'US'`
+    : `AND City ILIKE '${esc(city)}' AND Country = '${esc(countryCodeMcpWt)}'`
+
+  const mcpHwiRows = await mcpSqlQuery<{ scenario_type: string; total_booked: number }>(
+    `SELECT
+      CASE
+        WHEN Scenario ILIKE '%meeting%'
+          OR Scenario ILIKE '%conference%'
+          OR Scenario ILIKE '%training%'
+          OR Scenario ILIKE '%event%'
+          OR Scenario ILIKE '%team%'
+          OR Scenario ILIKE '%boardroom%'
+        THEN 'collaboration'
+        ELSE 'concentration'
+      END AS scenario_type,
+      SUM(QuantityBooked) AS total_booked
+    FROM read_parquet('${MCP_RES_FILE}')
+    WHERE EnterpriseAccount ILIKE '%${esc(enterprise)}%'
+      ${locationClauseMcp}
+    GROUP BY scenario_type`
+  )
+
+  if (mcpHwiRows !== null) {
+    const mcpCpiRows = await mcpSqlQuery<{
+      venue_days: number; copresence_days: number; median_group: number
+    }>(
+      `WITH daily_venue AS (
+        SELECT
+          CAST(StartTime AS DATE) AS booking_date,
+          VenueId,
+          COUNT(DISTINCT EnterpriseMemberId) AS member_count
+        FROM read_parquet('${MCP_RES_FILE}')
+        WHERE EnterpriseAccount ILIKE '%${esc(enterprise)}%'
+          ${locationClauseMcp}
+        GROUP BY booking_date, VenueId
+      )
+      SELECT
+        COUNT(*) AS venue_days,
+        COUNT(CASE WHEN member_count >= 2 THEN 1 END) AS copresence_days,
+        MEDIAN(member_count) AS median_group
+      FROM daily_venue`
+    )
+
+    if (mcpCpiRows !== null) {
+      const collabSeats = mcpHwiRows.find(r => r.scenario_type === 'collaboration')?.total_booked ?? 0
+      const concSeats   = mcpHwiRows.find(r => r.scenario_type === 'concentration')?.total_booked ?? 0
+      const totalSeats  = Number(collabSeats) + Number(concSeats)
+      const hwiScore    = totalSeats > 0 ? Math.round((Number(collabSeats) / totalSeats) * 100) : 0
+
+      const cpiRow         = mcpCpiRows[0] || {}
+      const venueDays      = Number(cpiRow.venue_days      ?? 0)
+      const copresenceDays = Number(cpiRow.copresence_days ?? 0)
+      const medianGroup    = Number(cpiRow.median_group    ?? 1)
+      const cpiScore       = venueDays > 0 ? Math.round((copresenceDays / venueDays) * 100) : 0
+
+      return {
+        hwi: { score: hwiScore, collaboration_seat_days: Number(collabSeats), concentration_seat_days: Number(concSeats) },
+        cpi: { score: cpiScore, copresence_event_count: copresenceDays, median_group_size: parseFloat(medianGroup.toFixed(1)), total_venue_days: venueDays },
+      }
+    }
+  }
+
+  // ── 3. Remote API fallback ────────────────────────────────────────────────
   const apiResult = await fetchApi<{ hwi: HWIOutput; cpi: CPIOutput }>(
     '/work-type', { enterprise, city, state, country }
   )
   if (apiResult && apiResult[0]) return apiResult[0]
 
-  // ── 3. Seeded fallback — real values computed from Allstate Parquet ───────
+  // ── 4. Seeded fallback — real values computed from Allstate Parquet ───────
   if (SEEDED_WORK_TYPE[key]) {
     return SEEDED_WORK_TYPE[key]
   }
 
-  // ── 3. Synthetic estimation — derived from metro booking patterns ─────────
+  // ── 5. Synthetic estimation — derived from metro booking patterns ─────────
   // Uses members/reservations ratio as a proxy for collaboration intensity
   // and bookings/venue density as a proxy for co-presence likelihood.
   const metros = readEnterpriseMetros(enterprise)
@@ -782,6 +974,6 @@ export async function getWorkTypeData(
     }
   }
 
-  // ── 4. Unknown metro — no data at all ────────────────────────────────────
+  // ── 6. Unknown metro — no data at all ────────────────────────────────────
   return null
 }
