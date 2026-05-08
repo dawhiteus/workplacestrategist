@@ -4,8 +4,28 @@ import type { HWIOutput, CPIOutput } from './types'
 import { generateIntakeDemand, countryNameToCode } from './platform-venues'
 
 // Seeded JSON data lives alongside the project for demo reliability.
-// If PULSE_DATA_PATH is set and accessible, DuckDB runtime queries are used instead.
+// Data path priority:
+//   1. PULSE_DATA_PATH — local DuckDB queries against Parquet files
+//   2. PULSE_API_URL   — remote data server (scripts/data-server.js) running where Parquet files live
+//   3. Seed JSON in /data/ — static fallback for Vercel / demo
 const DATA_DIR = path.join(process.cwd(), 'data')
+
+// ── Remote API helper ─────────────────────────────────────────────────────────
+// Calls the Pulse Data Server (scripts/data-server.js) when PULSE_API_URL is set.
+
+async function fetchApi<T>(endpoint: string, params: Record<string, string>): Promise<T[] | null> {
+  const apiUrl = process.env.PULSE_API_URL
+  if (!apiUrl) return null
+  try {
+    const qs = new URLSearchParams(params).toString()
+    const res = await fetch(`${apiUrl.replace(/\/$/, '')}${endpoint}?${qs}`)
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    return await res.json() as T[]
+  } catch (err) {
+    console.error(`[pulse] API call to ${endpoint} failed:`, err)
+    return null
+  }
+}
 
 function readJson<T>(filename: string): T {
   return JSON.parse(fs.readFileSync(path.join(DATA_DIR, filename), 'utf-8'))
@@ -114,6 +134,12 @@ export async function getMetroPortfolio(enterprise: string): Promise<Array<{
     }
   }
 
+  // Remote API fallback
+  const apiRows = await fetchApi<{ city: string; state: string; country: string; reservations: number; total_spend: number; venues: number; members: number }>(
+    '/metros', { enterprise }
+  )
+  if (apiRows) return apiRows
+
   // Seeded fallback — read per-enterprise seed file if it exists
   const slug = enterprise.toLowerCase().replace(/[^a-z0-9\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').trim()
   const seedFile = enterprise === 'Allstate' ? 'allstate-metros.json' : `${slug}-metros.json`
@@ -172,6 +198,12 @@ export async function getMetroVenues(
     }
   }
 
+  // Remote API fallback
+  const apiRows = await fetchApi<{ venue_id: string; venue_name: string; latitude: number; longitude: number; reservations: number; spend: number }>(
+    '/venues', { enterprise, city, state, country }
+  )
+  if (apiRows) return apiRows
+
   // Seeded fallback — file-based JSON per enterprise/metro
   const key = country === 'US' ? metroKey(city, state) : metroKeyIntl(city, country)
   const slug = enterprise === 'Allstate' ? 'allstate' : enterpriseSlug(enterprise)
@@ -216,6 +248,12 @@ export async function getDailyDemand(
       console.error('[getDailyDemand] DuckDB query failed:', err)
     }
   }
+
+  // Remote API fallback
+  const apiRows = await fetchApi<{ day: string; bookings: number; spend: number }>(
+    '/daily-demand', { enterprise, city, state, country, lookback: String(lookbackDays) }
+  )
+  if (apiRows) return apiRows
 
   // Seeded fallback — file-based JSON per enterprise/metro
   const key = country === 'US' ? metroKey(city, state) : metroKeyIntl(city, country)
@@ -269,6 +307,12 @@ export async function getPeerBenchmarks(
     }
   }
 
+  // Remote API fallback
+  const apiRows = await fetchApi<{ enterprise: string; reservations: number; members: number }>(
+    '/peers', { city, state, country, exclude: excludeEnterprise }
+  )
+  if (apiRows) return apiRows
+
   // Fallback — synthesize plausible values for known major markets
   const majorMarkets: Record<string, Array<{ enterprise: string; reservations: number; members: number }>> = {
     'new-york-ny': Array.from({ length: 12 }, (_, i) => ({
@@ -305,6 +349,10 @@ export async function getEnterpriseList(): Promise<string[]> {
       console.error('[getEnterpriseList] DuckDB query failed:', err)
     }
   }
+
+  // Remote API fallback
+  const apiRows = await fetchApi<string>('/enterprises', {})
+  if (apiRows && apiRows.length > 0) return apiRows as string[]
 
   // Seeded fallback — read from committed enterprises-list.json
   const listPath = path.join(DATA_DIR, 'enterprises-list.json')
@@ -686,7 +734,13 @@ export async function getWorkTypeData(
     }
   }
 
-  // ── 2. Seeded fallback — real values computed from Allstate Parquet ───────
+  // ── 2. Remote API fallback ────────────────────────────────────────────────
+  const apiResult = await fetchApi<{ hwi: HWIOutput; cpi: CPIOutput }>(
+    '/work-type', { enterprise, city, state, country }
+  )
+  if (apiResult && apiResult[0]) return apiResult[0]
+
+  // ── 3. Seeded fallback — real values computed from Allstate Parquet ───────
   if (SEEDED_WORK_TYPE[key]) {
     return SEEDED_WORK_TYPE[key]
   }
