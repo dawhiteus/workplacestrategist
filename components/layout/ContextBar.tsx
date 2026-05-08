@@ -43,7 +43,7 @@ export function ContextBar({
   )
 
   const filteredEnterprises = enterprises.filter(e =>
-    e.toLowerCase().includes(enterpriseSearch.toLowerCase())
+    e != null && e.toLowerCase().includes(enterpriseSearch.toLowerCase())
   )
 
   const metroLabel = selectedMetro ? `${selectedMetro.city}, ${selectedMetro.state}` : 'All Markets'

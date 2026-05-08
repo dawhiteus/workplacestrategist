@@ -473,6 +473,7 @@ export async function getEnterpriseList(): Promise<string[]> {
     `SELECT DISTINCT EnterpriseAccount as name
     FROM read_parquet('${MCP_RES_FILE}')
     WHERE Status = 'Completed'
+      AND EnterpriseAccount IS NOT NULL
     ORDER BY name`
   )
   if (mcpEntRows !== null && mcpEntRows.length > 0) return mcpEntRows.map(r => r.name)
