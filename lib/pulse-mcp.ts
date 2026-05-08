@@ -5,21 +5,18 @@
  * When set, all pulse.ts data functions query the remote Parquet files via MCP
  * instead of requiring a local DuckDB / PULSE_DATA_PATH installation.
  *
- * The MCP server runs on jswanson's machine and exposes a DuckDB-backed
- * sql_query_parquet tool. Parquet file paths are absolute on that machine.
+ * File paths are resolved dynamically at connect-time via list_parquet_files,
+ * so the app doesn't depend on where the MCP server stores its data.
  */
 
 import { Client } from '@modelcontextprotocol/sdk/client/index.js'
 import { StreamableHTTPClientTransport } from '@modelcontextprotocol/sdk/client/streamableHttp.js'
 
-// ── Parquet file paths on the MCP server's machine ───────────────────────────
-// These are the server's own filesystem paths — fixed relative to where the
-// MCP server runs. Update if jswanson moves the data directory.
+// ── Resolved file paths (populated after first connect) ──────────────────────
 
-const MCP_DATA_PATH = '/Users/jswanson/PycharmProjects/IndependeskCrawler/data-output'
-export const MCP_RES_FILE = `${MCP_DATA_PATH}/HourlyDailyReservations.parquet`
-export const MCP_VEN_FILE = `${MCP_DATA_PATH}/Venues.parquet`
-export const MCP_ENT_FILE = `${MCP_DATA_PATH}/EnterpriseEngagementSummary.parquet`
+export let MCP_RES_FILE = ''   // HourlyDailyReservations.parquet
+export let MCP_VEN_FILE = ''   // Venues.parquet
+export let MCP_ENT_FILE = ''   // EnterpriseEngagementSummary.parquet
 
 // ── Singleton client ──────────────────────────────────────────────────────────
 
@@ -30,7 +27,7 @@ async function getMcpClient(): Promise<Client | null> {
   const mcpUrl = process.env.PULSE_MCP_URL
   if (!mcpUrl) return null
 
-  // Already connected
+  // Already connected and paths resolved
   if (mcpClient) return mcpClient
 
   // Connection in progress — wait for it
@@ -42,6 +39,37 @@ async function getMcpClient(): Promise<Client | null> {
         { capabilities: {} },
       )
       await c.connect(transport)
+
+      // ── Resolve Parquet file paths from the server ──────────────────────────
+      // list_parquet_files returns { debug: { data_directory: '/abs/path' }, files: [...] }
+      // We build absolute paths so sql_query_parquet can find the files regardless
+      // of what working directory the MCP server's DuckDB instance uses.
+      try {
+        const listResult = await c.callTool({ name: 'list_parquet_files', arguments: {} })
+        const content = (listResult.content as Array<{ type: string; text: string }>)[0]
+        if (content?.type === 'text') {
+          const parsed = JSON.parse(content.text) as {
+            debug?: { data_directory?: string }
+            files?: Array<{ name: string; path: string }>
+          }
+          const dataDir = parsed?.debug?.data_directory
+          const files   = parsed?.files ?? []
+
+          if (dataDir) {
+            const find = (name: string) => {
+              const match = files.find(f => f.name === name)
+              return match ? `${dataDir}/${match.path}` : `${dataDir}/${name}.parquet`
+            }
+            MCP_RES_FILE = find('HourlyDailyReservations')
+            MCP_VEN_FILE = find('Venues')
+            MCP_ENT_FILE = find('EnterpriseEngagementSummary')
+            console.log(`[pulse-mcp] Connected. Data dir: ${dataDir}`)
+          }
+        }
+      } catch (pathErr) {
+        console.warn('[pulse-mcp] Could not resolve file paths via list_parquet_files:', pathErr)
+      }
+
       mcpClient = c
     })().catch(err => {
       console.error('[pulse-mcp] Connection failed:', err)
@@ -61,7 +89,7 @@ async function getMcpClient(): Promise<Client | null> {
  *
  * Returns:
  *   - T[]   — query succeeded (may be empty array if no rows match)
- *   - null  — MCP not configured, or connection/query failed
+ *   - null  — MCP not configured, paths not resolved, or query failed
  *
  * Callers should check `!== null` (not just truthiness) so empty results
  * are handled correctly and don't fall through to seed JSON.
@@ -73,6 +101,12 @@ export async function mcpSqlQuery<T = Record<string, unknown>>(
   try {
     const c = await getMcpClient()
     if (!c) return null
+
+    // Guard: don't fire queries if paths haven't resolved (e.g. list_parquet_files failed)
+    if (!MCP_RES_FILE) {
+      console.warn('[pulse-mcp] File paths not resolved yet — skipping query')
+      return null
+    }
 
     const result = await c.callTool({ name: 'sql_query_parquet', arguments: { sql, limit } })
 
@@ -100,6 +134,9 @@ export async function mcpSqlQuery<T = Record<string, unknown>>(
     // Reset client on error so the next call attempts a fresh reconnect
     mcpClient = null
     connectPromise = null
+    MCP_RES_FILE = ''
+    MCP_VEN_FILE = ''
+    MCP_ENT_FILE = ''
     return null
   }
 }
